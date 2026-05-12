@@ -1,0 +1,18 @@
+# Five Aspects of the Five Ways - 2 of 4 ~ Shinzen Young
+
+- **Video ID:** 62wZtKuWHS4
+- **URL:** https://www.youtube.com/watch?v=62wZtKuWHS4
+- **Source:** kome.ai
+- **Length:** 5m 2s
+
+---
+
+*Lightly edited from raw kome.ai output: punctuation, paragraphing, and named-entity / Sanskrit-Pali-Tibetan vocabulary corrections. Speaker's wording preserved.*
+
+## Transcript
+
+The Five Ways goes back to at least one of many historical traditions that were developed around the world — and not exclusively in the East, not exclusively from Buddhism — but they also link to traditions from other parts of the world: the West, Christianity, and so forth. Because, as I say, I tend to see the worldwide contemplative tradition as a unity. You could look back from the Five Ways and you could see the whole history of the development of contemplation: from its shamanic origins, through the arising of civilizations, through the seminal discoveries of the Buddha particularly, and then the Mahayana emerging, with Zen and what came out of that, and the Vajrayana, and then the sort of more non-dual approaches. All of that is behind it. And we could go — I could go into a long talk, and have elsewhere — as to the rich historical origins of each of the Five Ways.
+
+They have that past, but they also have, I believe, a future, because they represent reworkings of those traditions. I don't claim that these are those traditions. I am attempting to make them represent a secular, modern approach to these things. The spiritual cloak — I don't want to lose the liberating cloak that they carry — each one of them can lead to classical enlightenment, can lead to what I believe is the core spiritual experience of humanity. Certainly, I don't want to lose that. Cultural trappings, doctrinal trappings, things that are based on mythology, are things that you know don't seem to have an empirical basis or don't seem probable logically — I have tried to strip that away. For better or worse, it's an approach that will work for certain people and not work for other people, like all approaches. Every approach has strengths and weaknesses, and that's good, because different things work for different people. This is one direction that a person could take if they wanted to explore what can be done creatively with what has come down to us from the past — just one possible way to go.
+
+If you look carefully at the Five Ways system, you'll notice it's all built on binary contrasts. A binary means a one-on-one contrast — like black versus white; that's a binary contrast. That's intentional, because when you study — when you do functional imaging of brain changes as the result of whatever meditation, or anything else — you can't actually image the brain function; you can just have two contrasting conditions and compare them. So I designed the system to work that way. There's a contrast between tracking ordinary sensory activity and tracking corresponding restful states. There's a contrast between intentionally creating and feeling a positive feel-image-talk and just observing any and all feel-image-talk. There's a contrast between working with the subjective somatic, visual, and auditory experience versus objective somatic, visual, and auditory experience. The contrast between relative rest — where you're focusing on restful qualities — and absolute rest, where you do nothing, et cetera, et cetera. Any one of those presents itself as a natural thing that can be studied with imaging technology. So when I say that the Five Ways have a future, hopefully by that I mean they've been set up — based on what I know that scientists need when they do this kind of research — so that their effects can be easily researched in subsequent generations.

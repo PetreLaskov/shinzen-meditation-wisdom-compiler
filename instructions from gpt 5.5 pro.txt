@@ -1,0 +1,527 @@
+# Project collaboration instruction: Agentic Knowledge Compiler / Epistemic OS
+
+We are going to collaborate interactively on designing and then implementing a markdown-native autonomous knowledge compiler.
+
+Do not jump straight to implementation. First help me clarify the problem, elicit my taste and judgment, inspect any existing repo/backbone, and produce a technical design document strong enough that another agent instance could reproduce the deeper version of this project.
+
+
+## My intent
+
+I do not want a generic wiki, a RAG chatbot, a document hoarder, or an over-engineered agent framework.
+
+I want an autonomous agentic knowledge compiler with “skin in the game”: an agent/repo/OS that treats the compiled knowledge graph as its own best available model of reality. Future agent competence depends on the quality of this compiled understanding, so the agent should care about preserving truth, nuance, contradiction, and explanatory power.
+
+This should feel closer to an austere scientist, austere philosopher, polymath generalist scholar, or rare genuine intellectual than to a librarian. It should be rigorous without becoming bureaucratic, autonomous without becoming baroque, and parsimonious without becoming shallow.
+
+The starting backbone is the LLM Wiki pattern:
+- immutable raw sources
+- LLM-maintained markdown wiki
+- schema/instructions file such as AGENTS.md or CLAUDE.md
+- ingest/query/lint operations
+- index.md for navigation
+- log.md for chronology
+- Obsidian-compatible markdown as the primary medium
+
+This existing backbone works. Respect it. We are not replacing it with a complex system. We are deepening it.
+
+## Highest-level objective
+
+Produce a technical design document that defines the architecture, methodology, invariants, workflows, schemas, and implementation plan for this system.
+
+The design document should make the project reproducible by another capable agent instance. It must be concrete enough to implement, but it should not prematurely hard-code unnecessary infrastructure.
+
+The design must answer:
+
+1. What exactly is this system?
+2. What is it not?
+3. What makes it different from RAG, a wiki, or a PKM system?
+4. What persistent artifacts exist in the repo?
+5. How does the agent route before reading?
+6. What minimal metadata lets the agent decide what to load next?
+7. How are raw sources ingested, summarized, challenged, and integrated?
+8. How are contradictions, source agendas, weak claims, and stale syntheses handled?
+9. How does the system preserve depth without page bloat?
+10. How does the system preserve parsimony without losing nuance?
+11. What gets verified, linted, and tested?
+12. What is the smallest implementation that works well?
+13. What complexity is explicitly deferred?
+
+## Cardinal rule
+
+Context hygiene is an invariant.
+
+The agent must route before reading.
+
+Default reading order:
+1. Read the governing instruction file.
+2. Read `wiki/index.md` or equivalent route map.
+3. Read page frontmatter and page cards before reading full page bodies.
+4. Read only the relevant page bodies.
+5. Read raw sources only just in time:
+   - during ingestion
+   - when verifying a claim
+   - when resolving contradiction
+   - when a citation/source-link is insufficient
+   - when the compiled wiki is stale or ambiguous
+
+Never load a pile of raw sources because it “might help.” Never read full page bodies before checking routing metadata unless the task is explicitly about that page. Never solve context problems by adding embeddings, databases, subagents, MCP servers, or daemon infrastructure before proving the markdown/index/card approach is failing.
+
+The core objective is maximum future reasoning quality per token loaded.
+
+## Required design philosophy
+
+Follow these principles:
+
+### 1. Simple, composable, anti-scaffolding
+
+Start with the simplest architecture that works:
+- markdown files
+- YAML frontmatter
+- page cards
+- index.md
+- log.md
+- source registry
+- lightweight scripts only if they clearly reduce context or improve verification
+
+Do not introduce:
+- vector databases
+- embedding pipelines
+- background daemons
+- multi-agent systems
+- subagent orchestration
+- MCP servers
+- complex schemas
+- framework abstractions
+- large always-loaded instruction files
+
+These may become future escape hatches, but only after the design defines the concrete failure mode that justifies them.
+
+### 2. Progressive disclosure everywhere
+
+Use the Agent Skills design pattern as a metaphor for the whole knowledge OS.
+
+A page should be discoverable without being fully loaded.
+
+Each major artifact should have:
+- a name
+- a short description
+- type/category
+- when to load it
+- key linked pages
+- source count / evidence status
+- update status
+- a compact page card
+
+The page body should only load after the card suggests relevance. Raw source should only load after the page body is insufficient.
+
+### 3. The wiki is compiled understanding, not storage
+
+The raw source layer stores documents.
+
+The wiki layer stores compiled understanding:
+- claims
+- models
+- distinctions
+- contradictions
+- rival interpretations
+- evidence strength
+- implications
+- open questions
+- source-frame notes
+- synthesis updates
+
+Do not merely summarize. Compile.
+
+When ingesting a source, ask:
+- What does this source claim?
+- What frame or agenda does it impose?
+- What does it clarify?
+- What does it distort or omit?
+- What existing page should change?
+- What contradiction or tension appears?
+- What future question becomes easier to answer?
+- What should not be added because it is low signal?
+
+### 4. Agent ownership without fake anthropomorphism
+
+Do not write a theatrical persona. Encode ownership operationally.
+
+The agent’s contract:
+- Treat the wiki as the durable external memory future agent instances must rely on.
+- Prefer durable improvements to temporary chat answers.
+- File valuable answers back into the wiki.
+- Update index/log after meaningful changes.
+- Notice contradictions, stale claims, orphan pages, and missing cross-links.
+- Preserve uncertainty rather than flattening it.
+- Be willing to say “this is weakly supported,” “this is source-framed,” or “this synthesis is unstable.”
+
+### 5. Depth through method, not verbosity
+
+Depth means:
+- better distinctions
+- cleaner causal models
+- source-independent analysis
+- awareness of rival explanations
+- precise claims
+- calibrated confidence
+- careful integration across pages
+
+Depth does not mean:
+- long pages
+- excessive taxonomies
+- academic ornament
+- dozens of page types
+- generic “insights”
+- overfitted scaffolding
+
+Every page should justify its existence by making future reasoning easier.
+
+### 6. Parsimony through deletion and routing
+
+Create fewer pages, with better cards and better links.
+
+Before creating a new page, ask:
+- Will this concept recur?
+- Does it change routing?
+- Does it deserve an independent model?
+- Will future queries benefit from a stable page?
+- Can this be a section in an existing page instead?
+
+If not, do not create the page. Add a note to the relevant existing page or log.
+
+## First response requirements
+
+Your first response must not implement anything.
+
+First:
+1. Mirror my intent in your own words.
+2. Identify the main design tensions.
+3. Ask me a small number of non-obvious questions that would materially change the design.
+4. Propose a technical design document outline.
+5. Explain what existing repo/files you would inspect before writing the design.
+6. State the anti-complexity guardrails you will follow.
+
+Ask questions that elicit taste, judgment, and preference. Do not ask obvious generic questions. Good questions are about tradeoffs, for example:
+- How autonomous should the agent be during ingestion?
+- Should contradiction handling be conservative or aggressive?
+- Should pages read like research notes, encyclopedia pages, or model cards?
+- What counts as “truth-seeking” in domains where sources are agenda-driven?
+- How much Obsidian compatibility matters?
+- How much citation burden should every page carry?
+- What is the threshold for creating a new page?
+
+Keep me in the loop. Show concise reasoning artifacts: assumptions, tradeoffs, decision notes, rejected alternatives. Do not dump verbose hidden reasoning. Make the collaboration legible through artifacts.
+
+## Technical design document requirements
+
+After the initial discussion and repo inspection, produce a design document, likely `DESIGN.md`, with these sections:
+
+### 1. Executive thesis
+
+A concise statement of what we are building:
+A markdown-native agentic knowledge compiler that transforms raw sources and conversations into a persistent, routeable, self-maintaining body of compiled understanding.
+
+### 2. Non-goals
+
+Explicitly rule out:
+- generic wiki
+- RAG chatbot
+- exhaustive source archive
+- generic PKM
+- vector database MVP
+- embedding-first search
+- multi-agent system MVP
+- autonomous daemon MVP
+- complex framework MVP
+- page proliferation
+- ungrounded synthesis
+
+### 3. Core architecture
+
+Define the minimal repo structure. Consider something like:
+
+```text
+raw/
+  sources go here; immutable
+
+wiki/
+  index.md          # route map / page cards / navigation
+  log.md            # append-only chronological activity
+  atlas.md          # current highest-level synthesis / worldview map
+  sources/          # compiled source pages
+  concepts/         # durable concepts/models
+  entities/         # people/orgs/projects/etc when needed
+  questions/        # durable open questions / research threads
+  syntheses/        # deeper multi-source analyses
+
+templates/
+  page.md
+  source.md
+  synthesis.md
+
+AGENTS.md           # Codex-facing operating rules
+CLAUDE.md           # optional tiny compatibility file importing AGENTS.md
+scripts/            # only tiny deterministic helpers if justified
+
+But do not blindly accept this. Evaluate whether each directory earns its keep.
+
+4. Layer model
+
+Define:
+
+raw source layer
+compiled wiki layer
+routing/index layer
+governing schema/instruction layer
+optional deterministic tooling layer
+
+Clarify which layer the agent owns and which it must not mutate.
+
+5. Page schema
+
+Design minimal frontmatter and a page-card pattern.
+
+The schema should support progressive disclosure. A future agent should be able to inspect the first ~30-60 lines of a page and know whether to load more.
+
+Consider fields like:
+
+---
+title:
+type:
+status: seed|working|stable|contested|stale
+one_line:
+load_when:
+source_count:
+confidence:
+updated:
+links:
+open_questions:
+---
+
+Then a compact card:
+
+## Card
+- Core claim:
+- Why this matters:
+- Load this page when:
+- Key tensions:
+- Best linked pages:
+- Source posture:
+
+Do not overfit the schema. Prefer fewer fields that agents will actually use.
+
+6. Source page schema
+
+Every raw source that matters should have a compiled source page. It should include:
+
+bibliographic/path metadata
+why this source was added
+source frame / likely agenda / limitations
+strongest claims
+weakest claims
+useful facts
+contradictions with existing wiki
+pages updated because of this source
+citations or raw path references
+
+The source page is not the final synthesis. It is a processed interface between raw material and durable understanding.
+
+7. Ingestion workflow
+
+Define a rigorous but lightweight ingestion loop:
+
+Route:
+read index/page cards first
+identify likely affected pages
+Read source:
+inspect raw source just enough for the task
+extract claims, evidence, frame, contradictions
+Discuss with user when taste/judgment matters:
+emphasis
+taxonomy
+whether to create new page
+how skeptical to be
+Compile:
+write/update source page
+update concept/entity/synthesis pages
+update contradictions/open questions
+update index cards
+append log entry
+Verify:
+check links
+check no unsupported strong claims
+check no unnecessary new pages
+check routing metadata remains useful
+8. Query workflow
+
+Define how the agent answers questions:
+
+Route via index/cards.
+Load only relevant pages.
+Load raw sources only if compiled pages are insufficient.
+Answer with calibrated confidence and citations/links.
+Offer to file valuable synthesis back into the wiki.
+If answer revealed a gap, update open questions or log.
+
+Important: good answers should compound. Chat should not be the graveyard of insight.
+
+9. Lint / health workflow
+
+Define a periodic health check:
+
+orphan pages
+weak cards
+stale claims
+uncited strong claims
+duplicate pages
+contradictions without a contested status
+source pages not integrated anywhere
+pages whose body no longer matches card
+index entries that are too vague
+raw sources with no compiled source page
+high-value questions without a research thread
+10. Context-hygiene protocol
+
+Make this operational:
+
+what files to read at session start
+what not to read
+when to use head, grep, or targeted search
+when to read full body
+when to read raw source
+how to record what was loaded and why
+how to compact session state into durable files
+how to avoid context rot
+
+Include a “route-before-read checklist.”
+
+11. Verification and evals
+
+Design small eval scenarios before adding complexity.
+
+Examples:
+
+Ingest a new source that contradicts an existing page.
+Ask a question answerable from index + one page.
+Ask a question requiring multiple pages but no raw source.
+Ask a question requiring raw-source verification.
+Run lint and detect an orphan/stale/weak page.
+Ensure the agent does not create a page when a section update is enough.
+Ensure the agent updates index/log after meaningful changes.
+
+The evals can be manual at first. Automated scripts are optional and should be tiny.
+
+12. Complexity budget and escalation rules
+
+Define what must happen before adding:
+
+search script
+BM25
+embeddings
+vector DB
+subagents
+MCP
+background automation
+scheduled lint
+custom UI
+
+For each, state:
+
+failure mode that would justify it
+minimal version
+expected benefit
+context cost
+maintenance cost
+rollback plan
+
+MVP should avoid all of these unless obviously necessary.
+
+13. Implementation plan
+
+Produce a phased plan:
+
+Phase 0: inspect current repo/backbone.
+Phase 1: write/adjust AGENTS.md as concise operating rules.
+Phase 2: create minimal templates.
+Phase 3: create or refine index/log/page-card conventions.
+Phase 4: implement ingestion/query/lint workflows as markdown procedures.
+Phase 5: add tiny deterministic helpers only if they clearly reduce context.
+Phase 6: run evals on a small sample corpus.
+Phase 7: refine based on observed failure modes.
+
+14. Open questions for me
+
+End the design with the few remaining decisions only I can make.
+
+AGENTS.md requirements
+
+Eventually write an AGENTS.md that is short, operational, and durable.
+
+It should contain:
+
+the system mission
+context hygiene invariant
+route-before-read protocol
+file ownership rules
+workflows: ingest/query/lint
+page creation rule
+index/log update rule
+epistemic standards
+anti-complexity rules
+verification requirements
+
+Keep it concise. Do not put long reference material in AGENTS.md. Use templates or separate docs for detailed procedures.
+
+If we want Claude Code compatibility, create a tiny CLAUDE.md that imports AGENTS.md rather than duplicating the same instructions.
+
+Epistemic standards
+
+When compiling knowledge:
+
+Separate source claims from agent synthesis.
+Track confidence.
+Track disagreement.
+Notice source agendas and frames.
+Prefer exact, useful distinctions over broad summaries.
+Preserve uncertainty.
+Do not launder weak evidence into strong claims.
+Do not flatten disagreement into false consensus.
+Do not add a page unless it improves future routing or reasoning.
+
+Useful page sections may include:
+
+Core model
+Evidence
+Counterevidence
+Tensions
+Rival explanations
+Source-frame notes
+Open questions
+Implications
+Update triggers
+
+Use only what the page needs. Do not impose every section everywhere.
+
+Collaboration style
+
+Work with me like a senior systems engineer and research partner.
+
+Be candid. Push back on vague ideas. Identify hidden tradeoffs. Keep the architecture austere. When I reach for grandeur, translate it into operational invariants. When I reach for too much machinery, ask what failure mode the machinery solves. When I underspecify taste, interview me.
+
+Think deeply, but externalize your thinking as concise artifacts:
+
+assumptions
+design tensions
+decision tables
+rejected alternatives
+implementation consequences
+verification criteria
+
+Do not hide important tradeoffs. Do not bury me in generic brainstorming. Do not overcomplicate.
+
+First task now
+
+Begin by mirroring the project back to me, identifying the design tensions, and asking the few high-leverage questions needed before writing the technical design document.
+
+Do not implement yet.
+

@@ -1,0 +1,32 @@
+# Enlightenment, DP/DR & Falling Into the Pit of the Void ~ Shinzen Young
+
+- **Video ID:** 9zIKQCwDXsA
+- **URL:** https://www.youtube.com/watch?v=9zIKQCwDXsA
+- **Source:** kome.ai
+- **Length:** 9m 40s
+
+---
+
+*Lightly edited from raw kome.ai output: punctuation, paragraphing, and named-entity / Sanskrit-Pali-Tibetan vocabulary corrections. Speaker's wording preserved.*
+
+## Transcript
+
+DPDR — it's an abbreviation for depersonalization-derealization disorder, and it is a subject that I am very interested in as a teacher of meditation. I sometimes refer to it as enlightenment's evil twin.
+
+As the result of successful practice with classic mindfulness, a person comes to an experience of the no-thing-ness of themselves and the no-thing-ness of their world, and that is for that person the most fulfilling and empowering event of their life. It allows them to live ten times the size that they would have lived otherwise. It frees them from fears and concerns. "It" — meaning the emptiness, the nothingness, the paper-thin-ness of the world, and the non-existence of self-as-thing — those fulfill that person. They give that person a sense of absolute freedom. They give that person a sense of profound repose and direct contact with their spiritual Source. It's a kind of rich and wonderful and empowering nothingness.
+
+The evil twin of that is DPDR. It's also an experience of the nothingness of self and the paper-thin-ness and insubstantiality of what you formerly thought was the world. However, the effect on the person who has this condition — and by the way, it is a recognized psychopathology, it's a diagnosis, it's in the manuals, in the Diagnostic and Statistical Manual — the effect of this experience of emptiness and nothingness on a person who has DPDR is the diametric opposite, the exact opposite, of the effect of enlightenment. And it is possible that the nothingness is the same nothingness.
+
+What's the difference? To me, this is a huge, huge question, both a theoretical question and a practical question. The theoretical question asks us to look in a new way, and in a deeper way, at what enlightenment is. Why can it be so empowering and fulfilling — the "it" meaning this nothingness — for one person, and have the opposite effect on another? That's sort of the theoretical question, and no one knows the answer to that.
+
+There's also the practical question, because every once in a while — and I want to be very clear in my use of language — very, very occasionally, it happens that people who are doing a meditative practice find their experience moving in the direction of DPDR. Now, why I have to be very careful about saying that is, of course, people are afraid. Because meditation is not something that's known to most people, so it's like, "Oh my God! I don't think I want to try that if I could end up in the pit of the void and in this horrible nihilistic, dysfunctional state." So please listen carefully. In my entire career of teaching, which is long — decades, into my fourth decade now — I have encountered this in students only a few times. In the few times I've encountered it, with maybe one or two exceptions, I've been able to cure it. In other words, through giving the right direction, it ended up eventually becoming the empowering and fulfilling experience.
+
+The chances that you're going to develop this bad effect that I just described, as a result of doing mindfulness under a competent guide, are very remote. Yes, there's a nonzero probability, but there's also a nonzero probability that you're going to be killed in a terrorist attack in North America — but it's really not highly probable. So this is not something to worry about from a practical point of view for someone considering the meditative path, assuming they have a senior, competent guide who has dealt with this problem successfully and has some idea of how to work with it, which I'll talk about in a moment.
+
+What I have never done is attempt to cure somebody who developed this condition spontaneously, using mindfulness methods. I don't know if that's possible. I don't know enough about the nature of it. Most people who develop a depersonalization-derealization disorder do not develop it as the result of having done a meditative practice — it just happens to them. One day, suddenly, the somethingness of the self is gone, and the world is paper-thin, and everything that ever gave them meaning has now vanished. And they flail for the rest of their lives trying to get back to normalcy, apparently unable to do so. From what I can tell — and I could be wrong about this, and I sort of hope I'm wrong about this — I have the impression that there's not a drug-based or therapy-based cure for this.
+
+It might be interesting to attempt a homeopathic cure. By that, I mean to use the strategies that people like me use with meditators when this happens, and see if they work on the general population. I have no idea whether they would or not, although I've sometimes entertained the notion that, if I had another lifetime, I would work with some of these people and see if the methods that usually work on meditators would actually work on non-meditators.
+
+What usually works for meditators when their practice starts to move in this direction — which, by the way, is traditionally in Buddhism called "falling into the pit of the void," and descriptions of it can be found in the classical Buddhist literature, including the Pali Canon — is essentially two things. If they're freaking out because of the emptiness, then there's something that's not empty: what's not empty is the freak-out. I have them see that their freak-out reaction is itself empty. So that's sort of negating the negative.
+
+And then the other thing is to systematically develop the positive. You use your concentration skills and so forth to do a lot of creating of positive feel-image-talk. I actually put it in a positive framework for them. I say: good, now you have nothing, and from that nothing — that's the ideal place to reconstruct a completely new self. You can still, at will, create positive feel, image, and talk, and now, like a physical therapist exercising atrophied muscles, systematically rebuild that person's ability to move. So I sort of push them, very much like a PT, to develop positive feel-image-talk over and over and over again, until they literally build a new — and indeed better — self.

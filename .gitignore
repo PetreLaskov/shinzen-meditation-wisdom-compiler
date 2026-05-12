@@ -1,0 +1,29 @@
+# OS/editor clutter
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# Obsidian local session state. Keep stable vault settings trackable.
+.obsidian/workspace.json
+
+# Generated/runtime caches
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.cache/
+
+# Logs and transient run output
+*.log
+*.tmp
+*.temp
+
+# Archives and packaged review exports when the extracted source is present
+*.zip
+
+# Local environment files
+.env
+.env.*
+!.env.example

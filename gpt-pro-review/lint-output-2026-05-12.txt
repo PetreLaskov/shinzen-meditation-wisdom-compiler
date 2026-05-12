@@ -1,0 +1,15 @@
+﻿OK: 212 compiled page(s), 225 raw source(s) checked.
+
+Diagnostics:
+- raw source backlog: 77 canonical source(s) without source pages: raw/Shinzen Sources/IntroToUltra_ver4.8.pdf, raw/Shinzen Sources/yt transcripts/A Life of Practice and Service Shinzen Young at 80_YghW4NNTxAo.md, raw/Shinzen Sources/yt transcripts/A Mindful Birth and Zen Parenting, Part 1 of 2 ~ Shinzen Young_2gpdWdoCqVo.md, raw/Shinzen Sources/yt transcripts/A Mindful Birth and Zen Parenting, Part 2 of 2 ~ Shinzen Young_mUGigTkD20g.md, raw/Shinzen Sources/yt transcripts/A Psycho-Spiritual Workout Routine - Ordinary, Restful, Flow and Positive States ~ Shinzen Young_6RRHTbOAhDg.md, raw/Shinzen Sources/yt transcripts/Advanced Meditators Experience of Time ~ Shinzen Young, Har-Prakash Khalsa, Todd Mertz_ouKeo7_TEAE.md, raw/Shinzen Sources/yt transcripts/Authority, Opinions and the Buddhist Canon ~ Shinzen Young_CfEFSRNHL5s.md, raw/Shinzen Sources/yt transcripts/Consciously Decoupling, Dropping Out & Eadem Mutata Resurgo ~ Shinzen Young_Wr7ghLGmm3U.md, raw/Shinzen Sources/yt transcripts/Creating Feel Good in Emotional Body Space - 1 of 2 - Introduction ~ Shinzen Young_abRaPYjb6mA.md, raw/Shinzen Sources/yt transcripts/Creating Feel Good in Emotional Body Space - 2 of 2 - A Guided Meditation ~ Shinzen Young_u41_dSjKGtA.md, ... (+67 more)
+- wiki/Equanimity.md: sources has 25 raw paths; frontmatter should keep only principal raw anchors and leave the full evidence map to body citations or Dependencies
+- wiki/Flow.md: sources has 25 raw paths; frontmatter should keep only principal raw anchors and leave the full evidence map to body citations or Dependencies
+- wiki/No-Self And Personality.md: sources has 26 raw paths; frontmatter should keep only principal raw anchors and leave the full evidence map to body citations or Dependencies
+- wiki/Sensory Clarity.md: sources has 27 raw paths; frontmatter should keep only principal raw anchors and leave the full evidence map to body citations or Dependencies
+- wiki/Source And Polarities.md: sources has 37 raw paths; frontmatter should keep only principal raw anchors and leave the full evidence map to body citations or Dependencies
+- wiki/Total Happiness.md: sources has 26 raw paths; frontmatter should keep only principal raw anchors and leave the full evidence map to body citations or Dependencies
+- domain 'practice' has 91 pages; consider synthesis or sub-indexing
+- domain 'primary' has 94 pages; consider synthesis or sub-indexing
+- domain 'safety' has 38 pages; consider synthesis or sub-indexing
+- domain 'sources' has 148 pages; consider synthesis or sub-indexing
+- domain 'transformation' has 52 pages; consider synthesis or sub-indexing

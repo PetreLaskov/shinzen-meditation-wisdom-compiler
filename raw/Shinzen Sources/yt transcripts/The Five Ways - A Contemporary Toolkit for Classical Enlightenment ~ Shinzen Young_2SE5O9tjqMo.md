@@ -1,0 +1,121 @@
+# The Five Ways - A Contemporary Toolkit for Classical Enlightenment ~ Shinzen Young
+
+- **Video ID:** 2SE5O9tjqMo
+- **URL:** https://www.youtube.com/watch?v=2SE5O9tjqMo
+- **Source:** kome.ai
+- **Length:** 8m 44s
+
+---
+
+## Transcript
+I like to organize the meditation techniques that 
+I teach to people into what I call the "Five Ways."  
+Five ways are five contrasting approaches to the 
+development of concentration, sensory clarity, and equanimity.  
+Each of the five ways is derived 
+from one or several traditions that have existed previously,  
+but what I've done is I've modernized the vocabulary, 
+and I have completely eliminated  
+anything that is explicitly religious from it, 
+so that the five ways can be looked upon as a,  
+shall we say, 
+a way to bring about a secular paradigm for classical enlightenment.  
+The five ways are Focus In, Focus Out, Focus 
+on Rest, Focus on Change, and Focus on Positive.
+Focus In  The "In" in this case refers to one's 
+innermost experience of thought and emotion.  
+This is derived from the classic discovery of the Buddha 
+that if you divide the experience of self  
+into its atomic components, the sense of self-as-thing, 
+and the sense of being trapped in self-as-thing, disappear.  
+There are many ways in the Buddhist literature 
+for sort of doing this divide and conquer on one's I-am-ness.  
+I use one that is actually somewhat based on a more Vajrayana point of view.  
+In any event, I take as the fundamental elements:  
+the somatic component of emotional type body sensation;  
+the visual component of mental imagery, 
+(visual thinking, in other words);  
+and the auditory component of internal talk or conversations.  
+I have people tease apart the sense of I-as-controller, 
+or I-as-observer, or I-as-experiencer.  
+I teach you how to break it down into these atoms, 
+and then this reduces and eventually eliminates  
+self as prison — thoughts and emotions as a place 
+you can't escape from, but are constrained to.  
+That's the Focus In approach. 
+As I say, it's essentially based on one of the core  
+innovations of the Buddha, 
+which is this "untangle and be free" paradigm.
+Focus Out is based on the Zen way of working. 
+There's a lot of aspects to Zen, but one of the  
+aspects is that they would have to do their practice as they worked. 
+There was a work ethic  
+from Confucianism that infiltrated into the Zen temples. 
+How are you going to have  
+a deep practice while you're doing physical labor? 
+One way to do that is you anchor yourself  
+in the external sights, external sounds, and physical sensations. 
+By way of contrast to the  
+feel-image-talk of the subjective world, 
+you could let go of feel-image-talk, let go of the subjective self,  
+and anchor yourself in the power of now, 
+as exemplified by touch-sight-sound.  
+I call that Focus Out. 
+That's really useful for practice in life, and it was developed, as I say,  
+as part of the Zen curriculum exactly because 
+they were called upon to do so much practice in daily life activities.  
+So, you've got Focus In — work with the subjective world of feel-image-talk,  
+you've got Focus Out, 
+by way of contrast — work with the objective world of touch-sight-sound.
+Then you have Focus on Rest, 
+which I've described in some detail in another talk, which is basically  
+my reworking of the whole tranquilizing side of contemplative practice.  
+The tranquilizing side of contemplative practice is found all over the world.  
+It's found in the absorption practices of early Buddhism, but it's also found in 
+the contemplative practices of Christianity, Islam, Judaism, and so forth.  
+Technically speaking, 
+the word "contemplation" within the Christian context has two meanings.  
+It is a synonym for meditation, 
+but it's also a special term for deep states of tranquility  
+that they called the "Prayer of Quiet," 
+but at its extreme end, they called "infused contemplation."  
+I've drawn from the whole world's contemplative traditions,  
+and specifically, the absorption practices of early Buddhism; 
+reformulated that in a completely secular vocabulary;   
+call it Focus on Rest; 
+and that's sort of the tranquil side of the practice.  
+So, that's Focus In, Focus Out, Focus on Rest.
+Ordinary subjective experience feel-image-talk, 
+ordinary objective experience touch-sight-sound, and  
+these more special pleasant restful flavors, 
+all of these experiences are experiences,  
+and therefore they are of the nature of empty energy. 
+Empty energy doesn't sound very appealing but  
+it's incredibly empowering and fulfilling 
+once you start to experience them that way.  
+I teach people how to notice how any and all sensory experience changes, 
+and also, along with that,  
+to be aware of 
+the underlying forces that are responsible for that change.  
+By observing change, both continuous change in the sense of flowing energy, 
+and discontinuous change in the sense of vanishings,   
+that gets us in contact with the energy aspect 
+and the emptiness which is the essence of that energy.  
+That whole approach to things, which involves impermanence  
+and what the Christians called kenosis, 
+the emptying out into the Source,  
+I call that Focus on Change. 
+That's a fourth way and that will tend  
+to deconstruct the somethingness of self and the materiality 
+of the external world into a kind of transparent energy.  
+You could call that a kind of dying into the Source.
+If you die, you have to be reborn, 
+and the whole idea in being reborn is to be reborn better,  
+not just to be reborn. 
+So, then there's something called Focus on Positive,nbsp; 
+where you actively generate positive content in mental image, 
+internal talk, emotional feel, and that creates a new self.  
+That new self arises from the nothingness, 
+as a better somethingness, and that's Focus on Positive.
+And so that, taken together, 
+gives a very complete toolkit for classical enlightenment.
