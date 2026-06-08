@@ -43,11 +43,11 @@ It is built for three kinds of reader, in roughly this order of intent:
 
 ### The corpus
 
-The immutable evidence lives in [`raw/`](raw/): **544 source files**, treated as
-read-only. It includes 500+ transcribed talks, retreat sessions, and Q&As, plus
-the core long-form material - *The Science of Enlightenment*, the *Five Ways*
-manual, and the *See Hear Feel* introduction. Raw sources are never edited; they
-are only compiled from and cited.
+The immutable evidence lives in [`raw/`](raw/): treated as read-only. It
+includes 500+ transcribed talks, retreat sessions, and Q&As, plus the core
+long-form material - the *Five Ways* manual and the *See Hear Feel*
+introduction. Raw sources are never edited; they are only compiled from and
+cited.
 
 ### Two compiled layers
 
@@ -358,14 +358,14 @@ quotations or hosting the source material publicly.
 | --- | --- |
 | [`public-atlas/`](public-atlas/) | The human-facing Shinzen Practice Atlas (~90 pages). **Start here to read.** |
 | [`wiki/`](wiki/) | Compiled agent working memory (360+ linked pages with provenance and calibration). |
-| [`raw/`](raw/) | Immutable source corpus (544 files). Read-only; cite, do not edit. |
+| [`raw/`](raw/) | Immutable source corpus. Read-only; cite, do not edit. |
 | [`AGENTS.md`](AGENTS.md) | Canonical operating contract for any agent working this repo. |
 | [`DESIGN.md`](DESIGN.md) | Design rationale and the general knowledge-compiler architecture. |
 | [`CLAUDE.md`](CLAUDE.md) | Small compatibility adapter pointing to `AGENTS.md`. |
 | [`commands/`](commands/) | Agent-neutral playbooks for each mode (ingest, query, lint, ...). |
 | [`tools/`](tools/) | `wiki_lint.py`, the dependency-free structural invariant checker. |
 | [`ATLAS - Editorial Plan.md`](ATLAS%20-%20Editorial%20Plan.md) | The editorial plan behind the public atlas. |
-| [`archive/`](archive/) | Earlier drafts and a prior review pass, kept for history. |
+| [`archive/`](archive/) | Earlier drafts and reference material kept for history. |
 
 ---
 
