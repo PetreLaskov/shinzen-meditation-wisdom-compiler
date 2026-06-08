@@ -8,9 +8,9 @@ confidence: established
 tags: []
 aliases: ["Focus on Rest - Standard (Relative Rest) and Advanced (Do Nothing) (YouTube)", "-nco9isReoA"]
 sources: ["raw/Shinzen Sources/yt transcripts/Focus on Rest - Standard (Relative Rest) and Advanced (Do Nothing) ~ Shinzen Young_-nco9isReoA.md"]
-load_when: "Source-level evidence is needed for nothing-is-happening practice, six restful sensory events, Focus on Rest as Relative Rest, Do Nothing as advanced Focus on Rest, absorption/jhana through rest factors, rest being penetrated into Flow and Gone, dry vipassana versus absorption-path penetration, Call Off the Search, or Do Nothing's connection to effortless expansion-contraction."
+load_when: "Source-level evidence for Focus on Rest as Relative Rest, Do Nothing as advanced Rest, six restful sensory events, nothing-is-happening practice, rest factors and absorption, rest penetrating into Flow/Gone, dry-vipassana versus absorption-path penetration, Call Off the Search, or effortless expansion-contraction."
 best_linked_pages: ["[[Focus on Rest]]", "[[Do Nothing]]", "[[Way of Tranquility]]", "[[Calming-Clarifying Balance]]", "[[Flow]]", "[[Gone]]", "[[Effort Regulation]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-07
+updated: 2026-05-12
 ---
 
 This 6.75-minute Shinzen Young talk explains Focus on Rest in both its

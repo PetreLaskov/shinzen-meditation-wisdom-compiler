@@ -9,8 +9,8 @@ tags: []
 aliases: [spontaneous movements, spontaneous meditation movements, cleansing action]
 sources: ["raw/Shinzen Sources/yt transcripts/Kriyas & Complete Experiences ~ Shinzen Young_e9AHh9MvgyQ.md", "raw/Shinzen Sources/yt transcripts/Kriyas & the Cloud of Unknowing ~ Shinzen Young_aTaDZqB_RY8.md"]
 load_when: "A question involves kriyas, spontaneous shaking, rocking, grimacing, involuntary sounds, body movement during meditation, fear, craving unusual signs, suppressing versus allowing movements, the subtle urge beneath movement, or the Cloud of Unknowing parallel."
-best_linked_pages: ["[[Kriyas & Complete Experiences]]", "[[Kriyas & the Cloud of Unknowing]]", "[[Complete Experience]]", "[[Insight and Purification]]", "[[Intermediate Realm]]", "[[Equanimity]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-08
+best_linked_pages: ["[[Kriyas & Complete Experiences]]", "[[Kriyas & the Cloud of Unknowing]]", "[[Complete Experience]]", "[[Insight and Purification]]", "[[Intermediate Realm]]", "[[Equanimity]]", "[[Intensity and Embodiment Safety Boundary]]"]
+updated: 2026-05-16
 ---
 
 Kriyas are Shinzen's borrowed Indic term for spontaneous movements that can
@@ -106,7 +106,7 @@ For practice guidance, kriya reports should trigger four checks:
 - Are ordinary safety factors active: injury risk, neurological symptoms, trauma activation, sleep/substance/medication issues, destabilization, or teacher/group pressure?
 
 These checks preserve Shinzen's reassurance while keeping kriyas inside the
-larger [[Complete Experience Safety Boundary]].
+focused [[Intensity and Embodiment Safety Boundary]] matrix.
 
 ## Related
 - [[Kriyas & Complete Experiences]] - primary source for this concept.
@@ -115,4 +115,4 @@ larger [[Complete Experience Safety Boundary]].
 - [[Insight and Purification]] - supplies the sankhara-breaking explanation Shinzen uses for why kriyas may happen.
 - [[Intermediate Realm]] - kriyas overlap with altered phenomena such as shaking and energy while remaining optional and non-status.
 - [[Equanimity]] - fear and craving around kriyas are the main relational errors.
-- [[Complete Experience Safety Boundary]] - owns the clinical, neurological, trauma, injury, and stop-rule gaps.
+- [[Intensity and Embodiment Safety Boundary]] - owns the clinical, neurological, trauma, injury, and stop-rule gaps for spontaneous movement.

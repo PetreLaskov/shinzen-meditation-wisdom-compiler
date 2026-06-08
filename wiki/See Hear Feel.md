@@ -7,10 +7,10 @@ importance: 10
 confidence: probable
 tags: []
 aliases: [SHF, See Hear Feel practice, Unified Mindfulness See Hear Feel, SHF technique, See Hear Feel Everything, Focus on See Hear Feel]
-sources: [raw/Shinzen Sources/see-hear-feel-introduction/01-source-frame-and-happiness-rationale.md, raw/Shinzen Sources/see-hear-feel-introduction/02-cce-and-labeling-as-skill-support.md, raw/Shinzen Sources/see-hear-feel-introduction/03-simple-and-flexible-labels.md, raw/Shinzen Sources/see-hear-feel-introduction/04-starting-focus-ranges.md, raw/Shinzen Sources/see-hear-feel-introduction/05-four-okays-and-required-vs-allowed.md, raw/Shinzen Sources/see-hear-feel-introduction/06-five-themes-space-and-depth-boundary.md, raw/Shinzen Sources/see-hear-feel-introduction/07-noting-nutshell-and-faq.md, raw/Shinzen Sources/see-hear-feel-introduction/08-practice-organization-and-system-transition.md, "raw/Shinzen Sources/yt transcripts/Focus Methods in Mindfulness Advantages and Disadvantages ~ Shinzen Young_nHETuhITils.md", "raw/Shinzen Sources/yt transcripts/Three Ways to Set Up Your Basic Mindfulness Session ~ Shinzen Young_2y13blvPkv0.md", "raw/Shinzen Sources/yt transcripts/How to do Labeling and Noting During Meditation, 1 of 2 Parts ~ Shinzen Young_StBTuX0tqU8.md", "raw/Shinzen Sources/yt transcripts/How to do Labeling and Noting During Meditation, Part 2 of 2, Zooming ~ Shinzen Young_KGcpzuHgrQk.md", "raw/Shinzen Sources/yt transcripts/retranscribed/Forcing Spoken Labels ~ Shinzen Young_cRPfi_Bw1pQ.md", "raw/Shinzen Sources/yt transcripts/edited/Discrimination and Unification - Part 4 of 4 ~ Shinzen Young_IAudwp77vf8.md", "raw/Shinzen Sources/yt transcripts/Natural Sensory Space Combinations ~ Shinzen Young_ON9nSWAaiWM.md"]
+sources: [raw/Shinzen Sources/see-hear-feel-introduction/01-source-frame-and-happiness-rationale.md, raw/Shinzen Sources/see-hear-feel-introduction/02-cce-and-labeling-as-skill-support.md, raw/Shinzen Sources/see-hear-feel-introduction/03-simple-and-flexible-labels.md, raw/Shinzen Sources/see-hear-feel-introduction/04-starting-focus-ranges.md, raw/Shinzen Sources/see-hear-feel-introduction/05-four-okays-and-required-vs-allowed.md, raw/Shinzen Sources/see-hear-feel-introduction/06-five-themes-space-and-depth-boundary.md, raw/Shinzen Sources/see-hear-feel-introduction/07-noting-nutshell-and-faq.md, raw/Shinzen Sources/see-hear-feel-introduction/08-practice-organization-and-system-transition.md]
 load_when: "Load for questions about the Unified Mindfulness See/Hear/Feel interface, flexible labels by focus range, Four Okays, starter ranges, SHF versus Basic Mindfulness, or where Gone, Do Nothing, and Nurture Positive fit."
-best_linked_pages: ["[[Noting]]", "[[Sensory Grid]]", "[[Mindfulness Skill Triad]]", "[[Basic Mindfulness Practice Architecture]]", "[[Focus Coverage Strategies]]", "[[Practice Guidance Toolkit]]", "[[Nurture Positive]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-09
+best_linked_pages: ["[[Noting]]", "[[Sensory Grid]]", "[[Spaciousness]]", "[[Mindfulness Skill Triad]]", "[[Basic Mindfulness Practice Architecture]]", "[[Focus Coverage Strategies]]", "[[Practice Guidance Toolkit]]", "[[Complete Experience Safety Boundary]]"]
+updated: 2026-05-18
 ---
 
 See Hear Feel is the later Unified Mindfulness interface for Shinzen's noting practice. Its compression move is simple but not shallow: keep the older sensory grid available in the background, then let three flexible labels and an explicit focus range supply the practice instruction.
@@ -20,6 +20,14 @@ See Hear Feel is the later Unified Mindfulness interface for Shinzen's noting pr
 - **Why this matters**: It explains how Shinzen can preserve the older Basic Mindfulness grid while giving beginners a smaller, more rhythmic entry point.
 - **Key tensions**: The simplicity depends on hidden structure; old labels remain valid, Gone becomes optional, and "whatever works" still needs safety and outcome criteria.
 - **Source posture**: Strong as Shinzen's own Unified Mindfulness instruction; weak as independent evidence for empirical, clinical, or universal outcome claims.
+
+## Source Anchors
+- The eight [[See Hear Feel Introduction - Source Frame and Happiness Rationale|See Hear Feel Introduction]] units anchor the interface: UM source frame, CCE support, flexible labels, starter ranges, Four Okays, five themes, Noting options, and practice organization/system transition.
+- [[Focus Methods in Mindfulness Advantages and Disadvantages]] and [[Three Ways to Set Up Your Basic Mindfulness Session]] remain body-cited for coverage strategies and session setup.
+- [[How to do Labeling and Noting During Meditation, 1 of 2 Parts]], [[How to do Labeling and Noting During Meditation, Part 2 of 2, Zooming]], and [[Forcing Spoken Labels]] remain body-cited for oral label gears, equanimity voice, repeat-until-Gone, zooming, and strong-label boundaries.
+- [[Discrimination and Unification - Part 4 of 4]] and [[Natural Sensory Space Combinations]] remain body-cited for the somatic/visual/auditory grouping behind the compact SHF interface.
+- [[How Shinzen Uses the Term Spaciousness]] anchors the later rationale for treating Space/Spaciousness as its own SHF dimension rather than merely a name for Rest, Flow, or Expansion-Contraction.
+- [[Our Subjective Experience Explained]] anchors the Focus In side of the compact labels: See/Hear/Feel can mean inner image, talk, and emotional body when the selected range is the subjective system.
 
 ## Model
 SHF is introduced as a standard Unified Mindfulness technique and a form of noting inspired by the Mahasi system ([[See Hear Feel Introduction - Source Frame and Happiness Rationale]] S1). The target is not the labels themselves but mindful awareness, defined as concentration power, sensory clarity, and equanimity working together ([[See Hear Feel Introduction - Source Frame and Happiness Rationale]] S2; [[See Hear Feel Introduction - CCE and Labeling as Skill Support]] S1-S2).
@@ -42,6 +50,12 @@ simplicity ([[Discrimination and Unification - Part 4 of 4]] S6-S7).
 
 The key innovation is flexible labeling. The label's meaning depends on the focus range: in Focus In, See means mental image; in Focus Out, See means physical sight; in Focus on Rest, See means visual rest; and the same principle applies to Hear and Feel across Rest, Flow, and Spaciousness ([[See Hear Feel Introduction - Simple and Flexible Labels]] S7-S8). This is why compact labels can preserve older-grid precision.
 
+[[Our Subjective Experience Explained]] gives the oral Focus In version of
+that rule. When the selected range is the subjective system, See labels mental
+image, Hear labels mental talk, and Feel labels emotional body sensation; the
+same system may react to outer contact, spin proactively, interact internally,
+or go briefly inactive ([[Our Subjective Experience Explained]] S1-S5).
+
 ## Starter Interface
 The standard SHF starting point is four focus ranges: Focus on See, Focus on Hear, Focus on Feel, and Focus on Everything ([[See Hear Feel Introduction - Starting Focus Ranges]] S1-S2). A practitioner can use one range, choose among them in the moment, or practice the broad-narrow-broad sequence Everything, See, Hear, Feel, Everything ([[See Hear Feel Introduction - Starting Focus Ranges]] S3).
 
@@ -63,7 +77,9 @@ The Gate 1 Part 2 talk gives zooming an oral mechanics layer. The default during
 
 The same Part 1 talk adds an oral troubleshooting use for those options: when practice is difficult, Shinzen asks which technique is being used and which options have already been tried before moving to special exercises ([[How to do Labeling and Noting During Meditation, 1 of 2 Parts]] S4-S5). Its "Repeat until Gone" instruction also keeps explicit Gone inside ordinary SHF-style Noting rather than making vanishing a separate advanced-only topic ([[How to do Labeling and Noting During Meditation, 1 of 2 Parts]] S12).
 
-The later SHF grid has three modalities and five themes: In, Out, Rest, Flow, and Space. Space or Spaciousness means openness around and/or thinness within what one sees, hears, or feels ([[See Hear Feel Introduction - Five Themes Space and Depth Boundary]] S1-S2). This extends the older Basic Mindfulness grid without requiring the beginner to say every specifier as a label.
+The later SHF grid has three modalities and five themes: In, Out, Rest, Flow, and Space. Space or [[Spaciousness]] means openness around and/or thinness within what one sees, hears, or feels ([[See Hear Feel Introduction - Five Themes Space and Depth Boundary]] S1-S2). This extends the older Basic Mindfulness grid without requiring the beginner to say every specifier as a label.
+
+The Spaciousness dialogue explains why this fifth theme is not just a renamed Flow or Expansion-Contraction category. Shinzen keeps Space independent so stable formless openness/thinness, Flow inside spaciousness, and Sasaki-style outward/inward force can all be routed without forcing one reading onto every spacious report ([[How Shinzen Uses the Term Spaciousness]] S2-S5).
 
 ## System Transition
 Unit 08 makes the old/new relationship explicit. The pre-2015 system, formerly Basic Mindfulness, organized noting through a complex grid; the newer system is essentially similar but integrates the bulk of the noting techniques into See Hear Feel, leaving the grid present, somewhat extended, and hidden inside a simpler paradigm ([[See Hear Feel Introduction - Practice Organization and System Transition]] S7).
@@ -81,10 +97,32 @@ The Basic Mindfulness session-setup talk anticipates the same organization style
 
 The Focus Methods talk clarifies that SHF-style method choice also has a coverage dimension. Shinzen says Focus In, Focus Out, and Focus on Rest are generally free-floating among their categories, while zooming out can create brief even-coverage moments. Focus on Flow can become the widest even coverage when visual, auditory, and somatic flow are covered at once, and Focus on Positive can free-float or evenly cover one, two, or three inner spaces ([[Focus Methods in Mindfulness Advantages and Disadvantages]] S8-S10).
 
+[[Appreciate the Senses Transcend the Self Express the Source]] gives a
+retreat-stream version of Focus on Everything. Shinzen requires only the live
+See/Hear/Feel modality distinction at first, while allowing inner/outer,
+active/restful, exclusive/inclusive, All, None, re-noting, zooming, and Gone
+as options rather than requirements ([[Appreciate the Senses Transcend the
+Self Express the Source]] S1, S5-S6, S10). This confirms SHF's interface
+logic: simple modality labels can carry a broad practice when the range and
+option set are clear.
+
+[[Shinzen Young Retreat at the Monastic Academy 05.27.2017]] gives a
+Source-facing version of the same interface. Shinzen begins with Just See,
+Just Hear, Just Feel, and Note Everything, then lets Rest mark the release of
+the sensory tug before moving into yes/no/both/rest arising-passing practice
+([[Shinzen Young Retreat at the Monastic Academy 05.27.2017]] S3-S7). This
+keeps even advanced Source instructions dependent on clear range and label
+meaning rather than free-floating mystical vocabulary.
+
 ## Boundaries
 SHF should not be equated with all of mindfulness or all of Shinzen's system. Shinzen's own CCE definition also includes Do Nothing and Nurture Positive as mindful awareness practices when they raise baseline concentration, clarity, and equanimity over time ([[See Hear Feel Introduction - Source Frame and Happiness Rationale]] S2).
 
 The compact labels can become ambiguous when the active focus range is unclear. In that case, the older bisyllabic terms are not obsolete; they can restore explicitness.
+
+Focus In adds a second ambiguity: not every body sensation is emotional Feel.
+Shinzen's operational rule is to ask whether emotion is present and whether
+part of that emotion appears in the body; if unsure, do not force Feel In
+([[Our Subjective Experience Explained]] S8-S9).
 
 The natural-combinations talk adds the complementary boundary: when the
 compact modality grouping works better than a six-space or subjective/objective
@@ -122,6 +160,7 @@ For system interpretation, SHF is the bridge between Basic Mindfulness precision
 - [[Basic Mindfulness Practice Architecture]] - old/new system continuity and differences route here.
 - [[Practice Guidance Toolkit]] - method choice and FAQ-style routing depend on live context.
 - [[Nurture Positive]] - remains part of the system and is simplified in the current formulation.
+- [[Spaciousness]] - owner concept for the SHF Space theme and its stable/dynamic branches.
 - [[Gone]] - no longer automatic in SHF, but still available as an explicit option.
 - [[Do Nothing]] - still part of the system with unchanged instructions.
 - [[Complete Experience Safety Boundary]] - SHF instructions require support criteria in high-intensity, clinical, or destabilizing contexts.
@@ -131,5 +170,9 @@ For system interpretation, SHF is the bridge between Basic Mindfulness precision
 - [[Forcing Spoken Labels]] - oral source for forced spoken labels as first gear under steep conditions.
 - [[How to do Labeling and Noting During Meditation, Part 2 of 2, Zooming]] - oral source for zooming as an SHF-compatible spatial option.
 - [[Zooming]] - owner concept for spatial-scope tuning inside Noting.
+- [[Appreciate the Senses Transcend the Self Express the Source]] - retreat
+  stream source for Note Everything as broad SHF practice with inclusive
+  noting, All/None, re-noting, zooming, and Gone options.
 - [[Discrimination and Unification - Part 4 of 4]] - source for the somatic/visual/auditory distinctions behind the compact SHF interface.
 - [[Natural Sensory Space Combinations]] - source for SHF's modality partition as one natural grouping of the six sensory spaces.
+- [[Our Subjective Experience Explained]] - source for SHF labels inside the Focus In range and for the subjective system's reactive/proactive/interactive/inactive functions.

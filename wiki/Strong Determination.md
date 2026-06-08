@@ -7,10 +7,10 @@ importance: 8
 confidence: probable
 tags: []
 aliases: [adhitthana, Strong Determination Sit, Strong Determination Sits, voluntary immobility]
-sources: ["raw/Shinzen Sources/yt transcripts/edited/Zero and One - Part 2 of 4 Complete Experiences Cont'd, Strong Determination Sits ~ Shinzen Young_MENPoNVg3bA.md", "raw/Shinzen Sources/yt transcripts/edited/Zero and One - Part 3 Strong Determination Challenges, Benefits, and Tasting Purification ~ Shinzen_kO-PvZWM1f0.md", "raw/Shinzen Sources/yt transcripts/edited/Equanimity and the Taste of Purification - Part 2 of 2 ~ Shinzen Young_OsyekyUsImc.md", "raw/Shinzen Sources/yt transcripts/Strong Determination Meditation Sits ~ Shinzen Young_EHI1aPUxs4s.md"]
+sources: ["raw/Shinzen Sources/yt transcripts/edited/Zero and One - Part 2 of 4 Complete Experiences Cont'd, Strong Determination Sits ~ Shinzen Young_MENPoNVg3bA.md", "raw/Shinzen Sources/yt transcripts/edited/Zero and One - Part 3 Strong Determination Challenges, Benefits, and Tasting Purification ~ Shinzen_kO-PvZWM1f0.md", "raw/Shinzen Sources/yt transcripts/edited/Equanimity and the Taste of Purification - Part 2 of 2 ~ Shinzen Young_OsyekyUsImc.md", "raw/Shinzen Sources/yt transcripts/Strong Determination Meditation Sits ~ Shinzen Young_EHI1aPUxs4s.md", "raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/THE QUICKEST WAY TO ENLIGHTENMENT ~ Shinzen Young_gYSSf71Vo7w.md"]
 load_when: "A question involves voluntary immobility, adhitthana, Strong Determination sits, pain and suffering during sitting, purification taste from intense practice, endurance versus learning, or safety around austerity-like meditation."
-best_linked_pages: ["[[Complete Experience]]", "[[Insight and Purification]]", "[[Equanimity]]", "[[Way of Physical Senses]]", "[[Complete Experience Safety Boundary]]", "[[Strong Determination Meditation Sits]]", "[[Zero and One - Part 3 Strong Determination Challenges, Benefits, and Tasting Purification]]"]
-updated: 2026-05-07
+best_linked_pages: ["[[Complete Experience]]", "[[Insight and Purification]]", "[[Equanimity]]", "[[Way of Physical Senses]]", "[[Intensity and Embodiment Safety Boundary]]", "[[The Quickest Way to Enlightenment]]", "[[Strong Determination Meditation Sits]]", "[[Zero and One - Part 3 Strong Determination Challenges, Benefits, and Tasting Purification]]"]
+updated: 2026-05-18
 ---
 
 Strong Determination is Shinzen's term here for chosen voluntary immobility, sometimes called adhitthana. The current Gate 3 evidence makes it a high-intensity application of touch plus Feel/Image/Talk practice, not a proof of willpower, a required ordeal, or permission for harm.
@@ -35,6 +35,14 @@ If a sitting choice leaves the practitioner limping for half an hour
 afterward, he treats that as a sign not to continue that kind of thing
 ([[Strong Determination Meditation Sits]] S1-S3, S6).
 
+[[The Quickest Way to Enlightenment]] adds the selected `@ShinzenVideos`
+version of the same route. It answers the "quick way" question with Strong
+Determination, then constrains the answer through gradual training, an
+absolute no-physical-damage rule, slow rising after numb legs, medical checks
+for possible neurological or circulatory issues, and the explicit alternative
+of bliss, jhana, and absorption paths ([[The Quickest Way to Enlightenment]]
+S1-S4, S10).
+
 The sensory map is fourfold. Local touch may include stabbing, burning, grinding, or pounding pain. Global touch may include subtle propagation through body space, which Shinzen says can carry much of the suffering despite being less intense than the local pain. Inner reactions include mental talk, mental images, and emotional Feel flavors such as fear, rage, primitive sadness, and agitation ([[Zero and One - Part 3 Strong Determination Challenges, Benefits, and Tasting Purification]] S1-S2).
 
 The transformation claim is that fixation, fighting, and self-versus-pain organization produce much of the suffering. When the system learns, Shinzen reports that sensory intensity can continue to rise while suffering drops, eventually giving the [[Insight and Purification|taste of purification]] and an integrated Flow-like field with less separation between "I" and "it" ([[Zero and One - Part 3 Strong Determination Challenges, Benefits, and Tasting Purification]] S5-S7).
@@ -46,6 +54,13 @@ tangle, it can feel multiplicative and unbearable. The value of Strong
 Determination is therefore the retraining of touch/Feel/Image/Talk
 processing, not the production of maximum pain ([[Strong Determination
 Meditation Sits]] S4-S8).
+
+The selected "quick way" talk gives the same mechanism a local-global pain
+strategy. Shinzen describes starting with the global spread of the pain,
+then combining local intensity with whole-body attention so physical
+sensations and the reactive subjective system can spread, separate, and
+eventually Flow rather than snowball through cross-multiplication ([[The
+Quickest Way to Enlightenment]] S5-S9).
 
 ## Boundaries
 Strong Determination is not required for progress. Shinzen explicitly warns that his severe anecdote should not imply that practitioners must go through comparable intensity to get anywhere on the path ([[Zero and One - Part 3 Strong Determination Challenges, Benefits, and Tasting Purification]] S3).
@@ -67,12 +82,21 @@ that the chosen sitting mode is not appropriate. This does not become a
 complete medical triage rule, but it blocks treating post-sit dysfunction as
 proof of seriousness ([[Strong Determination Meditation Sits]] S2-S3).
 
+The selected "quick way" talk adds two ordinary safety details. Legs falling
+asleep are usually framed as transient nerve pressure rather than tissue
+death, but the practical danger is falling if the practitioner rises too
+quickly; possible neurological or circulatory exceptions should be checked
+medically. These cautions still do not become a full stop protocol, but they
+make bodily protection part of the instruction rather than an external
+afterthought ([[The Quickest Way to Enlightenment]] S4).
+
 The current sources still do not provide full stop rules. Pain, trembling,
 fear, distorted thinking, loss-of-control impressions, archetypal imagery,
 and past-life interpretations may be practice material in Shinzen's frame,
 but they also need medical, trauma, retreat, teacher, consent, and coercion
-criteria not yet compiled. Route unresolved cases to [[Complete Experience
-Safety Boundary]].
+criteria beyond the source's own guardrails. Route unresolved cases through
+[[Complete Experience Safety Boundary]], and route bodily intensity through
+the focused [[Intensity and Embodiment Safety Boundary]] matrix.
 
 ## Implications
 Strong Determination should be read as a specialized physical-senses and inner-sensory laboratory. If used at all, it should preserve the same CCE standards as less dramatic practice: concentration with the selected strands, clarity about what is touch versus Feel/Image/Talk, and equanimity that reduces self-fighting without overriding ordinary care.
@@ -83,9 +107,10 @@ Its future value in the wiki is mostly diagnostic. It tests whether [[Complete E
 - [[Zero and One - Part 2 of 4 Complete Experiences Cont'd, Strong Determination Sits]] - source for the definition of voluntary immobility and the initial four-strand sensory frame.
 - [[Zero and One - Part 3 Strong Determination Challenges, Benefits, and Tasting Purification]] - source for the learning-versus-endurance criterion and purification-taste report.
 - [[Strong Determination Meditation Sits]] - source for the general definition, occasional-use advice, no-harm guardrail, limping warning sign, and personal-record correction.
+- [[The Quickest Way to Enlightenment]] - selected channel source for quick-route framing, gradual training, no-damage and numb-leg cautions, local-global zooming, and bliss/jhana optionality.
 - [[Equanimity and the Taste of Purification - Part 2 of 2]] - source for optional discomfort practice and for harm or practice-destroying wipeout as disqualifiers.
 - [[Complete Experience]] - Strong Determination is only transformative when the sensory eruption is completed through CCE, not merely endured.
 - [[Insight and Purification]] - purification taste is the motivating reward Shinzen reports when suffering drops.
 - [[Equanimity]] - non-fighting distinguishes learning from suppression or macho endurance.
 - [[Way of Physical Senses]] - local and global touch make the route a physical-senses practice.
-- [[Complete Experience Safety Boundary]] - tracks unresolved readiness, stop, medical, trauma, and coercion criteria.
+- [[Intensity and Embodiment Safety Boundary]] - tracks unresolved readiness, stop, medical, trauma, and coercion criteria for high-intensity stillness.

@@ -296,7 +296,8 @@ workspace, `tools\wiki_lint.cmd` finds the bundled Python runtime when
 - Frontmatter routing fields exist and `best_linked_pages` resolve.
 - Links resolve to page filenames or aliases.
 - Every raw source has exactly one source page.
-- Every compiled page appears in `wiki/index.md`.
+- Every compiled page appears in `wiki/index.md` or an approved registration
+  catalog such as `wiki/_page_catalog.md`.
 - Non-source pages cite raw sources unless explicitly pure synthesis.
 - Dates are ISO formatted and source-backed pages are not stale.
 - Source pages include the required audit sections: `Weakest Claims`,
@@ -316,12 +317,11 @@ entries, and pages doing too many jobs.
 - Operating dashboard: source backlog, page counts, epistemic debt, next
   step.
 - Open questions: top active frontiers.
-- Domain sections: page entries grouped by primary domain.
+- Domain sections: top routing entries grouped by primary domain.
 
-The index is a routing surface, not a full chronology or source catalog. If
-page-registration rules pressure the index to become unreadable, prefer a
-refactor of the registration/catalog mechanism over adding more startup
-bulk.
+The index is a routing surface, not a full chronology or source catalog.
+Exhaustive page registration can live in approved system catalogs such as
+`wiki/_page_catalog.md`; keep the index focused on first-load routing.
 
 Entry shape:
 

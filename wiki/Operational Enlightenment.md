@@ -1,34 +1,90 @@
 ---
 type: concept
-thesis: "Operational enlightenment names Shinzen's practice-facing definition of liberation as identity no longer being trapped by thought and body sensation, while keeping path maps provisional, realization integrated over a lifetime, and perfection, credit, feedback, ethics, teacher dependence, clinical, and metaphysical claims under stricter boundaries."
+thesis: "Operational enlightenment names Shinzen's practice-facing definition of liberation as identity no longer being trapped by thought and body sensation, while keeping path maps provisional, progress criteria life-tested, realization integrated over a lifetime, and perfection, credit, feedback, ethics, teacher dependence, clinical, and metaphysical claims under stricter boundaries."
 status: working
 domain: [transformation, safety, teaching]
 importance: 8
 confidence: probable
 tags: []
 aliases: [enlightenment, liberation, identity elasticity, elastic identity]
-sources: ["raw/Shinzen Sources/yt transcripts/edited/What is Enlightenment ~ Shinzen Young_Qu_GvP2pfGc.md", "raw/Shinzen Sources/yt transcripts/edited/Enlightenment Maps and Models ~ Shinzen Young_whnGgq4O3jM.md", "raw/Shinzen Sources/yt transcripts/After enlightenment, what's left, what's the point ~ Shinzen Young_ptkH0uK1uXM.md", "raw/Shinzen Sources/yt transcripts/Enlightenment Downsides ~ Shinzen Young_qoAbCgmhqdM.md", "raw/Shinzen Sources/yt transcripts/Six Common Traps on the Path to Enlightenment ~ Shinzen Young_i288Lnb7NOk.md", "raw/Shinzen Sources/yt transcripts/edited/Classical Enlightenment Healing the World and Screw-ups ~ Shinzen Young_hBDqTY1W8Dk.md", "raw/Shinzen Sources/yt transcripts/edited/Enlightenment, DPDR & Falling Into the Pit of the Void ~ Shinzen Young_9zIKQCwDXsA.md", "raw/Shinzen Sources/yt transcripts/edited/Classic Dark Night or Clinical Issues ~ Shinzen Young_BQ5B70ac_9M.md", "raw/Shinzen Sources/yt transcripts/Advanced FAQs Regarding Emptiness ~ Shinzen Young_812I4KYLMF8.md", "raw/Shinzen Sources/yt transcripts/Meditation Teacher's Qualifications and Liberation Experiences ~ Shinzen Young_tF96pTDYEAU.md", "raw/Shinzen Sources/yt transcripts/Spiritual Teachers' Behaviour Feedback & Ethics ~ Shinzen Young_-_mppU0j58c.md", "raw/Shinzen Sources/yt transcripts/Teacher's or Student's Issues Impeding Spiritual Progress ~ Shinzen Young_XBItqGFYVSI.md", "raw/Shinzen Sources/yt transcripts/edited/Towards a Balanced Enlightenment ~ Shinzen Young_wgvr-f0p0Ms.md"]
-load_when: "Load when a question asks what Shinzen means by enlightenment or liberation in practice terms, especially identity freedom, map humility, integration, downsides, good-place traps, teacher dependence, stream-entry scale, DPDR/dark-night clinical differentials, or anti-perfection boundaries."
-best_linked_pages: ["[[What Is Enlightenment]]", "[[Enlightenment Maps and Models]]", "[[After Enlightenment What Is Left What Is The Point]]", "[[Six Common Traps on the Path to Enlightenment]]", "[[Classical Enlightenment Healing the World and Screw-ups]]", "[[Enlightenment DPDR and Falling Into the Pit of the Void]]", "[[Classic Dark Night or Clinical Issues]]", "[[Spiritual Teachers' Behaviour Feedback and Ethics]]", "[[Teacher's or Student's Issues Impeding Spiritual Progress]]", "[[DPDR and the Pit of the Void]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-09
+sources: ["raw/Shinzen Sources/yt transcripts/edited/What is Enlightenment ~ Shinzen Young_Qu_GvP2pfGc.md", "raw/Shinzen Sources/yt transcripts/edited/Enlightenment Maps and Models ~ Shinzen Young_whnGgq4O3jM.md", "raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/PROS & CONS of DHARMA MAPS ~ Shinzen Young_8bIgTY-8M5A.md", "raw/Shinzen Sources/yt transcripts/After enlightenment, what's left, what's the point ~ Shinzen Young_ptkH0uK1uXM.md", "raw/Shinzen Sources/yt transcripts/Six Common Traps on the Path to Enlightenment ~ Shinzen Young_i288Lnb7NOk.md", "raw/Shinzen Sources/yt transcripts/edited/Enlightenment, DPDR & Falling Into the Pit of the Void ~ Shinzen Young_9zIKQCwDXsA.md", "raw/Shinzen Sources/yt transcripts/edited/Classic Dark Night or Clinical Issues ~ Shinzen Young_BQ5B70ac_9M.md", "raw/Shinzen Sources/yt transcripts/Spiritual Teachers' Behaviour Feedback & Ethics ~ Shinzen Young_-_mppU0j58c.md"]
+load_when: "Load when a question asks what Shinzen means by enlightenment or liberation in practice terms, especially identity freedom, map humility, cross-map jargon, integration, downsides, good-place traps, teacher dependence, stream-entry scale, DPDR/dark-night clinical differentials, or anti-perfection boundaries."
+best_linked_pages: ["[[What Is Enlightenment]]", "[[Enlightenment Maps and Models]]", "[[Pros and Cons of Dharma Maps]]", "[[The Agony of Jargon]]", "[[After Enlightenment What Is Left What Is The Point]]", "[[Six Common Traps on the Path to Enlightenment]]", "[[DPDR and the Pit of the Void]]", "[[Complete Experience Safety Boundary]]"]
+updated: 2026-05-29
 ---
 
-Operational enlightenment is the Gate 6A owner for Shinzen's practice-facing enlightenment definitions. At this stage it should be read as a working page: [[What Is Enlightenment]] supplies a compact identity-freedom definition, [[Enlightenment Maps and Models]] adds the map-humility rule that no current teacher, map, path, or stage model should be treated as final, [[After Enlightenment What Is Left What Is The Point]] adds the lifetime-integration guardrail, [[Enlightenment Downsides]] adds expectation calibration around bliss, communicability, and non-ownership, [[Six Common Traps on the Path to Enlightenment]] adds the good-place trap rule, [[Classical Enlightenment Healing the World and Screw-ups]] adds the stream-entry, world-healing, and screw-up calibration, [[Enlightenment DPDR and Falling Into the Pit of the Void]] adds the strongest DPDR differential so far, [[Classic Dark Night or Clinical Issues]] adds the dark-night versus depression/anxiety referral boundary, [[Advanced FAQs Regarding Emptiness]] adds the compact empty-the-reaction plus rebuild-positive-self regimen, [[Meditation Teacher's Qualifications and Liberation Experiences]] adds the teacher-qualification boundary, [[Spiritual Teachers' Behaviour Feedback and Ethics]] adds the feedback-loop ethics boundary, and [[Teacher's or Student's Issues Impeding Spiritual Progress]] adds the anti-dependency boundary.
+Operational enlightenment is the Gate 6A owner for Shinzen's practice-facing enlightenment definitions. At this stage it should be read as a working page: [[What Is Enlightenment]] supplies a compact identity-freedom definition, [[Enlightenment Maps and Models]] adds the map-humility rule that no current teacher, map, path, or stage model should be treated as final, [[Pros and Cons of Dharma Maps]] adds map-use pros and cons, a four-part progress criteria ladder, and corrections to perfection, suddenness, dark-night, and linear-map myths, [[The Agony of Jargon]] adds the map-language rule that terms and progress metrics do not translate by word identity, [[After Enlightenment What Is Left What Is The Point]] adds the lifetime-integration guardrail, [[Enlightenment Downsides]] adds expectation calibration around bliss, communicability, and non-ownership, [[Six Common Traps on the Path to Enlightenment]] adds the good-place trap rule, [[Classical Enlightenment Healing the World and Screw-ups]] adds the stream-entry, world-healing, and screw-up calibration, [[Enlightenment DPDR and Falling Into the Pit of the Void]] adds the strongest DPDR differential so far, [[Classic Dark Night or Clinical Issues]] adds the dark-night versus depression/anxiety referral boundary, [[Advanced FAQs Regarding Emptiness]] adds the compact empty-the-reaction plus rebuild-positive-self regimen, [[Meditation Teacher's Qualifications and Liberation Experiences]] adds the teacher-qualification boundary, [[Spiritual Teachers' Behaviour Feedback and Ethics]] adds the feedback-loop ethics boundary, and [[Teacher's or Student's Issues Impeding Spiritual Progress]] adds the anti-dependency boundary.
 
 ## Key Points
-- **Core claim**: Shinzen's compact operational definition is that thoughts and body sensations may continue, but identity is no longer automatically trapped by them; enlightenment maps remain provisional, sudden no-self leaves lifelong behavior and integration work, stream-entry-level classical enlightenment is not arhatship or ethical completion, enlightened influence should not be treated as personal credit, good places can become traps, emptiness/no-self can resemble DPDR while having the opposite effect, dark-night-like distress often needs depression/anxiety assessment rather than spiritual interpretation alone, pit-of-emptiness reactions need both deconstruction and positive self-reconstruction, liberation signs do not prove teacher qualification, teacher ethics requires open feedback loops around uneven development, and teacher-student transmission should produce independence rather than dependence ([[What Is Enlightenment]] S1-S4; [[Enlightenment Maps and Models]] S1-S3; [[After Enlightenment What Is Left What Is The Point]] S1-S4; [[Classical Enlightenment Healing the World and Screw-ups]] S4-S8; [[Enlightenment Downsides]] S3-S6; [[Six Common Traps on the Path to Enlightenment]] S6-S7; [[Enlightenment DPDR and Falling Into the Pit of the Void]] S1-S6; [[Classic Dark Night or Clinical Issues]] S1-S7; [[Advanced FAQs Regarding Emptiness]] S1-S5; [[Meditation Teacher's Qualifications and Liberation Experiences]] S1-S5; [[Spiritual Teachers' Behaviour Feedback and Ethics]] S2-S6; [[Teacher's or Student's Issues Impeding Spiritual Progress]] S1-S6).
+- **Core claim**: Shinzen's compact operational definition is that thoughts and body sensations may continue, but identity is no longer automatically trapped by them; enlightenment maps remain provisional, map language must be translated by phenomenon rather than word identity, progress should mature from unusual experiences to CCE taste, daily-life effects, and non-fixated practice, sudden no-self leaves lifelong behavior and integration work, stream-entry-level classical enlightenment is not arhatship or ethical completion, enlightened influence should not be treated as personal credit, good places can become traps, emptiness/no-self can resemble DPDR while having the opposite effect, dark-night-like distress often needs depression/anxiety assessment rather than spiritual interpretation alone, pit-of-emptiness reactions need both deconstruction and positive self-reconstruction, liberation signs do not prove teacher qualification, teacher ethics requires open feedback loops around uneven development, and teacher-student transmission should produce independence rather than dependence ([[What Is Enlightenment]] S1-S4; [[Enlightenment Maps and Models]] S1-S3; [[Pros and Cons of Dharma Maps]] S5-S14; [[The Agony of Jargon]] S1-S6; [[After Enlightenment What Is Left What Is The Point]] S1-S4; [[Classical Enlightenment Healing the World and Screw-ups]] S4-S8; [[Enlightenment Downsides]] S3-S6; [[Six Common Traps on the Path to Enlightenment]] S6-S7; [[Enlightenment DPDR and Falling Into the Pit of the Void]] S1-S6; [[Classic Dark Night or Clinical Issues]] S1-S7; [[Advanced FAQs Regarding Emptiness]] S1-S5; [[Meditation Teacher's Qualifications and Liberation Experiences]] S1-S5; [[Spiritual Teachers' Behaviour Feedback and Ethics]] S2-S6; [[Teacher's or Student's Issues Impeding Spiritual Progress]] S1-S6).
 - **Why this matters**: Future agents can discuss enlightenment without implying thoughtlessness, body rejection, final path-map authority, moral perfection, continuous bliss, clinical safety, automatic ethical maturity, owned teaching power, closed feedback immunity, or a content-only equation between emptiness and liberation.
 - **Key tensions**: The identity-elasticity source uses interpersonal, cosmic, and still-point metaphors, the map source predicts future science and technology without supplying a replacement map, the after-enlightenment source pairs effortless emptiness with ordinary unresolved behavior, the downsides source pairs strong certainty about what humanity needs with map humility, the traps source treats "permanent classical enlightenment" as real while still requiring senior feedback, the classical-enlightenment source predicts world healing at scale while admitting major screw-ups by people who have seen no-self, and the DPDR source says possibly similar nothingness can liberate one person and disable another.
-- **Source posture**: Probable as an initial Gate 6A synthesis of Shinzen's public definition, map humility, integration, expectation-calibration, trap-diagnostic, stream-entry-scale, DPDR-differential, dark-night/clinical-referral, emptiness-reconstruction, and teacher-qualification claims; incomplete until the remaining ethics sources are compiled.
+- **Source posture**: Probable as a Gate 6A synthesis of Shinzen's public definition, map humility, integration, expectation calibration, trap diagnostics, stream-entry scale, DPDR differential, clinical referral, emptiness reconstruction, teacher qualification, feedback ethics, and anti-dependency claims; still incomplete for formal governance and clinical policy.
+
+## Source Anchors
+- [[What Is Enlightenment]], [[Enlightenment Maps and Models]], [[Pros and Cons of Dharma Maps]], [[The Agony of Jargon]], [[After Enlightenment What Is Left What Is The Point]], and [[Enlightenment Downsides]] anchor identity non-capture, map humility, cross-map jargon caution, progress criteria, lifetime integration, love/purpose, expectation calibration, and non-ownership of influence.
+- [[Six Common Traps on the Path to Enlightenment]] and [[Classical Enlightenment Healing the World and Screw-ups]] anchor the good-place trap, stream-entry scale, world-healing claims, and screw-up boundary.
+- [[How a Positive Human Being Emerges from the Source]] anchors a different
+  local use of classical/Class C language: the surface of realization should
+  be approachable, admirable, helpful, and ordinary rather than crazy-wisdom
+  special.
+- [[Enlightenment DPDR and Falling Into the Pit of the Void]], [[Classic Dark Night or Clinical Issues]], [[Advanced FAQs Regarding Emptiness]], [[DPDR and the Pit of the Void]], and [[Complete Experience Safety Boundary]] anchor the void-side safety and reconstruction route.
+- [[Shinzen's Billion Dollar Hypothesis]] anchors the pathological
+  no-self-caricature caution: no spontaneous self-activation, tranquility,
+  desirelessness, or pain-without-suffering resemblance is not enough to
+  count as liberation without integration, functioning, wisdom, behavior,
+  and safety checks.
+- [[Meditation Teacher's Qualifications and Liberation Experiences]], [[Spiritual Teachers' Behaviour Feedback and Ethics]], [[Teacher's or Student's Issues Impeding Spiritual Progress]], and [[Towards a Balanced Enlightenment]] anchor teacher qualification, feedback ethics, anti-dependency, and mastery-without-perfection boundaries.
 
 ## Model
 The shortest operational handle is non-capture. Shinzen asks the listener to notice thoughts and body sensations, then imagine those contents continuing without immediately becoming "me" ([[What Is Enlightenment]] S1-S2). This places enlightenment in continuity with sensory clarity and no-self: the issue is not whether thought or sensation appears, but whether identity is compulsively fused with it.
 
 The second handle is elasticity. Shinzen says mind and body become a comfortable home rather than a prison; identity can abide there or move beyond it ([[What Is Enlightenment]] S3-S4). This protects two sides at once. Liberation is not merely better adjustment inside the usual identity location, but it is also not contempt for ordinary embodiment.
 
+[[Enlightenment Simultaneous Expansion and Contraction Sahej Samadhi
+Non-Dual Awareness]] adds a compact advanced marker rather than a replacement
+definition. Shinzen says that when vastness all around and thinness
+throughout pervade everything seen, heard, and felt inside and outside while
+walking around in life, he would largely define the person as enlightened and
+calls that sahaja samadhi and true nondual awareness ([[Enlightenment
+Simultaneous Expansion and Contraction Sahej Samadhi Non-Dual Awareness]]
+S1-S4). This belongs to the Source/Space side of the model and should be
+held with the same guardrails as other enlightenment claims: it does not
+prove final map authority, ethical completion, teacher qualification,
+clinical safety, or exemption from feedback.
+
 At this first Gate 6A step, operational enlightenment should not be promoted into a complete attainment model. It is a definition surface for future sources to refine. [[Mastery Without Guru Inflation]] already blocks the inference from contemplative depth to balanced judgment or behavior: Shinzen's balanced-enlightenment source says mastery is vector-like rather than scalar and may require feedback, precepts, psychotherapy, recovery support, and peer correction ([[Towards a Balanced Enlightenment]] S4-S11).
 
 [[Enlightenment Maps and Models]] adds a second guardrail: even a useful enlightenment definition is not a final map. Shinzen says a best map may be possible, but he does not think anyone has found it; he treats existing maps as poor and says even deeply enlightened teachers know relatively little about enlightenment compared with what humanity may eventually discover ([[Enlightenment Maps and Models]] S1-S4). The practical result is map humility. Use current models because they help practice, but keep them revisable, outcome-tested, and safety-bounded.
+
+[[Pros and Cons of Dharma Maps]] adds the practice-facing version of that
+guardrail. Shinzen says maps can tell practitioners where to go, what to look
+for, and what may be optimal when certain things occur, but map inquiry can
+also become rating, status, and map-quest displacement from practice
+([[Pros and Cons of Dharma Maps]] S3-S6). His progress criteria move from
+the least mature sign, unusual or entertaining experiences, through tasting
+concentration, clarity, and equanimity during practice, into daily-life
+effects such as less suffering, more fulfillment, insight, behavior
+improvement, love, service, and reduced inside/outside alienation, and
+finally into practicing without much goal fixation ([[Pros and Cons of
+Dharma Maps]] S8). The same talk blocks four common map mistakes:
+enlightenment is not a before/after perfection switch, realization need not
+be sudden, long paralytic dark night is not universal, and linear maps often
+function more accurately as looping-and-branching algorithms with walls,
+windows, revisiting, and optimal responses ([[Pros and Cons of Dharma Maps]]
+S10-S13).
+
+[[The Agony of Jargon]] adds a terminology and metric boundary to the same
+map-humility layer. Shinzen says teachers can use different words for the
+same phenomena or the same words for different phenomena, so enlightenment
+and path language must be translated by the reported phenomenon rather than
+by label alone ([[The Agony of Jargon]] S1-S2). His example is AP or
+rising-passing: in his vocabulary, this is Both-Gone, space spreading and
+collapsing as soon as it arises ([[The Agony of Jargon]] S4-S5). The same
+clip warns that progress can be measured by different metrics, such as
+craving/aversion/unconsciousness, ox-herding development, or sustained
+Both-Gone/rising-passing, without those maps obviously corresponding
+([[The Agony of Jargon]] S6).
 
 [[After Enlightenment What Is Left What Is The Point]] adds a third guardrail:
 enlightenment is not a clean before/after binary. Shinzen says some people
@@ -75,6 +131,15 @@ The same source says people who have seen no-self can still have major
 public screw-ups, which makes behavioral completion and teacher conduct
 separate questions even when the realization is authentic ([[Classical
 Enlightenment Healing the World and Screw-ups]] S7-S8).
+
+[[How a Positive Human Being Emerges from the Source]] adds a surface-quality
+guardrail. In that Q&A, Shinzen contrasts classical or Class C enlightenment
+with crazy-wisdom specialness: the Source-touched person's surface should be
+approachable, admirable, helpful, and ordinary, while Source itself is not
+positive content or an ethical law ([[How a Positive Human Being Emerges from
+the Source]] S1-S6). This does not settle the term "classical enlightenment"
+across sources; it adds another context where the operative criterion is
+human return and presentation, not attainment status alone.
 
 [[Enlightenment DPDR and Falling Into the Pit of the Void]] adds a seventh
 guardrail around clinical and functional valence. Shinzen says DPDR can
@@ -156,7 +221,30 @@ It is not established metaphysics. "Beyond time and space" and "nothingness" bel
 
 It is not the final path map. Shinzen explicitly says current models are inadequate, and he uses the lack of scalable access to enlightenment as evidence that better maps and technologies remain to be discovered ([[Enlightenment Maps and Models]] S2, S5).
 
+It is not a stage-rating project. Shinzen's selected dharma-map talk warns
+that map energy can become status, rating, and the quest for the right map
+instead of practice; maps are useful only insofar as they orient practice,
+motivate, and suggest optimal responses ([[Pros and Cons of Dharma Maps]]
+S3-S6).
+
+It is not word-level map translation. A report of AP, rising-passing,
+Both-Gone, stream entry, ox-herding progress, or craving reduction should be
+checked against the actual phenomenology and metric being used; identical
+words may diverge, and different words may converge ([[The Agony of Jargon]]
+S1-S6).
+
+It is not judged by unusual experiences alone. Shinzen ranks unusual,
+interesting, or entertaining experiences below the taste of CCE, below
+daily-life effects, and below non-fixated practice ([[Pros and Cons of
+Dharma Maps]] S8).
+
 It is not a warrant for science or technology hype. Shinzen's expectation that future science may reveal radically important dimensions of enlightenment is conjectural and needs consent, safety, behavior, and validation criteria before it can guide practice policy ([[Enlightenment Maps and Models]] S4-S5).
+The channel's athymhormia hypothesis strengthens this boundary: a
+neurological condition may resemble no-self or equanimity in several ways
+while remaining a severe dysfunction, so no-self-like content must be tested
+against self-activation, integration, functioning, behavior, and ordinary
+safety rather than treated as completion ([[Shinzen's Billion Dollar
+Hypothesis]] S3-S9).
 
 It is not personal credit for influence. The downsides talk says powerful
 teaching may happen, but the person cannot own it as "cool stuff" because
@@ -206,6 +294,12 @@ children, adults, practitioners, and non-practitioners; basic precepts do not
 replace ongoing correction around conduct ([[Spiritual Teachers' Behaviour
 Feedback and Ethics]] S3-S6).
 
+It is not crazy-wisdom specialness. The positive-human-surface source treats
+approachable, admirable, helpful, ordinary presentation as the preferred
+Class C/classical surface, so nonordinary Source language should not be used
+to excuse alienating, exempt, or unaccountable presentation ([[How a Positive
+Human Being Emerges from the Source]] S4-S6).
+
 It is not teacher dependence. Shinzen explicitly says the spiritual path is
 not dependence on the teacher; teacher contact should yield principles,
 skill, and confidence that the student can apply independently ([[Teacher's
@@ -215,6 +309,8 @@ or Student's Issues Impeding Spiritual Progress]] S1-S6).
 When future sources discuss enlightenment maps, downsides, traps, classical enlightenment, DPDR, dark night, or teacher qualifications, this page should ask four questions:
 
 - Is the claim about identity non-capture, path-map location, behavior, ethics, clinical state, Source language, or teaching authority?
+- Are two map terms actually naming the same phenomenon, or only sounding
+  similar across teachers and traditions?
 - Does ordinary thought, sensation, personality, and body functioning remain available?
 - Is the map being used as a provisional practice tool, or as an overclaimed final authority?
 - What evidence would show that identity freedom improves behavior, service, repair, and responsiveness?
@@ -231,10 +327,20 @@ When future sources discuss enlightenment maps, downsides, traps, classical enli
 ## Related
 - [[What Is Enlightenment]] - source for identity non-capture, elastic identity, and mind-body as home rather than prison.
 - [[Enlightenment Maps and Models]] - source for map humility, teacher knowledge limits, and future-improvement posture.
+- [[Shinzen's Billion Dollar Hypothesis]] - source for the warning that
+  pathological no-self-like signs and neurotechnology hopes do not establish
+  operational enlightenment.
+- [[Pros and Cons of Dharma Maps]] - selected source for map pros and cons,
+  progress criteria, map-fixation warnings, teacher track record, and
+  linear-map correction.
+- [[The Agony of Jargon]] - source for cross-teacher terminology collisions,
+  AP/rising-passing as Both-Gone, and incommensurable progress metrics.
 - [[After Enlightenment What Is Left What Is The Point]] - source for sudden/gradual enlightenment, seeing-versus-riding-the-ox, and lifelong behavioral integration.
 - [[Enlightenment Downsides]] - source for expectation calibration, communicability limits, and non-ownership of enlightened influence.
 - [[Six Common Traps on the Path to Enlightenment]] - source for map, tranquility, powers, enlightenment, and observer traps.
 - [[Classical Enlightenment Healing the World and Screw-ups]] - source for rough stream-entry equivalence, long-horizon world-healing optimism, arhat speculation, and post-no-self screw-up calibration.
+- [[How a Positive Human Being Emerges from the Source]] - source for
+  classical/Class C surface ordinariness and the crazy-wisdom contrast.
 - [[Enlightenment DPDR and Falling Into the Pit of the Void]] - source for DPDR as enlightenment's evil twin and for Shinzen's two meditation-student interventions.
 - [[Classic Dark Night or Clinical Issues]] - source for dark-night versus depression/anxiety triage, referral posture, and medication-openness boundaries.
 - [[Advanced FAQs Regarding Emptiness]] - source for the compact response to pit-of-emptiness distress: empty the reaction and rebuild a positive self.
@@ -246,4 +352,5 @@ When future sources discuss enlightenment maps, downsides, traps, classical enli
 - [[Mastery Without Guru Inflation]] - blocks perfection projection and keeps enlightenment claims component-specific.
 - [[Total Happiness]] - life, behavior, and service remain the test of realization's integration.
 - [[Source And Polarities]] - calibrates still-point, nothingness, and beyond-time-space rhetoric.
+- [[Enlightenment Simultaneous Expansion and Contraction Sahej Samadhi Non-Dual Awareness]] - source for Shinzen's compact vastness/thinness enlightenment marker and its need for existing guardrails.
 - [[Complete Experience Safety Boundary]] - routes clinical, dissociation, bypass, and accountability concerns.

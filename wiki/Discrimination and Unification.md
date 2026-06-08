@@ -52,6 +52,16 @@ learning what to do at what time and seeing the two sides as
 complementarities rather than contradictions ([[A Mindfulness Path Arising
 Between Empowering Contrasts]] S1-S3).
 
+The third Ordinary Consciousness talk gives a later Flow-specific restatement
+of the same dialectic. Shinzen says the path has a place for making
+empowering distinctions among touch, sight, sound, Feel, Image, and Talk, and
+also a place for those distinctions disappearing. The empowering route for
+disappearance is Flow/Gone unification: larger pieces of sensory experience
+become one Flow field, and external sight/sound plus internal image/talk can
+flow together until the inside/outside boundary drops
+([[Ordinary Consciousness is the Way - Part 3 Mindful Awareness and Varieties
+of Flow]] S7).
+
 Gate 5 item 18 adds a finer example of the same principle within image space.
 Shinzen distinguishes body/self image, ambient place image, and central
 memory-plan-fantasy imagery. The point is not to multiply labels for their

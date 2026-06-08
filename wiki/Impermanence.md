@@ -7,10 +7,10 @@ importance: 10
 confidence: probable
 tags: []
 aliases: [anicca, changing-ness, activated impermanence, positive face of impermanence, taste of impermanence]
-sources: [raw/Shinzen Sources/science-of-enlightenment/10-return-to-the-source.md, raw/Shinzen Sources/science-of-enlightenment/09-the-power-of-gone.md, raw/Shinzen Sources/science-of-enlightenment/07-the-realm-of-power.md, raw/Shinzen Sources/science-of-enlightenment/06-the-many-faces-of-impermanence.md, raw/Shinzen Sources/five-ways/04-way-of-flow.md, raw/Shinzen Sources/five-ways/08-five-more-ways.md, "raw/Shinzen Sources/yt transcripts/edited/Born Between Expansion and Contraction Responding to the Needs of Your Larger Identity ~ Shinzen_b2ZTR9mhBWk.md", "raw/Shinzen Sources/yt transcripts/Paradigms of Change Impermanence, Flow, Expansion & Contraction, Arising & Passing ~ Shinzen Young_uco6mSHmwJA.md", "raw/Shinzen Sources/yt transcripts/Mindfulness Momentum, Arising and Passing to Simultaneous Expansion and Contraction ~ Shinzen Young_LlglNS_rg5g.md", "raw/Shinzen Sources/yt transcripts/Zen, Vipassana, & Becoming Impermanence ~ Shinzen Young_eJ15Y6WrDTE.md", "raw/Shinzen Sources/yt transcripts/Flow, Gone & a Figure-Ground Reversal ~ Shinzen Young_rKm-WXRH2IQ.md"]
-load_when: "A question involves impermanence, anicca, change as insight, trivial harsh or blissful impermanence, Flow and Gone, abrupt diminishing, altered phenomena as impermanence, creative Flow, taste of purification, solid experience becoming wave, unrelaxable tension as force, observer trap, Gone as Source contact, bhanga, or Source-wave language."
-best_linked_pages: ["[[Flow]]", "[[Gone]]", "[[Complete Experience]]", "[[Insight and Purification]]", "[[Expansion And Contraction]]", "[[Source And Polarities]]", "[[Intermediate Realm]]", "[[Dissolution]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-08
+sources: [raw/Shinzen Sources/science-of-enlightenment/06-the-many-faces-of-impermanence.md, raw/Shinzen Sources/science-of-enlightenment/09-the-power-of-gone.md, raw/Shinzen Sources/science-of-enlightenment/10-return-to-the-source.md, raw/Shinzen Sources/science-of-enlightenment/07-the-realm-of-power.md, raw/Shinzen Sources/five-ways/04-way-of-flow.md, raw/Shinzen Sources/five-ways/08-five-more-ways.md, "raw/Shinzen Sources/yt transcripts/Paradigms of Change Impermanence, Flow, Expansion & Contraction, Arising & Passing ~ Shinzen Young_uco6mSHmwJA.md", "raw/Shinzen Sources/yt transcripts/Mindfulness Momentum, Arising and Passing to Simultaneous Expansion and Contraction ~ Shinzen Young_LlglNS_rg5g.md"]
+load_when: "Load for impermanence/anicca, change as insight, harsh or blissful Flow, Gone, abrupt diminishing, altered phenomena as change, purification taste, solid experience becoming wave, Expansion-Contraction, observer reversal, Source-wave language, bhanga, or safety around energy/void practice."
+best_linked_pages: ["[[Impermanence Flow Gone And Source]]", "[[Flow]]", "[[Gone]]", "[[Expansion And Contraction]]", "[[Complete Experience]]", "[[Insight and Purification]]", "[[Source And Polarities]]", "[[Complete Experience Safety Boundary]]"]
+updated: 2026-05-12
 ---
 
 Impermanence is not just the doctrine that things pass away. In Shinzen's system it is the trainable recognition that every sensory event has changingness, and that changingness can mature into Flow, Gone, purification, unification, and Source-wave freedom.
@@ -21,12 +21,26 @@ Impermanence is not just the doctrine that things pass away. In Shinzen's system
 - **Key tensions**: The same frame can empower practice or become energy-chasing, austerity romanticism, metaphysical overclaim, or bypass of pain, medicine, therapy, and behavior.
 - **Source posture**: Strong as Shinzen's own transformation model; probable as an interpretation of his system; speculative when used as physics, theology, or clinical guidance.
 
+## Source Anchors
+- [[Science of Enlightenment Chapter 6 - The Many Faces of Impermanence]] anchors the broad change frame: conditionality, self-as-process, solidity becoming wave, Flow as positive impermanence, purification, unification, and Source-wave language.
+- [[Basic Mindfulness Chapter 4 - The Way of Flow]], [[Basic Mindfulness Chapter 8 - Five More Ways]], and [[Science of Enlightenment Chapter 9 - The Power of Gone]] anchor the Flow/Gone practice pair and Gone as abrupt diminishing.
+- [[Science of Enlightenment Chapter 10 - Return to the Source]], [[Paradigms of Change]], and [[Mindfulness Momentum, Arising and Passing to Simultaneous Expansion and Contraction]] anchor the Expansion-Contraction, arising-passing, Source-afterglow, and map-disclosure refinements.
+- Altered-phenomena, passing-as-arising, Zen/vipassana, figure-ground reversal, and safety sources remain cited in the body where they qualify impermanence as power, method, or risk.
+
 ## Model
 The first face of impermanence is ordinary conditionality. Shinzen accepts the early Buddhist warning that suffering follows when all happiness is pinned on unstable conditions such as health, wealth, reputation, relationships, family, or peace ([[Science of Enlightenment Chapter 6 - The Many Faces of Impermanence]] S2). This is not his final frame. The chapter's distinctive move is to claim that impermanence also has a positive face: a lasting dimension of happiness available through direct contact with changingness itself ([[Science of Enlightenment Chapter 6 - The Many Faces of Impermanence]] S3).
 
 The second face is self-as-process. The self that seems like a thing can be analyzed as fluctuating mental talk, mental image, and emotional body sensation. Shinzen therefore reads anatta as the self not being a fixed particle rather than as the simple denial that self appears at all ([[Science of Enlightenment Chapter 6 - The Many Faces of Impermanence]] S4). This connects impermanence directly to [[Inner Sensory System]] and later no-self material.
 
 The third face is solidity becoming wave. With enough [[Sensory Clarity]], experience is investigated minutely; with enough [[Equanimity]], it is investigated patiently. Either route can reveal seemingly solid self and world as a dance of sensory motion ([[Science of Enlightenment Chapter 6 - The Many Faces of Impermanence]] S5). This makes impermanence an application of the [[Mindfulness Skill Triad]], not a belief about change.
+
+[[Ordinary Consciousness is the Way - Part 1 Mindful Awareness and Varieties
+of Flow]] gives the oral teaching handle for this face. Shinzen says a
+constant-seeming pain can reveal intensity ripples when examined accurately,
+and that a mountain "dances" depending on the patience and fineness of the
+observation. The point is practice routing: clarity and equanimity change
+what counts as visible change ([[Ordinary Consciousness is the Way - Part 1
+Mindful Awareness and Varieties of Flow]] S2-S4).
 
 [[Born Between Expansion and Contraction]] adds a refined temporal face:
 passing can become salient as soon as arising begins, not only afterward.

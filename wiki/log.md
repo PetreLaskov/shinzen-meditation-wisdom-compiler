@@ -22,6 +22,5446 @@ Skip clean lint runs. Do not dump chat history.
 
 ---
 
+## [2026-06-06] refactor | Public atlas voice pass: Cluster G full-treat + G-K inventory repair
+Repaired the truncation-lost G-K inventory in `wiki/_atlas_register.md`:
+assigned `serious-illness-and-healing` as I's ninth safety/scope page and
+split the remaining 18 recovered pages into J (practice operations and the
+guided life, 9) and K (orientation, reference and lineage-translation, 9).
+Then full-treated Cluster G (completion/insight, 7) to the spine bar in one
+floor-plus-deepening pass: `public-atlas/complete-experience.md`,
+`public-atlas/completion-versus-bypass-and-intensity.md`,
+`public-atlas/insight-and-purification.md`,
+`public-atlas/signs-and-non-signs-of-completion.md`,
+`public-atlas/recycle-the-reaction.md`,
+`public-atlas/suffering-distortion-cycle.md`,
+`public-atlas/turn-toward-and-turn-away.md`. Each got a live-problem opener in
+a distinct cadence, one distinct safety bite (no shared
+get-support/stop-optimizing coda), and a body skim; converted
+recycle-the-reaction's 3-row Layer/Example table to prose, kept every
+routing/decision table, kept the destabilizing-page red lists intact. H-K
+remain. Validation clean: 90 pages, links resolve, no non-ASCII, no
+NUL/control bytes, no internal-machinery leak, no handoff contamination,
+spaced-hyphens net reduced per file. Full per-page detail is under the Cluster
+G entry in `wiki/_atlas_register.md`.
+
+## [2026-06-06] refactor | Atlas register Cluster F: reconciled concurrent-session opener edits
+A sibling "Cluster F deepening" session had already recorded an A-F-done entry
+in `wiki/_atlas_register.md` and `wiki/log.md`, but its opener rewrites did not
+all land on disk. Live files verified via bash: only
+`public-atlas/deconstruction-and-reconstruction.md` and
+`public-atlas/source-service-and-bodhicitta.md` carried that session's opener
+edits; the other four still held pre-deepening openers. This session completed
+the deepening on those four - rewrote the generic-subject opener on
+`public-atlas/no-self-without-erasing-personality.md` (staccato
+symptom-portrait) and the imperative opener on
+`public-atlas/self-inquiry-and-turn-back.md` (declarative, recast off the
+concentration-power echo), and applied body folds to
+`public-atlas/source-zero-and-speculation.md` (duplicate question-list) and
+`public-atlas/source-science-and-analogy.md` (table-restating coverage-list);
+the two already-at-bar openers were kept. Tables, safety bites, and the
+destabilizing-page red lists left intact. Added a RECONCILED note under the
+Cluster F entry in `wiki/_atlas_register.md` correcting the record to the live
+state; the "A-F done" queue line stands. Validation: 90 content pages; relative
+links resolve; no internal-machinery leak; no non-ASCII; no NUL/control bytes;
+no handoff contamination; 0 spaced-hyphens added. Method: bash os.replace from
+a /tmp snapshot, not the file tools. Open issue: multiple sibling sessions ran
+this pass concurrently and the record drifted from the files; prefer one
+writer per cluster.
+
+## [2026-06-06] refactor | Atlas register: Cluster F deepening (opener + body) + register truncation found
+Re-scoped Step 3 deepening pass on the no-self/source cluster (6 pages), bringing them to
+the spine bar after the earlier floor pass (tables + safety); this was the fast half,
+opener + body only. All six opened on a definitional, negation-first, or generic-subject
+lead; rewrote each to lead with the live problem or the felt teaching, in six distinct
+cadences so the cluster is not one skeleton: no-self-without-erasing-personality (the
+misapplied ideal - hearing "no-self" and sanding one's own personality off as debris),
+self-inquiry-and-turn-back (the answer-hunt misfire - the mind goes to fetch a sentence),
+deconstruction-and-reconstruction (the felt cost of pure deconstruction, the world goes
+thin, then the deliberate rebuild), source-zero-and-speculation (the same practice words a
+short step from a claim, credential, or license they cannot back),
+source-science-and-analogy (concrete exemplars then the trap - a good analogy impersonates
+evidence), source-service-and-bodhicitta (one loosening, two outputs - real warmth versus
+a counterfeit authority). Folded only opener/shape duplications: deconstruction's "two
+directions are not enemies" line and source-science's post-table "safest reading is"
+restatement, both now carried by their openers. Every audit-passing table kept, every
+distinct safety bite kept, both destabilizing pages' real red lists (self-inquiry DP/DR +
+teacher-consent, deconstruction stop-and-support) left intact, and the gold "Where Love
+Comes From" prose untouched. Cross-page read caught one shared skeleton, self-inquiry and
+deconstruction both leading with a bare imperative ("Ask..." / "Take..."), and recast
+deconstruction to a declarative ("There is a quiet cost..."); the six now open on six
+distinct first moves and none echoes the deepened A-E neighbors or the three near-twin
+spine pages. Pages touched: `public-atlas/no-self-without-erasing-personality.md`,
+`public-atlas/self-inquiry-and-turn-back.md`,
+`public-atlas/deconstruction-and-reconstruction.md`,
+`public-atlas/source-zero-and-speculation.md`,
+`public-atlas/source-science-and-analogy.md`,
+`public-atlas/source-service-and-bodhicitta.md`; recorded in `wiki/_atlas_register.md`.
+Validation: 90 pages; links resolve; no internal-machinery leak; no non-ASCII; no
+NUL/control bytes; no contamination; 0 spaced-hyphens added (per-file counts unchanged).
+Method: edits written via bash os.replace from a /tmp snapshot, not the file tools, per
+the documented torn-read and trailing-NUL hazard. Incidental finding:
+`wiki/_atlas_register.md` was discovered truncated mid-word in its G-K queue inventory (a
+clean ~38KB cut, no NUL, predating this pass; the lost I-ninth/J/K labels are
+unrecoverable, the file being untracked in git with the grouping in no other doc);
+completed the I-cluster line, recovered the 19 still-unclustered tail pages by
+elimination, and left a REGISTER TRUNCATION FOUND marker in the register for the next
+instance. Register queue now: A-F deepened, G-K pending, full-treat from scratch.
+
+## [2026-06-06] refactor | Atlas register: Cluster E deepening (opener + body)
+Re-scoped Step 3 deepening pass on the flow/dissolution cluster (6 pages), bringing them
+to the spine bar after the earlier floor pass (tables + safety). All six opened on a
+definitional, generic-subject, or negation-pile lead; rewrote each to lead with the live
+problem or the felt teaching, in six distinct cadences so the cluster is not one skeleton:
+flow-and-gone (noticing-asymmetry: catch the arising, miss the vanishing), rest-flow-gone
+(the three questions still/moving/ended promoted to an interrogative lead), impermanence
+(scale/modesty: the change is smaller than you think), dissolution-and-bhanga (the dangerous
+sentence "this is a known stage" used as permission to push), altered-phenomena (the state
+arrives pre-interpreted; undress it to sensory parts), auto-output (the input-to-output
+inversion). Folded only opener/shape duplications: flow-and-gone's "Most practitioners notice
+beginnings" line, rest-flow-gone's "Try asking" block plus a def-restating line, impermanence's
+doctrine-restatement, dissolution's post-table "important move is to separate" line, and
+auto-output's two redundant intro paras. Every audit-passing table kept, every distinct safety
+bite kept, both destabilizing pages' real medical/psychiatric red lists left intact (tables and
+safety floor untouched). Cross-page read caught two echoes, both fixed: impermanence first
+echoed the spine page impermanence-path's doctrine-vs-felt move (recast to scale/modesty), and
+auto-output's "Everything else in this atlas" echoed the-one-move's closer (recast to "Almost
+every method ... works on input"); no echo of way-of-flow or expansion-and-contraction. Pages
+touched: `public-atlas/flow-and-gone.md`, `public-atlas/rest-flow-gone.md`,
+`public-atlas/impermanence.md`, `public-atlas/dissolution-and-bhanga.md`,
+`public-atlas/altered-phenomena-and-dissolution-safety.md`,
+`public-atlas/auto-output-practice.md`; recorded in `wiki/_atlas_register.md`. Validation:
+90 pages; links resolve; no internal-machinery leak; no non-ASCII; no NUL/control bytes; no
+contamination; 0 spaced-hyphens added (net -2). Method: edits written via bash os.replace, not
+the file tools, because file-tool writes left the Linux mount's size cache stale (torn reads)
+and size-reducing writes risk the documented trailing-NUL truncation; os.replace sidesteps both
+and reverse-syncs to the Windows file tools. Register queue now: A-E deepened, F pending, then
+G-K from scratch.
+
+## [2026-06-06] refactor | Atlas register: Cluster D deepening (opener + body) + NUL repair
+Re-scoped Step 3 deepening pass on the five-Ways cluster (9 pages), bringing them to
+the spine bar after the earlier floor pass (tables + safety). All nine opened on a
+definitional/generic-subject lead; rewrote each to lead with the live problem or the
+felt teaching, in nine distinct cadences so the cluster is not one skeleton:
+main-practice-routes (collector's-mistake), choosing-a-practice-route (worked
+ambiguity of "thoughts are loud"), way-of-tranquility (calm divides the room),
+way-of-human-goodness (the cold adept), nurture-positive (the manufactured-warmth
+worry), way-of-flow (the solid ache that turns out to move), way-of-physical-senses
+(the door that never closes), way-of-thoughts-and-emotions (the 2 a.m. recharging
+loop), do-nothing (the gold "steering wheel" opener finally applied to the live page,
+ASCII-adapted - resolves the standing out-of-scope note). Folded opener/shape
+duplications into prose where a list only restated a table (main's "Start with fit",
+flow's twin channel-lists, physical-senses' route-restatement, thoughts' "Why
+Decomposition Helps"); pointed thoughts' decomposition mechanism to feel-image-talk to
+avoid echoing that deepened page. Tables and safety bites otherwise untouched (floor
+holds). Cross-page read: nine distinct opener forms; fixed two echoes on
+way-of-physical-senses ("loud", "the whole route"). Pages touched:
+`public-atlas/main-practice-routes.md`, `public-atlas/choosing-a-practice-route.md`,
+`public-atlas/way-of-tranquility.md`, `public-atlas/way-of-human-goodness.md`,
+`public-atlas/nurture-positive.md`, `public-atlas/way-of-flow.md`,
+`public-atlas/way-of-physical-senses.md`, `public-atlas/way-of-thoughts-and-emotions.md`,
+`public-atlas/do-nothing.md`; recorded in `wiki/_atlas_register.md`.
+Validation: 90 pages; links resolve; no internal-machinery leak; no non-ASCII; no
+handoff contamination; 0 prose spaced-hyphens added. CORRUPTION FOUND + FIXED: the six
+pages whose edits shortened them picked up trailing NUL (0x00) padding (in-place
+rewrite through the mount does not truncate); all NULs trailing, content intact,
+stripped via temp-file + atomic rename. The README `rg "[^\x00-\x7F]"` check MISSES
+NUL; next instance must add a NUL/control scan (`file public-atlas/*.md | grep data`)
+after any size-reducing edit. Register queue now: A-D deepened, E-F pending, then G-K
+from scratch.
+
+## [2026-06-06] refactor | Atlas register: Cluster C deepening (opener + body)
+Re-scoped Step 3 deepening pass on the three-skills cluster (5 pages), bringing
+them to the spine bar after the earlier floor pass (tables + safety). Rewrote all
+five definitional/negation-first openers to lead with the live problem or the felt
+teaching, in five distinct cadences; folded three table/bullet duplications into
+prose (effort-regulation's diagnostic list, calming-and-clarifying's weak 3-row
+table, mindfulness-as-cce's diagnostic bullets plus twin paragraph openers);
+collapsed equanimity's four-part negation-stack to one clause. Cross-page read
+caught and fixed one echo (equanimity vs the ladder on second-order equanimity).
+Every audit-passing decision table and all safety bites kept. Pages touched:
+`public-atlas/effort-regulation.md`, `public-atlas/equanimity-training-ladder.md`,
+`public-atlas/calming-and-clarifying.md`, `public-atlas/mindfulness-as-cce.md`,
+`public-atlas/equanimity.md`; recorded in `wiki/_atlas_register.md`. Validation
+clean: 90 content pages, relative links OK, no non-ASCII, no em-dash, no
+internal-machinery leak, 0 spaced-hyphens added (net reduced). Deepening queue:
+A-C done, D-F pending, then full-treat G-K.
+
+## [2026-06-05] review | Public atlas completion audit
+Created `wiki/_public_atlas_completion_audit_2026-06-05.md` to test the
+full compiler-to-atlas objective against the current public atlas. The audit
+reframes the goal as turning compiler practice intelligence into a public
+practitioner decision interface, derives completion requirements from the
+user objective and `AGENTS.md`, route-tests the homepage, full map, and
+glossary against serious-practitioner reader jobs, and records the residual
+non-goals around publication, legal/rights policy, external user testing,
+static-site readiness, and individualized clinical/legal/credentialing
+guidance. It concludes that the current 87-page Markdown atlas satisfies the
+information-value transfer objective and that no high-confidence missing
+public page or important compiler-derived claim remains from the current
+audits. Updated atlas orientation and editorial release plan so future work
+starts from a concrete route failure, external feedback, formal
+citation/rights needs, or site-readiness rather than automatic expansion.
+Pages touched: `wiki/_public_atlas_completion_audit_2026-06-05.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/log.md`. Validation: public-atlas content page count 87; relative
+Markdown links OK; internal-leak scan no matches; non-ASCII scan no matches;
+`tools\wiki_lint.cmd` OK with expected raw backlog and broad-domain
+diagnostics.
+
+## [2026-06-05] synthesize | Public atlas asking for guidance
+Added `public-atlas/asking-for-guidance.md` as a boundary guide for asking a
+teacher, coach, peer, clinician, sponsor, friend, or helper for practice
+guidance without surrendering scope, privacy, consent, ordinary care, or
+judgment. The page routes a serious practitioner through a bounded report, a
+practice hypothesis rather than a pronouncement, role and referral limits,
+privacy/consent checks, accountable-guidance signals, warning signs, and a
+follow-up loop through practice, behavior, support, and safety. Routed it
+from the public homepage, full map, glossary, Practice Report Check,
+Guidance Scope, and Teacher/Lineage pages. Updated the atlas orientation,
+editorial release plan, and compiler-to-atlas gap audit to mark the
+teacher/helper conversation prep gap closed for this audit. Pages touched:
+`public-atlas/asking-for-guidance.md`, `public-atlas/index.md`,
+`public-atlas/map.md`, `public-atlas/glossary.md`,
+`public-atlas/practice-report-check.md`,
+`public-atlas/guidance-scope-and-accountability.md`,
+`public-atlas/teacher-and-lineage.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/_public_atlas_compiler_to_atlas_gap_audit_2026-06-05.md`,
+`wiki/log.md`. Validation: public-atlas content page count 87; relative
+Markdown links OK; internal-leak scan no matches; non-ASCII scan no matches;
+`tools\wiki_lint.cmd` OK with expected raw backlog and broad-domain
+diagnostics.
+
+## [2026-06-05] synthesize | Public atlas source and claim trust
+Strengthened `public-atlas/source-and-claim-tiers.md` with public-facing
+source families, compact source-trail interpretation, citation posture, and
+quotation posture. The page now explains that the atlas relies on Shinzen's
+public articles/manuals, books and long-form teachings, public talks/videos/
+retreats/live guidance, cross-page synthesis, and boundary pages; it defaults
+to paraphrase and compact source trails, avoids long quotation until
+rights/publication policy is settled, and keeps science, medicine, therapy,
+ethics, metaphysics, history, and teacher authority in lower claim tiers
+unless separately evidenced. Routed this trust surface from
+`public-atlas/how-to-read-this-site.md`, the homepage, full map, and glossary.
+No new public page was needed. Updated the compiler-to-atlas gap audit so
+source/citation posture is covered for the current Markdown draft and
+teacher/helper conversation prep remains the strongest substantive
+practice/support gap. Pages touched:
+`public-atlas/source-and-claim-tiers.md`,
+`public-atlas/how-to-read-this-site.md`, `public-atlas/index.md`,
+`public-atlas/map.md`, `public-atlas/glossary.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/_public_atlas_compiler_to_atlas_gap_audit_2026-06-05.md`,
+`wiki/log.md`. Validation: public-atlas content page count 86; relative
+Markdown links OK; internal-leak scan no matches; non-ASCII scan no matches;
+`tools\wiki_lint.cmd` OK with expected raw backlog and broad-domain
+diagnostics.
+
+## [2026-06-05] synthesize | Public atlas behavior change escalation
+Added `public-atlas/behavior-change-escalation.md` as a boundary page for
+the reader job: meditation has made an urge or pattern clearer, but the
+behavior still is not changing. The page routes specific behavior naming,
+sensory urge practice, concrete commitments, feedback, outside accountability,
+repair, ordinary support, and safety/protection gates while preserving the
+boundary that more meditation is not always the right escalation. Routed it
+from the public homepage, full map, glossary, behavior/service, guidance,
+Human Goodness, practice-report, route-choice, safety, Return, Aim, and Total
+Happiness pages. Updated the compiler-to-atlas gap audit so source/citation
+posture remains the strongest launch trust gap and teacher/helper
+conversation prep is now the strongest remaining substantive
+practice/support gap. Pages touched:
+`public-atlas/behavior-change-escalation.md`,
+`public-atlas/index.md`, `public-atlas/map.md`,
+`public-atlas/glossary.md`,
+`public-atlas/behavior-and-service-test.md`,
+`public-atlas/guidance-scope-and-accountability.md`,
+`public-atlas/way-of-human-goodness.md`,
+`public-atlas/practice-report-check.md`,
+`public-atlas/choosing-a-practice-route.md`,
+`public-atlas/safety-scope-and-accountability.md`,
+`public-atlas/the-return.md`, `public-atlas/the-aim.md`,
+`public-atlas/total-happiness-aim-structure.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/_public_atlas_compiler_to_atlas_gap_audit_2026-06-05.md`,
+`wiki/log.md`. Validation: public-atlas content page count 86; relative
+Markdown links OK; internal-leak scan no matches; non-ASCII scan no matches;
+`tools\wiki_lint.cmd` OK with expected raw backlog and broad-domain
+diagnostics.
+
+## [2026-06-05] synthesize | Public atlas retreat and aftercare route
+Added `public-atlas/retreat-and-aftercare.md` as a boundary page for
+integrating retreat, long-sit, and intense-practice aftereffects without
+chasing afterglow, dismissing aftershock, or overreading the result. The page
+routes re-entry basics, sensory reporting, lighter one-week containers,
+feedback, behavior/service checks, and support-first stop signals. Routed it
+from the public homepage, full map, glossary, practice-cycles, applied-life,
+reaction-recycling, altered-phenomena, dissolution, DPDR, going-deep, and
+safety pages. Updated the compiler-to-atlas gap audit so behavior-change
+escalation is now the strongest remaining substantive practice gap and
+source/citation posture remains the strongest launch trust gap. Pages
+touched: `public-atlas/retreat-and-aftercare.md`,
+`public-atlas/index.md`, `public-atlas/map.md`,
+`public-atlas/glossary.md`,
+`public-atlas/practice-cycles-and-life-architecture.md`,
+`public-atlas/applied-life-boundaries.md`,
+`public-atlas/recycle-the-reaction.md`,
+`public-atlas/altered-phenomena-and-dissolution-safety.md`,
+`public-atlas/dissolution-and-bhanga.md`,
+`public-atlas/dpdr-and-the-pit-of-the-void.md`,
+`public-atlas/going-deep-safely.md`,
+`public-atlas/practice-planning-loop.md`,
+`public-atlas/safety-scope-and-accountability.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/_public_atlas_compiler_to_atlas_gap_audit_2026-06-05.md`,
+`wiki/log.md`. Validation: public-atlas content page count 85; relative
+Markdown links OK; internal-leak scan no matches; non-ASCII scan no matches;
+`tools\wiki_lint.cmd` OK with expected raw backlog and broad-domain
+diagnostics.
+
+## [2026-06-05] synthesize | Public atlas practice-planning loop
+Added `public-atlas/practice-planning-loop.md` as a practice page that turns
+the atlas into a repeatable week/month use loop: choose aim, choose
+container, set cycle, practice, read the report, adjust, and check life
+effects. Routed it from the public homepage, full map, glossary,
+route-choice, practice-cycles, routes, and aim pages. Updated the compiler-
+to-atlas gap audit to mark Practice Planning Loop as resolved and to rank
+retreat/aftercare routing and source/citation policy as the next main gaps.
+Pages touched: `public-atlas/practice-planning-loop.md`,
+`public-atlas/index.md`, `public-atlas/map.md`,
+`public-atlas/glossary.md`,
+`public-atlas/choosing-a-practice-route.md`,
+`public-atlas/practice-cycles-and-life-architecture.md`,
+`public-atlas/the-routes.md`, `public-atlas/the-aim.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/_public_atlas_compiler_to_atlas_gap_audit_2026-06-05.md`,
+`wiki/log.md`. Validation: public-atlas content page count 84; relative
+Markdown links OK; internal-leak scan no matches; non-ASCII scan no matches;
+`tools\wiki_lint.cmd` OK with expected raw backlog and broad-domain
+diagnostics.
+
+## [2026-06-05] review | Public atlas compiler-to-atlas gap audit
+Created `wiki/_public_atlas_compiler_to_atlas_gap_audit_2026-06-05.md` as
+an internal review note after the Windows and Walls and Practice Report Check
+passes. The audit reframes the remaining delta as translation of compiler
+judgment into repeat-use human practice decisions rather than basic content
+coverage, and ranks the strongest remaining public gaps: Practice Planning
+Loop, source/citation/rights posture, retreat and aftercare route, behavior
+change escalation, and teacher/helper conversation prep. Pages touched:
+`wiki/_public_atlas_compiler_to_atlas_gap_audit_2026-06-05.md`,
+`wiki/log.md`. Validation: public-atlas content page count 83; relative
+Markdown links OK; internal-leak scan no matches; non-ASCII scan no matches;
+`tools\wiki_lint.cmd` OK with expected raw backlog and broad-domain
+diagnostics; `git diff --check` reported only pre-existing line-ending
+warnings.
+
+## [2026-06-05] synthesize | Public atlas practice-report route
+Added `public-atlas/practice-report-check.md` as a boundary page translating
+the compiler's branch-and-loop guidance surface into a public self-report
+tool. The page helps serious practitioners make reports routable through
+context, sensory facts, CCE quality, reaction, life effect, and boundary,
+then use stay/tune/switch/turn-away-or-support/stop-optimizing checks before
+choosing the next route. Routed it from the public homepage, full map,
+glossary, route-choice, guidance, and safety pages. Pages touched:
+`public-atlas/practice-report-check.md`, `public-atlas/index.md`,
+`public-atlas/map.md`, `public-atlas/glossary.md`,
+`public-atlas/choosing-a-practice-route.md`,
+`public-atlas/guidance-scope-and-accountability.md`,
+`public-atlas/safety-scope-and-accountability.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/log.md`. Validation: public-atlas content page count 83; relative
+Markdown links OK; internal-leak scan no matches; non-ASCII scan no matches;
+`tools\wiki_lint.cmd` OK with expected raw backlog and broad-domain
+diagnostics.
+
+## [2026-06-05] synthesize | Public atlas Windows and Walls route
+Added `public-atlas/windows-and-walls.md` as a boundary page translating
+Shinzen's Wall/Window and algorithmic-guidance frame into a public
+practitioner route. The page separates objective situation, objective
+behavior, sensory challenge, and support/feedback before technique choice,
+and keeps "life as monastery" language bounded by ordinary care, protection,
+repair, accountability, and scope. Routed the page from the public homepage,
+full map, glossary, practice-cycles, applied-life, and safety pages. Pages
+touched: `public-atlas/windows-and-walls.md`, `public-atlas/index.md`,
+`public-atlas/map.md`, `public-atlas/glossary.md`,
+`public-atlas/practice-cycles-and-life-architecture.md`,
+`public-atlas/applied-life-boundaries.md`,
+`public-atlas/safety-scope-and-accountability.md`,
+`public-atlas/flow-and-gone.md`, `public-atlas/going-deep-safely.md`,
+`public-atlas/no-self-without-erasing-the-person.md`,
+`public-atlas/source-zero-and-the-honest-edge.md`,
+`public-atlas/the-return.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/log.md`. Validation: public-atlas content page count 82; relative
+Markdown links OK; internal-leak scan no matches; non-ASCII scan no matches
+after cleaning pre-existing public-atlas em dashes; `tools\wiki_lint.cmd` OK
+with expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-04] synthesize | Public atlas new-plan closeout
+Completed the remaining `ATLAS - Editorial Plan.md` workstream. Phase 4
+rewrote high-friction practice openings and added path-chapter up-links across
+practice pages. Phase 5 consolidated the old whole-system and Basic
+Mindfulness overview pages into redirect stubs, folded the teaching-method,
+lineage, and guru-inflation pages into `public-atlas/teacher-and-lineage.md`,
+rerouted atlas links to the ten-part path and single teacher appendix, and
+registered legacy stubs in the full map. Phase 6 read the ten path chapters
+front to back and removed self-links and duplicate navigation introduced by
+consolidation. Pages touched: `public-atlas/`, `ATLAS - Editorial Plan.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/index.md`, `wiki/log.md`. Validation: public-atlas content page count
+81; relative Markdown links OK; internal-leak scan no matches; non-ASCII scan
+no matches; `tools\wiki_lint.cmd` OK with expected raw backlog and
+broad-domain diagnostics.
+
+## [2026-06-04] synthesize | Public atlas editorial architecture pass
+Executed the first pass from `ATLAS - Editorial Plan.md`. Added
+`tier: pillar | practice | boundary` frontmatter to the public atlas, moved
+the old routing-heavy homepage into `public-atlas/map.md`, rebuilt
+`public-atlas/index.md` as a short human front door, shrank
+`public-atlas/how-to-read-this-site.md`, created ten pillar scaffold pages,
+and added `public-atlas/teacher-and-lineage.md` as the teacher/lineage
+appendix. Ran a bounded Phase 1 mechanical sweep across 67 existing atlas
+pages: removed per-page `Source Posture`/`Source Trail` sections, stripped
+the repeated boilerplate disclaimer sentence, and removed the most rigid
+template headings while keeping body content for later voice rewrites. Then
+rewrote the ten pillar scaffold pages into first-draft spine chapters keyed
+to the living-register plan. Files touched: `public-atlas/`,
+`public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`, `ATLAS - Editorial Plan.md`,
+`wiki/log.md`. Deferred: further pillar polish, practice-page voice rewrites,
+reference/consolidation, and front-to-back coherence pass.
+
+## [2026-06-01] synthesize | Public atlas Source Zero challenge
+Ran the second Phase 3 adept-reader challenge cycle from the public-atlas
+editorial release deepening plan. Strengthened the reader route for the
+question "I had a deep no-self, Gone, Source, Zero, or afterglow event; what
+can I infer, and where does direct experience stop being evidence?" Existing
+routes from the public index, how-to-read page, and glossary already covered
+the job, so no route rows were added. Strengthened
+`public-atlas/source-zero-and-speculation.md` with the afterglow boundary, a
+direct inference table, return-to-practice guidance, stronger safety
+language, and source-posture clarification. Files touched:
+`public-atlas/source-zero-and-speculation.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/log.md`. Validation: public-atlas content count 69; relative Markdown
+links OK; internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd`
+OK with expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas mastery authority challenge
+Ran the first Phase 3 adept-reader challenge cycle from the public-atlas
+editorial release deepening plan. Strengthened the reader route for the
+question "I am evaluating a teacher, attainment, transmission, or
+Source-service claim; how do I preserve the possibility of real mastery
+without letting it certify authority, conduct, or safety?" Existing routes
+from the public index, how-to-read page, and glossary already covered the
+job, so no route rows were added. Strengthened
+`public-atlas/mastery-without-guru-inflation.md` with an adept-reader check
+table, stronger protection/accountability language, a compact source trail,
+and a direct safety/scope next link. Files touched:
+`public-atlas/mastery-without-guru-inflation.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/log.md`. Validation: public-atlas content count 69; relative Markdown
+links OK; internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd`
+OK with expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas Sensory Grid trust
+Ran the eighth Phase 2 foundation-page trust cycle from the public-atlas
+editorial release deepening plan. Strengthened the reader route for the
+question "I understand See/Hear/Feel, but how do I use the expanded Sensory
+Grid without over-labeling or getting lost?" Existing routes from the public
+index, how-to-read page, and glossary already covered the job, so no route
+rows were added. Strengthened `public-atlas/sensory-grid.md` with an
+immediate-use route table, concrete examples, page-specific safety/source
+posture, a compact source trail, and a method-safety next link. Files
+touched: `public-atlas/sensory-grid.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/log.md`. Validation: public-atlas content count 69; relative Markdown
+links OK; internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd`
+OK with expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas Basic Mindfulness route trust
+Ran the seventh Phase 2 foundation-page trust cycle from the public-atlas
+editorial release deepening plan. Strengthened the reader route for the
+question "I understand the parts, but can I see how Basic Mindfulness and
+the main routes fit together without turning route choice into overchoice?"
+`public-atlas/basic-mindfulness-system.md` now explains how to use the
+architecture by scale, gives a small example, adds a compact source trail,
+and links directly to the main-route and route-choice pages.
+`public-atlas/main-practice-routes.md` now separates architecture, session
+container, live sensory object, method tuning, and safety/support, adds a
+one-route/planned-sequence/responsive-branching container table, strengthens
+safety language, and adds a compact source trail. `public-atlas/index.md`
+and `public-atlas/glossary.md` now route overchoice and one-good-technique
+readers more directly. Files touched:
+`public-atlas/basic-mindfulness-system.md`,
+`public-atlas/main-practice-routes.md`, `public-atlas/index.md`,
+`public-atlas/glossary.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/log.md`. Validation: public-atlas content count 69; relative Markdown
+links OK; internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd`
+OK with expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas equanimity support trust
+Ran the sixth Phase 2 foundation-page trust cycle from the public-atlas
+editorial release deepening plan. Strengthened the reader route for the
+question "I can see equanimity matters, but how do I train it without
+suppressing, spacing out, or forcing myself to tolerate too much?" Existing
+routes from the public index and glossary already covered the job, so no
+route rows were added. Strengthened
+`public-atlas/equanimity-training-ladder.md` with an immediate support menu,
+first-minute check, and compact source trail. Strengthened
+`public-atlas/equanimity-versus-suppression.md` with an uncertainty route,
+green/yellow/red signals, and compact source trail. Files touched:
+`public-atlas/equanimity-training-ladder.md`,
+`public-atlas/equanimity-versus-suppression.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/log.md`. Validation: public-atlas content count 69; relative Markdown
+links OK; internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd`
+OK with expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas inner completion trust
+Ran the fifth Phase 2 foundation-page trust cycle from the public-atlas
+editorial release deepening plan. Strengthened the reader route for the
+question "Can I tell what inner strand is active and whether a strong
+practice event is actually completing without forcing, over-decomposing, or
+mistaking drama for progress?" Existing routes from the public index and
+glossary already covered the job, so no route rows were added. Strengthened
+`public-atlas/inner-sensory-system.md` with an immediate route for Image,
+Talk, Feel, subtle activation, and positive reconstruction. Strengthened
+`public-atlas/signs-and-non-signs-of-completion.md` with a completion-check
+table, concrete examples, stronger safety/source posture, and a compact
+source trail. Files touched: `public-atlas/inner-sensory-system.md`,
+`public-atlas/signs-and-non-signs-of-completion.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/log.md`. Validation: public-atlas content count 69; relative Markdown
+links OK; internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd`
+OK with expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas physical-senses tranquility trust
+Ran the fourth Phase 2 foundation-page trust cycle from the public-atlas
+editorial release deepening plan. Strengthened the reader route for the
+question "Can I use physical senses, discomfort, movement, grounding, or Rest
+without turning body practice into endurance or calm into avoidance?" Added a
+home-page route row and glossary route, then strengthened
+`public-atlas/way-of-physical-senses.md` and
+`public-atlas/way-of-tranquility.md` with immediate-use tables, small
+examples, page-specific safety boundaries, compact source trails, and next
+reading adjustments. Files touched: `public-atlas/index.md`,
+`public-atlas/glossary.md`, `public-atlas/way-of-physical-senses.md`,
+`public-atlas/way-of-tranquility.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/log.md`. Validation: public-atlas content count 69; relative Markdown
+links OK; internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd`
+OK with expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas route-architecture tuning trust
+Ran the third Phase 2 foundation-page trust cycle from the public-atlas
+editorial release deepening plan. Strengthened the reader route for the
+question "Can I tune a basically right method by changing Way, effort,
+coverage, or zooming without over-optimizing or switching the whole path?"
+Added a home-page route row, then strengthened `public-atlas/five-ways.md`,
+`public-atlas/effort-regulation.md`,
+`public-atlas/focus-coverage-strategies.md`, and
+`public-atlas/zooming.md` with route checks, small examples or immediate-use
+tables, compact source trails, and page-specific safety/source posture.
+Files touched: `public-atlas/index.md`, `public-atlas/five-ways.md`,
+`public-atlas/effort-regulation.md`,
+`public-atlas/focus-coverage-strategies.md`, `public-atlas/zooming.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/log.md`. Validation: public-atlas content count 69; relative Markdown
+links OK; internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd`
+OK with expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas impermanence primitives trust
+Ran the second Phase 2 foundation-page trust cycle from the public-atlas
+editorial release deepening plan. Strengthened the reader route for the
+question "Can I understand impermanence, Rest, Flow, and Gone as concrete
+practice handles without turning them into vague change-language, energy
+chasing, or advanced-state status?" Added an index problem route and glossary
+definition, then strengthened `public-atlas/impermanence.md`,
+`public-atlas/rest-flow-gone.md`, and `public-atlas/way-of-flow.md` with
+direct route tables, small examples, page-specific safety boundaries, compact
+source trails, and nonforcing language. Files touched:
+`public-atlas/index.md`, `public-atlas/glossary.md`,
+`public-atlas/impermanence.md`, `public-atlas/rest-flow-gone.md`,
+`public-atlas/way-of-flow.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/log.md`. Validation: public-atlas content count 69; relative Markdown
+links OK; internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd`
+OK with expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas foundation skill-primitives trust
+Ran the first Phase 2 implementation cycle from the public-atlas editorial
+release deepening plan. Strengthened the Concentration Power and Equanimity
+foundation pages for the reader question "I keep coming back to basic terms;
+can I tell how to use them in a live session, what goes wrong, and why the
+atlas's description is source-grounded?" Added live-problem decision
+surfaces, small examples, page-specific safety boundaries, compact source
+trails, and next-reading adjustments without reopening expansion. Files
+touched: `public-atlas/concentration-power.md`,
+`public-atlas/equanimity.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/log.md`. Validation: public-atlas content count 69; relative Markdown
+links OK; internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd`
+OK with expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas human-reading paths
+Ran the first implementation cycle from the public-atlas editorial release
+deepening plan. Strengthened the front-door reader experience by adding
+explicit six-page paths for serious beginners, Shinzen/Unified Mindfulness
+practitioners, advanced or pragmatic-dharma practitioners, meditation
+teachers or coaches, cross-tradition readers, and safety/claim-tier readers.
+Kept the completed glossary route intact and did not reopen the expansion
+queue. Files touched: `public-atlas/index.md`,
+`public-atlas/how-to-read-this-site.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`wiki/log.md`. Validation: public-atlas content count 69; relative Markdown
+links OK; internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd`
+OK with expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] review | Public atlas editorial release priority plan
+Reviewed the completed public-atlas expansion and post-completion route-test
+work against the goal of transmitting compiler knowledge to serious human
+readers under a reputable editorial standard. Identified the next best work
+as publication-grade editorial transmission rather than more expansion:
+human reading paths, foundation-page trust, adept-reader challenge tests,
+scenario examples, source/citation policy, and site-readiness. Added the
+automation-ready plan at
+`wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md` and
+updated atlas handoff/orientation surfaces to route future work there. Pages
+touched: `wiki/_public_atlas_editorial_release_deepening_plan_2026-06-01.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`, `wiki/log.md`.
+Validation: public-atlas content count 69; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas inner-emotion route polish
+Ran a post-completion reader-route pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened `public-atlas/way-of-thoughts-and-emotions.md` for
+the reader question "An emotion, self-talk loop, worry, shame, vague inner
+pressure, or 'something is off' is active; what should I label first, when
+should I widen, and when should I stop optimizing meditation?" by adding a
+Talk/Image/Feel decision surface, support-first branch, and compact source
+trail. Strengthened `public-atlas/feel-image-talk.md` with a first-label
+route table for Talk, Image, Feel, all-three tangles, vague inward tugs, and
+unsafe escalation. Added public index and glossary routes for emotion,
+self-talk, worry, shame, vague inner pressure, and "something is off"
+readers. Files touched: `public-atlas/way-of-thoughts-and-emotions.md`,
+`public-atlas/feel-image-talk.md`, `public-atlas/index.md`,
+`public-atlas/glossary.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 69; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas calming-clarifying route polish
+Ran a post-completion reader-route pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened `public-atlas/calming-and-clarifying.md` for the
+reader question "Should this session calm down, clarify what is happening,
+balance both, or stop optimizing practice?" by adding a direct
+calm/clarify/balance/stop decision surface, small examples, source trail,
+and page-specific safety/source posture. Added public index and glossary
+routes for calm, tranquility, samatha, jhana, vipassana, dry insight,
+good-place, Rest-versus-clarity, and "nothing is happening" readers. Files
+touched: `public-atlas/calming-and-clarifying.md`,
+`public-atlas/index.md`, `public-atlas/glossary.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 69; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas state-to-action route polish
+Ran a post-completion reader-route pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened `public-atlas/practice-cycles-and-life-architecture.md`
+for the reader question "A deep, open, no-self, or samadhi-like state is
+active, and life requires action; should I leave practice, act from the
+state, or stop?" by adding a state-to-action decision surface and source
+trail note. Added supporting task-safety language to
+`public-atlas/practice-method-safety.md`, supporting no-self/self-reactivation
+language to `public-atlas/no-self-without-erasing-personality.md`, and
+public index/glossary routes for functioning-from-samadhi and
+action-after-depth readers. Files touched:
+`public-atlas/practice-cycles-and-life-architecture.md`,
+`public-atlas/practice-method-safety.md`,
+`public-atlas/no-self-without-erasing-personality.md`,
+`public-atlas/index.md`, `public-atlas/glossary.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 69; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas claim-tier route polish
+Ran a post-completion reader-route pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened `public-atlas/source-and-claim-tiers.md` for the
+reader question "Is this a Shinzen teaching, compiled synthesis, inference,
+speculation, proof claim, science claim, Source claim, or teacher-authority
+claim?" by adding a direct claim-sorting table, small examples, stronger
+safety/scope language, and a guidance next-reading link. Added public index
+and glossary routes for claim-tier, source-posture, proof, science, Source,
+authority, and "not established here" readers. Files touched:
+`public-atlas/source-and-claim-tiers.md`, `public-atlas/index.md`,
+`public-atlas/glossary.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 69; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas human-goodness route polish
+Ran a post-completion reader-route pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened `public-atlas/way-of-human-goodness.md` for the
+reader question "How do I cultivate human goodness, love, repair, behavior,
+and service without forced positivity or private-state self-certification?"
+by adding a direct route table, positive-theme map, small examples, and
+compact source trail. Added public index and glossary routes for human
+goodness, positive affect, gratitude, compassion, repair, positive behavior,
+positive cognition, love, and service-without-bypass readers. Files touched:
+`public-atlas/way-of-human-goodness.md`, `public-atlas/index.md`,
+`public-atlas/glossary.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 69; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas daily-life practice route polish
+Ran a post-completion reader-route pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened `public-atlas/practice-cycles-and-life-architecture.md`
+for the reader question "How do I bring practice into daily life, motion,
+micro-hits, tasks, or conversation without becoming unsafe, mechanical, or
+split-attention?" by adding a daily-life route table and compact source
+trail. Added public index and glossary routes for off-cushion practice,
+micro-hits, challenge sequences, retroactive practice, tasks, and
+conversation-practice readers, and linked `public-atlas/practice-method-safety.md`
+back to practice cycles. Files touched:
+`public-atlas/practice-cycles-and-life-architecture.md`,
+`public-atlas/index.md`, `public-atlas/glossary.md`,
+`public-atlas/practice-method-safety.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 69; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas reaction-recycling route polish
+Ran a post-completion reader-route/example pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened `public-atlas/recycle-the-reaction.md` for the reader
+question "A practice effect happened, and now my reaction to it is the
+problem; should I recycle, switch, stop, or get support?" by adding an
+immediate route table, four-step check, and compact source trail. Added
+public index and glossary routes for state rebound, craving for practice
+effects, fear after no-self, relational alienation, void flatness, and
+retreat aftershock. Files touched: `public-atlas/recycle-the-reaction.md`,
+`public-atlas/index.md`, `public-atlas/glossary.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 69; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas turn-toward route polish
+Ran a post-completion reader-route/example pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened `public-atlas/turn-toward-and-turn-away.md` for the
+reader question "Should I face this difficult experience directly, stabilize
+elsewhere, titrate contact, focus on Flow, or stop and get support?" by
+adding an immediate route table, small examples, and a compact source trail.
+Added public index and glossary routes for direct contact, exposure,
+avoidance, background equanimity, and "should I face it?" questions, and
+recorded the pass in public atlas handoff surfaces. Files touched:
+`public-atlas/turn-toward-and-turn-away.md`, `public-atlas/index.md`,
+`public-atlas/glossary.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 69; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas insight-purification route polish
+Ran a post-completion reader-route/example pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened `public-atlas/insight-and-purification.md` for the
+reader question "Is this purification, catharsis, endurance, or bypass?" by
+adding a route-check table, three checks, small examples, and a stronger
+hidden-material caution. Added public index and glossary routes for
+purification, catharsis, trickle-down change, and clearing questions, and
+linked `public-atlas/suffering-distortion-cycle.md` back to the
+transformation model. Files touched:
+`public-atlas/insight-and-purification.md`, `public-atlas/index.md`,
+`public-atlas/glossary.md`, `public-atlas/suffering-distortion-cycle.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 69; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas first-minute method examples
+Ran a post-completion reader-route/example pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened the reader question "What does the first minute of
+Noting, Do Nothing, Focus on Rest, or Nurture Positive actually look like?"
+by adding first-minute practice tables to the four technique pages and a
+compact comparison table to `public-atlas/choosing-a-practice-route.md`.
+Added public index and glossary routes for method-choice and first-minute
+example readers, and recorded the pass in public atlas handoff surfaces and
+the active plan status notes. Files touched:
+`public-atlas/noting.md`, `public-atlas/do-nothing.md`,
+`public-atlas/focus-on-rest.md`, `public-atlas/nurture-positive.md`,
+`public-atlas/choosing-a-practice-route.md`, `public-atlas/index.md`,
+`public-atlas/glossary.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 69; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas dissolution-bhanga route polish
+Ran a post-completion reader-route/example pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened `public-atlas/dissolution-and-bhanga.md` for the
+reader question "What should I do if vibration, breakup, bhanga, harsh Flow,
+intense vanishing, or post-retreat aftershock shows up?" by adding an
+immediate response table for mild vibration, pleasant whole-field Flow,
+frightening breakup, post-retreat aftershock, and unclear
+practice-versus-health cases. Added public index and glossary routes for
+dissolution/bhanga readers, and recorded the pass in public atlas handoff
+surfaces and the active plan status notes. Files touched:
+`public-atlas/dissolution-and-bhanga.md`, `public-atlas/index.md`,
+`public-atlas/glossary.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 69; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas See/Hear/Feel label ambiguity
+Ran a post-completion reader-route pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened `public-atlas/see-hear-feel-and-the-sensory-grid.md`
+for the reader question "Which See/Hear/Feel label should I use when events
+overlap or label precision gets in the way?" by adding a compact decision
+surface for overlapping modalities, Feel In/Feel Out ambiguity, Gone versus
+Rest, busy broad practice, narrow avoidance, and over-precise labeling. Added
+public index and glossary routes for ambiguous-label readers, and recorded
+the pass in public atlas handoff surfaces and the active plan status notes.
+Files touched: `public-atlas/see-hear-feel-and-the-sensory-grid.md`,
+`public-atlas/index.md`, `public-atlas/glossary.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 69; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas Source-science proof boundary
+Ran a post-completion reader-route pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened `public-atlas/source-science-and-analogy.md` for the
+reader question "Does Source contact prove love, ethics, science,
+metaphysics, teacher authority, or technology claims?" by adding a compact
+proof-check table. Added public index and glossary routes for proof,
+metaphysics, ethics, love, science, and authority readers, and recorded the
+pass in public atlas handoff surfaces and the active plan status notes. Files
+touched: `public-atlas/source-science-and-analogy.md`,
+`public-atlas/index.md`, `public-atlas/glossary.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 69; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas Source-service examples
+Ran a post-completion reader-route/example pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened `public-atlas/source-service-and-bodhicitta.md` for
+the reader question "How should Source, love, bodhicitta, larger identity, or
+spontaneous service language show up in actual life?" by adding concrete
+examples with ordinary boundary checks. Added public index and glossary
+routes for Source/service readers, and recorded the pass in public atlas
+handoff surfaces. Files touched:
+`public-atlas/source-service-and-bodhicitta.md`,
+`public-atlas/index.md`, `public-atlas/glossary.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/log.md`. Validation: public-atlas content count 69; relative Markdown
+links OK; internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd`
+OK with expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas safety-scope route polish
+Ran a post-completion reader-route pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened `public-atlas/safety-scope-and-accountability.md` for
+the reader question "What can this atlas responsibly answer, and when should
+ordinary support or protection govern first?" by adding a green/yellow/red
+use route and a Source/Claim Tiers next-reading link. Added public index and
+glossary routes for scope-limit readers, and recorded the pass in public
+atlas handoff surfaces. Files touched:
+`public-atlas/safety-scope-and-accountability.md`,
+`public-atlas/index.md`, `public-atlas/glossary.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/log.md`. Validation: public-atlas content count 69; relative Markdown
+links OK; internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd`
+OK with expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas complete-experience route polish
+Ran a post-completion reader-route/example pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened `public-atlas/complete-experience.md` for the reader
+question "How can I work with incomplete, vague, intense, sticky, or
+spiritually convincing experience without forcing intensity or bypassing
+support?" by adding an incomplete-experience decision surface and a direct
+method-safety next-reading link. Added public index and glossary routes for
+completion-versus-forcing readers, and recorded the pass in public atlas
+handoff surfaces. Files touched: `public-atlas/complete-experience.md`,
+`public-atlas/index.md`, `public-atlas/glossary.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/log.md`. Validation: public-atlas content count 69; relative Markdown
+links OK; internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK
+with expected raw backlog and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas no-self route polish
+Ran a post-completion reader-route/example pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened `public-atlas/no-self-without-erasing-personality.md`
+for the reader question "How can I work with no-self without erasing
+personality, weakening boundaries, or turning emptiness into status?" by
+adding concrete practice examples and a workable/risky route check. Added a
+direct public index route and recorded the pass in public atlas handoff
+surfaces. Files touched: `public-atlas/no-self-without-erasing-personality.md`,
+`public-atlas/index.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`, `wiki/log.md`. Validation:
+public-atlas content count 69; relative Markdown links OK; internal-leak scan
+OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with expected raw backlog
+and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas behavior-service route polish
+Ran a post-completion reader-route pass after verifying the public
+human-delta coverage board and Total Happiness Phase 1 contract were already
+complete. Strengthened `public-atlas/behavior-and-service-test.md` for the
+reader question "Practice feels deep, but is it changing conduct, repair,
+feedback, and service?" by adding green/yellow/red signals and next moves.
+Recorded the pass in public atlas handoff surfaces. Files touched:
+`public-atlas/behavior-and-service-test.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`, `wiki/log.md`. Validation:
+public-atlas content count 69; relative Markdown links OK; internal-leak scan
+OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with expected raw backlog
+and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas method-choice route polish
+Ran a post-completion reader-route pass after verifying the public
+human-delta coverage board was already complete. Strengthened
+`public-atlas/choosing-a-practice-route.md` for the reader question "Which
+practice should I try next, and when should I switch or stop?" by adding
+bounded-experiment containers and stay/tune/switch/stop checks. Updated
+`public-atlas/index.md` so method-choice readers route through
+`practice-method-safety.md`, and recorded the pass in public atlas handoff
+surfaces. Files touched: `public-atlas/choosing-a-practice-route.md`,
+`public-atlas/index.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`, `wiki/log.md`. Validation:
+public-atlas content count 69; relative Markdown links OK; internal-leak scan
+OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with expected raw backlog
+and broad-domain diagnostics.
+
+## [2026-06-01] synthesize | Public atlas definition and mysticism routes
+Completed Priority 7 of the public atlas human-delta plan by route-testing
+mindfulness-definition and mysticism-as-concentration reader paths, then
+handling the delta as light clarification rather than a new page.
+`public-atlas/mindfulness-as-cce.md` now names the broader word scope of
+"mindfulness"; `public-atlas/lineage-translation.md` now frames
+mysticism-as-concentration with small-m/capital-M/world-mysticism boundaries;
+`public-atlas/glossary.md` and `public-atlas/index.md` now route term-first
+readers to CCE, lineage, concentration, claim-tier, and safety pages. Files
+touched: `public-atlas/mindfulness-as-cce.md`,
+`public-atlas/lineage-translation.md`, `public-atlas/glossary.md`,
+`public-atlas/index.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 69; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog and broad-domain diagnostics. The human-facing
+compiler-delta coverage plan is now complete.
+
+## [2026-06-01] synthesize | Public atlas Surface to Source path map
+Completed Priority 6 of the public atlas human-delta plan by route-testing
+the Surface-to-Source and Ox-Herding path-map gap, then creating
+`public-atlas/surface-to-source-path-map.md` as a non-status-ladder
+orientation page. The page connects ordinary self/world experience, sensory
+untangling, Flow, Gone, Source/Zero language, and return to service, with
+the Ten Ox-Herding Pictures included as a bounded parallel map rather than
+an attainment ranking. Routing was added from the public index, glossary,
+system overview, Flow/Gone, no-self, Source/Zero, Source/service, and
+operational enlightenment pages. Files touched:
+`public-atlas/surface-to-source-path-map.md`, `public-atlas/index.md`,
+`public-atlas/glossary.md`, `public-atlas/what-shinzens-system-is.md`,
+`public-atlas/flow-and-gone.md`,
+`public-atlas/no-self-without-erasing-personality.md`,
+`public-atlas/source-zero-and-speculation.md`,
+`public-atlas/source-service-and-bodhicitta.md`,
+`public-atlas/operational-enlightenment.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 69; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog and broad-domain diagnostics. Next unresolved phase is
+Priority 7: route-test mindfulness definitions and mysticism as
+concentration before any public promotion.
+
+## [2026-05-31] review | Compiler health source anchors
+Completed Workstream C and the stop row of the compiler-health plan. Added
+`wiki/_compiler_health_source_anchor_domain_review_2026-05-31.md`, resolved
+the eight principal-source-count advisories by trimming non-source
+frontmatter to eight or fewer raw anchors, and kept secondary evidence in
+body `Source Anchors` sections. Broad-domain warnings for `practice`,
+`primary`, `safety`, `service`, `sources`, `teaching`, and `transformation`
+were reviewed and recorded as accepted residual routing advisories rather
+than automatic sub-index mandates. Pages touched: [[Expansion And
+Contraction]], [[Guidance Scope and Accountability Boundary]], [[Lineage
+Translation]], [[Mysticism As Concentration]], [[No-Self And Personality]],
+[[Source And Polarities]], [[Source Science And Analogy Boundary]], [[Total
+Happiness Behavior And Service Test]],
+`wiki/_compiler_health_source_anchor_domain_review_2026-05-31.md`,
+`wiki/_compiler_health_multisession_plan.md`, `wiki/index.md`,
+`wiki/_page_catalog.md`, `wiki/log.md`. Validation: `tools\wiki_lint.cmd`
+OK with accepted residual diagnostics only: 72 raw-source backlog paths and
+the seven broad-domain advisories. The local automation TOML is already
+`PAUSED`; no source-ingest scope was opened.
+
+## [2026-05-31] synthesize | Public atlas applied life boundaries
+Completed Phase 5 of the public atlas human-delta plan by creating
+`public-atlas/applied-life-boundaries.md` as a boundary index rather than
+domain-specific advice pages. The page routes illness, sleep, sexuality,
+birth/parenting, caffeine or substances, lucid dreams, public suffering, and
+retreat aftereffects through ordinary care, scope, safety, and narrow
+practice handles before technique enthusiasm. Routing was added from the
+public index, glossary, safety/scope, guidance, practice cycles, intensity,
+and altered-phenomena pages. Files touched:
+`public-atlas/applied-life-boundaries.md`, `public-atlas/index.md`,
+`public-atlas/glossary.md`,
+`public-atlas/safety-scope-and-accountability.md`,
+`public-atlas/guidance-scope-and-accountability.md`,
+`public-atlas/practice-cycles-and-life-architecture.md`,
+`public-atlas/intensity-and-embodiment-safety.md`,
+`public-atlas/altered-phenomena-and-dissolution-safety.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 68; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog and broad-domain diagnostics. Priority 6-7 now need
+reader-route tests before any path-map or definition/mysticism material is
+promoted.
+
+## [2026-05-31] synthesize | Public atlas discrimination and unification
+Completed Phase 4 of the public atlas human-delta plan by adding an
+analysis-and-unity decision surface to `public-atlas/sensory-clarity.md`
+rather than creating a new page. The section answers whether Shinzen's
+analytic vocabulary conflicts with unity or nonduality by showing the
+sequence: distinguish components, apply CCE, allow integration, and remain
+free to discriminate again. Routing was added from the public index,
+glossary, and `public-atlas/deconstruction-and-reconstruction.md`; handoff
+surfaces now point Phase 5 toward applied life boundaries. Files touched:
+`public-atlas/sensory-clarity.md`,
+`public-atlas/deconstruction-and-reconstruction.md`,
+`public-atlas/index.md`, `public-atlas/glossary.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 67; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog, principal-source-count, and large-domain diagnostics.
+Next unresolved phase is Applied Life Boundaries.
+
+## [2026-05-31] synthesize | Public atlas Auto Output practice
+Completed Phase 3 of the public atlas human-delta plan by creating
+`public-atlas/auto-output-practice.md` as the compact public route for Auto
+Move/Walk, Auto Speak/Chant, Auto Think, and Auto Everything. The page frames
+Auto output as detected self-organization under CCE, not impulse permission,
+revelation, conduct authority, or Source-certified truth; routing was added
+from the public index, glossary, practice cycles, practice method safety,
+Way of Flow, intensity safety, no-self, and Source/service pages. Files
+touched: `public-atlas/auto-output-practice.md`, `public-atlas/index.md`,
+`public-atlas/glossary.md`,
+`public-atlas/practice-cycles-and-life-architecture.md`,
+`public-atlas/practice-method-safety.md`, `public-atlas/way-of-flow.md`,
+`public-atlas/source-service-and-bodhicitta.md`,
+`public-atlas/no-self-without-erasing-personality.md`,
+`public-atlas/intensity-and-embodiment-safety.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 67; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog, principal-source-count, and large-domain diagnostics.
+Next unresolved phase is Discrimination And Unification.
+
+## [2026-05-31] review | Compiler health judgment surfaces
+Completed Workstream B of the compiler-health plan. Added
+`wiki/_compiler_health_judgment_surface_review_2026-05-31.md`, route-tested
+[[Current Model]], [[Practice Guidance Toolkit]], [[Complete Experience
+Safety Boundary]], and [[Guidance Scope and Accountability Boundary]] across
+ordinary method choice, physical pain, emotional eruption, no-self/void
+distress, teacher pressure, behavior mismatch, Source/science overclaim, and
+applied-life or medical-adjacent reports. The only routing patch needed was
+to make [[Source Science And Analogy Boundary]] explicit inside those
+judgment surfaces for science, AI, ultrasound, neurotechnology, physics,
+mathematics, energy, cure, safety-guarantee, and evidence-proof claims.
+Pages touched: [[Current Model]], [[Practice Guidance Toolkit]], [[Complete
+Experience Safety Boundary]], [[Guidance Scope and Accountability
+Boundary]], [[Source Science And Analogy Boundary]],
+`wiki/_compiler_health_multisession_plan.md`,
+`wiki/_compiler_health_judgment_surface_review_2026-05-31.md`,
+`wiki/index.md`, `wiki/_page_catalog.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw backlog, principal-source-count,
+and broad-domain diagnostics. Workstream C is the next active row.
+
+## [2026-05-31] synthesize | Public atlas teaching as service ladder
+Completed Phase 2 of the public atlas human-delta plan by strengthening
+`public-atlas/shinzens-teaching-method.md` instead of creating a separate
+page. Added the teaching-as-service ladder from subtle presence through
+coherent description, explicit instruction, professional teaching, advanced
+competence, path discovery, and supporting teachers; added relationship-fit,
+track-record, accountability, safety, source-posture, and source-trail
+language; routed the material from the public index, glossary, Total
+Happiness hub, Source/service page, and guidance boundary. Files touched:
+`public-atlas/shinzens-teaching-method.md`, `public-atlas/index.md`,
+`public-atlas/glossary.md`, `public-atlas/total-happiness.md`,
+`public-atlas/source-service-and-bodhicitta.md`,
+`public-atlas/guidance-scope-and-accountability.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 66; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog, principal-source-count, and large-domain diagnostics.
+Next unresolved phase is Auto Output Practice Family.
+
+## [2026-05-31] review | Compiler health route review
+Completed Workstream A of the compiler-health plan. Added
+`wiki/_compiler_health_route_review_2026-05-31.md`, ranked current routing
+failures, added a direct startup route to [[Source Science And Analogy
+Boundary]], linked [[Yearlong Solitary Retreat Carrying Text]] from
+[[Practice Cycles]], compressed the index dashboard backlog wording, and
+marked Workstream A complete. Pages touched: [[Practice Cycles]],
+[[Source Science And Analogy Boundary]], [[Yearlong Solitary Retreat Carrying
+Text]], `wiki/_compiler_health_multisession_plan.md`,
+`wiki/_compiler_health_route_review_2026-05-31.md`, `wiki/index.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` OK with expected raw
+backlog, principal-source-count, and broad-domain diagnostics; the prior
+no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]] is
+resolved. Workstream B is the next active row.
+
+## [2026-05-31] synthesize | Public atlas Total Happiness aim structure
+Implemented Phase 1 of the public atlas human-delta plan by creating
+`public-atlas/total-happiness-aim-structure.md` as the human-facing aim map
+for the three jobs, four quadrants, five applications,
+ordinary/extraordinary happiness, periodic-table caution, and the
+improve-supports-transcend rule. Kept `public-atlas/total-happiness.md` as
+the compact hub and routed the new page from the public home page, glossary,
+system overview, behavior/service, Source/service, condition-independent
+happiness, and Human Goodness pages. Updated atlas handoff and orientation
+surfaces plus the active plans so the next unresolved phase is Teaching As
+Service Ladder. Files touched: `public-atlas/total-happiness-aim-structure.md`,
+`public-atlas/total-happiness.md`, `public-atlas/index.md`,
+`public-atlas/glossary.md`, `public-atlas/behavior-and-service-test.md`,
+`public-atlas/source-service-and-bodhicitta.md`,
+`public-atlas/condition-independent-happiness.md`,
+`public-atlas/way-of-human-goodness.md`,
+`public-atlas/what-shinzens-system-is.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_human_delta_coverage_plan.md`,
+`wiki/_public_atlas_total_happiness_aim_structure_plan.md`, `wiki/log.md`.
+Validation: public-atlas content count 66; relative Markdown links OK;
+internal-leak scan OK; non-ASCII scan OK; `tools\wiki_lint.cmd` OK with
+expected raw backlog, principal-source-count, no-inbound-link, and large
+domain diagnostics.
+
+## [2026-05-31] review | Compiler health automation ID correction
+Corrected the multi-session compiler-health plan to use a separate
+`shinzen-compiler-health-loop` automation instead of repointing the completed
+`shinzen-ingest-loop` ShinzenVideos automation. The old ingest automation
+should remain paused; the new automation owns broad route review, judgment
+surface cleanup, and source-anchor/domain-bloat cleanup until its stop
+condition is met. Also registered the new automation in the Codex app
+automation database and restored the old ingest automation TOML outside the
+wiki. Files touched: `wiki/_compiler_health_multisession_plan.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` OK with expected raw
+backlog, principal-source-count, no-inbound-link, and large-domain
+diagnostics.
+
+## [2026-05-31] review | Public atlas human delta coverage plan
+Broadened the Total Happiness atlas plan into a governing human-facing
+compiler-delta coverage program. The new plan keeps Total Happiness Aim
+Structure as Phase 1, then directs future atlas automation through teaching
+as service, Auto Output, discrimination/unification, applied life boundaries,
+and deferred path/definition deltas when reader-route tests justify them.
+Updated atlas handoff and orientation surfaces to prioritize the broader plan
+over a one-page export. Also updated the second Shinzen automation,
+`shinzen-atlas-total-happiness-pass`, in place as `Shinzen atlas human delta
+pass` so it continues after Phase 1 rather than stopping at Total Happiness.
+Files touched: `wiki/_public_atlas_human_delta_coverage_plan.md`,
+`wiki/_public_atlas_total_happiness_aim_structure_plan.md`,
+`wiki/_public_atlas_loadbearing_delta_review_2026-05-31.md`,
+`wiki/_public_atlas_orientation.md`, `public-atlas/README.md`,
+`wiki/log.md`. Validation: public-atlas content count remains 65 before
+implementation; relative Markdown links OK; internal-leak and non-ASCII scans
+clean; `tools\wiki_lint.cmd` OK with expected diagnostics. Automation
+verified at
+`C:\Users\Urgen\.codex\automations\shinzen-atlas-total-happiness-pass\automation.toml`.
+
+## [2026-05-31] review | Public atlas Total Happiness implementation plan
+Created a durable implementation plan for the next load-bearing atlas pass:
+promote [[Total Happiness Aim Structure]] into a public
+`total-happiness-aim-structure.md` page while keeping `total-happiness.md` as
+the compact hub. The plan specifies required inputs, public page contract,
+claims to carry, link updates, reader-route tests, validation commands, and
+completion criteria. Updated atlas handoff/orientation surfaces and the
+load-bearing delta review to point to the plan. Also created a second Shinzen
+automation, `shinzen-atlas-total-happiness-pass`, to run the implementation
+cycle. Files touched:
+`wiki/_public_atlas_total_happiness_aim_structure_plan.md`,
+`wiki/_public_atlas_loadbearing_delta_review_2026-05-31.md`,
+`wiki/_public_atlas_orientation.md`, `public-atlas/README.md`,
+`public-atlas/safety-scope-and-accountability.md`, `wiki/log.md`.
+Validation: public-atlas content count 65 before implementation; relative
+Markdown links OK; internal-leak and non-ASCII scans clean;
+`tools\wiki_lint.cmd` OK with expected diagnostics. Automation verified at
+`C:\Users\Urgen\.codex\automations\shinzen-atlas-total-happiness-pass\automation.toml`.
+
+## [2026-05-31] review | Compiler health automation plan
+Created a lean multi-session plan for the post-ingest compiler health loop:
+broad route/structure review first, judgment and safety surfaces second, and
+source-anchor/domain-bloat cleanup third, with an explicit terminal stop
+condition that prevents drift into new source ingest. Updated the current
+health plan handoff and index dashboard so the automation routes to the new
+plan instead of the completed ShinzenVideos backlog. Files touched:
+`wiki/_compiler_health_multisession_plan.md`,
+`wiki/_post_ingest_knowledge_health_plan.md`, `wiki/index.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` OK with expected raw
+backlog, principal-source-count, no-inbound-link, and large-domain
+diagnostics.
+
+## [2026-05-31] review | Public atlas load-bearing delta review
+Compared the 65-page public atlas against high-importance compiler pages and
+recent atlas status surfaces to identify what important compiler intelligence
+has not crossed into the public branch. Added a durable delta review note and
+updated the handoff/orientation surfaces to make Total Happiness Aim Structure
+the strongest next public inclusion if another content pass is chosen, ahead
+of specialized expansions such as teaching-as-service, Auto Output practice,
+and discrimination/unification. Files touched:
+`wiki/_public_atlas_loadbearing_delta_review_2026-05-31.md`,
+`wiki/_public_atlas_orientation.md`, `public-atlas/README.md`, `wiki/log.md`.
+Validation: public-atlas content count 65; relative Markdown links OK;
+internal-leak and non-ASCII scans clean; `tools\wiki_lint.cmd` OK with
+expected diagnostics.
+
+## [2026-05-31] review | Public atlas mixed-method and science route pass
+Continued reader-route testing for mixed-method practice and
+science/analogy entry questions. Added explicit one-technique,
+planned-sequence, and responsive-branching signposts; split the home-page
+Source/service route from science, neuroscience, physics, energy, AI,
+ultrasound, and analogy routing; and recorded the continuation in the atlas
+route-test note and handoff surfaces. Files touched: `public-atlas/index.md`,
+`public-atlas/choosing-a-practice-route.md`,
+`public-atlas/main-practice-routes.md`, `public-atlas/glossary.md`,
+`public-atlas/practice-cycles-and-life-architecture.md`,
+`public-atlas/source-and-claim-tiers.md`,
+`public-atlas/source-science-and-analogy.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_reader_route_test_2026-05-31.md`, `wiki/log.md`.
+Validation: public-atlas content count 65; relative Markdown links OK;
+internal-leak and non-ASCII scans clean; `tools\wiki_lint.cmd` OK with
+expected diagnostics.
+
+## [2026-05-31] synthesize | Public atlas transformation and glossary route pass
+Added compact source trails to remaining high-value transformation and
+advanced-phenomenology atlas pages, covering insight/purification, suffering
+distortion, condition-independent happiness, deconstruction/reconstruction,
+Total Happiness, behavior/service, no-self, operational enlightenment,
+Source, science analogy, Expansion/Contraction, Spaciousness,
+dissolution/bhanga, and self-inquiry. Added a `glossary.md` route-check
+table for term-first readers and recorded the glossary route-test
+continuation. Pages touched: `public-atlas/insight-and-purification.md`,
+`public-atlas/suffering-distortion-cycle.md`,
+`public-atlas/condition-independent-happiness.md`,
+`public-atlas/deconstruction-and-reconstruction.md`,
+`public-atlas/total-happiness.md`,
+`public-atlas/behavior-and-service-test.md`,
+`public-atlas/no-self-without-erasing-personality.md`,
+`public-atlas/operational-enlightenment.md`,
+`public-atlas/source-zero-and-speculation.md`,
+`public-atlas/source-service-and-bodhicitta.md`,
+`public-atlas/source-science-and-analogy.md`,
+`public-atlas/expansion-and-contraction.md`,
+`public-atlas/spaciousness.md`,
+`public-atlas/dissolution-and-bhanga.md`,
+`public-atlas/self-inquiry-and-turn-back.md`,
+`public-atlas/glossary.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_reader_route_test_2026-05-31.md`, `wiki/log.md`.
+Validation: public-atlas content count 65; relative Markdown links OK;
+internal-leak and non-ASCII scans clean; `tools\wiki_lint.cmd` OK with
+expected diagnostics.
+
+## [2026-05-31] synthesize | Public atlas technique and boundary source trails
+Added compact source trails, concrete practice examples, and page-specific
+safety language to high-value atlas technique and boundary pages. Pages
+touched: `public-atlas/noting.md`, `public-atlas/do-nothing.md`,
+`public-atlas/focus-on-rest.md`, `public-atlas/nurture-positive.md`,
+`public-atlas/feel-image-talk.md`, `public-atlas/flow-and-gone.md`,
+`public-atlas/practice-method-safety.md`,
+`public-atlas/intensity-and-embodiment-safety.md`,
+`public-atlas/altered-phenomena-and-dissolution-safety.md`,
+`public-atlas/dpdr-and-the-pit-of-the-void.md`,
+`public-atlas/completion-versus-bypass-and-intensity.md`,
+`public-atlas/guidance-scope-and-accountability.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`, `wiki/log.md`.
+Validation: public-atlas content count 65; relative Markdown links OK;
+internal-leak and non-ASCII scans clean; `tools\wiki_lint.cmd` OK with
+expected diagnostics.
+
+## [2026-05-31] review | Public atlas reader-route pass
+Simulated public reader routes from `public-atlas/index.md` for noisy
+thoughts/emotional loops, pain or intensity, equanimity versus shutdown,
+void/no-self distress, reactions to practice effects, and behavior or
+teacher-realization claims. Tightened the home-page problem table, added
+practice-effect and behavior-test routing, expanded "Next Reading" links on
+route/safety pages, and saved a durable route-test note for future atlas
+work. Files touched: `public-atlas/index.md`,
+`public-atlas/choosing-a-practice-route.md`,
+`public-atlas/main-practice-routes.md`,
+`public-atlas/turn-toward-and-turn-away.md`, `public-atlas/do-nothing.md`,
+`public-atlas/focus-on-rest.md`,
+`public-atlas/focus-coverage-strategies.md`, `public-atlas/zooming.md`,
+`public-atlas/equanimity-versus-suppression.md`,
+`public-atlas/recycle-the-reaction.md`,
+`public-atlas/dpdr-and-the-pit-of-the-void.md`,
+`public-atlas/nurture-positive.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_reader_route_test_2026-05-31.md`, `wiki/log.md`.
+Validation: public-atlas content count 65; relative Markdown links OK;
+internal-leak and non-ASCII scans clean; `tools\wiki_lint.cmd` OK with
+expected diagnostics.
+
+## [2026-05-31] review | Public atlas state and plan status
+Updated the durable atlas status surfaces after the first post-next-30
+consolidation pass. `wiki/_public_atlas_orientation.md`,
+`public-atlas/README.md`, and `wiki/_public_atlas_next_30_pages.md` now state
+that the atlas remains a 65-page Markdown draft, the original expansion queue
+is complete, the six-page spine/source-trail polish pass is complete, no new
+expansion queue is active, and reader-route testing is the highest-leverage
+next move. Files touched: `wiki/_public_atlas_orientation.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_next_30_pages.md`,
+`wiki/log.md`. Validation: public-atlas content count 65; relative Markdown
+links OK; internal-leak and non-ASCII scans clean; `tools\wiki_lint.cmd` OK
+with expected diagnostics.
+
+## [2026-05-31] synthesize | Public atlas spine source-trail polish
+Polished the six high-ROI public atlas spine pages with compact source trails,
+concrete practice examples, route-quality checks, working label translations,
+and more specific safety-first language while preserving public voice and
+ordinary Markdown. Pages touched:
+`public-atlas/what-shinzens-system-is.md`,
+`public-atlas/mindfulness-as-cce.md`,
+`public-atlas/see-hear-feel-and-the-sensory-grid.md`,
+`public-atlas/choosing-a-practice-route.md`,
+`public-atlas/complete-experience.md`,
+`public-atlas/safety-scope-and-accountability.md`, `wiki/log.md`.
+Validation: public-atlas content count 65; relative Markdown links OK;
+internal-leak and non-ASCII scans clean; `tools\wiki_lint.cmd` OK with
+expected diagnostics.
+
+## [2026-05-31] review | Public atlas implementation plan register
+Rechecked the GPT Pro editorial memo against the current 65-page public atlas
+handoff and orientation. The plan already captured the main strategy, so the
+update was surgical: `wiki/_public_atlas_orientation.md` and
+`public-atlas/README.md` now make the compiler-to-public loop and
+serious-practitioner voice/register explicit, and the orientation note no
+longer says 35 pages. Pages touched: none. Validation: atlas page count 65,
+relative Markdown links OK, no public internal-machinery leaks, no unexpected
+non-ASCII matches, and `tools\wiki_lint.cmd` OK with expected diagnostics.
+
+## [2026-05-30] repair | ShinzenVideos selected-loop pause clarified
+Audited the current ShinzenVideos selected-ingest surfaces for the recurring
+automation scope. No source-page ingest was warranted because all active
+non-query-driven `series-candidate` and `audit-needed` items are resolved.
+Updated `wiki/_yt_shinzenvideos_selection_report.md` and
+`wiki/_yt_shinzenvideos_ingestion_plan.md` to make the selected-loop pause
+condition explicit rather than implying the automation should continue into
+`practice-wisdom-backlog`. Pages touched: none. Validation:
+`tools\wiki_lint.cmd` OK with 368 compiled pages and 361 raw sources checked;
+remaining diagnostics are the expected active raw backlog, prior
+frontmatter-source advisories, broad-domain advisories, and the prior
+no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]].
+
+## [2026-05-29] ingest | ShinzenVideos three-dances chart audit
+Promoted and ingested the final active audit-needed ID, `fr848hdW3C0`, as
+[[Three Dances of Self and World]]. The quality-B visual-chart transcript is
+usable as a distinct integration source: Shinzen places the human dance of
+appreciate/transcend/improve and CCE skills, the nature dance of
+Expansion-Contraction across scales, and the number dance of complex-number
+polarity around Source as still point. Updated [[Source Science And Analogy
+Boundary]], [[Source And Polarities]], [[Expansion And Contraction]],
+`wiki/index.md`, `wiki/_page_catalog.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No synthesis, thesis, question,
+concept, or [[Current Model]] update was warranted. All active
+non-query-driven ShinzenVideos `series-candidate` and `audit-needed` items
+are resolved; pause rather than moving into `practice-wisdom-backlog` without
+future instruction. Validation: `tools\wiki_lint.cmd` OK with 368 compiled
+pages and 361 raw sources checked; remaining diagnostics are the expected
+active raw backlog, prior frontmatter-source advisories, broad-domain
+advisories, and the prior no-inbound diagnostic for [[Yearlong Solitary
+Retreat Carrying Text]].
+
+## [2026-05-29] ingest | ShinzenVideos spring-of-void audit
+Promoted and ingested the `ZUjCGG31YSo` audit-needed short as [[The Spring of
+the Void]]. The quality-B transcript is usable as a distinct anti-bleakness
+emptiness/Source metaphor: Shinzen contrasts bleakness and vastness with
+bouncy, springy vitality, while the visual toy plus Helmholtz/free-energy and
+Boyle pressure analogies remain source-limited. Updated [[Source And
+Polarities]], [[Source Science And Analogy Boundary]], [[Altered Phenomena
+and Dissolution Safety Boundary]], `wiki/index.md`, `wiki/_page_catalog.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No synthesis, thesis, question,
+concept, or [[Current Model]] update was warranted. Validation:
+`tools\wiki_lint.cmd` OK with 367 compiled pages and 361 raw sources checked;
+remaining diagnostics are the expected active raw backlog, prior
+frontmatter-source advisories, broad-domain advisories, and the prior
+no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]].
+
+## [2026-05-29] ingest | ShinzenVideos mandala-excerpt audit
+Reclassified the `ciEbP0_I064` audit-needed short as `upgrade-existing`/
+duplicate excerpt coverage after transcript comparison showed its whole useful
+Big Picture mandala tour is the board-turning segment already contained in
+`jvcERLhPXt0`, compiled as [[Visual Presentation of Mindfulness and the
+Spiritual Path Part 2]]. Added the duplicate-excerpt alias and provenance note
+to the existing source page and updated `wiki/index.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No new source page, owner-page
+update, synthesis, thesis, question, concept, or [[Current Model]] update was
+warranted. Validation: `tools\wiki_lint.cmd` OK with 366 compiled pages and
+361 raw sources checked; remaining diagnostics are the expected active raw
+backlog, prior frontmatter-source advisories, broad-domain advisories, and the
+prior no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]].
+
+## [2026-05-29] ingest | ShinzenVideos weird-meditation audit
+Promoted and ingested the `nSobyZjJSvs` audit-needed talk as [[Shinzen's
+Weird Meditation]]. The quality-B autobiographical transcript is usable as a
+distinct advanced visual no-objectification source: Shinzen reports vivid
+paper-thin color/form, a breath-like need to objectify self/world, subtle
+inner-system processing underneath, and incandescent terror moving as Flow,
+while explicitly warning listeners not to copy his personal practice. Updated
+[[No-Self And Personality]], [[Source And Polarities]], [[Altered Phenomena
+and Dissolution Safety Boundary]], [[Source Science And Analogy Boundary]],
+`wiki/index.md`, `wiki/_page_catalog.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No synthesis, thesis, question,
+concept, or [[Current Model]] update was warranted. Validation:
+`tools\wiki_lint.cmd` OK with 366 compiled pages and 361 raw sources checked;
+remaining diagnostics are the expected active raw backlog, prior
+frontmatter-source advisories, broad-domain advisories, and the prior
+no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]].
+
+## [2026-05-29] ingest | ShinzenVideos periodic happiness-grid audit
+Promoted and ingested the `pmR6SepZlwY` audit-needed talk as [[Changing the
+Course of Human History And Happiness]]. The quality-B visual-handout
+transcript is usable as a distinct teacher-facing periodic-table-of-happiness
+source, not duplicate coverage of [[Chart of Human Happiness]]: it preserves
+Shinzen's public-mindfulness strategy, non-exclusionary spirituality as
+deeper self-understanding, ethics as behavior-change entry, weak-law karma,
+and behavior-change supplements beyond meditation. Updated [[Total
+Happiness]], [[Total Happiness Aim Structure]], [[Total Happiness Behavior
+And Service Test]], [[Mindfulness Definitions]], [[Shinzen's Teaching
+Method]], `wiki/index.md`, `wiki/_page_catalog.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No synthesis, thesis, question,
+concept, or [[Current Model]] update was warranted. Validation:
+`tools\wiki_lint.cmd` OK with 365 compiled pages and 361 raw sources checked;
+remaining diagnostics are the expected active raw backlog, prior
+frontmatter-source advisories, broad-domain advisories, and the prior
+no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]].
+
+## [2026-05-29] ingest | ShinzenVideos God's-arrow audit
+Promoted and ingested the `LPnLDtHLymo` audit-needed short as [[God's
+Arrow]]. The quality-B short is usable as Shinzen's advanced Source rhetoric:
+transverberation/God's-arrow or wormhole-through-time-space imagery, void
+through the channel while ordinary interaction remains, near-samapatti state
+language, and a mature non-preference boundary around Source absence during
+ordinary business-like functioning. Updated [[Source And Polarities]],
+[[Source Afterglow Boundary]], [[Source Science And Analogy Boundary]],
+`wiki/index.md`, `wiki/_page_catalog.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No synthesis, thesis, question,
+concept, or [[Current Model]] update was warranted. Validation:
+`tools\wiki_lint.cmd` OK with 364 compiled pages and 361 raw sources checked;
+remaining diagnostics are the expected active raw backlog, prior
+frontmatter-source advisories, broad-domain advisories, and the prior
+no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]].
+
+## [2026-05-29] ingest | ShinzenVideos three-watershed audit
+Promoted and ingested the `nsPcWEZFaKA` audit-needed short as [[Three
+Watershed Moments]]. The quality-B short is usable as Shinzen's
+retrospective personal-story frame for effortless Expansion-Contraction
+before objectified self/world, crying-as-agency, and later fear/thought as
+inner-system selfing, while keeping memory, developmental, metaphysical, and
+regression claims source-limited. Updated [[No-Self And Personality]],
+[[Source And Polarities]], `wiki/index.md`, `wiki/_page_catalog.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No synthesis, thesis, question,
+concept, or [[Current Model]] update was warranted. Validation:
+`tools\wiki_lint.cmd` OK with 363 compiled pages and 361 raw sources checked;
+remaining diagnostics are the expected active raw backlog, prior
+frontmatter-source advisories, broad-domain advisories, and the prior
+no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]].
+
+## [2026-05-29] ingest | ShinzenVideos addiction excerpt audit
+Reclassified the `_N7A5kAESTQ` audit-needed short as `upgrade-existing`/
+duplicate excerpt coverage after transcript comparison showed its useful
+marijuana/body-sweeping case is already compiled in [[The Trickle-Down
+Paradigm of Transformation]]. Added a duplicate-excerpt note and alias to
+that existing source page, preserving the excerpt's no-boundary/bad-habit
+caveat without creating a duplicate source interface. Updated `wiki/index.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No new source page, owner-page
+update, synthesis, thesis, question, concept, or [[Current Model]] update was
+warranted. Validation: `tools\wiki_lint.cmd` OK with 362 compiled pages and
+361 raw sources checked; remaining diagnostics are the expected active raw
+backlog, prior frontmatter-source advisories, broad-domain advisories, and
+the prior no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying
+Text]].
+
+## [2026-05-29] ingest | ShinzenVideos physical-cause excerpt audit
+Reclassified the `AdulQzPqRi8` audit-needed short as `upgrade-existing`/
+duplicate excerpt coverage after transcript comparison showed its whole
+content is the final physiology/craving-research segment already contained in
+`N6ElQ9y5qQ0`, compiled as [[Is Fixation THE Necessary Cause for Suffering]].
+Added a duplicate-excerpt note to the existing source page and updated
+`wiki/index.md`, `wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No new source page, owner-page
+update, synthesis, thesis, question, concept, or [[Current Model]] update was
+warranted. Validation: `tools\wiki_lint.cmd` OK with 362 compiled pages and
+361 raw sources checked; remaining diagnostics are the expected active raw
+backlog, prior frontmatter-source advisories, broad-domain advisories, and
+the prior no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying
+Text]].
+
+## [2026-05-29] ingest | ShinzenVideos fixation/cause audit
+Promoted and ingested the `N6ElQ9y5qQ0` audit-needed item as [[Is Fixation
+THE Necessary Cause for Suffering]]. The quality-B FAQ transcript is usable
+for Shinzen's source frame: Sasaki Roshi's fixation language as a necessary
+cause of suffering, fixation as related to but distinct from craving,
+attentional blink as a possible objective clue, and craving/addiction research
+as speculative access to a deeper physiological necessary condition. Updated
+[[Science of Enlightenment Chapter 11 - My Happiest Thought]], [[Source
+Science And Analogy Boundary]], [[Equanimity]], `wiki/index.md`,
+`wiki/_page_catalog.md`, `wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No synthesis, thesis, question,
+concept, or [[Current Model]] update was warranted. Validation:
+`tools\wiki_lint.cmd` OK with 362 compiled pages and 361 raw sources checked;
+remaining diagnostics are the expected active raw backlog, prior
+frontmatter-source advisories, broad-domain advisories, and the prior
+no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]].
+
+## [2026-05-29] ingest | ShinzenVideos visual-chart audit cluster
+Promoted and ingested the first visual-chart audit cluster: `p4_wLkD6_x4`
+became [[Chart of Human Happiness]] and `jvcERLhPXt0` became [[Visual
+Presentation of Mindfulness and the Spiritual Path Part 2]]. The short
+`2c1WihJK1tA` `HAPPINESS CHART` clip was reclassified as duplicate excerpt
+coverage because its useful segment is embedded in `jvcERLhPXt0` and
+compressed better by the new chart source page. Updated [[Total Happiness]],
+[[Total Happiness Aim Structure]], [[Condition-Independent Happiness]],
+[[Practice Guidance Toolkit]], [[Basic Mindfulness Practice Architecture]],
+[[Basic Mindfulness Life Architecture]], [[Source And Polarities]],
+`wiki/index.md`, `wiki/_page_catalog.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No synthesis, thesis, question,
+concept, or [[Current Model]] update was warranted. Validation:
+`tools\wiki_lint.cmd` OK with 361 compiled pages and 361 raw sources checked;
+remaining diagnostics are the expected active raw backlog, prior/noisy
+frontmatter-source advisories, broad-domain advisories, and the prior
+no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]].
+
+## [2026-05-29] ingest | ShinzenVideos subjective-system audit
+Promoted and ingested the `zEAWweizGCc` audit-needed item as [[Our
+Subjective Experience Explained]]. The quality-B board-talk transcript is
+usable for the core Focus In claims: Image/Talk/Feel as one subjective system
+that reacts to outer contact, spins memory/planning/fantasy proactively,
+triggers itself interactively, and briefly goes inactive; it also sharpens
+Hear In/Gone/Rest, faint image detection, emotional-body detection, and media
+practice as bounded activation training. Updated [[Way of Thoughts and
+Emotions]], [[See Hear Feel]], [[Sensory Grid]], `wiki/index.md`,
+`wiki/_page_catalog.md`, `wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No synthesis, thesis, question,
+concept, or [[Current Model]] update was warranted. Validation:
+`tools\wiki_lint.cmd` OK with 359 compiled pages and 361 raw sources checked;
+remaining diagnostics are the expected active raw backlog, prior
+frontmatter-source advisories, broad-domain advisories, and the prior
+no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]].
+
+## [2026-05-29] ingest | ShinzenVideos Guardian ultrasound documentary audit
+Promoted and ingested the `spukj-4sYS0` audit-needed item as [[Hacking
+Enlightenment Can Ultrasound Help You Transcend Reality]]. The quality-A
+Guardian documentary transcript is not a Shinzen-primary teaching talk, but
+it adds an external research/source-frame and safety delta: focused
+ultrasound framed around PCC/default-mode targeting, beginner reports of
+observational distance or equanimity-like access, trauma/depression/anxiety/
+pain/addiction application hopes, commercialization concern, unknown daily-use
+safety, consumer self-use warnings, and therapeutic-not-high framing. Updated
+[[Science of Enlightenment Chapter 11 - My Happiest Thought]], [[Source
+Science And Analogy Boundary]], [[Complete Experience Safety Boundary]],
+`wiki/index.md`, `wiki/_page_catalog.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No synthesis, thesis, question,
+concept, or [[Current Model]] update was warranted. Validation:
+`tools\wiki_lint.cmd` OK with 358 compiled pages and 361 raw sources checked;
+remaining diagnostics are the expected active raw backlog, prior
+frontmatter-source advisories, broad-domain advisories, and the prior
+no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]].
+
+## [2026-05-29] ingest | ShinzenVideos Billion Dollar Hypothesis audit
+Promoted and ingested the `RFZ6KiiBIg4` audit-needed item as [[Shinzen's
+Billion Dollar Hypothesis]]. The quality-C local STT transcript is noisy but
+coherent enough to preserve Shinzen's own source frame: athymhormia as a
+pathological no-self/equanimity caricature, a proposed spiritual-status
+examination, expected-value/low-probability framing, virtual-lesion or
+neuromodulation speculation, and IRB/non-harm constraints. Updated [[Science
+of Enlightenment Chapter 11 - My Happiest Thought]], [[Source Science And
+Analogy Boundary]], [[Operational Enlightenment]], [[Complete Experience
+Safety Boundary]], `wiki/index.md`, `wiki/_page_catalog.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No synthesis, thesis, question,
+concept, or [[Current Model]] update was warranted. Validation:
+`tools\wiki_lint.cmd` OK with 357 compiled pages and 361 raw sources checked;
+remaining diagnostics are the expected active raw backlog, prior
+frontmatter-source advisories, broad-domain advisories, and the prior
+no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]].
+
+## [2026-05-29] ingest | ShinzenVideos Why Meditate duplicate audit
+Resolved the `7-6la3AlEnE` audit-needed item as an `upgrade-existing`
+cleaner-caption duplicate rather than a new source page. Transcript comparison
+showed the ShinzenVideos `WHY MEDITATE?` upload is the same five-dimensions
+talk already compiled as [[Why Meditate]] from `f1TnEQlbPwg`; the only useful
+delta was cleaner quality-A captions, timestamps, upload date, and channel
+provenance. Updated [[Why Meditate]] with a body-level cleaner-caption note
+while keeping the original raw transcript as the sole formal source anchor,
+and updated `wiki/index.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No owner-page delta, synthesis,
+thesis, question, concept, or [[Current Model]] update was warranted.
+Validation: `tools\wiki_lint.cmd` OK with 356 compiled pages and 361 raw
+sources checked; remaining diagnostics are the expected active raw backlog,
+frontmatter-source advisories, broad-domain advisories, and the prior
+no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]].
+
+## [2026-05-29] repair | ShinzenVideos inclusionary channel policy
+Updated the `@ShinzenVideos` plan from selective supplementation to an
+inclusionary practice/wisdom ingest policy. The channel should now ingest most
+Shinzen-primary dharma, practice, wisdom, instruction, Q&A, and transmission
+material unless it is actual noise, non-primary, unusable, manifest-only, or a
+true content-level duplicate. The duplicate standard was tightened: same or
+similar title, same topic, or stronger owner-page coverage is not enough; a
+true duplicate means same video ID, same talk/session, substantially same
+transcript content, or a wholly contained excerpt. Reopened the former 65
+`defer-query-driven` IDs as `practice-wisdom-backlog`, deprecated
+`defer-query-driven` for the channel, and updated
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`,
+`wiki/_yt_shinzenvideos_ingestion_plan.md`, `wiki/index.md`, and
+`tools/wiki_lint.py` so lint now keeps practice/wisdom backlog visible rather
+than treating it as selected out. Validation: `tools\wiki_lint.cmd` OK with
+356 compiled pages and 361 raw sources checked; the raw backlog diagnostic
+now intentionally shows 84 canonical uncovered sources because active
+practice/wisdom backlog is visible again.
+
+## [2026-05-29] ingest | ShinzenVideos enlightenment duplicate audit
+Resolved the first two `audit-needed` `@ShinzenVideos` items without creating
+duplicate source pages. Transcript comparison found that `flKM6w1aXa4` and
+`zL-oEF2lQRI` are substantive Great Dharma enlightenment/path talks, but
+their no-self flavors, relative/absolute inner rest, flow self,
+path-comparison, Nurture Positive/deity-yoga identity replacement,
+self-inquiry/Gone symmetry, form/emptiness, and Source-polarity handles are
+already compressed by stronger source and owner pages including [[How Much of
+Buddhism Can Survive the Scrutiny of Science]], [[No-Self And Personality]],
+[[What Is Enlightenment]], [[A Deeper Freedom Experiences of Selflessness]],
+[[The Secret of Archetypal Deity Yoga]], [[Self-Inquiry]], [[Gone]], [[World
+Mysticism with a Capital M]], [[Journey to True Spirituality]], and [[Source
+And Polarities]]. Reclassified both IDs as `defer-query-driven`, repaired the
+stale Great Dharma `series-candidate` status, and updated `wiki/index.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No source pages, owner-page
+updates, synthesis, thesis, question, concept, or [[Current Model]] update
+were warranted. Validation: `tools\wiki_lint.cmd` OK with 356 compiled pages
+and 296 raw sources checked; remaining diagnostics are expected raw backlog,
+broad-domain advisories, source-heavy owner-page advisories, and the prior
+no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]].
+
+## [2026-05-28] synthesize | Public atlas source and advanced phenomenology expansion
+Executed the fourth expansion phase of the public Shinzen Practice Atlas by
+drafting pages 25-30 from the next-30 plan: Source, Service, and Bodhicitta;
+Source, Science, and Analogy; Expansion and Contraction; Spaciousness;
+Dissolution and Bhanga; and Self-Inquiry and Turn Back. Updated public
+navigation, glossary entries, neighboring next-reading links, and atlas
+handoff notes to treat `public-atlas/` as a 65-page draft and to mark the
+planned next-30 expansion complete. Pages touched:
+`public-atlas/source-service-and-bodhicitta.md`,
+`public-atlas/source-science-and-analogy.md`,
+`public-atlas/expansion-and-contraction.md`,
+`public-atlas/spaciousness.md`,
+`public-atlas/dissolution-and-bhanga.md`,
+`public-atlas/self-inquiry-and-turn-back.md`,
+`public-atlas/index.md`, `public-atlas/glossary.md`,
+`public-atlas/source-zero-and-speculation.md`,
+`public-atlas/source-and-claim-tiers.md`,
+`public-atlas/flow-and-gone.md`,
+`public-atlas/altered-phenomena-and-dissolution-safety.md`,
+`public-atlas/no-self-without-erasing-personality.md`,
+`public-atlas/operational-enlightenment.md`,
+`public-atlas/total-happiness.md`,
+`public-atlas/behavior-and-service-test.md`,
+`public-atlas/see-hear-feel-and-the-sensory-grid.md`,
+`public-atlas/sensory-grid.md`, `public-atlas/way-of-flow.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_next_30_pages.md`, and `wiki/log.md`. Validation:
+public-atlas content count is now 65, relative links OK, internal-leak and
+non-ASCII checks clean; `tools\wiki_lint.cmd` OK with 354 compiled pages and
+298 raw sources checked. Remaining diagnostics are expected raw backlog,
+broad-domain advisories, and the prior no-inbound diagnostic for [[Yearlong
+Solitary Retreat Carrying Text]].
+
+## [2026-05-28] ingest | ShinzenVideos Google Tech Talks audit
+Resolved the two-item Google Tech Talks `@ShinzenVideos`
+`series-candidate` cluster without creating duplicate source pages. Transcript
+comparison found that `8XCWP4pODbs` and `Ky7vMFB4iAs` are high-quality public
+baselines for Shinzen's science-facing CCE, concentration, Rest,
+life-practice, media/sports generalization, and future science-of-enlightenment
+framing, but those deltas are already compressed by existing
+concentration, CCE, Rest, practice-organization, and science-boundary pages.
+Reclassified both IDs as `defer-query-driven` and updated `wiki/index.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No source pages, owner-page
+updates, synthesis, thesis, question, concept, or [[Current Model]] update
+were warranted. Validation: `tools\wiki_lint.cmd` OK with 354 compiled pages
+and 298 raw sources checked; remaining diagnostics are expected raw backlog
+items, the prior no-inbound diagnostic for [[Yearlong Solitary Retreat
+Carrying Text]], and broad-domain sub-indexing advisories.
+
+## [2026-05-28] ingest | ShinzenVideos Auto-output series candidate
+Resolved the four-item Auto-output `@ShinzenVideos` `series-candidate`
+cluster by promoting `vOB6NQo0Kr8`, `H6vfdgkFRws`, `5h71KpN2h4o`, and
+`MyvSkG9yhA4`. Created [[Auto Walk Demonstrated by Shinzen Young]], [[Auto
+Chant or Auto Speak]], [[Auto Think]], [[Auto Everything]], and [[Auto
+Output Practice Family]]. The cluster was not compressed well enough by
+[[Auto Move]] because it adds a body/speech/thought/all output-gate family:
+reflexive walking, speech-organ self-organization, Image/Talk/Both/Rest to
+mind-space to self-organizing thought, and combined Auto Everything. Updated
+[[Auto Move]], [[Practice Method Safety Boundary]], [[Source And Service
+Boundary]], `wiki/index.md`, `wiki/_page_catalog.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No synthesis, thesis, question,
+or [[Current Model]] update was warranted. Validation:
+`tools\wiki_lint.cmd` OK with 354 compiled pages and 300 raw sources checked;
+remaining diagnostics are expected raw backlog, the prior no-inbound
+diagnostic for [[Yearlong Solitary Retreat Carrying Text]], and broad-domain
+sub-indexing advisories.
+
+## [2026-05-28] synthesize | Public atlas safety and accountability expansion
+Executed the third expansion phase of the public Shinzen Practice Atlas by
+drafting pages 18-24 from the next-30 plan: Guidance, Scope, and
+Accountability, Practice Method Safety, Intensity and Embodiment Safety, DPDR
+and the Pit of the Void, Altered Phenomena and Dissolution Safety,
+Operational Enlightenment, and Mastery Without Guru Inflation. Updated public
+navigation, glossary entries, neighboring next-reading links, and atlas
+handoff notes to treat `public-atlas/` as a 59-page draft. Pages touched:
+`public-atlas/guidance-scope-and-accountability.md`,
+`public-atlas/practice-method-safety.md`,
+`public-atlas/intensity-and-embodiment-safety.md`,
+`public-atlas/dpdr-and-the-pit-of-the-void.md`,
+`public-atlas/altered-phenomena-and-dissolution-safety.md`,
+`public-atlas/operational-enlightenment.md`,
+`public-atlas/mastery-without-guru-inflation.md`,
+`public-atlas/index.md`, `public-atlas/glossary.md`,
+`public-atlas/safety-scope-and-accountability.md`,
+`public-atlas/completion-versus-bypass-and-intensity.md`,
+`public-atlas/no-self-without-erasing-personality.md`,
+`public-atlas/source-zero-and-speculation.md`,
+`public-atlas/behavior-and-service-test.md`,
+`public-atlas/shinzens-teaching-method.md`,
+`public-atlas/deconstruction-and-reconstruction.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_next_30_pages.md`, and `wiki/log.md`. Validation:
+public-atlas content count is now 59, relative links OK, internal-leak and
+non-ASCII checks clean; `tools\wiki_lint.cmd` OK with 349 compiled pages and
+300 raw sources checked. Remaining diagnostics are expected raw backlog,
+broad-domain advisories, and the prior no-inbound diagnostic for [[Yearlong
+Solitary Retreat Carrying Text]].
+
+## [2026-05-28] ingest | ShinzenVideos pain-guided series audit
+Resolved the three-item pain-guidance `@ShinzenVideos` `series-candidate`
+cluster without creating duplicate source pages. Transcript comparison found
+that `weE4WO48_UU`, `miX52Exkkqk`, and `cearYQbXCds` demonstrate
+secondary-spread-first pain coaching, whole-body labels, gentle
+matter-of-fact spoken labeling, mental talk/body image/emotional reaction
+checks, Flow checking, and interactive algorithmic personalized coaching,
+but existing physical-discomfort, Noting, guidance, and teaching-method
+anchors already compress those deltas. Reclassified all three IDs as
+`defer-query-driven` and updated `wiki/index.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No source pages, owner-page
+updates, synthesis, thesis, question, concept, or [[Current Model]] update
+were warranted. Validation: `tools\wiki_lint.cmd` OK with 349 compiled pages
+and 300 raw sources checked; remaining diagnostics are the expected raw
+backlog, the prior no-inbound diagnostic for [[Yearlong Solitary Retreat
+Carrying Text]], and broad-domain sub-indexing advisories.
+
+## [2026-05-28] synthesize | Public atlas equanimity and transformation expansion
+Executed the second expansion phase of the public Shinzen Practice Atlas by
+drafting pages 11-17 from the next-30 plan: Equanimity Versus Suppression,
+Equanimity Training Ladder, Inner Sensory System, Recycle the Reaction,
+Suffering Distortion Cycle, Condition-Independent Happiness, and
+Deconstruction and Reconstruction. Updated public navigation, glossary
+entries, neighboring next-reading links, and atlas handoff notes to treat
+`public-atlas/` as a 52-page draft. Pages touched:
+`public-atlas/equanimity-versus-suppression.md`,
+`public-atlas/equanimity-training-ladder.md`,
+`public-atlas/inner-sensory-system.md`,
+`public-atlas/recycle-the-reaction.md`,
+`public-atlas/suffering-distortion-cycle.md`,
+`public-atlas/condition-independent-happiness.md`,
+`public-atlas/deconstruction-and-reconstruction.md`,
+`public-atlas/index.md`, `public-atlas/glossary.md`,
+`public-atlas/README.md`, `wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_next_30_pages.md`, and `wiki/log.md`. Validation:
+public-atlas content count is now 52, relative links OK, internal-leak and
+non-ASCII checks clean; `tools\wiki_lint.cmd` OK with 349 compiled pages and
+303 raw sources checked. Remaining diagnostics are expected raw backlog,
+broad-domain advisories, and the prior no-inbound diagnostic for [[Yearlong
+Solitary Retreat Carrying Text]].
+
+## [2026-05-28] ingest | ShinzenVideos three-human-jobs series candidate
+Resolved the single-item three-human-jobs `@ShinzenVideos`
+`series-candidate` by promoting `9PB0YKPBn0w` and creating [[Appreciate
+Transcend Improve Our Three Human Jobs]]. The source preserves the direct
+oral appreciate/transcend/improve arc: appreciation as complete sensory
+contact with outer form and inner self-reaction, transcendence through
+Source/Zero and Expansion-Contraction, and improvement as the post-transcend
+ordinary-life work of affect, behavior, cognition, support, material service,
+and Dharma service. Updated [[Total Happiness]], [[Total Happiness Aim
+Structure]], [[Total Happiness Behavior And Service Test]], `wiki/index.md`,
+`wiki/_page_catalog.md`, `wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No synthesis, thesis, question,
+concept, or [[Current Model]] update was warranted. Validation:
+`tools\wiki_lint.cmd` OK with 349 compiled pages and 303 raw sources checked;
+remaining diagnostics are expected raw backlog, the prior catalog-only
+no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]], and
+broad-domain sub-indexing advisories.
+
+## [2026-05-28] ingest | ShinzenVideos teaching-outreach series candidate
+Resolved the teaching/outreach `@ShinzenVideos` `series-candidate` cluster by
+promoting `kFhGAdxx5To` and creating [[Skillful Means or Outreach]] as the
+substantive modern-upaya source page. Transcript comparison found that
+`aOvLb0Nqxpc` and `QiKFM3MT5Tg` corroborate teacher-results responsibility,
+clear practice description, passing practice on, and forgetting the
+teacher-person, but those deltas are already better compressed by existing
+teaching, service, and accountability owner pages, so both were reclassified
+as `defer-query-driven`. Updated [[Lineage Translation]], [[Shinzen's
+Teaching Method]], [[Mindfulness Definitions]], `wiki/index.md`,
+`wiki/_page_catalog.md`, `wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No synthesis, thesis, question,
+concept, or [[Current Model]] update was warranted. Validation:
+`tools\wiki_lint.cmd` OK with 348 compiled pages and 303 raw sources checked;
+remaining diagnostics are expected raw backlog, the prior catalog-only
+no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]], and
+broad-domain sub-indexing advisories.
+
+## [2026-05-28] ingest | ShinzenVideos energy-transmission series candidate
+Resolved one `@ShinzenVideos` `series-candidate` item by promoting
+`HGmU1oVroLM` and creating [[Shaktipat or Energy Transmission in Buddhism]].
+Transcript comparison found that it overlaps with [[Zen, Vipassana, and
+Becoming Impermanence]] on observing versus riding Flow, but adds a distinct
+Flow/Kundalini/Shaktipat translation, clean practice-frame boundary,
+Zen-style motor-output transmission, hard-condition application test, and
+equals-not-disciples anti-dependency handle. Updated [[Flow]], [[Guidance
+Scope and Accountability Boundary]], [[Altered Phenomena and Dissolution
+Safety Boundary]], [[Lineage Translation]], [[Auto Move]], `wiki/index.md`,
+`wiki/_page_catalog.md`, `wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No synthesis, thesis, question,
+concept, or [[Current Model]] update was warranted. Validation:
+`tools\wiki_lint.cmd` OK with 347 compiled pages and 305 raw sources checked;
+remaining diagnostics are expected raw backlog, the prior catalog-only
+no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]], and
+broad-domain sub-indexing advisories.
+
+## [2026-05-28] synthesize | Public atlas routing-method expansion
+Executed the first expansion phase of the public Shinzen Practice Atlas by
+drafting pages 1-10 from the next-30 plan: Basic Mindfulness System, Five
+Ways, Sensory Grid, Way of Tranquility, Practice Cycles and Life
+Architecture, Turn Toward and Turn Away, Effort Regulation, Focus Coverage
+Strategies, Zooming, and Calming and Clarifying. Updated public navigation,
+glossary entries, neighboring next-reading links, and atlas handoff notes to
+treat `public-atlas/` as a 45-page draft. Pages touched:
+`public-atlas/basic-mindfulness-system.md`, `public-atlas/five-ways.md`,
+`public-atlas/sensory-grid.md`, `public-atlas/way-of-tranquility.md`,
+`public-atlas/practice-cycles-and-life-architecture.md`,
+`public-atlas/turn-toward-and-turn-away.md`,
+`public-atlas/effort-regulation.md`,
+`public-atlas/focus-coverage-strategies.md`, `public-atlas/zooming.md`,
+`public-atlas/calming-and-clarifying.md`, `public-atlas/index.md`,
+`public-atlas/glossary.md`, `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`,
+`wiki/_public_atlas_next_30_pages.md`, and `wiki/log.md`. Validation:
+public-atlas content count is now 45, relative links OK, internal-leak and
+non-ASCII checks clean; `tools\wiki_lint.cmd` OK with 347 compiled pages and
+305 raw sources checked. Remaining diagnostics are expected raw backlog,
+broad-domain advisories, singleton-tag advisories, and the prior no-inbound
+diagnostic for [[Yearlong Solitary Retreat Carrying Text]].
+
+## [2026-05-28] synthesize | Public atlas next 30 page plan
+Created a durable expansion queue for the public Shinzen Practice Atlas after
+reading the GPT Pro editorial pass, public atlas handoff, atlas orientation,
+current public page set, and compiled non-source page inventory. The plan
+keeps the existing 35-page atlas as the control map and selects the next 30
+public pages from compiled owner pages, prioritizing route architecture,
+method discrimination, safety/accountability, service, source calibration,
+and advanced phenomenology with boundaries. Pages touched:
+`wiki/_public_atlas_next_30_pages.md`, `wiki/_public_atlas_orientation.md`,
+`public-atlas/README.md`, `wiki/log.md`. Validation: public-atlas content
+count remains 35, relative links OK, internal-leak and non-ASCII checks
+clean; `tools\wiki_lint.cmd` OK with 346 compiled pages and 305 raw sources
+checked. Remaining diagnostics are expected raw backlog, broad-domain
+advisories, and the prior no-inbound diagnostic for [[Yearlong Solitary
+Retreat Carrying Text]].
+
+## [2026-05-28] refactor | Public Shinzen Practice Atlas handoff
+Created a durable handoff surface for the new public-facing `public-atlas/`
+draft so future sessions can continue the atlas without confusing it with the
+internal compiled wiki. The atlas currently has 35 Markdown pages, no static-
+site framework, and a second-pass editorial posture between the internal
+agent-memory wiki and the first overly simple public skeleton. Added
+`public-atlas/README.md` for editor workflow, validation checks, boundaries,
+and next passes; added `wiki/_public_atlas_orientation.md` as the compiler-side
+orientation note. Pages touched: `public-atlas/README.md`,
+`wiki/_public_atlas_orientation.md`, `wiki/log.md`. Validation:
+public-atlas content count 35, relative links OK, internal-leak and non-ASCII
+checks clean; `tools\wiki_lint.cmd` OK with 346 compiled pages and 305 raw
+sources checked. Remaining diagnostics are expected raw backlog, broad-domain
+advisories, and the prior no-inbound diagnostic for [[Yearlong Solitary
+Retreat Carrying Text]].
+
+## [2026-05-28] ingest | Deferred YouTube intense-emotion source
+Reopened the deferred `@ShinzenVideos` working-with-intense-emotion cluster at
+user request while excluding obvious redundancy. Created [[How Intense
+Emotions Can Be No Problem]] from `lD1ny_Q8sKo` as the independent conceptual
+source for emotional Essence becoming Flow and spacious completion. Compared
+the shorter working-with-intense-emotion clips against [[From Suffering to
+Bliss]] and kept them query-driven as excerpt-level duplicate evidence rather
+than creating duplicate source pages. Updated [[Way of Thoughts and
+Emotions]], [[Insight and Purification]], [[Intensity and Embodiment Safety
+Boundary]], `wiki/index.md`, `wiki/_page_catalog.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and
+`wiki/_yt_shinzenvideos_ingestion_plan.md`. No [[Current Model]] update was
+warranted. Validation: `tools\wiki_lint.cmd` OK with 346 compiled pages and
+305 raw sources checked; remaining diagnostics are expected raw backlog,
+broad-domain advisories, and the prior catalog-only no-inbound diagnostic for
+[[Yearlong Solitary Retreat Carrying Text]].
+
+## [2026-05-22] query | Inferred ethics of Shinzen's system
+Answered a philosophy-department ethics query by creating [[Inferred Ethics of Shinzen's System]], an analysis page that translates the compiled model as contemplative eudaimonist virtue ethics with pragmatic consequentialist behavior/service checks, bodhisattva/service orientation, feedback accountability, and Source self-certification limits. Registered the page in the index and catalog, and linked it from [[Total Happiness]]. Pages touched: [[Inferred Ethics of Shinzen's System]], [[Total Happiness]], `wiki/index.md`, `wiki/_page_catalog.md`, `wiki/log.md`. Validation: `tools\wiki_lint.cmd` OK with 345 compiled pages and 313 raw sources checked; remaining diagnostics are expected raw backlog, broad-domain advisories, and the prior catalog-only no-inbound diagnostic for [[Yearlong Solitary Retreat Carrying Text]].
+
+## [2026-05-19] query | Yearlong retreat carrying text
+Ingested the new compact retreat artifact as [[Yearlong Solitary Retreat Carrying Text]], an analysis page rather than Shinzen evidence. The page preserves the selected form, reversible-traction metric, structural revision, pack-ready operating loop, embedded safety gates, ambiguities, and limits. It is catalog-registered but not added to the first-load index because the older retreat portfolio had previously been removed from the compiled routing surface as a pollution risk; this page stays explicitly scoped as a user-requested practice-governor analysis. Pages touched: [[Yearlong Solitary Retreat Carrying Text]], `wiki/_page_catalog.md`, `wiki/log.md`. Validation: `tools\wiki_lint.cmd` OK with 344 compiled pages and 313 raw sources checked; remaining diagnostics are expected raw backlog, broad-domain advisories, and the intentional no-inbound diagnostic for this catalog-only page.
+
+## [2026-05-19] review | Load-bearing router editorial pass
+Reviewed the current load-bearing routing surface after the selected
+`@ShinzenVideos` closeout. Trimmed chronology and overpacked routing prose
+without removing source-page evidence: compacted [[Current Model]]
+frontmatter and Landscape bullets, reduced `wiki/index.md` recent-shape
+chronology and updated the next-step dashboard, corrected stale
+`wiki/_compiler_orientation_2026-05-19.md` guidance that still treated
+[[Say What You Mean]] as pending, and tightened frontmatter/first-screen
+prose on [[Lineage Translation]], [[Practice Entry and Method Choice]], and
+[[Shinzen's Teaching Method]]. Pages touched: [[Current Model]], [[Lineage Translation]],
+[[Practice Entry and Method Choice]], [[Shinzen's Teaching Method]],
+`wiki/index.md`, and `wiki/_compiler_orientation_2026-05-19.md`.
+Validation: `tools\wiki_lint.cmd` OK with 343 compiled pages and 313 raw
+sources checked; remaining diagnostics are expected raw backlog and broad
+domain sub-indexing advisories.
+
+## [2026-05-19] refactor | Frontmatter source-list pruning
+Pruned oversized non-source frontmatter `sources` arrays across high-value
+routing hubs so frontmatter now carries principal raw anchors rather than
+mini-bibliographies. Body citations and source-page references were left
+intact. Pages touched: [[Lineage Translation]], [[Total Happiness]],
+[[Practice Guidance Toolkit]], [[Source And Polarities]], [[Expansion And
+Contraction]], [[Focus on Rest]], [[Inner Sensory System]], [[Shinzen's
+Teaching Method]], [[Source And Service Boundary]], [[Complete Experience]],
+[[No-Self And Personality]], [[Mysticism As Concentration]], [[Practice
+Cycles]], [[Total Happiness Behavior And Service Test]], [[Sensory Clarity]],
+[[Nurture Positive]], [[Way of Physical Senses]], [[Way of Human Goodness]],
+[[Deconstruction-Reconstruction Balance]], [[Gone]], [[Guidance Scope and
+Accountability Boundary]], [[Insight and Purification]], [[Noting]],
+[[Operational Enlightenment]], [[Recycle The Reaction]], [[Suffering
+Distortion Cycle]], and [[Turn Toward and Turn Away]]. Validation:
+`tools\wiki_lint.cmd` OK with 343 compiled pages and 313 raw sources checked;
+the previous oversized-frontmatter-source diagnostics are cleared, leaving
+only expected raw backlog and broad-domain sub-indexing advisories.
+
+## [2026-05-19] review | Current Model phase-closeout freshness
+Reviewed [[Current Model]] after the completed retreat-stream sequence and
+selected `@ShinzenVideos` phase through deferred-review closeout. Found no
+rewrite-level change to the core sensory-completion/interface-evolution
+model, but added a compact 2026-05-19 delta for aggregate freshness around
+teaching language, service, method strategy, samadhi-to-function, and
+one-route versus broad-practice strategy. Updated [[Current Model]] and
+`wiki/index.md`. Validation: `tools\wiki_lint.cmd` OK with 343 compiled pages
+and 313 raw sources checked; remaining diagnostics are expected selected,
+audit-needed, series, and query-driven raw backlog plus existing
+frontmatter-source and large-domain advisories.
+
+## [2026-05-19] review | ShinzenVideos deferred-review completion audit
+Reassessed after [[Digging Holes]] completed the Batch 9 promoted queue.
+Compared the 48 current `defer-query-driven` IDs in
+`wiki/_yt_shinzenvideos_selection_report.md` against the Deferred Inclusion
+Review Addendum and found zero unreviewed deferred IDs remaining. No source
+pages were created and no owner pages were edited. Updated
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and `wiki/index.md` to mark the
+recurring `@ShinzenVideos` loop paused unless a concrete query, series
+decision, duplicate-source upgrade, or audit-needed visual/source-frame issue
+reopens it. No synthesis, thesis, question, concept, or [[Current Model]]
+update was warranted. Validation: `tools\wiki_lint.cmd` OK with 343 compiled
+pages and 313 raw sources checked; remaining diagnostics are expected
+selected/audit/series raw backlog plus existing frontmatter source-list and
+large-domain advisories.
+
+## [2026-05-19] ingest | ShinzenVideos one-deep-hole strategy gate
+Reassessed after [[The Use of Woo Woo Words by Enlightened Masters]] and
+found no active stop condition: `A9_7B-nRlcs` adds a distinct method-strategy
+handle rather than duplicating one-technique or working-smarter coverage.
+Created [[Digging Holes]], preserving the one-deep-hole versus backhoe
+distinction: one route can be taken deeply, while broad practice can clear
+the field level by level when it remains fun, interesting, and productive.
+Updated [[Practice Entry and Method Choice]], [[Basic Mindfulness Practice
+Architecture]], [[Focus Coverage Strategies]], [[Practice Cycles]],
+[[Working Smarter]], `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new synthesis, thesis, question, concept, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 343 compiled pages and 313 raw sources checked; remaining diagnostics
+are expected selected/audit/series raw backlog plus existing frontmatter-
+source and large-domain advisories. The Batch 9 promoted source-page queue is
+complete; next run should return to Deferred Inclusion Review, up to 12
+remaining `defer-query-driven` transcripts.
+
+## [2026-05-19] ingest | ShinzenVideos mystical-language gate
+Reassessed after Deferred Inclusion Review Batch 9 and found no active stop
+condition for the first promoted item: `jKT0zhN1em8` adds a distinct
+mystical-language, teacher-incentive, and anti-cynicism calibration handle
+rather than duplicating the jargon or authority-humility sources. Created
+[[The Use of Woo Woo Words by Enlightened Masters]] and updated [[Lineage
+Translation]], [[Shinzen's Teaching Method]], [[Guidance Scope and
+Accountability Boundary]], [[Mastery Without Guru Inflation]], and [[The
+Agony of Jargon]]. During validation, [[Digging Holes]] and its owner-page
+integration for `A9_7B-nRlcs` were also present but needed catalog/status
+reconciliation; registered it in `wiki/_page_catalog.md` and updated the
+channel plan, selection report, ingestion plan, and index to show the Batch 9
+promoted source-page queue complete. No new synthesis, thesis, question,
+concept, or [[Current Model]] update was warranted. Validation:
+`tools\wiki_lint.cmd` OK with 343 compiled pages and 313 raw sources checked;
+remaining diagnostics are expected selected/audit/series raw backlog plus
+existing frontmatter-source and large-domain advisories. Next run should
+return to Deferred Inclusion Review, up to 12 remaining `defer-query-driven`
+transcripts.
+
+## [2026-05-19] review | ShinzenVideos deferred inclusion review batch 9
+Reassessed after [[There's No Need to Leave Samadhi]] and found the selected
+source-page queue complete, so normal ingest paused and Deferred Inclusion
+Review resumed. Reviewed the next 12 unreviewed `defer-query-driven`
+`@ShinzenVideos` transcripts in catalog order. Promoted `jKT0zhN1em8` and
+`A9_7B-nRlcs` for later gated ingest; added `3FrWSDBsy14`, `SNZ9beyB7tY`,
+`ApsLcL_7SnU`, and `BFR5eX0VxmU` to the working-with-intense-emotion series
+candidate; moved duplicate `Why Meditate` reupload `7-6la3AlEnE` to
+audit-needed; skip-confirmed `cfBfic0F8lM`, `iUy1nAVhvTA`, and
+`0zsyNgfxrnE`; and kept `GWkWakdFh-0` and `8P7q2MW5upg` deferred. Updated
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and `wiki/index.md`. Created no
+source pages and made no owner-page edits. No synthesis, thesis, question,
+concept, or [[Current Model]] update was warranted. Validation:
+`tools\wiki_lint.cmd` OK with 341 compiled pages and 313 raw sources checked;
+remaining diagnostics are expected selected/audit/series raw backlog plus
+existing frontmatter-source and large-domain advisories. Next run should
+reassess and, if no stop condition is active, ingest `jKT0zhN1em8`.
+
+## [2026-05-19] ingest | ShinzenVideos samadhi-to-function gate
+Reassessed after [[Watching Subconscious Processing]] and found no active
+stop condition: `1ibaMe6oi2g` adds a concrete samadhi-to-function and
+self-reactivation handle rather than duplicating existing concentration or
+nonduality sources. Created [[There's No Need to Leave Samadhi]], preserving
+the rule that needed action can arise from samadhi, while fear,
+disorientation, or inner-system reactivation becomes the place to see self
+forming from no-self. Updated [[Practice Cycles]], [[No-Self And
+Personality]], [[Non-Dual Awareness]], [[Practice Method Safety Boundary]],
+[[Lineage Translation]], `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new synthesis, thesis, question, concept, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 341 compiled pages and 306 raw sources checked; remaining diagnostics
+are expected selected/audit/series raw backlog plus existing
+frontmatter-source and large-domain advisories. The Batch 8 promoted
+source-page queue is complete; next run should return to Deferred Inclusion
+Review, up to 12 remaining `defer-query-driven` transcripts.
+
+## [2026-05-19] ingest | ShinzenVideos inner-space tug gate
+Reassessed after [[How Meditation Can Bring an Enlightened Perspective to the 6 O'Clock News]] and found no active stop condition: `wcWUfIhToDw` adds a concrete pre-content Focus In cue rather than duplicating the existing subconscious-temperature source. Created [[Watching Subconscious Processing]], preserving the inner-space tug handle: when Focus In is not All Rest but explicit Image/Talk/Feel and obvious subtle flow are absent, the tug toward image space, talk space, emotional-feeling space, or all three can be noted as the first cue of subconscious activation. Updated [[Inner Sensory System]], [[Sensory Clarity]], [[Noting]], [[Focus on Rest]], [[Taking Temperature of Subconscious Processing]], `wiki/_yt_shinzenvideos_ingestion_plan.md`, `wiki/_yt_shinzenvideos_selection_report.md`, `wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and `wiki/_page_catalog.md`. No new synthesis, thesis, question, concept, or [[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK with 340 compiled pages and 306 raw sources checked; remaining diagnostics are expected selected/audit/series raw backlog plus existing frontmatter-source and large-domain advisories. Next run should reassess and, if no stop condition is active, ingest `1ibaMe6oi2g`.
+
+## [2026-05-19] ingest | ShinzenVideos news-emotion service gate
+Reassessed after Deferred Inclusion Review Batch 8 and found no active stop
+condition: `JAoFaH-p0TA` adds a concrete world-facing Focus In handle rather
+than duplicating existing Source-love or service pages. Created [[How
+Meditation Can Bring an Enlightened Perspective to the 6 O'Clock News]],
+preserving the distinction between emotion that motivates and directs action
+and emotion that drives and distorts it; the source also keeps the boundary
+that meditation can help action quality but is not the whole of effective
+action. Updated [[Total Happiness]], [[Total Happiness Behavior And Service
+Test]], [[Suffering Distortion Cycle]], [[Practice Guidance Toolkit]],
+[[Complete Experience Safety Boundary]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new synthesis, thesis, question, concept, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 339 compiled pages and 306 raw sources checked; remaining diagnostics
+are expected selected/audit/series raw backlog plus existing source-list and
+large-domain advisories. Next run should reassess and, if no stop condition
+is active, ingest `wcWUfIhToDw`.
+
+## [2026-05-19] review | ShinzenVideos deferred inclusion review batch 8
+Reassessed after the completed Batch 7 promoted source-page queue and found
+no active stop condition blocking a transcript-level deferred review. Reviewed
+the next 12 unreviewed `defer-query-driven` `@ShinzenVideos` transcripts in
+catalog order, skipping already-reviewed `WiuAAV52fEQ` and `tRtBa4nOO04`
+when continuing the cursor. Promoted `JAoFaH-p0TA`, `wcWUfIhToDw`, and
+`1ibaMe6oi2g` for later gated ingest; held `t0myTye_QSU` with the
+working-with-intense-emotion series candidates; moved `fr848hdW3C0` to
+audit-needed because visual/math and science-analogy context is load-bearing;
+skip-confirmed non-Shinzen-primary `uNNzuNHJJdI`; and kept six items
+deferred. Updated `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and `wiki/index.md`. Created no
+source pages and made no owner-page edits. No synthesis, thesis, question,
+concept, or [[Current Model]] update was warranted. Next run should reassess
+and, if no stop condition is active, ingest `JAoFaH-p0TA`.
+
+## [2026-05-19] ingest | ShinzenVideos say-what-you-mean gate
+Reassessed after [[Retroactive Meditation]] and found no active stop
+condition for the final Batch 7 promoted item: `aqwdLfL6u48` adds a concrete
+wording-accountability and teaching-precision handle rather than duplicating
+existing teaching-method, guidance-accountability, or lineage-translation
+coverage. Created [[Say What You Mean]], preserving Shinzen's distinction
+between meaning what one says and saying what one means, his public
+correction after an inclusive cultural/political point sounded dismissive,
+and the rule that intended meaning must be checked against actual wording and
+listener effect. Updated [[Shinzen's Teaching Method]], [[Guidance Scope and
+Accountability Boundary]], [[Lineage Translation]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new synthesis, thesis, question, concept, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 338 compiled pages and 301 raw sources checked; active raw backlog is
+now 39, with remaining diagnostics limited to expected selected/audit/series
+raw backlog plus existing source-list and large-domain advisories. The Batch
+7 promoted source-page queue is complete; next run should return to Deferred
+Inclusion Review, up to 12 remaining `defer-query-driven` transcripts, unless
+a stop condition or user query changes priority.
+
+## [2026-05-19] review | Compiler orientation and ROI pass
+Reviewed current compiler health from the index, recent log, Current Model,
+operations manual, review command, page catalog, active YouTube ingest plans,
+post-ingest health plan, key guidance/safety/accountability/Source routers,
+and a fresh lint run. Created `wiki/_compiler_orientation_2026-05-19.md` as a
+system review note. Core read: the compiler is mechanically healthy and no
+longer source-starved; the highest global ROI is compiled-knowledge health,
+router benchmarking, frontmatter drift cleanup, maturity passes, and advisory
+health tooling, while the next selected source action remains reassessing
+`aqwdLfL6u48`. No content pages were changed. Validation: `tools\wiki_lint.cmd`
+passed before the note, with only expected raw-backlog, frontmatter-source, and
+large-domain diagnostics.
+
+## [2026-05-19] ingest | ShinzenVideos retroactive-meditation gate
+Reassessed after [[Taking Temperature of Subconscious Processing]] and after
+three Batch 7 promoted source pages and found no active stop condition:
+`1fG-MXm7zWI` adds a concrete retroactive-meditation handle rather than
+duplicating existing practice-cycle or method-safety pages. Created
+[[Retroactive Meditation]], preserving Shinzen's stop-on-a-dime/start-on-a-dime
+route for demanding work: preserve task competence when formal technique
+cannot be maintained, stop safely afterward, start practice immediately, and
+complete the present See/Hear/Feel activation stirred by the prior activity.
+Updated [[Practice Cycles]], [[Practice Guidance Toolkit]], [[Recycle The
+Reaction]], [[Practice Method Safety Boundary]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new synthesis, thesis, question, concept, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 337 compiled pages and 301 raw sources checked; active raw backlog is now
+40, with remaining diagnostics limited to expected selected/audit/series raw
+backlog plus existing source-list and large-domain advisories. Next run should
+reassess and, if no stop condition is active, ingest `aqwdLfL6u48`.
+
+## [2026-05-19] ingest | ShinzenVideos subconscious-temperature gate
+Reassessed after [[Teaching Turn Back Practice]] and after three Batch 7
+promoted source pages and found no active stop condition: `PoZABGqiLrc` adds
+a concrete temperature-of-the-subconscious practice handle rather than
+duplicating existing inner-system, Gone, or purification pages. Created
+[[Taking Temperature of Subconscious Processing]], preserving Shinzen's
+pattern route after surface Image/Talk/Feel quiets: monitor subtle activation
+as a field, soak steady activation without decoding content, and track
+burst-subsiding activation through Gone and the silence after it. Updated
+[[Inner Sensory System]], [[Sensory Clarity]], [[Gone]], [[Insight and
+Purification]], `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new synthesis, thesis, question, concept, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 336 compiled pages and 301 raw sources checked; active raw backlog is
+now 41, with remaining diagnostics limited to expected selected/audit/series
+raw backlog plus existing source-list and large-domain advisories. Next run
+should reassess and, if no stop condition is active, ingest `1fG-MXm7zWI`.
+
+## [2026-05-19] ingest | ShinzenVideos Turn Back self-inquiry gate
+Reassessed after [[Penetrating Sleepiness]] and found no active stop
+condition: `W05zS1VTQb4` adds a concrete Turn Back/self-inquiry teaching
+sequence rather than duplicating existing witness/no-self pages. Created
+[[Teaching Turn Back Practice]], preserving Shinzen's distinction between the
+technique and the experiences it may produce, the likely progression through
+confusion, false verbal answers, and a fixed witness with equanimity, and the
+continued turning back from the observer until awareness is unfixated during
+eyes-open ordinary activity. Updated [[Self-Inquiry]], [[No-Self And
+Personality]], [[Shinzen's Teaching Method]], semantic edges from [[The
+Absolute Witness]] and [[Non-Dual Awareness]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new synthesis, thesis, question, concept, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 335 compiled pages and 301 raw sources checked; active raw backlog is
+now 42, with remaining diagnostics limited to expected selected/audit/series
+raw backlog plus existing source-list and large-domain advisories. Next run
+should reassess and, if no stop condition is active, ingest `PoZABGqiLrc`.
+
+## [2026-05-19] ingest | ShinzenVideos sleepiness/sinking gate
+Reassessed after Deferred Inclusion Review Batch 7 and found no active stop
+condition: `reLjQ2iSvBE` adds an ordinary-sitting sinking correction distinct
+from the prior Yaza/night-sitting source. Created [[Penetrating Sleepiness]],
+preserving Shinzen's paired instruction to straighten the spine, open the
+eyes, enjoy pleasant sleepiness waves, equanimize discomfort, and penetrate
+sleepiness as sensory experience so posture, noise, and consciousness effects
+can clear. Updated [[Focus on Rest]], [[Way of Tranquility]], [[Practice
+Method Safety Boundary]], [[Effort Regulation]], [[Late Night Sitting Can
+Change Your Life]], `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new synthesis, thesis, question, concept, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd`
+OK with 334 compiled pages and 301 raw sources checked; active raw backlog is
+now 43, with remaining diagnostics limited to expected selected/audit/series
+raw backlog plus existing source-list and large-domain advisories.
+
+## [2026-05-19] review | ShinzenVideos deferred inclusion batch 7
+Reassessed after [[Mindfulness Strategies when Interacting with Others]] and
+found no source-page stop condition, but no promoted source-page item was
+pending, so ran Deferred Inclusion Review rather than ingesting by momentum.
+Reviewed the next 12 remaining `defer-query-driven` transcripts without
+creating source pages: promoted `reLjQ2iSvBE`, `W05zS1VTQb4`, `PoZABGqiLrc`,
+`1fG-MXm7zWI`, and `aqwdLfL6u48` for later gated ingest; moved `LPnLDtHLymo`
+and `ZUjCGG31YSo` to audit-needed; and kept `fTvD7e858CE`, `6GvzpHVjyhc`,
+`vv7WoKwxu5A`, `6E9p11Kz2Ow`, and `MM7ceb91lU8` deferred. Updated
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and `wiki/index.md`. No synthesis,
+thesis, question, concept, owner page, source page, or [[Current Model]]
+update was warranted in the review cycle. Validation: `tools\wiki_lint.cmd`
+OK with 333 compiled pages and 301 raw sources checked; active raw backlog is
+44, with remaining diagnostics limited to the expected selected/audit/series
+raw backlog plus existing source-list and large-domain advisories. Next run
+should reassess and, if no stop condition is active, ingest `reLjQ2iSvBE`.
+
+## [2026-05-19] ingest | ShinzenVideos conversation-practice gate
+Reassessed after [[Where Does Love Come In]] and found no active stop
+condition: `7zpe-azhEZk` adds a concrete interpersonal practice-in-life
+delta rather than source chronology. Created [[Mindfulness Strategies when
+Interacting with Others]], preserving Shinzen's conversation CPU triage,
+interpersonal Focus Out through the other person's sights and sounds,
+body-based lovingkindness during interaction, reduced reliance on preplanned
+inner speech, and the boundary that hidden technique must preserve ordinary
+responsiveness. Updated [[Practice Guidance Toolkit]], [[Practice Cycles]],
+[[Way of Physical Senses]], [[Nurture Positive]], [[Practice Method Safety
+Boundary]], `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. [[Complete Experience Safety Boundary]] was not
+updated because its parent ordinary-responsiveness rule already holds this
+case; the narrower method-safety page received the concrete delta. No new
+synthesis, thesis, question, concept, or [[Current Model]] update was
+warranted. Validation: `tools\wiki_lint.cmd` OK with 333 compiled pages and
+294 raw sources checked; active raw backlog is now 37, with remaining
+diagnostics limited to expected selected/audit/series raw backlog plus
+source-list and large-domain advisories. The Batch 6 promoted source-page
+queue is complete; next run should return to Deferred Inclusion Review unless
+a stop condition or user query changes priority.
+
+## [2026-05-19] ingest | ShinzenVideos four-source love gate
+Reassessed after [[How a Positive Human Being Emerges from the Source]] and
+found no active stop condition: `2p8i25RjNiU` adds a concrete four-source
+love map and relational Focus Out delta rather than source chronology.
+Created [[Where Does Love Come In]], preserving Shinzen's account of natural
+human love, purification uncovering love covered by poison and pain,
+compassion learned through one's own suffering, relative merging through
+Focus Out, and absolute shared-Source merging. Updated [[Source And Service
+Boundary]], [[Bodhicitta and the Way of Service]], [[Total Happiness]], [[Way
+of Physical Senses]], `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. [[Lineage Translation]] was linked from the source
+page but not updated because the transcript's cross-language terms are noisy
+and do not change the existing translation-boundary rule. No new synthesis,
+thesis, question, concept, or [[Current Model]] update was warranted.
+Validation: `tools\wiki_lint.cmd` OK with 332 compiled pages and 294 raw
+sources checked; active raw backlog is now 38, with remaining diagnostics
+limited to expected selected/audit/series raw backlog plus source-list and
+large-domain advisories. Next run should reassess and, if no stop condition
+is active, ingest `7zpe-azhEZk`.
+
+## [2026-05-19] ingest | ShinzenVideos positive-human Source gate
+Reassessed after [[Late Night Sitting Can Change Your Life]] and found no
+active stop condition: `OLshrqxGfJo` adds a concise Source-service qualifier
+and human-surface test rather than source chronology. Created [[How a
+Positive Human Being Emerges from the Source]], preserving Shinzen's
+distinction that impersonal Source/Both-Gone is not positive content, love,
+or hate, while human contact with it can return as love, compassion, and an
+approachable, admirable, helpful, ordinary surface rather than crazy-wisdom
+specialness. Updated [[Source And Service Boundary]], [[Operational
+Enlightenment]], [[Total Happiness Behavior And Service Test]], [[Nurture
+Positive]], [[Lineage Translation]], `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new synthesis, thesis, question, concept, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 331 compiled pages and 294 raw sources checked; active raw backlog is
+now 39, with remaining diagnostics limited to expected selected/audit/series
+raw backlog plus source-list and large-domain advisories. Next run should
+reassess and, if no stop condition is active, ingest `2p8i25RjNiU`.
+
+## [2026-05-19] ingest | ShinzenVideos late-night sitting Rest gate
+Reassessed after Deferred Inclusion Review Batch 6 and found no active stop
+condition: `64BBTV3FOc4` adds a concrete Yaza/sleepiness-Rest and
+sleep-deprivation safety calibration rather than source chronology. Created
+[[Late Night Sitting Can Change Your Life]], preserving Shinzen's routing of
+sleepiness waves into Feel/See/Hear Rest, absorption, Image, and visual Flow,
+plus his explicit discomfort, next-day function, and breakdown/abuse cautions.
+Updated [[Focus on Rest]], [[Way of Tranquility]], [[Practice Method Safety
+Boundary]], [[Altered Phenomena and Dissolution Safety Boundary]], [[Lineage
+Translation]], `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new synthesis, thesis, question, concept, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 330 compiled pages and 294 raw sources checked; active raw backlog is
+now 40, with remaining diagnostics limited to expected selected/audit/series
+raw backlog plus source-list and large-domain advisories. Next run should
+reassess and, if no stop condition is active, ingest
+`OLshrqxGfJo`.
+
+## [2026-05-19] review | ShinzenVideos deferred inclusion batch 6
+Reassessed the `@ShinzenVideos` plan after promoted Gate 25 and ran the
+deferred-review path rather than creating a source page by momentum. Reviewed
+the next 12 `defer-query-driven` transcripts without creating source pages:
+promoted `64BBTV3FOc4`, `OLshrqxGfJo`, `2p8i25RjNiU`, and `7zpe-azhEZk` for
+later gated ingest; moved `ciEbP0_I064` to audit-needed because the visual
+mandala/chart and handout are load-bearing; and kept `vLOUHAklNvQ`,
+`EFx4ywJNSHc`, `wqh0teMWrTQ`, `iQP9wwsoiMg`, `zKrJIV2OEMg`, `ZYmGdWY5ZWM`,
+and `OM-2w-0EMDU` deferred because existing source pages already own their
+main deltas. Updated `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and `wiki/index.md`. No source
+page, owner-page edit, synthesis, thesis, question, or [[Current Model]]
+update was warranted in this review cycle. Validation: `tools\wiki_lint.cmd`
+OK with 329 compiled pages and 294 raw sources checked; active raw backlog is
+now 41, with remaining diagnostics limited to expected selected/audit/series
+raw backlog plus pre-existing source-list and large-domain advisories. Next
+run should reassess and, if no stop condition is active, ingest
+`64BBTV3FOc4`.
+
+## [2026-05-19] ingest | ShinzenVideos working-smarter vocabulary gate
+Reassessed after [[Density that is Unifying and Liberating]] and found no
+active stop condition: `sr7txCTMeHA` adds a concrete initial-overwhelm,
+precise-vocabulary, working-smarter, and one-workable-technique teaching
+handle rather than source chronology. Created [[Working Smarter]], preserving
+Shinzen's advice to get used to the vocabulary gradually, his rationale that
+precision can reduce reliance on old-style brute-force ordeals, and his
+clarification that the Five Ways/menu exposes possibilities rather than
+requiring whole-system mastery. Updated [[Shinzen's Teaching Method]],
+[[Practice Entry and Method Choice]], [[Basic Mindfulness Practice
+Architecture]], `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. [[Lineage Translation]] and [[Mastery Without Guru
+Inflation]] were linked from the source page but not updated because the
+transcript did not add a new lineage-translation rule or accountability
+criterion. No new synthesis, thesis, question, concept, or [[Current Model]]
+update was warranted. Validation: `tools\wiki_lint.cmd` OK with 329 compiled
+pages and 289 raw sources checked; active raw backlog is now 36, with
+remaining diagnostics limited to expected selected/audit/series raw backlog
+plus pre-existing source-list and large-domain advisories. The Batch 5
+promoted source-page queue is complete; next run should return to Deferred
+Inclusion Review and review up to 12 remaining `defer-query-driven`
+transcripts unless a stop condition or user query changes priority.
+
+## [2026-05-19] ingest | ShinzenVideos density and contracted Flow gate
+Reassessed after [[Shinzen, the Mindful Math Geek]] and found no active stop
+condition: `k_oY6MoQWAs` adds a compact resisted-density versus surrendered
+contracted-Flow distinction and a safety-sensitive global-Gone/trance
+calibration rather than source chronology. Created [[Density that is Unifying
+and Liberating]], preserving Shinzen's distinction between painful density
+from resisting contraction and pleasant, unifying, liberating density from
+surrendering to contracted Flow. Updated [[Expansion And Contraction]],
+[[Flow]], [[Gone]], [[Altered Phenomena and Dissolution Safety Boundary]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new synthesis, thesis, question, concept, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 328 compiled pages and 289 raw sources checked; active raw backlog is
+now 37, with remaining diagnostics limited to expected selected/audit/series
+raw backlog plus pre-existing source-list and large-domain advisories. Next
+run should reassess and, if no stop condition is active, ingest
+`sr7txCTMeHA`.
+
+## [2026-05-19] ingest | ShinzenVideos mindful math improve/transcend gate
+Reassessed after Deferred Inclusion Review Batch 5 and found no active
+source-page stop condition: `-cVBohQ2x1c` adds a concrete improve/transcend
+and behavior-verification case rather than source chronology. Created
+[[Shinzen, the Mindful Math Geek]], preserving Shinzen's account of using
+concentration as learning staying power, Image/Talk/Feel deconstruction for
+math-related self-doubt, intentional role-model merging with mathematicians,
+and externally checked problem solving. Updated [[Concentration Power]],
+[[Surface To Source]], [[Total Happiness Behavior And Service Test]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new concept, synthesis, thesis, question, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 327 compiled pages and 289 raw sources checked; active raw backlog is
+now 38, with remaining diagnostics limited to expected selected/audit/series
+raw backlog plus pre-existing source-list and large-domain advisories. Next
+run should reassess and, if no stop condition is active, ingest
+`k_oY6MoQWAs`.
+
+## [2026-05-19] review | ShinzenVideos deferred inclusion batch 5
+Reassessed the `@ShinzenVideos` plan after promoted Gate 22 and applied the
+deferred-review path rather than creating a source page by momentum. Reviewed
+the next 12 `defer-query-driven` transcripts without creating source pages:
+promoted `-cVBohQ2x1c`, `k_oY6MoQWAs`, and `sr7txCTMeHA` for later gated
+ingest; moved `_N7A5kAESTQ` to audit-needed because addiction-adjacent
+clinical/source framing would be load-bearing; skip-confirmed the
+Stephanie-led `aU5Q1ikgKlI`; and kept `W1HpHtzo8ds`, `AvekcxNASGs`,
+`_sCj9PDyPsg`, `JN8Q2lmVC3A`, `CdP1gQBlvAE`, `Qvq5CkWSn5A`, and
+`yExoNZLCjDE` deferred. Updated
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and `wiki/index.md`. No source
+page, owner-page edit, synthesis, thesis, question, or [[Current Model]]
+update was warranted in this review cycle. Validation: `tools\wiki_lint.cmd`
+OK with 326 compiled pages and 289 raw sources checked; active raw backlog is
+now 39, with remaining diagnostics limited to expected selected/audit/series
+raw backlog plus pre-existing source-list and large-domain advisories. Next
+run should reassess and, if no stop condition is active, ingest
+`-cVBohQ2x1c`.
+
+## [2026-05-19] ingest | ShinzenVideos deep-love promoted gate
+Reassessed after [[When Sensory Experience Loses Its Something-ness]] and
+found no active stop condition: `nd7_bNI9u1E` adds a concrete
+deep-love-before-reaction and Prajnaparamita Image/Talk practice handle
+rather than source chronology. Created [[What Is Love at the Deepest Level]],
+preserving Shinzen's sequence from love deeply / act effectively through
+complete inner/outer See-Hear-Feel, self/world perception arising from
+Source-love before reaction, enemy/problem practice, and emptiness
+recitation as Image/Talk arising from and returning to Source. Updated
+[[Source And Service Boundary]], [[Bodhicitta and the Way of Service]],
+[[Total Happiness]], [[Lineage Translation]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new synthesis, thesis, question, or [[Current
+Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK with 326
+compiled pages and 285 raw sources checked; active raw backlog is now 35,
+with remaining diagnostics limited to expected selected/audit/series raw
+backlog plus pre-existing source-list and large-domain advisories. The Batch
+4 promoted source-page queue is complete; next run should start Deferred
+Inclusion Review Batch 5 unless a stop condition or user query changes
+priority.
+
+## [2026-05-19] ingest | ShinzenVideos somethingness and householder ego death promoted gate
+Reassessed the Batch 4 promoted queue after [[Touching the Heart]] and found
+no active source-page stop condition: `Yc7gHjEAGd0` adds a concrete
+somethingness-to-doingness, arising-passing, three-liberation-gates, and
+householder ego-death pacing delta rather than source chronology. Created
+[[When Sensory Experience Loses Its Something-ness]], preserving Shinzen's
+sequence from daily samadhi taste through Feel/Image/Talk self
+deconstruction into self/world transparency and long-haul householder
+practice. Updated [[No-Self And Personality]], [[Complete Experience]],
+[[Impermanence Flow Gone And Source]], [[Flow]], [[Practice Cycles]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new synthesis, thesis, question, or [[Current
+Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK with 325
+compiled pages and 285 raw sources checked; active raw backlog is now 36,
+with remaining diagnostics limited to expected selected/audit/series raw
+backlog plus pre-existing source-list and large-domain advisories. Next run
+should reassess and, if no stop condition is active, ingest `nd7_bNI9u1E`.
+
+## [2026-05-19] ingest | ShinzenVideos Source-love absolute-now promoted gate
+Reassessed the Batch 4 promoted queue after Deferred Inclusion Review Batch 4
+and found no active source-page stop condition: `hwXbRafMuBM` adds a
+Source-love and absolute-now owner-page delta rather than source chronology.
+Created [[Touching the Heart]], preserving Shinzen's two-touch sequence:
+direct sensory contact with consciousness in the absolute now, love before
+ordinary judgment, and action that can remain effective. Updated [[Source And
+Service Boundary]], [[Complete Experience]], [[Total Happiness]],
+[[Bodhicitta and the Way of Service]], [[Source And Polarities]], [[Source
+Science And Analogy Boundary]], `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new synthesis, thesis, question, or [[Current
+Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK with 324
+compiled pages and 285 raw sources checked; active raw backlog is now 37,
+with remaining diagnostics limited to expected selected/audit/series raw
+backlog plus pre-existing source-list and large-domain advisories. Next run
+should reassess and, if no stop condition is active, ingest `Yc7gHjEAGd0`.
+
+## [2026-05-19] review | ShinzenVideos deferred inclusion batch 4
+Reassessed the `@ShinzenVideos` plan after promoted Gate 19 and applied the
+deferred-review path rather than creating a source page by momentum. Reviewed
+the next 12 `defer-query-driven` transcripts without creating source pages:
+promoted `hwXbRafMuBM`, `Yc7gHjEAGd0`, and `nd7_bNI9u1E` for later gated
+ingest; moved `pmR6SepZlwY` and `nSobyZjJSvs` to audit-needed; skip-confirmed
+the Stephanie-led laughing-practice items `dDRr8UEIP9E` and `oX6BOMjafBI`;
+and kept `6kkjMD8T8VM`, `Oi8Vg3BXNag`, `33u14OjeHpE`, `BFTYPq35X98`, and
+`soxDmDgdcPg` deferred. Updated `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and `wiki/index.md`. No source
+page, owner-page edit, synthesis, thesis, question, or [[Current Model]]
+update was warranted in this review cycle. Validation: `tools\wiki_lint.cmd`
+OK with 323 compiled pages and 285 raw sources checked; active raw backlog is
+now 38, with remaining diagnostics limited to expected selected/audit/series
+raw backlog plus pre-existing source-list and large-domain advisories. Next
+run should reassess and, if no stop condition is active, ingest
+`hwXbRafMuBM`.
+
+## [2026-05-19] ingest | ShinzenVideos uncoagulated don't-know promoted gate
+Reassessed the Batch 3 promoted queue after [[Be The Master of Every
+Situation]] and after the three-source checkpoint; no source-page stop
+condition was active because `EclHRdPJ8TM` adds a concrete
+uncoagulated-don't-know handle rather than source chronology. Created
+[[Being Confused is Good]], preserving Shinzen's concise distinction that
+confusion is not the problem, coagulation around don't-know is, and
+uncoagulated don't-know expresses as dynamic spontaneity in the body and
+wisdom in the mind. Updated [[Condition-Independent Happiness]], [[Do
+Nothing]], [[Auto Move]], `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new concept, synthesis, thesis, question, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 323 compiled pages and 280 raw sources checked; active raw backlog is
+now 33, with remaining diagnostics limited to expected selected/audit/series
+raw backlog plus pre-existing source-list and large-domain advisories. The
+Batch 3 promoted source-page queue is complete; next run should start
+Deferred Inclusion Review Batch 4 unless a user query changes priority.
+
+## [2026-05-19] ingest | ShinzenVideos Zen host master promoted gate
+Reassessed the Batch 3 promoted queue after [[How Much of Buddhism Can
+Survive the Scrutiny of Science]] and found no active source-page stop
+condition: `8P_4DcNMKZ8` adds a Zen host/master and identity-into-other
+transmission handle rather than duplicating existing Source, no-self, or
+lineage pages. Created [[Be The Master of Every Situation]], preserving
+Shinzen's distinction between master as domination or toughness and master as
+object-side no-self where inner reactivity drops out and identity lives as
+the formerly other. Updated [[Source And Service Boundary]], [[No-Self And
+Personality]], [[Lineage Translation]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new concept, synthesis, thesis, question, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 322 compiled pages and 280 raw sources checked; active raw backlog is
+now 34, with remaining diagnostics limited to expected selected/audit/series
+raw backlog plus pre-existing source-list and large-domain advisories. Next
+run should reassess and, if no stop condition is active, ingest
+`EclHRdPJ8TM`.
+
+## [2026-05-18] ingest | ShinzenVideos Buddhism science calibration promoted gate
+Reassessed the Batch 3 promoted queue after [[What Is Equanimity]] and found
+no active source-page stop condition: `2iuZwivL7HY` adds a Buddhism/science
+evidence-tier calibration source rather than duplicating existing lineage,
+complete-experience, Source, or no-self coverage. Created [[How Much of
+Buddhism Can Survive the Scrutiny of Science]], preserving Shinzen's refusal
+to treat reincarnation as established evidence, his translation of suffering
+and pleasure into incomplete/complete experience, impermanence as condition
+independence rather than world indifference, and no-self/true-self vocabulary
+as phenomenology rather than word test. Updated [[Lineage Translation]],
+[[Source Science And Analogy Boundary]], [[Complete Experience]], [[No-Self
+And Personality]], `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new concept, synthesis, thesis, question, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 321 compiled pages and 280 raw sources checked; active raw backlog is
+now 35, with remaining diagnostics limited to expected selected/audit/series
+raw backlog plus pre-existing source-list and large-domain advisories. Next
+run should reassess and, if no stop condition is active, ingest
+`8P_4DcNMKZ8`.
+
+## [2026-05-18] ingest | ShinzenVideos public equanimity promoted gate
+Reassessed the Batch 3 promoted queue and found no active source-page stop
+condition: `qocJp_jInHI` adds a quality-A public equanimity anchor rather
+than duplicating the longer equanimity sources. Created [[What Is
+Equanimity]], preserving sensory noninterference versus world passivity,
+sensory circuits not interfering with themselves, and the pain/pleasure
+payoff where pain can hurt without bothering and pleasure can satisfy.
+Updated [[Equanimity]], [[Equanimity Versus Suppression]], [[Complete
+Experience]], `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new concept, synthesis, thesis, question, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 320 compiled pages and 280 raw sources checked; active raw backlog is
+now 36, with remaining diagnostics limited to expected selected/audit/series
+raw backlog plus pre-existing source-list and large-domain advisories. Next
+run should reassess and, if no stop condition is active, ingest
+`2iuZwivL7HY`.
+
+## [2026-05-18] review | ShinzenVideos deferred inclusion batch 3
+Reassessed the `@ShinzenVideos` plan after promoted Gate 15 and applied the
+deferred-review path rather than creating a source page by momentum. Reviewed
+12 remaining `defer-query-driven` transcripts in catalog order. Promoted
+`qocJp_jInHI`, `2iuZwivL7HY`, `8P_4DcNMKZ8`, and `EclHRdPJ8TM` for later
+gated ingest; held `NIQsQwls-fo` and `uvFfpSl06r4` as
+comparative/whole-system series candidates; kept `PV8neHohagk`,
+`77DrSnpVf2M`, `ylfrzPKRnJE`, `fQrUx010gvI`, `y_0dWhDzNPU`, and
+`bR6HblD75hw` deferred because stronger owner pages already compress their
+deltas or because isolated metaphysical/ritual material would be
+misweighted. Updated `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and `wiki/index.md`. No source
+page, owner-page edit, synthesis, thesis, question, or [[Current Model]]
+update was warranted in this review cycle. Validation:
+`tools\wiki_lint.cmd` OK with 319 compiled pages and 280 raw sources checked;
+active raw backlog is now 37, with remaining diagnostics limited to expected
+selected/audit/series/promoted raw backlog plus pre-existing source-list and
+large-domain advisories. Next run should reassess and, if no stop condition
+is active, ingest `qocJp_jInHI`.
+
+## [2026-05-18] ingest | ShinzenVideos ordinary activity carryover promoted gate
+Reassessed the promoted deferred-review queue after [[Shinzen Guides Steph in
+Focus Out]] and found no active source-page stop condition: `1p4jWtnrJAo`
+adds the ordinary activity carryover criterion rather than duplicating
+existing concentration coverage. Created [[Can Ordinary Experience Count as
+Meditation]] from the quality-B `@ShinzenVideos` transcript, preserving the
+boundary that art, sport, running, singing, or other activity counts as
+meditation only when in-the-zone concentration carries over into raised
+baseline daily-life focus. Updated [[Concentration Power]], [[Practice
+Cycles]], [[Practice Entry and Method Choice]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new concept, synthesis, thesis, question, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 319 compiled pages and 274 raw sources checked; active raw backlog is
+now 31, with remaining diagnostics limited to pre-existing source-list and
+large-domain advisories plus expected series/audit raw backlog. The selected
+and promoted `@ShinzenVideos` source-page queue is complete; next channel
+step is Deferred Inclusion Review unless a user query changes priority.
+
+## [2026-05-18] ingest | ShinzenVideos live Focus Out promoted gate
+Reassessed the promoted deferred-review queue after [[How Do I Know Which
+Kind of Meditation Is Best for Me]] and found no active stop condition:
+`tEsxY7DI06g` adds a concrete live Focus Out instruction and transfer delta
+rather than duplicating existing [[Way of Physical Senses]], [[Practice
+Guidance Toolkit]], or [[Noting]] coverage. Created [[Shinzen Guides Steph
+in Focus Out]] from the quality-B `@ShinzenVideos` transcript, preserving
+Touch/Sight/Sound range definition, spoken-to-mental labels, Feel/Image/Talk
+as the inward pull, eyes-open expansion, and cautious carryover toward
+motion, conversation, and unlabeled autopilot awareness. Updated [[Way of
+Physical Senses]], [[Practice Guidance Toolkit]], [[Noting]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new concept, synthesis, thesis, question, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 318 compiled pages and 274 raw sources checked; active raw backlog is
+now 32, with remaining diagnostics limited to pre-existing source-list and
+large-domain advisories plus expected series/audit/promoted raw backlog. Next
+promoted item is `1p4jWtnrJAo` unless a stop condition changes priority.
+
+## [2026-05-18] ingest | ShinzenVideos beginner path-choice promoted gate
+Reassessed the promoted deferred-review queue after [[The Agony of Jargon]]
+and found no active stop condition: `u_6-NY2yA_k` adds a concrete beginner
+path-choice and teacher-rationale delta rather than duplicating [[The Best
+Path]]. Created [[How Do I Know Which Kind of Meditation Is Best for Me]]
+from the quality-B `@ShinzenVideos` transcript, preserving choice by
+intellectual fit, teacher style, sensory focus object, system consistency,
+and whether the teacher can explain why a method is assigned. Updated
+[[Practice Entry and Method Choice]], [[Guidance Scope and Accountability
+Boundary]], [[Shinzen's Teaching Method]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new concept, synthesis, thesis, question, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 317 compiled pages and 274 raw sources checked; active raw backlog is
+now 33, with remaining diagnostics limited to pre-existing source-list and
+large-domain advisories plus expected series/audit/promoted raw backlog. Next
+promoted item is `tEsxY7DI06g` unless a stop condition changes priority.
+
+## [2026-05-18] ingest | ShinzenVideos jargon-calibration promoted gate
+Reassessed the promoted deferred-review queue after Batch 2 and found no
+active stop condition: `5P9c57Kki00` added a concise cross-teacher jargon and
+map-metric delta rather than source chronology. Created [[The Agony of
+Jargon]] from the quality-B `@ShinzenVideos` transcript, preserving
+same-word/different-phenomenon and different-word/same-phenomenon caution,
+AP/rising-passing as Shinzen's Both-Gone, and the warning that
+craving/aversion, ox-herding, and Both-Gone progress metrics need not
+correspond. Updated [[Lineage Translation]], [[Gone]], [[Operational
+Enlightenment]], [[Pros and Cons of Dharma Maps]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new concept, synthesis, thesis, question, or
+[[Current Model]] update was warranted. Validation: `tools\wiki_lint.cmd` OK
+with 316 compiled pages and 274 raw sources checked; active raw backlog is
+now 34, with remaining diagnostics limited to pre-existing source-list and
+large-domain advisories plus expected series/audit/promoted raw backlog. Next
+promoted item is `u_6-NY2yA_k` unless a stop condition changes priority.
+
+## [2026-05-18] review | ShinzenVideos deferred inclusion batch 2
+Reassessed promoted `tRtBa4nOO04` after [[What Is the Self]] and activated
+the redundancy stop condition: the quality-A channel transcript duplicates
+the already compiled [[What Is Enlightenment]] source page, so no duplicate
+source page, owner-page edit, synthesis, thesis, question, or [[Current
+Model]] update was warranted. Ran Deferred Inclusion Review Batch 2 over the
+next 12 `defer-query-driven` transcripts without creating source pages:
+promoted `u_6-NY2yA_k`, `tEsxY7DI06g`, and `1p4jWtnrJAo` for later gated
+ingest; moved `N6ElQ9y5qQ0` to audit-needed for transcript and empirical
+claim checks; kept `7WiM-w5qqmE`, `Q_VizlDWcTA`, `1J9LQbImU1c`,
+`24QhO2GcCvQ`, `vBP54XrKC-Q`, `MPxZYN-Z2-I`, `v9OP1YS7e-c`, and
+`VAIF9V7Qee4` deferred because stronger existing pages already compress their
+deltas. Updated `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and `wiki/index.md`. Next run
+should reassess and ingest `5P9c57Kki00` if no stop condition is active.
+Validation: `tools\wiki_lint.cmd` OK with 315 compiled pages and 274 raw
+sources checked; active raw backlog is 35, with remaining diagnostics limited
+to pre-existing source-list and large-domain advisories plus expected
+series/audit/promoted raw backlog.
+
+## [2026-05-18] ingest | ShinzenVideos self-definition promoted gate
+Reassessed the promoted deferred-review queue after [[How to Do Healthy
+Merging]] and found no active stop condition: `TnpvqTvvWVU` added a
+quality-A public self-definition anchor rather than source chronology.
+Created [[What Is the Self]], preserving ordinary self as moment-by-moment
+identification with mental image, mental talk, physical body sensation, and
+emotional body sensation, plus the scope limit that this is a practice-facing
+definition rather than a full theory of personhood or a clinical
+interpretation of self-loss. Updated [[No-Self And Personality]], [[Inner
+Sensory System]], `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`; [[See Hear Feel]] was linked from the source page
+but not updated because the clip did not change the SHF interface. No new
+concept, synthesis, thesis, question, or [[Current Model]] update was
+warranted. Validation: `tools\wiki_lint.cmd` OK with 315 compiled pages and
+271 raw sources checked; active raw backlog is now 32, with remaining
+diagnostics limited to pre-existing source-list and large-domain advisories
+plus expected series/audit/promoted raw backlog. Next promoted item is
+`tRtBa4nOO04` unless a stop condition changes priority.
+
+## [2026-05-18] ingest | ShinzenVideos healthy-merging promoted gate
+Reassessed the promoted deferred-review queue after [[Mindfulness with
+Sickness]] and found no active stop condition: `tzHbQk1SQCQ` added a concrete
+relationship-boundary and Source/service delta rather than source chronology.
+Created [[How to Do Healthy Merging]] from the quality-B `@ShinzenVideos`
+transcript, preserving non-invasive healthy merging, unconditional positive
+regard, ordinary-human presentation after nonordinary contact,
+empowerment/purification versus disempowerment, and healthy separation as
+useful sensory discrimination. Updated [[Source And Service Boundary]],
+[[No-Self And Personality]], [[Guidance Scope and Accountability Boundary]],
+[[Lineage Translation]], `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new concept, synthesis, thesis, question, or
+[[Current Model]] update was warranted; existing guidance and safety pages
+own the unresolved consent, clinical, power, and teacher-scope criteria.
+Validation: `tools\wiki_lint.cmd` OK with 314 compiled pages and 271 raw
+sources checked; active raw backlog is now 33, with remaining diagnostics
+limited to pre-existing source-list and large-domain advisories plus expected
+series/audit/promoted raw backlog. Next promoted item is `TnpvqTvvWVU` unless
+a stop condition changes priority.
+
+## [2026-05-18] ingest | ShinzenVideos sickness-practice promoted gate
+Reassessed the promoted deferred-review queue after [[Mindfulness with
+Sickness]] and found no active stop condition: the item added a concrete
+owner-page delta rather than source chronology. Created [[Mindfulness with
+Sickness]] from the `6vhrTErrZD8` quality-B `@ShinzenVideos` transcript,
+preserving sickness as non-consensual retreat, explicit rest/sleep/break
+permission, illness sensory challenge components, turn-toward/turn-away
+legitimacy, foreground/background equanimity, and the anti-austerity boundary
+against turning hard training stories into modern illness prescriptions.
+Updated [[Practice Guidance Toolkit]], [[Turn Toward and Turn Away]], [[Way
+of Physical Senses]], [[Equanimity]], [[Practice Method Safety Boundary]],
+[[Intensity and Embodiment Safety Boundary]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new concept, synthesis, thesis, question, or
+[[Current Model]] update was warranted; [[Complete Experience Safety
+Boundary]] already routes the broader medical-adjacent safety layer.
+Validation: `tools\wiki_lint.cmd` OK with 313 compiled pages and 271 raw
+sources checked; active raw backlog is now 34, with remaining diagnostics
+limited to pre-existing source-list and large-domain advisories plus expected
+series/audit/promoted raw backlog. Next promoted item is `tzHbQk1SQCQ` unless
+a stop condition changes priority.
+
+## [2026-05-18] review | ShinzenVideos deferred inclusion batch 1
+Reassessed the completed `@ShinzenVideos` selected sequence and confirmed no
+selected-source stop condition required another source page by momentum.
+Ran the first Deferred Inclusion Review over 12 near-miss
+`defer-query-driven` transcripts without creating source pages. Promoted
+`6vhrTErrZD8`, `tzHbQk1SQCQ`, `TnpvqTvvWVU`, `tRtBa4nOO04`, and
+`5P9c57Kki00` for future one-at-a-time gated ingest; held `lD1ny_Q8sKo`,
+`VGQC_ifSIMc`, `5SIp547qQGQ`, and `0DsdjDj_U4U` as an emotional-intensity
+mini-series candidate; moved `nsPcWEZFaKA` and `AdulQzPqRi8` to
+audit-needed; kept `WiuAAV52fEQ` deferred. Updated
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, and `wiki/index.md`. No synthesis,
+thesis, question, owner-page, source-page, or [[Current Model]] update was
+warranted during this selection-only pass. Next run should reassess and, if
+no stop condition is active, ingest `6vhrTErrZD8` as the first promoted
+source-page gate. Validation: `tools\wiki_lint.cmd` OK with 312 compiled
+pages and 271 raw sources checked; active raw backlog is now 35 because 11
+deferred IDs moved into promoted, series-candidate, or audit-needed queues,
+with remaining diagnostics limited to pre-existing frontmatter-source and
+large-domain advisories.
+
+## [2026-05-18] ingest | ShinzenVideos service-formation gate
+Reassessed [[Pros and Cons of Dharma Maps]] and the Gate 6 redundancy
+warning; no active stop condition was met because the final selected source
+added service-formation and Source-to-service routing rather than repeating
+existing Total Happiness material. Created [[After Enlightenment Love Deeply
+And Act Effectively]] from the `no_XaCE969Y` quality-B `@ShinzenVideos`
+transcript, preserving Shinzen's motivation as optimal service, ox-herding
+marketplace return, early failure as compassion training, Mahayana service
+orientation, role models of ordinary availability, old-school intensity as a
+non-prescriptive lineage contrast, and Source contact as larger-identity
+love. Updated [[Source And Service Boundary]], [[Total Happiness Behavior
+And Service Test]], [[Bodhicitta and the Way of Service]], [[Total
+Happiness]], [[Lineage Translation]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new concept, synthesis, thesis, question, or
+[[Current Model]] update was warranted; [[Ten Ox-Herding Pictures]],
+[[Operational Enlightenment]], and [[Guidance Scope and Accountability
+Boundary]] were linked but not updated because existing owners already
+compress those mechanisms. Validation: `tools\wiki_lint.cmd` OK with 312
+compiled pages and 24 active raw backlog items; remaining diagnostics are
+pre-existing source-list and domain-size advisories plus expected
+series/audit raw backlog. The original `ingest-now` sequence is complete;
+next cycle should run the Deferred Inclusion Review rather than create a
+source page directly.
+
+## [2026-05-18] ingest | ShinzenVideos dharma-map calibration gate
+Reassessed [[How We Evolve and Integrate]] and the Gate 5 redundancy warning;
+no active stop condition was met because the next selected source changed
+map calibration and teacher-evaluation routing rather than repeating
+dark-night or no-self integration material. Created [[Pros and Cons of
+Dharma Maps]] from the `8bIgTY-8M5A` quality-B `@ShinzenVideos` transcript,
+preserving Shinzen's pros and cons of dharma maps, map quest and
+rating/status dangers, textual and cultural caveats against map
+fundamentalism, progress criteria from unusual experiences through CCE taste
+and daily-life effects to non-fixated practice, teacher track record over
+map agreement, and corrections to perfection, suddenness, universal
+dark-night, and literal linear-map myths. Updated [[Operational
+Enlightenment]], [[Practice Guidance Toolkit]], [[Teaching A Path]],
+[[Guidance Scope and Accountability Boundary]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new concept, synthesis, thesis, question, or
+[[Current Model]] update was warranted; [[Enlightenment Maps and Models]],
+[[Six Common Traps on the Path to Enlightenment]], and [[Mastery Without
+Guru Inflation]] were linked but not updated because existing owners already
+compress those mechanisms. Validation: `tools\wiki_lint.cmd` OK with 311
+compiled pages and 25 active raw backlog items; remaining diagnostics are
+pre-existing source-list and domain-size advisories plus expected
+selected/series/audit raw backlog. Next selected item is `no_XaCE969Y`,
+with redundancy warning still active.
+
+## [2026-05-18] ingest | ShinzenVideos void-integration gate
+Reassessed [[Organizing Your Practice]] and the Gate 4 redundancy warning;
+no active stop condition was met because the next selected source changed
+safety and integration rather than repeating practice-cycle material. Created
+[[How We Evolve and Integrate]] from the `bqA74RpHzzo` quality-B
+`@ShinzenVideos` transcript, preserving Shinzen's input/output integration
+frame, desire as incomplete pleasure, driven-to-dynamic behavior, flatline
+between easy void integration and rare DPDR-like severity, positive-void
+accentuation, deconstructing reactions to emptiness, admirable-self
+reconstruction, motor-output spontaneity, and no-self conduct
+accountability. Updated [[DPDR and the Pit of the Void]], [[No-Self And
+Personality]], [[Nurture Positive]], [[Total Happiness Behavior And Service
+Test]], [[Altered Phenomena and Dissolution Safety Boundary]], [[Complete
+Experience Safety Boundary]], `wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/index.md`, and `wiki/_page_catalog.md`. No new concept, synthesis,
+thesis, question, or [[Current Model]] update was warranted; [[Auto Move]]
+and [[Deconstruction-Reconstruction Balance]] were linked but not updated
+because existing owners already compress those mechanisms. Validation:
+`tools\wiki_lint.cmd` OK with 310 compiled pages and 26 active raw backlog
+items; remaining diagnostics are pre-existing source-list and domain-size
+advisories plus the expected selected/series/audit raw backlog. Next selected
+item is `8bIgTY-8M5A`, with redundancy warning still active.
+
+## [2026-05-18] ingest | ShinzenVideos practice-organization gate
+Reassessed [[How to Guide Someone through the Death Process using Mindfulness]]
+and the three-selected-source checkpoint; no active stop condition was met,
+so Gate 4 continued. Created [[Organizing Your Practice]] from the
+`KnWUutXzRkA` quality-B `@ShinzenVideos` transcript, preserving Shinzen's
+daily/yearly practice-cycle package: formal stillness and motion,
+practice-in-life micro-hits, day-as-monastery attitude, trigger practice with
+controlled stimulus variables, motion challenge sequences, retreat or
+equivalent, teacher contact, and one-method/sequence/loop-and-branch session
+setup. Updated [[Practice Cycles]], [[Basic Mindfulness Practice
+Architecture]], [[Practice Entry and Method Choice]], [[Practice Guidance
+Toolkit]], [[Practice Method Safety Boundary]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new concept, synthesis, thesis, question, or
+[[Current Model]] update was warranted; trigger practice is now owned by
+[[Practice Cycles]] and [[Practice Method Safety Boundary]]. Validation:
+`tools\wiki_lint.cmd` OK with 309 compiled pages and 27 active raw backlog
+items; remaining diagnostics are pre-existing source-list and domain-size
+advisories plus the expected selected/series/audit raw backlog. Next selected
+item is `bqA74RpHzzo`, with redundancy warning active.
+
+## [2026-05-18] ingest | ShinzenVideos death-process guidance gate
+Reassessed [[The Quickest Way to Enlightenment]] and found no active stop
+condition: Gate 2 strengthened Strong Determination, physical safety, and
+zooming without source-chronology bloat. Created [[How to Guide Someone
+through the Death Process using Mindfulness]] from the `gDeMbojj8-E`
+quality-B `@ShinzenVideos` transcript, preserving Shinzen's
+survival-versus-dying orientation check, advance consent for one-way guidance,
+Rest as the usual first death-process query, optional Flow and Gone branches,
+reverse-midwife service frame, transcript-quality cautions, and calibrated
+Source claims around death. Updated [[Guidance Scope and Accountability
+Boundary]], [[Complete Experience Safety Boundary]], [[Focus on Rest]],
+[[Flow]], [[Gone]], [[Source And Service Boundary]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. The three-selected-source reassessment found Gates
+1-3 distinct enough to continue; next selected item is `KnWUutXzRkA`. No new
+concept, synthesis, thesis, question, or [[Current Model]] update was
+warranted. Validation: `tools\wiki_lint.cmd` OK with 308 compiled pages and
+28 active raw backlog items; remaining diagnostics are pre-existing
+source-list and domain-size advisories plus the expected selected/audit raw
+backlog.
+
+## [2026-05-18] ingest | ShinzenVideos strong-determination gate
+Reassessed [[From Suffering to Bliss]] and found no active stop condition:
+the pilot strengthened routing without source-chronology bloat, so Gate 2
+continued. Created [[The Quickest Way to Enlightenment]] from the
+`gYSSf71Vo7w` quality-A `@ShinzenVideos` transcript. The source preserves
+Shinzen's Strong Determination quick-route frame, gradual no-movement
+training, no-damage and numb-leg/fall cautions, medical-check caveat,
+local-global pain zooming, reactive inner-sensory cross-multiplication,
+purification taste, and bliss/jhana optionality. Updated [[Strong
+Determination]], [[Zooming]], [[Intensity and Embodiment Safety Boundary]],
+`wiki/_yt_shinzenvideos_ingestion_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new concept, synthesis, thesis, question, or
+[[Current Model]] update was warranted; [[Way of Physical Senses]],
+[[Insight and Purification]], and [[Calming-Clarifying Balance]] were linked
+from the source page but not updated because existing owners already compress
+their delta. Validation: `tools\wiki_lint.cmd` OK with 307 compiled pages and
+29 active raw backlog items; remaining diagnostics are pre-existing
+source-list and domain-size advisories plus the expected selected/audit raw
+backlog.
+
+## [2026-05-18] synthesize | ShinzenVideos deferred inclusion review
+Updated the `@ShinzenVideos` post-selection plan so `defer-query-driven` is
+not treated as a permanent rejection. The new deferred inclusion review reads
+up to 12 deferred transcripts per cycle after the selected sequence completes
+or pauses, applies the same checkpoint question to transcript content, and
+records each reviewed ID as promote-ingest, promote-series, keep-deferred,
+audit-needed, or skip-confirmed. Updated
+`wiki/_yt_shinzenvideos_ingestion_plan.md`,
+`wiki/_yt_shinzenvideos_selection_report.md`,
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and the active
+`shinzen-ingest-loop` automation prompt. Assumption: deferred review should
+update the queue only; promoted items are ingested later as one-source gates.
+Validation: `tools\wiki_lint.cmd` OK with 306 compiled pages and 30 active
+raw backlog items; remaining diagnostics are unchanged source-list and
+domain-size advisories.
+
+## [2026-05-18] ingest | ShinzenVideos emotional-intensity pilot
+Created `wiki/_yt_shinzenvideos_ingestion_plan.md` and completed Gate 1 with
+[[From Suffering to Bliss]] from the `Azg0BrD9jGU` quality-A channel
+transcript. The source preserves Shinzen's live coaching sequence for intense
+emotional Feel: differential diagnosis, fear/sad subdivision, local-global
+Flow, interpenetrating emotion flavors, eyes-open transfer, and Noting Feel
+Sources. Updated [[Practice Guidance Toolkit]], [[Way of Thoughts and
+Emotions]], [[Zooming]], [[Recycle The Reaction]], [[Intensity and Embodiment
+Safety Boundary]], [[Complete Experience Safety Boundary]],
+`wiki/_yt_shinzenvideos_channel_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No new concept, synthesis, thesis, question, or
+[[Current Model]] update was warranted; the pilot strengthened existing
+owners and sharpened unresolved safety thresholds. Validation:
+`tools\wiki_lint.cmd` OK with 306 compiled pages and 30 active raw backlog
+items; remaining diagnostics are pre-existing source-list/domain-size
+advisories plus the expected active backlog.
+
+## [2026-05-18] review | ShinzenVideos channel selection
+Completed the selection step for the acquired `@ShinzenVideos` corpus. Created
+`wiki/_yt_shinzenvideos_selection_report.md` and classified all 218 unique
+video IDs: 7 ingest-now, 14 series-candidate, 8 audit-needed, 3
+upgrade-existing, 108 defer-query-driven, and 78 skip-manifest-only. The report
+treats the channel as a public-facing anthology and selects only material that
+improves future practice routing, safety/service judgment, live guidance,
+practice architecture, map humility, or model novelty. Recommended next step:
+create `wiki/_yt_shinzenvideos_ingestion_plan.md` with `Azg0BrD9jGU` (`FROM
+SUFFERING to BLISS`) as the pilot, then reassess before expanding the gate.
+Updated `tools/wiki_lint.py` so defer/skip IDs from the selection catalog are
+not reported as active raw backlog. Validation: `tools\wiki_lint.cmd` OK with
+31 raw backlog items: the two pre-existing query-driven items plus 29 active
+`@ShinzenVideos` ingest-now, series-candidate, and audit-needed IDs.
+
+## [2026-05-18] ingest | ShinzenVideos channel transcript acquisition
+Completed the acquisition-only scope from `wiki/_yt_shinzenvideos_channel_plan.md`
+through transcript recovery and stopped before selection. Created
+`tools/scrape_shinzenvideos_channel.py`; enumerated 21 `@ShinzenVideos`
+playlists, 352 playlist rows, 218 unique video IDs, 138 duplicate playlist
+memberships, and 4 ungrouped channel-video cross-check items. Wrote
+203 new transcript files plus `_CHANNEL_MANIFEST.md`, `_VIDEO_INDEX.md`, and
+21 playlist manifests under
+`raw/Shinzen Sources/yt transcripts/ShinzenVideos/`. Deduplication reused
+3 exact video-ID transcripts already in the corpus; 3 public videos produced
+no speech transcript and remain manifest-only; 9 private/inaccessible videos
+are quality-D manifest rows. STT used `py -3.13` because the existing scratch
+`faster-whisper` dependency cache is built for CPython 3.13. Validation:
+transcript filenames use the
+`_<video_id>.md` suffix, required transcript metadata is present, and no new
+ShinzenVideos transcript duplicates a non-channel raw transcript by video ID.
+`tools\wiki_lint.cmd` OK with the expected raw-backlog advisory now inflated
+by the staged channel transcripts, plus pre-existing source-heavy and
+large-domain advisories. Next step: selection report only; no source pages or
+owner-page updates were created.
+
+## [2026-05-18] synthesize | ShinzenVideos channel acquisition plan
+Created `wiki/_yt_shinzenvideos_channel_plan.md` for the second YouTube
+channel project at `https://www.youtube.com/@ShinzenVideos`. The plan
+separates live playlist discovery, transcript acquisition, deduplication, and
+selection from source-page ingestion; preserves playlist categories through
+manifests without treating them as Shinzen taxonomy; defines transcript
+layout, quality tiers, selection scoring, automation stages, validation, and
+stop conditions. Updated `wiki/index.md` so future automation routes to this
+plan before scraping or ingesting. Open issue: the first automation run must
+decide whether all transcripts are promoted directly into `raw/` or staged
+until the initial selection report.
+
+## [2026-05-18] ingest | Retreat stream R5 spaciousness and self-return
+Completed R5 from
+`raw/Shinzen Sources/yt transcripts/retreat streams/Shinzen Young Day-Long Retreat at the Monastic Academy - July 22, 2017_TKqJL3AroLc.md`.
+Created [[Shinzen Young Day-Long Retreat at the Monastic Academy - July 22,
+2017]] as the one source page for the six-hour quality-C STT stream, using a
+compact `Retreat Timeline` and strong transcript-quality cautions. Updated
+[[Spaciousness]], [[No-Self And Personality]], [[Equanimity]],
+[[Practice Cycles]], and [[Guidance Scope and Accountability Boundary]] for
+somatic thinness, surrounding openness, focus range versus representation,
+fear as self-rearising after no-self, sensory-equanimity versus
+objective-action boundaries, micro-hits/background practice/driving
+transition, and ethics/feedback/accountability structures. Updated
+`wiki/_yt_retreat_stream_ingestion_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. Applied the post-R5 series synthesis gate and
+created no synthesis/question because R0-R5 still deepen existing owners more
+than they create a stable independent sequence; all six retreat-stream source
+pages are now complete. Validation: `tools\wiki_lint.cmd` OK with the
+expected two-item raw backlog, existing source-heavy frontmatter advisories,
+and large-domain advisories.
+
+## [2026-05-18] ingest | Retreat stream R4 Source and Auto Chant
+Completed R4 from
+`raw/Shinzen Sources/yt transcripts/retreat streams/Shinzen Young Retreat at the Monastic Academy 05.27.2017_kfU_XjT32Yg.md`.
+Created [[Shinzen Young Retreat at the Monastic Academy 05.27.2017]] as the
+one source page for the five-and-a-half-hour quality-B stream, using a
+compact `Retreat Timeline`. Updated [[Source And Polarities]], [[Source
+Science And Analogy Boundary]], [[Impermanence Flow Gone And Source]],
+[[Expansion And Contraction]], [[See Hear Feel]], [[Gone]], [[Noting]],
+[[Auto Move]], [[Lineage Translation]], [[Practice Cycles]], and [[Practice
+Method Safety Boundary]] for the SHF-to-Source route, yes/no/both/rest
+arising-passing practice, speculative science analogy caution, Auto Chant as
+an adjacent motor-output branch, Om Mani translation boundaries, micro-hits,
+and driving safety. Updated `wiki/_yt_retreat_stream_ingestion_plan.md`,
+`wiki/index.md`, and `wiki/_page_catalog.md`. No retreat-stream synthesis or
+Auto Chant concept page was created because existing owner pages still route
+the durable delta; revisit after R5 if the quality-C self/spaciousness stream
+creates a sequence-level need. Validation: `tools\wiki_lint.cmd` OK with the
+expected three-item raw backlog, existing source-heavy frontmatter advisories,
+and large-domain advisories.
+
+## [2026-05-18] ingest | Retreat stream R3 Four Ways Forward
+Completed R3 from
+`raw/Shinzen Sources/yt transcripts/retreat streams/Four Ways Forward (June Shinzen Retreat)_DzmdDcvqK0A.md`.
+Created [[Four Ways Forward - June Shinzen Retreat]] as the one source page
+for the six-hour quality-B stream, using a compact `Retreat Timeline`.
+Created [[Auto Move]] because R1 introduced the movement-side practice handle
+and R3 supplied detailed CCE, output-gate, and task-safety boundaries.
+Updated [[Shinzen April Daylong Retreat - Four Quadrant Training]], [[Total
+Happiness Aim Structure]], [[Practice Entry and Method Choice]], [[Focus
+Coverage Strategies]], [[Noting]], [[Nurture Positive]], [[Spaciousness]],
+[[Expansion And Contraction]], [[Practice Cycles]], [[Source And Service
+Boundary]], and [[Practice Method Safety Boundary]] for the four-way retreat
+workout, Note Everything flooding routes, interest/opportunity/necessity
+method choice, Feel Good as mindfulness, Zoom Beyond Space, Auto Move
+guardrails, and driving/heavy-machinery safety. Updated
+`wiki/_yt_retreat_stream_ingestion_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`. No retreat-stream synthesis or question was created
+because the R3 delta is better compressed by [[Auto Move]] and existing owner
+pages; revisit after R4 if the Source/chant/life transition stream creates a
+sequence-level through-line. Validation: `tools\wiki_lint.cmd` OK with the
+expected four-item raw backlog, existing source-heavy frontmatter advisories,
+and large-domain advisories.
+
+## [2026-05-18] ingest | Retreat stream R2 Note Everything arc
+Completed R2 from
+`raw/Shinzen Sources/yt transcripts/retreat streams/Appreciate the Senses, Transcend the Self, Express the Source_hnyl4qYY8V8.md`.
+Created [[Appreciate the Senses Transcend the Self Express the Source]] as
+the one source page for the four-and-a-half-hour quality-B stream, using a
+compact `Retreat Timeline` and preserving transcript-quality limits. Updated
+[[Practice Entry and Method Choice]], [[Focus Coverage Strategies]],
+[[See Hear Feel]], [[Noting]], [[Practice Cycles]], [[Complete Experience]],
+[[No-Self And Personality]], [[Recycle The Reaction]], and [[Practice Method
+Safety Boundary]] for Note Everything walls, narrowing/re-noting/inclusive
+options, All/None, self-completion, practice-cycle structure, craving/aversion
+recycling, and broad-task safety. Applied the R0-R2 series synthesis gate and
+created no synthesis/question because the first three retreat-stream source
+pages deepen existing owners more than they establish a stable independent
+series arc. Updated `wiki/_yt_retreat_stream_ingestion_plan.md`,
+`wiki/index.md`, and `wiki/_page_catalog.md`. Validation:
+`tools\wiki_lint.cmd` OK with the expected five-item raw backlog, existing
+source-heavy frontmatter advisories, and large-domain advisories.
+
+## [2026-05-18] ingest | Retreat stream R1 Four Quadrant Training
+Completed R1 from
+`raw/Shinzen Sources/yt transcripts/retreat streams/Shinzen April Daylong Retreat Four Quadrant Training_3odXCN29SBc.md`.
+Created [[Shinzen April Daylong Retreat - Four Quadrant Training]] as the one
+source page for the six-hour quality-B stream, using a compact `Retreat
+Timeline` rather than splitting the raw file or source page. Updated [[Total
+Happiness Aim Structure]] to distinguish the retreat's
+appreciate/transcend/express/nurture training quadrants from the older
+self/other and surface/deep happiness quadrants; updated [[Focus Coverage
+Strategies]], [[Practice Cycles]], [[Spaciousness]], [[Nurture Positive]],
+[[Source And Service Boundary]], and [[Practice Method Safety Boundary]] for
+body-location noting, stillness-motion-discussion continuity, body Feel
+Space, positive body Feel, Source-expression guardrails, discomfort routing,
+and driving transition safety. Updated `wiki/_yt_retreat_stream_ingestion_plan.md`,
+`wiki/index.md`, and `wiki/_page_catalog.md`. No retreat-stream synthesis was
+created because the series gate remains after R2. Validation:
+`tools\wiki_lint.cmd` OK with the expected six-item raw backlog, existing
+source-heavy frontmatter advisories, and large-domain advisories.
+
+## [2026-05-18] ingest | Retreat stream R0 Expansion-Contraction pilot
+Completed the R0 pilot from
+`raw/Shinzen Sources/yt transcripts/retreat streams/GUIDED MEDITATION of EXPANSION & CONTRACTION ~ by SHINZEN YOUNG_pg6PTbZ9hDw.md`.
+Created [[Guided Meditation of Expansion and Contraction]] as the one source
+page for the video, using a compact timestamped `Teaching Arc` rather than a
+long-stream `Retreat Timeline`. Updated [[Expansion And Contraction]] with
+the guided surface-to-deep detection sequence and [[Practice Method Safety
+Boundary]] with the subtle-detection/nonforcing boundary. Updated
+`wiki/_yt_retreat_stream_ingestion_plan.md`, `wiki/index.md`, and
+`wiki/_page_catalog.md`; no R0 synthesis was created because the series gate
+requires at least three retreat-stream source pages, and [[Current Model]]
+did not change. Validation: `tools\wiki_lint.cmd` OK with the expected
+seven-item raw backlog, existing source-heavy frontmatter advisories, and
+large-domain advisories.
+
+## [2026-05-18] ingest | Retreat stream sequential ingestion plan
+Created `wiki/_yt_retreat_stream_ingestion_plan.md` to govern the six new
+retreat-stream transcript source ingests. The plan preserves the
+one-source-page-per-video rule, rejects up-front raw/source-page splitting,
+uses internal timestamped `Retreat Timeline` decomposition for 4-6 hour
+streams, prioritizes the compact Expansion-Contraction guided practice as the
+pilot, sequences the remaining daylongs by system-frame and routing value,
+defers the quality-C STT stream until last, and gates any retreat-stream
+series synthesis until at least three source pages exist. Updated
+`wiki/_yt_retreat_stream_scrape_plan.md` and `wiki/index.md` to route future
+work to the new plan. Validation: `tools\wiki_lint.cmd` OK with the expected
+eight-item raw backlog, remaining source-heavy frontmatter, and large-domain
+advisories.
+
+## [2026-05-18] ingest | Long retreat stream transcript acquisition
+Applied the retreat-stream scrape plan for playlist
+`PLjRQFjS1OrSy3q69a9femKVKH1SiywGwu`. Added
+`tools/scrape_retreat_stream_transcripts.py`, installed scratch-local
+`yt-dlp` and `faster-whisper` dependencies under `C:\tmp`, enumerated seven
+playlist videos, deduped `0ifHks5EYZU` against the existing corpus, wrote
+five YouTube-auto-caption transcripts, and filled the one captionless stream
+(`TKqJL3AroLc`) with `faster-whisper tiny.en` CPU/VAD transcription. Raw
+manifest:
+`raw/Shinzen Sources/yt transcripts/retreat streams/_MANIFEST.md`. Pages
+touched: `wiki/_yt_retreat_stream_scrape_plan.md`, `wiki/index.md`,
+`wiki/log.md`. Raw files added: six retreat-stream transcript files under
+`raw/Shinzen Sources/yt transcripts/retreat streams/`. No source pages were
+created; these are expected raw backlog until a pilot retreat-stream ingest.
+Validation: `tools\wiki_lint.cmd` OK with the expected eight-item raw
+backlog, remaining source-heavy frontmatter, and large-domain advisories.
+
+## [2026-05-18] refactor | Phase 8 Practice Cycles maturity pass
+Continued Phase 8 editorial maturity work with [[Practice Cycles]].
+Route-tested inconsistent daily practice, life practice as aspiration,
+formal-session setup, retreat or yearly support, post-retreat aftercare,
+crisis-as-monastery framing, low motivation or plateau, and accelerator use;
+each now reaches the new decision map, the relevant source or owner page, and
+the method, intensity, guidance, or parent safety boundary before deeper
+evidence descent. Trimmed frontmatter to eight principal raw anchors, grouped
+source anchors into daily/yearly cycles, life practice, session setup,
+retreat/continuity, and motivation/accelerator clusters, shortened the
+source-heavy `Related` tail, updated the index backlog count for the new
+retreat-stream raw files, and promoted the page to `mature`. Updated
+`wiki/index.md`, `wiki/_page_catalog.md`, and
+`wiki/_post_ingest_knowledge_health_plan.md`. Validation:
+`tools\wiki_lint.cmd` OK with the expected raw-backlog, remaining
+source-heavy frontmatter, and large-domain advisories; [[Practice Cycles]] no
+longer appears in the source-heavy diagnostics.
+
+## [2026-05-18] refactor | Phase 8 Mindfulness Skill Triad maturity pass
+Continued Phase 8 editorial maturity work with [[Mindfulness Skill Triad]].
+Route-tested mindfulness-definition ambiguity, weak or overemphasized skill,
+labels and focus ranges, complete experience or purification, reward taste
+and plateau, altered phenomena or Source language, and mindfulness-
+sufficiency claims; each now reaches the new decision map, the relevant
+skill or method owner, and the safety or accountability boundary when scope
+exceeds the triad. Trimmed frontmatter to eight principal raw anchors,
+compressed source anchors into definition/transformation, SHF/labeling,
+manual/reward, oral bridge, and boundary groups, shortened the source-heavy
+`Related` tail, and promoted the page to `mature`. Updated `wiki/index.md`,
+`wiki/_page_catalog.md`, and `wiki/_post_ingest_knowledge_health_plan.md`.
+Validation: `tools\wiki_lint.cmd` OK with the expected source-heavy
+frontmatter and large-domain advisories; [[Mindfulness Skill Triad]] no
+longer appears in the source-heavy diagnostics. The raw backlog now includes
+new retreat-stream transcript files present in `raw/`.
+
+## [2026-05-18] refactor | Phase 8 Nurture Positive maturity pass
+Continued Phase 8 editorial maturity work with [[Nurture Positive]].
+Route-tested ABCISO/ABCD theme choice, finding already-present positive Feel,
+triggering positive Feel, spontaneous positive content, void-side
+reconstruction, behavior/service claims, ritual/archetype practice, and
+forced or clinically loaded positivity; each now reaches the new decision
+map, the right owner/source page, and [[Total Happiness Behavior And Service
+Test]], [[Guidance Scope and Accountability Boundary]], or [[Completion
+Versus Bypass Safety Boundary]] when needed. Trimmed frontmatter to eight
+principal raw anchors, compressed the long source anthology into grouped
+`Source Anchors`, trimmed the source-heavy `Related` section, and promoted
+the page to `mature`. Updated `wiki/index.md`, `wiki/_page_catalog.md`, and
+`wiki/_post_ingest_knowledge_health_plan.md`. Validation:
+`tools\wiki_lint.cmd` OK with the expected raw-backlog, remaining
+source-heavy frontmatter, and large-domain advisories; [[Nurture Positive]]
+no longer appears in the source-heavy frontmatter diagnostics.
+
+## [2026-05-18] query | Long retreat stream scrape planning
+Created `wiki/_yt_retreat_stream_scrape_plan.md` for the user-supplied
+long-retreat YouTube playlist. The plan treats the playlist as a new
+source-acquisition target pending `yt-dlp` enumeration, keeps intermediate
+caption/audio artifacts out of `raw/`, preserves the existing YouTube
+transcript filename and video-ID dedupe conventions, and gates ingestion on a
+manifest, dedupe report, quality tiering, and one pilot stream. Local checks
+found no existing mention of playlist `PLjRQFjS1OrSy3q69a9femKVKH1SiywGwu` or
+video `kfU_XjT32Yg`; `yt-dlp` and `ffmpeg` were not on PATH, while `py` and
+the bundled Codex Python were available. Pages touched:
+`wiki/_yt_retreat_stream_scrape_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with the expected raw-backlog, source-heavy
+frontmatter, and large-domain advisories.
+
+## [2026-05-18] refactor | Phase 8 Do Nothing maturity pass
+Continued Phase 8 editorial maturity work with [[Do Nothing]]. Route-tested
+ordinary instruction, covert effort to stop experience, spacey or dull drift,
+racy over-effort, agitation or destabilization, sole-method use,
+pleasant-interest wandering, and broad low-effort awareness; each now reaches
+the new decision map, the right source or method page, and [[Practice Method
+Safety Boundary]] or [[Complete Experience Safety Boundary]] when risk
+appears. Trimmed frontmatter to eight principal raw anchors, kept [[The Happy
+Wanderer]] as a body-level source anchor, routed method safety to the focused
+method boundary, trimmed the source-heavy `Related` section, and promoted the
+page to `mature`. Also corrected the [[Sensory Grid]] index entry to match
+its prior Phase 8 promotion. Updated `wiki/index.md`,
+`wiki/_page_catalog.md`, and `wiki/_post_ingest_knowledge_health_plan.md`.
+Validation: `tools\wiki_lint.cmd` OK with the expected raw-backlog,
+remaining source-heavy frontmatter, and large-domain advisories; [[Do
+Nothing]] no longer appears in the source-heavy frontmatter diagnostics.
+
+## [2026-05-18] refactor | Phase 8 Sensory Grid maturity pass
+Continued Phase 8 editorial maturity work with [[Sensory Grid]]. Route-tested
+label ambiguity, narrow/wide/cycle choices, inner/outer/rest/Flow/Space/Gone
+classification, grid-based guidance, and old-grid/new-SHF compatibility;
+each now reaches the new decision map, the relevant owner page, coverage
+strategy, or safety boundary before deeper evidence descent. Trimmed
+frontmatter to eight principal raw anchors, kept lucid-dream and
+binary-contrast refinements in body-level source/evidence sections, shortened
+the source-heavy `Related` tail, and promoted the page to `mature`. Updated
+`wiki/index.md`, `wiki/_page_catalog.md`, and
+`wiki/_post_ingest_knowledge_health_plan.md`. Validation:
+`tools\wiki_lint.cmd` OK with the expected raw-backlog, remaining
+source-heavy frontmatter, and large-domain advisories; [[Sensory Grid]] no
+longer appears in the source-heavy frontmatter diagnostics.
+
+## [2026-05-18] refactor | Phase 8 Five Ways maturity pass
+Continued Phase 8 editorial maturity work with [[Five Ways]]. Route-tested
+emotional eruption, physical anchoring, rest or Do Nothing, Flow/dissolution,
+positive-service cultivation, and session-workout design cases; each now
+lands in the new first-load route map, the right Way owner page, and the
+relevant safety or guidance boundary before deeper source descent. Trimmed
+frontmatter to the eight principal manual raw anchors, moved oral compactors
+and edge examples into `Source Anchors`, reduced source-heavy `Related`
+edges, and promoted the page to `mature`. Updated `wiki/index.md`,
+`wiki/_page_catalog.md`, and `wiki/_post_ingest_knowledge_health_plan.md`.
+Validation: `tools\wiki_lint.cmd` OK with the expected raw-backlog,
+remaining source-heavy frontmatter, and large-domain advisories; [[Five
+Ways]] no longer appears in the source-heavy frontmatter diagnostics.
+
+## [2026-05-18] refactor | Phase 8 accountability maturity pass
+Continued Phase 8 editorial maturity work with [[Guidance Scope and
+Accountability Boundary]]. Route-tested routine coaching, behavior change
+failure, medical/applied-life, DPDR or dark-night distress, ritual adjacency,
+teacher-misconduct, and Source/service overclaim cases; each reached the
+decision matrix, role ladder, stop/referral criteria, and specialized source
+anchors without using frontmatter as a bibliography. Trimmed frontmatter to
+eight principal raw anchors, added compact `Source Anchors`, compressed
+boundary questions and evidence needs into clusters, and promoted the page to
+`mature` while keeping `confidence: speculative`. Updated `wiki/index.md`,
+`wiki/_page_catalog.md`, and `wiki/_post_ingest_knowledge_health_plan.md`.
+Validation: `tools\wiki_lint.cmd` OK with the expected raw-backlog,
+remaining source-heavy frontmatter, and large-domain advisories; [[Guidance
+Scope and Accountability Boundary]] no longer appears in the source-heavy
+frontmatter diagnostics.
+
+## [2026-05-16] refactor | Phase 8 Practice Guidance maturity pass
+Started Phase 8 editorial polish with [[Practice Guidance Toolkit]].
+Route-tested the page against physical discomfort, emotional eruption,
+teacher/accountability, sleep/caffeine/dream/sexuality edge cases, and
+behavior-not-changing reports; the page routed to specific owner/source pages
+with safety or accountability guardrails before advanced interpretation.
+Trimmed frontmatter from a source-heavy mini bibliography to eight principal
+raw anchors while preserving specialized anchors in the body, tightened
+Related safety routes, promoted the page to `mature`, and updated
+`wiki/index.md`, `wiki/_page_catalog.md`, and
+`wiki/_post_ingest_knowledge_health_plan.md`. Validation:
+`tools\wiki_lint.cmd` OK with the expected raw-backlog, source-anchor, and
+large-domain advisories; [[Practice Guidance Toolkit]] no longer appears in
+the source-heavy frontmatter diagnostics.
+
+## [2026-05-16] refactor | Phase 7 method-option safety routes
+Continued Phase 7 with a bounded method-option link audit, and stopped within
+Phase 7 per user instruction. Updated [[Bear Down or Ease Up in Meditation]],
+[[Do Nothing Meditation]], [[Forcing Spoken Labels]], [[How to do Labeling
+and Noting During Meditation, Part 2 of 2, Zooming]], and [[Zooming]] so
+current frontmatter, contradiction, and Related routing points to [[Practice
+Method Safety Boundary]] where the issue is method fit, dosage, racy/spacey
+switching, forced-label strain, zooming overwhelm, or stop/support criteria.
+Updated `wiki/index.md` and `wiki/_post_ingest_knowledge_health_plan.md`.
+Validation: `tools\wiki_lint.cmd` OK with 298 compiled pages and the expected
+raw-backlog, frontmatter-source-count, and large-domain diagnostics. The
+remaining broad safety links in this five-page cluster are historical `Pages
+updated` audit bullets, not current routing cues.
+
+## [2026-05-16] refactor | Phase 7 Basic Mindfulness source safety routes
+Continued Phase 7 with a bounded source-interface link audit. Updated
+[[Basic Mindfulness Chapter 2 - The Way of the Physical Senses]], [[Basic
+Mindfulness Chapter 3 - The Way of Tranquility]], [[Basic Mindfulness Chapter
+4 - The Way of Flow]], [[Basic Mindfulness Chapter 5 - The Way of Human
+Goodness]], and [[Basic Mindfulness Chapter 8 - Five More Ways]] so current
+frontmatter, integration-target, contradiction, and Related routing points to
+the focused safety child boundary instead of the broad [[Complete Experience
+Safety Boundary]] parent where appropriate. Updated `wiki/index.md` and
+`wiki/_post_ingest_knowledge_health_plan.md`. Validation:
+`tools\wiki_lint.cmd` OK with 298 compiled pages and the expected raw-backlog,
+frontmatter-source-count, and large-domain diagnostics. The remaining broad
+safety links in this five-page cluster are historical `Pages updated` audit
+bullets, not current routing cues.
+
+## [2026-05-16] refactor | Phase 7 initial safety link audit
+Began Phase 7 with a narrow merge-link audit instead of a page merge. Updated
+[[Kriyas]], [[Strong Determination]], [[Turn Toward and Turn Away]], and
+[[Way of Physical Senses]] so bodily-intensity and spontaneous-movement
+safety routes point to [[Intensity and Embodiment Safety Boundary]] rather
+than only the broad [[Complete Experience Safety Boundary]] parent. Updated
+[[Practice Entry and Method Choice]] so method-choice safety points to
+[[Practice Method Safety Boundary]] in frontmatter, tensions, and related
+routing. Updated `wiki/index.md` and
+`wiki/_post_ingest_knowledge_health_plan.md` to mark Phase 7 as started.
+Validation: `tools\wiki_lint.cmd` OK with 298 compiled pages and the expected
+raw-backlog, frontmatter-source-count, and large-domain diagnostics. Next
+Phase 7 passes should keep using small clusters unless a true merge candidate
+appears.
+
+## [2026-05-16] refactor | Phase 6 intensity and method safety criteria
+Continued Phase 6 by adding executable green/yellow/red decision matrices to
+[[Intensity and Embodiment Safety Boundary]] and [[Practice Method Safety
+Boundary]]. The intensity matrix now routes physical pain and illness
+sensations, difficult emotion and primal Feel, Strong Determination, ritual
+heat or teacher-mediated intensity, retreat aftershock or global Gone, and
+kriyas through continue, simplify, pause, refer, and stop-first rules. The
+method matrix now routes Noting and labels, Do Nothing and Rest, zooming and
+broad awareness, session setup and micro-hits, sleep or dream practice,
+caffeine or stimulants, and dropout or sudden-Rest cues through the same
+criteria pattern. Updated [[Complete Experience Safety Boundary]],
+`wiki/index.md`, `wiki/_page_catalog.md`, and
+`wiki/_post_ingest_knowledge_health_plan.md` so the parent hub and routing
+surfaces point to the child matrices. Validation: `tools\wiki_lint.cmd` OK
+with 298 compiled pages and the expected raw-backlog,
+frontmatter-source-count, and large-domain diagnostics. This set up the
+Phase 7 link audit recorded above.
+
+## [2026-05-16] refactor | Phase 6 completion-versus-bypass criteria
+Continued Phase 6 after the Equanimity pilot by adding executable criteria to
+[[Completion Versus Bypass Safety Boundary]]. Added a green/yellow/red matrix
+for pain without suffering, equanimity or no-reaction, fulfillment and
+positive construction, insight or purification, and condition-independent
+happiness claims, plus continue, simplify, and stop-first rules so future
+agents can distinguish Shinzen-style practice optimization from medical,
+clinical, protective, relational, or accountability needs. Routed the page
+through the new [[Equanimity Versus Suppression]], [[Equanimity And
+Purification Taste]], and [[Condition-Independent Happiness]] pages, then
+updated `wiki/index.md`, `wiki/_page_catalog.md`, and
+`wiki/_post_ingest_knowledge_health_plan.md` so the next recommended Phase 6
+rows are intensity/embodiment or practice-method criteria. Validation:
+`tools\wiki_lint.cmd` OK with 298 compiled pages and the expected raw-backlog,
+frontmatter-source-count, and large-domain diagnostics.
+
+## [2026-05-16] refactor | Phase 5 Equanimity hub-pattern pilot
+Completed the next Phase 5 pilot by converting [[Equanimity]] into a
+first-load hub for noninterference, practice repair, safety differential, and
+purification/intensity routing. Created [[Equanimity Training Ladder]] for
+intentional body/talk supports, equanimity voice, spontaneous-drop learning,
+second-order equanimity, and background equanimity; [[Equanimity Versus
+Suppression]] for the differential between noninterference, apathy,
+stuffing-down, numbness, calm performance, dissociation, passivity, and unsafe
+endurance; and [[Equanimity And Purification Taste]] for equanimity-as-
+purifier, resistance formulas, reward taste, Strong Determination, kriyas, and
+anti-ascetic limits. Updated `wiki/index.md`, `wiki/_page_catalog.md`, and
+`wiki/_post_ingest_knowledge_health_plan.md` to register the new pages and
+shift the recommended next move toward Phase 6 safety criteria. Validation:
+`tools\wiki_lint.cmd` OK with 298 compiled pages and the expected raw-backlog,
+frontmatter-source-count, and large-domain diagnostics.
+
+## [2026-05-16] refactor | Phase 5 Total Happiness decomposition
+Continued Phase 5 by converting [[Total Happiness]] from a large aim,
+mechanism, behavior, and service anthology into a bounded decision hub. Added
+three child pages with independent routing jobs: [[Total Happiness Aim
+Structure]] for the three jobs, four quadrants, five applications, ordinary
+and extraordinary happiness, and self/other aims; [[Condition-Independent
+Happiness]] for the CCE-based fulfillment, suffering, Don't Know, and
+complete-sensory-experience mechanism; and [[Total Happiness Behavior And
+Service Test]] for behavior change, external accountability,
+improve/transcend reinforcement, service, and teaching verification. Updated
+`wiki/index.md`, `wiki/_page_catalog.md`, and
+`wiki/_post_ingest_knowledge_health_plan.md` to register the new pages and
+make [[Equanimity]] the next Phase 5 candidate. Validation:
+`tools\wiki_lint.cmd` OK with 295 compiled pages and the expected raw-backlog,
+frontmatter-source-count, and large-domain diagnostics.
+
+## [2026-05-16] refactor | Phase 5 impermanence practice index
+Continued Phase 5 by promoting [[Impermanence Flow Gone And Source]] from a
+compact Gate 4 synthesis into the impermanence practice index. Added aliases
+for "Impermanence Practice Index," a decision map for ordinary changingness,
+Flow, Gone, Spaciousness, Expansion-Contraction, bhanga, Source afterglow,
+safety, and service, plus sibling-load rules so future agents do not load the
+whole impermanence cluster for every change/energy/space/dissolution report.
+Updated `wiki/index.md`, `wiki/_page_catalog.md`, and
+`wiki/_post_ingest_knowledge_health_plan.md` to reflect that the
+impermanence routing gap is now handled at the hub level. Validation:
+`tools\wiki_lint.cmd` OK with 292 compiled pages and the expected raw-backlog,
+frontmatter-source-count, and large-domain diagnostics. Next planned move:
+[[Total Happiness]] decomposition as the larger behavior/service monolith, or
+[[Equanimity]] as the smaller hub-pattern pilot.
+
+## [2026-05-16] refactor | Phase 6 guidance decision matrix
+Began the Phase 6 safety-criteria pass by adding a compact executable
+decision matrix to [[Guidance Scope and Accountability Boundary]]. The new
+top surface distinguishes routine Shinzen-style coaching, behavior-change
+accountability, applied-life/medical scope, clinical or DPDR-like risk,
+weak-ego/boundary collapse, bhanga and altered phenomena, ritual adjacency,
+teacher conduct, and Source/service claims. Added a role ladder and
+stop/refer/protect criteria so future agents can distinguish ordinary
+support, practice reminders, coaching, terrain-specific support, and
+qualified care or protection before giving technique. Updated [[Practice
+Guidance Toolkit]], [[Complete Experience Safety Boundary]], [[Mastery
+Without Guru Inflation]], `wiki/index.md`, `wiki/_page_catalog.md`, and
+`wiki/_post_ingest_knowledge_health_plan.md` to route teacher/coach scope,
+consent, referral, behavior accountability, and protection questions through
+the matrix. Validation: `tools\wiki_lint.cmd` OK with 292 compiled pages and
+the expected raw-backlog, frontmatter-source-count, and large-domain
+diagnostics. Next planned move: return to Phase 5's impermanence practice
+hub/index unless a safety row needs immediate decomposition.
+
+## [2026-05-16] refactor | Phase 5 Source monolith pilot
+Completed the first Phase 5 monolith-decomposition pilot from
+`wiki/_post_ingest_knowledge_health_plan.md` by converting [[Source And
+Polarities]] from a source-heavy evidence anthology into a 138-line decision
+hub. Created three child pages with independent jobs: [[Source Afterglow
+Boundary]] for direct-object and after-representation claims, [[Source
+Science And Analogy Boundary]] for science, mathematics, nature, time-space,
+and analogy limits, and [[Source And Service Boundary]] for shared-Source
+service, larger-identity care, and self-certification risks. Updated targeted
+routes in [[Altered Phenomena and Dissolution Safety Boundary]], [[Advanced
+Meditators Experience of Time]], [[Sasaki Roshi, the Complex Number System &
+the Source of Love]], and [[The Final Stage and Service]], then refreshed
+`wiki/index.md`, `wiki/_page_catalog.md`, and the health plan. Validation:
+`tools\wiki_lint.cmd` OK with 292 compiled pages and the expected raw-backlog,
+frontmatter-source-count, and large-domain diagnostics. Next planned move:
+impermanence practice hub/index or a compact guidance/accountability decision
+matrix; [[Equanimity]] remains the smaller low-risk hub-pattern pilot.
+
+## [2026-05-16] refactor | Phase 4 Current Model card
+Completed Phase 4 of `wiki/_post_ingest_knowledge_health_plan.md` by adding a
+strict `## Current Model Card` near the top of [[Current Model]]. The card
+contains the one-sentence system model, seven routing rules, confidence tiers,
+safety and evidence frontiers, model-change criteria, and next-load links for
+practice architecture, transformation, safety, service/life test,
+lineage/teaching, and Source/polarity/speculation questions. Tightened the
+opening to reflect completed Gates 0-10 and post-Gate-10 triage without
+replaying ingest chronology. Stop-condition decision: no split was created;
+the card now handles first-load routing while the long body remains the
+evidence/dependency layer. Pages/files touched: [[Current Model]],
+`wiki/index.md`, `wiki/_post_ingest_knowledge_health_plan.md`, `wiki/log.md`.
+Validation: `tools\wiki_lint.cmd` OK with 289 compiled pages and the expected
+raw-backlog, frontmatter-source-count, and large-domain diagnostics. Next
+planned move: Phase 5 monolith-decomposition pilots, likely beginning with
+[[Source And Polarities]], [[Equanimity]], or the impermanence cluster after
+a routing test.
+
+## [2026-05-16] refactor | Phase 3 main index surgery
+Completed Phase 3 of `wiki/_post_ingest_knowledge_health_plan.md` by turning
+`wiki/index.md` into a post-ingest first-load router. Replaced most gate
+chronology, repeated recent-addition prose, and exhaustive domain runs with a
+compact scope statement, live guidance safety rule, "Load Next By Task" table,
+current-model pointer, operating dashboard, top open questions, curated domain
+hub lists, source routing, and explicit delegation to `wiki/_page_catalog.md`
+for exhaustive registration. Pages/files touched: `wiki/index.md`,
+`wiki/_post_ingest_knowledge_health_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with 289 compiled pages and the expected raw-backlog,
+frontmatter-source-count, and large-domain diagnostics. Result: index reduced
+from 607 to 330 lines; opening through `Open Questions` reduced to about
+7,090 characters, under the Phase 3 target of about 7,500. Next planned move:
+Phase 4 [[Current Model]] card.
+
+## [2026-05-16] refactor | Catalog-backed registration proof
+Completed Phase 2 of `wiki/_post_ingest_knowledge_health_plan.md` at the
+architecture/proof level. Created `wiki/_page_catalog.md` as the exhaustive
+compiled-page registration catalog, updated `tools/wiki_lint.py` so compiled
+pages may be registered through `wiki/index.md` or approved catalog surfaces,
+repaired `tools/wiki_lint.cmd` so Python lint failures propagate as command
+failures, and slimmed only `## Domain: Sources` in `wiki/index.md` from a full
+source-page archive into first-load source routing. Updated `AGENTS.md`,
+`wiki/_operations.md`, and the plan to make the new index-or-catalog
+registration contract durable. Pages/files touched: `AGENTS.md`,
+`tools/wiki_lint.py`, `tools/wiki_lint.cmd`, `wiki/_page_catalog.md`, `wiki/index.md`,
+`wiki/_post_ingest_knowledge_health_plan.md`, `wiki/_operations.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` OK with 289 compiled pages
+and the expected raw-backlog, source-list-size, and large-domain diagnostics.
+Residual risk: no separate `_sources_catalog.md` exists yet, and the rest of
+the index still awaits Phase 3 surgery plus the [[Current Model]] card.
+
+## [2026-05-16] refactor | Retreat portfolio removed from compiled wiki
+Moved `wiki/One Year Solitary Retreat Contemplation Portfolio.md` out of the
+compiled wiki to the workspace root as
+`One Year Solitary Retreat Contemplation Portfolio.md` because the user
+identified it as a pollution risk for the Shinzen working model. Removed its
+active wiki routing references from `wiki/index.md`, [[Practice Cycles]], and
+`wiki/_post_ingest_knowledge_health_plan.md`. The earlier log entry remains
+as historical chronology only; future agents should not treat the root file
+as a compiled wiki page or Shinzen evidence. Pages/files touched:
+`One Year Solitary Retreat Contemplation Portfolio.md`, `wiki/index.md`,
+[[Practice Cycles]], `wiki/_post_ingest_knowledge_health_plan.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` OK with 289 compiled pages
+and expected raw-backlog, source-list-size, and large-domain diagnostics.
+
+## [2026-05-16] review | Initial post-ingest router benchmark
+Ran the initial Phase 1 benchmark from
+`wiki/_post_ingest_knowledge_health_plan.md` and captured the results in
+`wiki/_post_ingest_router_benchmark_2026-05-16.md`. The benchmark finds
+[[Practice Guidance Toolkit]] and [[Complete Experience Safety Boundary]]
+working well as decision surfaces, while the startup index, [[Current Model]],
+[[Source And Polarities]], guidance/accountability routing, and the
+Flow/Gone/Spaciousness/Expansion-Contraction cluster carry the highest
+post-ingest routing cost. Refreshed the plan baseline to 290 compiled pages
+and updated the index dashboard so the next move is catalog-backed
+registration before broad index surgery. Also repaired [[One Year Solitary
+Retreat Contemplation Portfolio]] by adding an explicit pure-analysis
+Dependencies section. Pages/files touched:
+`wiki/_post_ingest_router_benchmark_2026-05-16.md`,
+`wiki/_post_ingest_knowledge_health_plan.md`, [[One Year Solitary Retreat
+Contemplation Portfolio]], `wiki/index.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics.
+
+## [2026-05-16] query | One-year solitary retreat contemplation portfolio
+Answered a high-stakes query about which questions, prayers, and
+contemplation handles should guide a one-year solitary silent retreat when
+only one written input is available. Created [[One Year Solitary Retreat
+Contemplation Portfolio]] as a durable analysis page that frames the decision,
+audits hidden assumptions, rewrites the conclusion under dangerous
+assumption failures, decomposes the problem into load-bearing variables and
+mechanisms, ranks candidate question types, and recommends a compact
+notebook-facing portfolio centered on direct experience, complete experience,
+Don't Know, self-construction, devotion/service, repair, positive
+reconstruction, adversarial checking, safety, and ordinary-usefulness
+success criteria. Pages touched: [[One Year Solitary Retreat Contemplation
+Portfolio]], [[Practice Cycles]], `wiki/index.md`, `wiki/log.md`.
+Validation: `tools\wiki_lint.cmd` OK with expected raw-backlog,
+source-list-size, and large-domain diagnostics.
+
+## [2026-05-16] review | Context-engineering plan additions
+Updated `wiki/_post_ingest_knowledge_health_plan.md` after reading Anthropic's
+context-engineering and managed-agent engineering posts. Added explicit
+context-budget metrics, just-in-time retrieval descent order, a refactor
+compaction contract, durable-record versus working-context separation,
+Goldilocks-altitude rules for hubs, stable catalog-interface guidance, and
+expanded router-benchmark fields for context cost, wasted context, missed
+context, descent-trigger quality, and compaction opportunity. Pages/files
+touched: `wiki/_post_ingest_knowledge_health_plan.md`, `wiki/log.md`.
+Validation: `tools\wiki_lint.cmd` OK with expected raw-backlog,
+source-list-size, and large-domain diagnostics.
+
+## [2026-05-16] review | Post-ingest knowledge health plan
+Created `wiki/_post_ingest_knowledge_health_plan.md` as the current durable
+plan for the post-transcript stage. The plan reframes next work around router
+benchmarking, catalog-backed index surgery, hub-and-child page decomposition,
+redundancy cleanup, safety criteria, editorial polish, and lint/health
+tooling rather than further YouTube ingest. Updated `wiki/index.md` so the
+dashboard points to the new health/refactor priority, and marked
+`wiki/_review_remediation_plan.md` as historical context superseded by the
+new post-ingest plan. Pages/files touched: `wiki/_post_ingest_knowledge_health_plan.md`,
+`wiki/index.md`, `wiki/_review_remediation_plan.md`, `wiki/log.md`.
+Validation: `tools\wiki_lint.cmd` OK with expected raw-backlog,
+source-list-size, and large-domain diagnostics.
+
+## [2026-05-15] ingest | Final substantive transcript-video outtake
+Completed the final substantive canonical YouTube transcript-video ingest for
+[[Practicing Noting Mix 1]], selected because lint/canonical video-ID coverage
+had one substantive remaining target after excluding the plan-skipped duplicate
+welcome transcript. The source page marks the root `kome.ai` transcript and
+outtake format as low-signal, blocks use of the misleading "Practicing
+Noting" title as Noting instruction, and preserves only a small teaching-style
+boundary around Shinzen's self-deflating guru humor and "not that Zen"
+explanatory posture. Updated [[Shinzen's Teaching Method]] and [[Mastery
+Without Guru Inflation]] to register the outtake as style context rather than
+practice doctrine or accountability evidence. Pages/files touched:
+[[Practicing Noting Mix 1]], [[Shinzen's Teaching Method]], [[Mastery Without
+Guru Inflation]], `wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected diagnostics; substantive canonical
+YouTube transcript-video coverage is 190/190 excluding the plan-skipped
+duplicate welcome transcript, or 190/191 under raw lint video-ID counting
+before duplicate exclusion.
+
+## [2026-05-15] ingest | Positive social emotion and reaction noting
+Completed one remaining canonical YouTube transcript ingest for [[Practicing
+Noting Mix 2]], selected because a usable retranscribed `medium.en` version
+exists and only low-signal transcript-video targets remain. The source page
+marks the outtake format and low teaching density while preserving the useful
+practice handle: intentionally positive social emotion with actual people may
+immediately expose fear or sadness, which Shinzen routes by noticing and
+quantizing rather than explaining. Updated [[Nurture Positive]] to add the
+social-positive reaction boundary and [[Zooming]] to weakly register the
+local-global positive-affect phrase under stronger Zooming sources. Also
+registered the existing [[Israel and a Hebrew Blessing]] page in the index to
+clear a pre-existing index invariant failure surfaced by lint.
+Pages/files touched: [[Practicing Noting Mix 2]], [[Nurture Positive]],
+[[Zooming]], `wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics; remaining transcript-video count is 189/191 covered
+by lint video-ID rules, or 189/190 excluding the plan-skipped duplicate
+welcome transcript.
+
+## [2026-05-15] ingest | Retreat entry and Total Happiness learning
+Completed one remaining canonical YouTube transcript ingest for [[Retreat
+Welcome, April 2009]], selected from the post-plan transcript backlog because
+it gives the entry-side companion to [[Retreat Farewell - May 2009]]. The
+source page preserves Shinzen's framing of retreat as continuing human
+education in the practice, concepts, techniques, and core skills for Total
+Happiness dependent and independent of conditions, for oneself and others.
+Updated [[Practice Cycles]] to route retreat entry as a learning container
+before retreat momentum, and [[Total Happiness]] to connect retreat entry to
+the self/other and conditional/condition-independent aim. Pages/files
+touched: [[Retreat Welcome, April 2009]], [[Practice Cycles]], [[Total
+Happiness]], `wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics; remaining transcript-video count is 187/191 covered
+by lint video-ID rules, or 187/190 excluding the plan-skipped duplicate
+welcome transcript.
+
+## [2026-05-15] ingest | Retreat momentum and post-retreat teaching
+Completed one remaining canonical YouTube transcript ingest for [[Retreat
+Farewell - May 2009]], selected from the post-plan transcript backlog because
+it gives a compact retreat-continuity and service-return handle. The source
+page preserves Shinzen's claim that all-day retreat momentum may become peak
+experiences unless backed by daily practice, where it can become plateaus;
+it also marks peer support, teacher contact, private interviews, and
+between-retreat contact as part of retreat ecology. Updated [[Practice
+Cycles]] to route retreat momentum through daily continuity and [[Teaching A
+Path]] to connect post-retreat change, coherent description, and explicit
+instruction as escalating service/teaching levels. Pages/files touched:
+[[Retreat Farewell - May 2009]], [[Practice Cycles]], [[Teaching A Path]],
+`wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics.
+
+## [2026-05-15] ingest | Pleasant-interest wandering mind
+Completed one remaining canonical YouTube transcript ingest for [[The Happy
+Wanderer]], selected from the post-plan transcript backlog because it gives a
+compact practice-routing handle for a common obstacle. The source page
+preserves Har-Prakash's observation and Shinzen's validation that some
+wandering mind is unconscious Focus on Positive when its pleasant-interest
+flavor can be detected; it also marks the "tear, cheer, fear" attention-drive
+triad as source-attributed idiolect rather than established psychology.
+Updated [[Nurture Positive]], [[Do Nothing]], [[Practice Entry and Method
+Choice]], and [[Practice Guidance Toolkit]] to route the handle as conditional
+positive-focus conversion, including a Do Nothing alternation, without
+licensing generic mind-wandering indulgence. Pages/files touched: [[The Happy
+Wanderer]], [[Nurture Positive]], [[Do Nothing]], [[Practice Entry and Method
+Choice]], [[Practice Guidance Toolkit]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics.
+
+## [2026-05-15] ingest | Wisdom voice as sensory expression
+Completed one remaining canonical YouTube transcript ingest for [[Lofty Homey
+and Quirky Wisdom Voices]], selected from the post-plan transcript backlog
+because it was a short Shinzen-primary source with a compact wisdom-function
+handle. The source page marks the root transcript's brevity and recognition
+limits, preserves "thinking without thinking" as spontaneous Image/Talk or
+action, and bounds lofty, homey, and quirky wisdom voices as cultural
+transmission styles rather than authority. Updated [[Total Happiness]] to add
+the expression side of wisdom function without creating a new concept page.
+Pages/files touched: [[Lofty Homey and Quirky Wisdom Voices]], [[Total
+Happiness]], `wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics.
+
+## [2026-05-14] ingest | Advanced meditators and time experience
+Completed the remaining planned Gate 10 quality-deferred canonical YouTube
+transcript ingest for [[Advanced Meditators Experience of Time]], using the
+available root `tiny.en` transcript because no better retranscription exists
+and the user explicitly approved finishing the transcript-video set. The
+source page marks transcript-quality and speaker-attribution limits, preserves
+Shinzen's discrete/prison relative time versus continuous/smooth/free
+time-space idiom as speculative Source language, and separates that from
+Har-Prakash's clearer practice-facing claims about CCE reducing stickiness,
+drag, and selfing during ordinary activity. Updated [[Source And Polarities]]
+and [[Current Model]] rather than creating a new time-phenomenology concept
+page. Pages/files touched: [[Advanced Meditators Experience of Time]],
+[[Source And Polarities]], [[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/_automation_loop_state.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` OK with expected raw-backlog,
+source-list-size, and large-domain diagnostics.
+
+## [2026-05-14] ingest | Shinzen at 80 service-delivery retrospective
+Completed a canonical YouTube transcript ingest for [[A Life of Practice and
+Service Shinzen Young at 80]], using the available root `tiny.en` transcript
+because no better retranscription exists and the user explicitly approved
+finishing the transcript-video set before stopping. The source page marks the
+transcript-quality limitations and preserves the durable teaching moves:
+practice commitment through Mount Koya ordination, early teaching as answering
+practice questions in community, Unified Mindfulness as community-shaped,
+online retreats as global service infrastructure, virtual-Shinzen flowcharts
+as interactive algorithmic guidance, ultrasound/AI hopes as speculative
+equanimity delivery, and upaya as gateway design. Updated [[Shinzen's Teaching
+Method]], [[Teaching A Path]], [[Lineage Translation]], [[Science of
+Enlightenment Chapter 11 - My Happiest Thought]], [[Complete Experience Safety
+Boundary]], and [[Current Model]]. Pages/files touched: [[A Life of Practice
+and Service Shinzen Young at 80]], [[Shinzen's Teaching Method]], [[Teaching A
+Path]], [[Lineage Translation]], [[Science of Enlightenment Chapter 11 - My
+Happiest Thought]], [[Complete Experience Safety Boundary]], [[Current Model]],
+`wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics.
+
+## [2026-05-14] ingest | Ordinary-task Focus Out and one true love
+Completed a post-Gate-10 backlog ingest for [[The One True Love of Touch Sight
+and Sound]], selected from the remaining canonical raw-source backlog because
+it is a compact Shinzen-primary source that sharpens ordinary-life Focus Out
+rather than a quality-deferred long transcript. The talk translates Zen work
+practice, Taoist oneness, Confucian work ethic, and Sasaki Roshi's "one true
+love" questions into Shinzen's sensory grammar: during work, Touch/Sight/Sound
+can expand while unnecessary memory, planning, fantasy, and Feel/Image/Talk
+reaction contracts. Updated [[Way of Physical Senses]], [[Five Ways]],
+[[Lineage Translation]], and [[Source And Polarities]] to preserve the
+ordinary-task practice handle while bounding driving/work examples against
+reduced task safety and comparative overclaim. Pages/files touched: [[The One
+True Love of Touch Sight and Sound]], [[Way of Physical Senses]], [[Five
+Ways]], [[Lineage Translation]], [[Source And Polarities]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: no separate Taoism, Confucianism, Zen
+work-practice, or Sasaki one-true-love page was created from one short,
+transcript-noisy source.
+
+## [2026-05-14] ingest | Vipassana-mindfulness terminology bridge
+Completed a post-Gate-10 backlog ingest for [[Vipassana and Mindfulness]],
+selected because it was a substantive uncovered Shinzen-primary source that
+sharpens core terminology rather than reopening the two quality-deferred long
+Gate 10 transcripts. The talk defines vipassana as seeing sensory strands
+separately, seeing through their apparent solidity by soaking awareness into
+them, and seeing into true nature or insight; Shinzen then says he uses
+vipassana and mindfulness as practical synonyms while acknowledging the
+different historical term lineage for mindfulness. Updated [[Mindfulness
+Definitions]], [[Mindfulness Skill Triad]], [[Sensory Clarity]], and
+[[Lineage Translation]] to preserve the practice handle while bounding
+philology, historical identity, unconscious/neural mechanism, and
+forced-dissolution risks. Pages/files touched: [[Vipassana and Mindfulness]],
+[[Mindfulness Definitions]], [[Mindfulness Skill Triad]], [[Sensory Clarity]],
+[[Lineage Translation]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: no new vipassana concept page was
+created; [[Sensory Clarity]] remains the owner for the practice function and
+[[Lineage Translation]] remains the owner for terminology/source-frame
+boundaries.
+
+## [2026-05-14] ingest | Positive-rest simultaneous zooming
+Completed a post-Gate-10 backlog ingest for [[Simultaneous Zooming In and Out
+During Positive and Restful States]], selected because it is a compact
+uncovered source that broadens simultaneous local-global zooming beyond pain
+and difficult emotion. The clip says simultaneous zooming can amplify positive
+states and can be used with Rest by noticing automatic core relaxation on the
+out-breath while spreading awareness through the whole body. Updated
+[[Zooming]], [[Focus on Rest]], [[Nurture Positive]], and [[Practice Guidance
+Toolkit]] to preserve the support-side branch while bounding "bliss city,"
+breath focus, and whole-body relaxation against forcing, state chasing, and
+ordinary safety concerns. Pages/files touched: [[Simultaneous Zooming In and
+Out During Positive and Restful States]], [[Zooming]], [[Focus on Rest]],
+[[Nurture Positive]], [[Practice Guidance Toolkit]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: no new breath, bliss, or positive-zooming
+concept page was created from one short source.
+
+## [2026-05-14] ingest | Vastness-thinness nonduality marker
+Completed a post-Gate-10 backlog ingest for [[Enlightenment Simultaneous
+Expansion and Contraction Sahej Samadhi Non-Dual Awareness]], selected because
+it is a compact uncovered source that sharpens the Space-to-Expansion-
+Contraction branch after the recent Spaciousness ingest. The one-minute clip
+states that spatial expansion usually also thins out, giving a simultaneous
+Expansion-Contraction flavor of vastness all around and thinness throughout;
+when that pervades all inner and outer seeing, hearing, and feeling while
+walking around in life, Shinzen equates it with enlightenment, sahaja samadhi,
+and true nondual awareness. Updated [[Spaciousness]], [[Expansion And
+Contraction]], [[Source And Polarities]], and [[Operational Enlightenment]] to
+preserve the mature daily-life marker while keeping safety, behavior, teacher,
+clinical, and map-humility boundaries intact. Pages/files touched:
+[[Enlightenment Simultaneous Expansion and Contraction Sahej Samadhi
+Non-Dual Awareness]], [[Spaciousness]], [[Expansion And Contraction]],
+[[Source And Polarities]], [[Operational Enlightenment]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: no new sahaja-samadhi page was
+created from one very short source; comparative and verification details stay
+with existing nondual, Source, operational-enlightenment, and safety pages.
+
+## [2026-05-14] ingest | Body-Image-Talk origin attribution
+Completed a post-Gate-10 backlog ingest for [[Peter Marks on the Origins of
+Body-Image-Talk]], selected because it clarifies the primitive
+Feel/Image/Talk layer without reopening quality-deferred Gate 10 transcripts.
+The dialogue has Shinzen publicly credit Peter Marks with originating
+Body-Image-Talk, while Peter credits Shinzen with recognizing, elaborating,
+and rounding out the mature system. Updated [[Inner Sensory System]],
+[[Shinzen's Teaching Method]], and [[Sensory Grid]] to preserve attribution,
+co-development, and BIFIT as a possible learner-facing scaffold rather than a
+replacement taxonomy. Pages/files touched: [[Peter Marks on the Origins of
+Body-Image-Talk]], [[Inner Sensory System]], [[Shinzen's Teaching Method]],
+[[Sensory Grid]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: no Peter Marks entity page was created
+from one short source; no broader taxonomy refactor was attempted.
+
+## [2026-05-14] ingest | Don't Know answer-hunger mechanism
+Completed a post-Gate-10 backlog ingest for [[Don't Know Mind Not Needing to
+Have Answers and the Wisdom Function]], selected because it sharpens the
+already-compiled Don't Know branch without reopening the quality-deferred
+Gate 10 transcripts. The short talk makes answer-hunger a Feel/Image/Talk
+process: Image/Talk patterning seeks meaning, Feel rewards answers and
+penalizes confusion, and practice works through the need to know so ordinary
+knowing can continue in the less compulsive mode Shinzen calls wisdom
+function. Updated [[Total Happiness]] and [[Way of Thoughts and Emotions]] to
+preserve the mechanism while keeping anti-intellectual and cognitive-care
+boundaries explicit. Pages/files touched: [[Don't Know Mind Not Needing to
+Have Answers and the Wisdom Function]], [[Total Happiness]], [[Way of
+Thoughts and Emotions]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: no separate wisdom-function page was
+created from one short source; confusion, aging, and cognitive-decline safety
+questions remain routed through [[Complete Experience Safety Boundary]].
+
+## [2026-05-14] ingest | Spaciousness as independent SHF dimension
+Completed a post-Gate-10 backlog ingest for [[How Shinzen Uses the Term
+Spaciousness]], selected because it directly resolves prior Space/Spaciousness
+routing debt. The dialogue clarifies that Spaciousness means openness around
+or thinness within sensory experience and is kept as its own SHF dimension:
+it can stabilize without Flow, carry Flow as an insight-absorption branch, or
+become Expansion-Contraction in a Sasaki-style Source direction. Created
+[[Spaciousness]] as the owner concept, moved Space aliases out of [[Sensory
+Grid]], and updated [[See Hear Feel]] plus [[Lineage Translation]] to preserve
+the formless/Tibetan/Sasaki bridge without collapsing those frames. Pages/files
+touched: [[How Shinzen Uses the Term Spaciousness]], [[Spaciousness]],
+[[Sensory Grid]], [[See Hear Feel]], [[Lineage Translation]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size,
+and large-domain diagnostics. Deferred: no safety page was split;
+dissociation, shutdown, formless, cessation, and Source-adjacent differentials
+remain routed through [[Complete Experience Safety Boundary]].
+
+## [2026-05-14] ingest | Second-order equanimity fallback
+Completed a post-Gate-10 backlog ingest for [[Equanimity Intentional Noticing
+Dropping Deeper and Second-Order Equanimity]], selected because the short root
+transcript directly sharpens a core practice mechanism. The talk distinguishes
+intentional equanimity supports through body relaxation and accepting talk
+from deeper spontaneous-drop learning, then adds second-order equanimity:
+when tension and judging cannot be controlled, observe and accept those as the
+current object. Updated [[Equanimity]] and [[Practice Guidance Toolkit]] to
+preserve the fallback ladder, positive conditioning loop, and safety boundary
+that accepting non-equanimity does not override support, clinical, medical,
+or ordinary-action needs. Pages/files touched: [[Equanimity Intentional
+Noticing Dropping Deeper and Second-Order Equanimity]], [[Equanimity]],
+[[Practice Guidance Toolkit]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size,
+and large-domain diagnostics. Deferred: no new second-order-equanimity or
+positive-conditioning page was created because [[Equanimity]] and existing
+reward-loop pages carry the routing value; continue post-Gate-10 backlog
+triage and keep Gate 10 items 1-2 quality-deferred.
+
+## [2026-05-14] ingest | Ordinary mind Flow and unification
+Completed a post-Gate-10 backlog ingest for [[Ordinary Consciousness is the
+Way - Part 3 Mindful Awareness and Varieties of Flow]], selected because it
+continues the edited Ordinary Consciousness sequence after parts 1-2. The
+talk reframes scattered ordinary mind as Expansion and fixation/obsession as
+Contraction, preserves bhanga as an optional intense Flow/Gone event rather
+than an awakening requirement, adds music phrase endings and eye shifts as
+Gone handles, and links Flow/Gone to purification plus inside/outside
+unification. Updated [[Flow]], [[Way of Flow]], [[Expansion And
+Contraction]], [[Gone]], [[Insight and Purification]], and [[Discrimination
+and Unification]] to preserve ordinary-mind Flow, sound/sight vanishings,
+purification wording, and the distinction-to-unification dialectic.
+Pages/files touched: [[Ordinary Consciousness is the Way - Part 3 Mindful
+Awareness and Varieties of Flow]], [[Flow]], [[Way of Flow]], [[Expansion And
+Contraction]], [[Gone]], [[Insight and Purification]], [[Discrimination and
+Unification]], `wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` OK with expected raw-
+backlog, source-list-size, and large-domain diagnostics. Deferred: no new Zen
+phrase, music-meditation, visual-illusion, or bhanga page was created because
+existing owner pages carry the routing value; next backlog choice should
+continue post-Gate-10 triage rather than assume another fixed series item.
+
+## [2026-05-14] ingest | Cross-modal ordinary Flow routing
+Completed a post-Gate-10 backlog ingest for [[Ordinary Consciousness is the
+Way - Part 2 Mindful Awareness and Varieties of Flow]], selected because it
+continues the edited Ordinary Consciousness series after part 1. The talk
+maps Flow and Gone across visual Rest, mental images, internal talk,
+whole-body sensation, and pressure; it also adds a concise altered-phenomena
+router where spirit-like imagery should be used through the movement of the
+medium rather than captured by message fixation. Updated [[Flow]], [[Way of
+Flow]], [[Gone]], [[Expansion And Contraction]], and [[Intermediate Realm]]
+to preserve visual blank/image Flow, talk vanishings, pressure as inward/
+outward/bidirectional force Flow, and the message-versus-medium boundary.
+Pages/files touched: [[Ordinary Consciousness is the Way - Part 2 Mindful
+Awareness and Varieties of Flow]], [[Flow]], [[Way of Flow]], [[Gone]],
+[[Expansion And Contraction]], [[Intermediate Realm]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: part 3 remains a plausible next candidate
+if the next cycle continues the edited Ordinary Consciousness series; no new
+kasina, spirit, pressure, or Tibetan-term page was created because existing
+owner pages carry the routing value.
+
+## [2026-05-14] ingest | Ordinary Flow through subtle change
+Completed a post-Gate-10 backlog ingest for [[Ordinary Consciousness is the
+Way - Part 1 Mindful Awareness and Varieties of Flow]], selected because an
+edited canonical transcript was available and the source adds a low-drama
+Flow handle after the Five-Aspects sequence. The talk warns that map
+disclosure can create expectation and comparison, then teaches that
+constant-seeming discomfort may reveal intensity ripples and shape-shifts
+when met with clarity and equanimity; "subtle is significant" becomes the
+practice cue. Updated [[Flow]], [[Way of Flow]], and [[Impermanence]] to
+preserve intensity-change, shape-shift, scale/patience, and anti-guarantee
+boundaries. Pages/files touched: [[Ordinary Consciousness is the Way - Part
+1 Mindful Awareness and Varieties of Flow]], [[Flow]], [[Way of Flow]],
+[[Impermanence]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: parts 2-3 remain plausible next
+candidates if the next cycle continues the edited Ordinary Consciousness
+series; no new mountain, McLuhan, or subtle-change concept page was created
+because owner pages carry the routing value.
+
+## [2026-05-14] ingest | Five Aspects self-strategy closure
+Completed a post-Gate-10 backlog ingest for [[Five Aspects of the Five Ways
+- 4 of 4]], selected because it completes the four-part sequence after parts
+1-3. The talk closes the Five Aspects frame by mapping the Ways as
+self-strategies: Focus In separates Feel/Image/Talk until the thing-self
+loses solidity, Focus Out supports work-world merging through touch/sight/sound,
+Rest creates attenuated restful self/world without equaling Source, and
+Positive reconstructs subjective space after death-through-Change. Updated
+[[Five Ways]], [[Way of Physical Senses]], [[Way of Tranquility]], [[Way of
+Human Goodness]], [[Deconstruction-Reconstruction Balance]], and [[Source
+And Polarities]] to preserve the self-strategy closure, restful-self boundary,
+positive-reconstruction arc, people-magnet overclaim boundary, and
+crucifixion/resurrection Source-polarity translation. Pages/files touched:
+[[Five Aspects of the Five Ways - 4 of 4]], [[Five Ways]], [[Way of Physical
+Senses]], [[Way of Tranquility]], [[Way of Human Goodness]],
+[[Deconstruction-Reconstruction Balance]], [[Source And Polarities]],
+`wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`, `wiki/log.md`.
+Validation: `tools\wiki_lint.cmd` OK with expected raw-backlog,
+source-list-size, and large-domain diagnostics. Deferred: no new
+Five-Aspects synthesis was created because [[Five Ways]] now carries the
+sequence closure; next backlog choice should return to post-Gate-10 triage
+rather than assume a fixed series continuation.
+
+## [2026-05-14] ingest | Five Aspects no-self analysis source
+Completed a post-Gate-10 backlog ingest for [[Five Aspects of the Five Ways
+- 3 of 4]], selected because it follows parts 1-2 and adds the sequence's
+no-self translation layer. The talk maps aggregate analysis into Shinzen's
+Focus In grammar: physical body, emotional Feel, Image/Talk, habit grooves,
+Expansion-Contraction, and consciousness identity become practice targets for
+breaking identification with the limited suffering self. Updated [[Five
+Ways]], [[Inner Sensory System]], [[No-Self And Personality]], and [[Source
+And Polarities]] to preserve emotional-Feel difficulty, subconscious
+Image/Talk monitoring, habit-groove depth boundaries, and the
+consciousness-release candle story. Pages/files touched: [[Five Aspects of
+the Five Ways - 3 of 4]], [[Five Ways]], [[Inner Sensory System]],
+[[No-Self And Personality]], [[Source And Polarities]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: part 4 remains the next sequence
+candidate unless a higher-value backlog detour emerges; no standalone
+skandhas, sankhara, or consciousness page was created because owner pages
+carried the routing value.
+
+## [2026-05-14] ingest | Five Aspects lineage and contrast source
+Completed a post-Gate-10 backlog ingest for [[Five Aspects of the Five Ways
+- 2 of 4]], selected because it adds a distinct second aspect after the first
+strategy-routing source: the Five Ways are secular reworkings of inherited
+contemplative traditions, not the traditions themselves, and their binary
+contrasts are meant to support practice clarity and possible research rather
+than prove doctrinal identity or scientific validation. Updated [[Five Ways]],
+[[Lineage Translation]], and [[Sensory Grid]] to preserve the
+reworking-not-identity boundary, strengths/weaknesses caveat, and
+contrast-based design rationale. Pages/files touched: [[Five Aspects of the
+Five Ways - 2 of 4]], [[Five Ways]], [[Lineage Translation]], [[Sensory
+Grid]], `wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` OK with expected
+raw-backlog, source-list-size, and large-domain diagnostics. Deferred: parts
+3-4 remain plausible next candidates; create a series synthesis only if the
+full sequence teaches a progression that owner pages cannot already hold.
+
+## [2026-05-14] ingest | Five Aspects first strategy source
+Completed a post-Gate-10 backlog ingest for [[Five Aspects of the Five Ways
+- 1 of 4]], selected because it follows the Five Ways toolkit source with a
+compact practice-routing layer. The talk frames the Five Ways as adjustable
+exercise equipment that can be used as a fixed sequence, standalone route,
+or loop-and-branch system, then applies that model to sensory challenges:
+analyze the sensory components, then turn toward, turn away with background
+equanimity, or focus on change. Updated [[Five Ways]], [[Turn Toward and Turn
+Away]], and [[Practice Guidance Toolkit]] to preserve the source's
+sequence/standalone/branching and sensory-challenge handles. Pages/files
+touched: [[Five Aspects of the Five Ways - 1 of 4]], [[Five Ways]], [[Turn
+Toward and Turn Away]], [[Practice Guidance Toolkit]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: the remaining Five Aspects parts may
+warrant a series synthesis only if they establish a real progression rather
+than repeating the existing Five Ways owner model.
+
+## [2026-05-14] ingest | Five Ways toolkit source
+Completed a post-Gate-10 backlog ingest for [[The Five Ways - A
+Contemporary Toolkit for Classical Enlightenment]], selected because it is an
+edited uncovered source that compactly sharpens the core Five Ways practice
+interface and Shinzen's secularizing lineage-translation move. The source
+frames Focus In, Out, Rest, Change, and Positive as contrasting CCE routes
+that move from self-untangling through daily-life anchoring, tranquility,
+empty-energy dissolution, and positive reconstruction. Updated [[Five Ways]]
+and [[Lineage Translation]] to preserve the deconstruction-to-reconstruction
+arc while keeping "complete toolkit," secularization, Source, and tradition-
+origin claims bounded. Pages/files touched: [[The Five Ways - A Contemporary
+Toolkit for Classical Enlightenment]], [[Five Ways]], [[Lineage
+Translation]], `wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: the wiki still lacks fine criteria for
+when the Five Ways are enough, when another path/support is better, and how
+to verify that positive reconstruction changes conduct.
+
+## [2026-05-14] ingest | Recycle the reaction examples
+Completed a post-Gate-10 backlog ingest for [[Recycle the Reaction -
+Beginner, Intermediate, & Advanced Examples]], selected because practice-
+caused reactions remain central to method routing and altered-state safety.
+The source gives a graded reaction-recycling ladder: beginner ordinary-state
+rebound, intermediate no-self fear, intermediate relational aversion, and
+advanced void flatness can each become Feel/Image/Talk or other sensory
+practice material when workable. Updated [[Recycle The Reaction]], [[Practice
+Guidance Toolkit]], [[No-Self And Personality]], [[Altered Phenomena and
+Dissolution Safety Boundary]], and [[Total Happiness]] to preserve the
+practice handle while keeping severe fear, social withdrawal, void distress,
+clinical differentials, and support needs outside "just keep recycling"
+overclaim. Pages/files touched: [[Recycle the Reaction - Beginner,
+Intermediate, & Advanced Examples]], [[Recycle The Reaction]], [[Practice
+Guidance Toolkit]], [[No-Self And Personality]], [[Altered Phenomena and
+Dissolution Safety Boundary]], [[Total Happiness]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: the wiki still lacks criteria for when
+reaction recycling should give way to grounding, stopping, teacher support,
+positive reconstruction, therapy, medical care, or emergency support.
+
+## [2026-05-14] ingest | Weak ego structure and mindfulness
+Completed a post-Gate-10 backlog ingest for [[Strengthening a Weak Ego
+Structure Through Mindfulness]], selected because clinical-adjacent ego
+strength, interpersonal boundary loss, and no-self differentials remain
+active safety/guidance debt. The source adds a compact but important router:
+the same Feel/Image/Talk apparatus can deconstruct ego when ego is the
+problem or strengthen ego when functional self-contact is needed around
+another person's sight, sound, or touch. Updated [[No-Self And Personality]],
+[[Deconstruction-Reconstruction Balance]], [[Complete Experience Safety
+Boundary]], [[Guidance Scope and Accountability Boundary]], and [[Practice
+Guidance Toolkit]] to preserve the self-boundary branch and the clinical
+scope caveat. Pages/files touched: [[Strengthening a Weak Ego Structure
+Through Mindfulness]], [[No-Self And Personality]],
+[[Deconstruction-Reconstruction Balance]], [[Complete Experience Safety
+Boundary]], [[Guidance Scope and Accountability Boundary]], [[Practice
+Guidance Toolkit]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: the wiki still lacks clinical criteria
+for distinguishing healthy
+no-self, ordinary relational openness, dysfunctional self-loss,
+dissociation, trauma activation, and personality-structure concerns.
+
+## [2026-05-14] ingest | Psycho-spiritual workout routine
+Completed a post-Gate-10 backlog ingest for [[A Psycho-Spiritual Workout
+Routine]], selected from the canonical raw backlog because practice
+sequencing and dosage remain active epistemic debt. The source compresses a
+formal workout arc through ordinary sensory experience, Rest, Flow/Gone,
+Source or Zero language, and positive Feel/Image/Talk as a balanced sequence
+rather than a mandatory attainment ladder. Updated [[Practice Cycles]] and
+[[Practice Entry and Method Choice]] to route the workout branch through
+method choice, Source/Gone readiness, and positive-reconstruction
+boundaries. Pages/files touched: [[A Psycho-Spiritual Workout Routine]],
+[[Practice Cycles]], [[Practice Entry and Method Choice]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: continue post-Gate-10 backlog triage;
+Gate 10 items 1-2 remain transcript-quality deferred.
+
+## [2026-05-14] ingest | Finding a meditation teacher
+Completed a post-Gate-10 backlog ingest for [[How Do I Find a Good
+Meditation Teacher]], selected because teacher/coach competence remains
+active epistemic debt and the source was not quality-deferred. The source
+turns Shinzen's subtle/descriptive/explicit teaching taxonomy into a
+teacher-selection ladder: seek the highest competent and relatable support
+available, while keeping professional, paraprofessional, descriptive, and
+subtle roles distinct from monitored enlightenment-edge guidance. Updated
+[[Teaching A Path]], [[Guidance Scope and Accountability Boundary]],
+[[Shinzen's Teaching Method]], [[Mastery Without Guru Inflation]], and
+[[Practice Guidance Toolkit]]. Pages/files touched: [[How Do I Find a Good
+Meditation Teacher]], [[Teaching A Path]], [[Guidance Scope and
+Accountability Boundary]], [[Shinzen's Teaching Method]], [[Mastery Without
+Guru Inflation]], [[Practice Guidance Toolkit]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: Gate 10 items 1-2 remain
+transcript-quality deferred; continue post-Gate-10 backlog triage with the
+next high-value uncovered source.
+
+## [2026-05-14] ingest | Reparenting agitating Gone
+Completed Gate 10 item 7 from the root `kome.ai` transcript. Created
+[[Reparenting Our Freaked Out Infant - Noting All Vanishings & Gone in Pure
+Feeling]] as the source page for Shinzen's live routing of agitating global
+Gone: verify the correlation, locate the agitation as pure Feel, include Feel
+vanishings in the Gone practice, and keep ego-death-like work in manageable
+doses. Updated [[Primordial Feel]], [[Gone]], [[Intensity and Embodiment
+Safety Boundary]], [[Altered Phenomena and Dissolution Safety Boundary]], and
+[[Current Model]] to preserve the precision-first router, pacing handle, and
+clinical/metaphysical boundaries. Pages/files touched: [[Reparenting Our
+Freaked Out Infant - Noting All Vanishings & Gone in Pure Feeling]],
+[[Primordial Feel]], [[Gone]], [[Intensity and Embodiment Safety Boundary]],
+[[Altered Phenomena and Dissolution Safety Boundary]], [[Current Model]],
+`wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: Gate 10 has no remaining
+quality-passing listed item; recheck deferred items 1-2 for improved
+retranscriptions or review the post-Gate-10 backlog before continuing.
+
+## [2026-05-14] ingest | Primal Feel strata
+Completed Gate 10 item 6 from the root `kome.ai` transcript. Created
+[[Working Through the Primal Feel Strata]] as the source page for Shinzen's
+non-linear emotional-body strata model: practice may trend toward less
+problematic discomfort and more fulfilling pleasant emotion while local
+primitive Feel becomes strange, disproportionate, or more chaotic as deeper
+layers are exposed. Updated [[Primordial Feel]], [[Insight and
+Purification]], [[Intensity and Embodiment Safety Boundary]], [[Altered
+Phenomena and Dissolution Safety Boundary]], and [[Current Model]] to keep
+the long-term-versus-local distinction, reaction-recycling handle, and
+safety boundaries explicit. Pages/files touched: [[Working Through the
+Primal Feel Strata]], [[Primordial Feel]], [[Insight and Purification]],
+[[Intensity and Embodiment Safety Boundary]], [[Altered Phenomena and
+Dissolution Safety Boundary]], [[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: continue Gate 10 item 7, `Reparenting
+Our Freaked Out Infant - Noting All Vanishings & Gone in Pure Feeling`.
+
+## [2026-05-14] ingest | Soryu and the Zen keisaku
+Completed Gate 10 item 5 from the root `kome.ai` transcript. Created
+[[Primal Feel and the Zen Keisaku - 2 of 2]] as the companion source page for
+Soryu's keisaku account: concentration pride collapsed into insecurity,
+resisted pain and threat intensified, nonresistance became Flow/uplift, and
+the talk explicitly warned against turning the keisaku into heroic mythology.
+Updated [[Primordial Feel]], [[Intensity and Embodiment Safety Boundary]],
+[[Altered Phenomena and Dissolution Safety Boundary]], and [[Current Model]]
+to keep the nonresistance-versus-shutdown/compliance and anti-heroic
+boundaries explicit. Pages/files touched: [[Primal Feel and the Zen Keisaku -
+2 of 2]], [[Primordial Feel]], [[Intensity and Embodiment Safety Boundary]],
+[[Altered Phenomena and Dissolution Safety Boundary]], [[Current Model]],
+`wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: continue Gate 10 item 6, `Working Through
+the Primal Feel Strata`.
+
+## [2026-05-14] ingest | Primal Feel and the Zen keisaku
+Completed Gate 10 item 4 from the root `kome.ai` transcript. Created
+[[Primal Feel and the Zen Keisaku - 1 of 2]] as the source page for
+Shinzen's keisaku-triggered primitive fear teaching: conceptual safety did
+not remove body-level terror when Image/Talk quieted, so the practice target
+was direct training of raw Feel until fear became Flow and merger. Updated
+[[Primordial Feel]], [[Intensity and Embodiment Safety Boundary]], [[Altered
+Phenomena and Dissolution Safety Boundary]], and [[Current Model]] to keep
+the fear/addiction/coercion boundary explicit. Pages/files touched: [[Primal
+Feel and the Zen Keisaku - 1 of 2]], [[Primordial Feel]], [[Intensity and
+Embodiment Safety Boundary]], [[Altered Phenomena and Dissolution Safety
+Boundary]], [[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: continue Gate 10 item 5, the
+Soryu/Primal Feel companion source.
+
+## [2026-05-14] ingest | Hockey-stick growth
+Completed Gate 10 item 3 while keeping items 1-2 quality-deferred because
+their available root transcripts are `tiny.en` and no usable retranscribed
+versions are present. Created [[The Hockey Stick Metaphor and Exponential
+Growth on the Spiritual Path]] as the source page for Shinzen's nonlinear
+growth metaphor: the taste of purification can make CCE, especially
+equanimity, a positive feedback loop for long-haul motivation and growth.
+Updated [[Growth and Tastes of Concentration, Sensory Clarity and
+Equanimity]], [[Practice Cycles]], [[Insight and Purification]],
+[[Equanimity]], and [[Current Model]]. Pages/files touched: [[The Hockey
+Stick Metaphor and Exponential Growth on the Spiritual Path]], [[Growth and
+Tastes of Concentration, Sensory Clarity and Equanimity]], [[Practice
+Cycles]], [[Insight and Purification]], [[Equanimity]], [[Current Model]],
+`wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: obtain better retranscriptions or
+explicit user acceptance before ingesting Gate 10 items 1-2.
+
+## [2026-05-14] ingest | Gate 10 quality gate recheck
+Rechecked the Gate 10 quality gate for `A Life of Practice and Service
+Shinzen Young at 80_YghW4NNTxAo`. No usable retranscribed source exists:
+`raw/Shinzen Sources/yt transcripts/retranscribed/_RETRANSCRIPTION_MANIFEST.md`
+still marks the large-v3 run as `running`, no matching retranscribed file is
+present, and the only available root transcript is `faster-whisper (tiny.en,
+int8, CPU)`. No source page was created because the current plan explicitly
+blocks this item until a better transcript exists or the user accepts the
+lower-quality source. Pages/files touched: `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics.
+Deferred: complete or rerun the large-v3 retranscription before ingesting Gate
+10 item 1.
+
+## [2026-05-13] ingest | Gate 10 quality gate
+Checked the Gate 10 quality gate for `A Life of Practice and Service Shinzen
+Young at 80_YghW4NNTxAo`. No usable retranscribed source exists:
+`raw/Shinzen Sources/yt transcripts/retranscribed/_RETRANSCRIPTION_MANIFEST.md`
+still marks the large-v3 run as `running`, no matching retranscribed file is
+present, and the only available root transcript is `faster-whisper (tiny.en,
+int8, CPU)`. No source page was created because the current plan explicitly
+blocks this item until a better transcript exists or the user accepts the
+lower-quality source. Pages/files touched: `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics.
+Deferred: complete or rerun the large-v3 retranscription before ingesting Gate
+10 item 1.
+
+## [2026-05-13] ingest | The Reptilian Brain, Skinnerian Training & the Experience of God
+Completed Gate 9 item 17 and closed the Gate 9 sequence. Created [[The
+Reptilian Brain, Skinnerian Training & the Experience of God]] as the source
+page for Shinzen's formal-practice feedback analogy: daily sits and retreats
+simplify conditions so body-level noninterference can be trained by the
+immediate contrast between suffering and fulfillment. Updated [[Equanimity]],
+[[Insight and Purification]], [[Practice Cycles]], [[Practice Guidance
+Toolkit]], [[Source And Polarities]], [[Complete Experience Safety
+Boundary]], [[Total Happiness]], and [[Current Model]]; no new concept page
+was warranted because the useful durable object is the feedback mechanism
+inside existing owner pages. Pages/files touched: [[The Reptilian Brain,
+Skinnerian Training & the Experience of God]], [[Equanimity]], [[Insight and
+Purification]], [[Practice Cycles]], [[Practice Guidance Toolkit]], [[Source
+And Polarities]], [[Complete Experience Safety Boundary]], [[Total
+Happiness]], [[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics. Deferred: Gate 10 should begin with the quality
+gate for `A Life of Practice and Service Shinzen Young at 80`.
+
+## [2026-05-13] ingest | Consciously Decoupling, Dropping Out & Eadem Mutata Resurgo
+Completed Gate 9 item 16. Created [[Consciously Decoupling, Dropping Out &
+Eadem Mutata Resurgo]] as the source page for Shinzen's decoupling/dropout
+micro-router: sudden Rest during active sight/touch practice may be a tell
+that attention is leaving the object, while deep dropout and Source language
+remain bounded by sleepiness, reverie, dullness, dissociation, and overclaim
+checks. Updated [[Focus on Rest]], [[Practice Guidance Toolkit]], [[Practice
+Method Safety Boundary]], [[Altered Phenomena and Dissolution Safety
+Boundary]], [[Source And Polarities]], and [[Current Model]]; no new concept
+page was warranted because the transcript is short and degraded. Pages/files
+touched: [[Consciously Decoupling, Dropping Out & Eadem Mutata Resurgo]],
+[[Focus on Rest]], [[Practice Guidance Toolkit]], [[Practice Method Safety
+Boundary]], [[Altered Phenomena and Dissolution Safety Boundary]], [[Source
+And Polarities]], [[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics.
+
+## [2026-05-13] ingest | Reality & Sensory Experience
+Completed Gate 9 item 15. Created [[Reality & Sensory Experience]] as the
+source page for Shinzen's explicit evidence-tier boundary: sensory experience,
+CCE, selfing, and suffering are his high-confidence teaching domain, while
+objective reality behind experience and everything-at-once or causal-nexus
+language remain conjectural. Updated [[Source And Polarities]],
+[[Mindfulness Skill Triad]], [[Sensory Clarity]], [[Altered Phenomena and
+Dissolution Safety Boundary]], and [[Current Model]] so Source, suchness,
+science, and reality language route through sensory-practice confidence
+rather than metaphysical proof. Pages/files touched: [[Reality & Sensory
+Experience]], [[Source And Polarities]], [[Mindfulness Skill Triad]],
+[[Sensory Clarity]], [[Altered Phenomena and Dissolution Safety Boundary]],
+[[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics.
+
+## [2026-05-13] ingest | Shinzen Young - The Science of Enlightenment Book Trailer
+Completed Gate 9 item 14. Created [[Shinzen Young - The Science of
+Enlightenment (Book Trailer)]] as a compact source-frame page for the public
+Science of Enlightenment mission: precise accessible language, nature's
+windows, science-informed practice optimism, and East-West human-benefit
+aspiration. Updated [[Science of Enlightenment Chapter 1 - My Journey]],
+[[Science of Enlightenment Chapter 11 - My Happiest Thought]], [[The Science
+of Enlightenment Audio Series]], and [[Current Model]] only for provenance,
+mission, and evidence-tier routing; no new practice mechanism or concept page
+was warranted. Pages/files touched: [[Shinzen Young - The Science of
+Enlightenment (Book Trailer)]], [[Science of Enlightenment Chapter 1 - My
+Journey]], [[Science of Enlightenment Chapter 11 - My Happiest Thought]],
+[[The Science of Enlightenment Audio Series]], [[Current Model]],
+`wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics.
+
+## [2026-05-13] ingest | The Science of Enlightenment Audio Series
+Skipped Gate 9 item 12, `Shinzen Young's Welcome to New Viewers_Pvk99BRxlPw`,
+as a non-substantive duplicate of the already compiled welcome source.
+Completed Gate 9 item 13. Created [[The Science of Enlightenment Audio
+Series]] as a source-frame page for the Science of Enlightenment audio/book
+lineage: Sounds True's extemporaneous style, the live student-audience studio
+setup, Shinzen's loose outline rather than scripted text, Michael Taft's heavy
+editing, and the later book project's radical-makeover requirement. Updated
+[[Science of Enlightenment Chapter 1 - My Journey]] and [[Current Model]] only
+for provenance/source-posture routing; no new practice mechanism or concept
+page was warranted. Pages/files touched: [[The Science of Enlightenment Audio
+Series]], [[Science of Enlightenment Chapter 1 - My Journey]], [[Current
+Model]], `wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics.
+
+## [2026-05-13] ingest | Shinzen Young's Welcome to New Viewers
+Completed Gate 9 item 11. Created [[Shinzen Young's Welcome to New Viewers]]
+as the newcomer-orientation source interface, preserving Shinzen's public
+entry frame: mindfulness as concentration, sensory clarity, and equanimity
+skill cultivation; ordinary experience becoming extraordinary through
+developed awareness; spiritual maturity as seeing beyond self/world while
+improving self/world; and hardware/software plus science-friendly sensory
+tracking as bounded translation handles. Updated [[Mindfulness Skill Triad]],
+[[Total Happiness]], [[Lineage Translation]], and [[Current Model]] so
+newcomer questions route through CCE, Total Happiness, lineage translation,
+and calibrated science/religion boundaries rather than a new generic welcome
+page. Pages/files touched: [[Shinzen Young's Welcome to New Viewers]],
+[[Mindfulness Skill Triad]], [[Total Happiness]], [[Lineage Translation]],
+[[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics.
+
+## [2026-05-13] ingest | Tea, Coffee and Meditation
+Completed Gate 9 item 10. Created [[Tea, Coffee and Meditation]] as the
+caffeine/stimulant source interface, preserving Shinzen's applied distinction
+that meditation has a clarity-alertness component as well as tranquility, so
+tea or coffee is not automatically anti-meditative when it does not make the
+practitioner jangled. Updated [[Calming-Clarifying Balance]], [[Practice
+Guidance Toolkit]], [[Practice Method Safety Boundary]], [[Complete Experience
+Safety Boundary]], [[Guidance Scope and Accountability Boundary]], and
+[[Current Model]] so stimulant questions route through CCE, sleep,
+health/medical, medication, recovery, and ordinary-functioning boundaries
+rather than blanket permission or blanket prohibition. Pages/files touched:
+[[Tea, Coffee and Meditation]], [[Calming-Clarifying Balance]], [[Practice
+Guidance Toolkit]], [[Practice Method Safety Boundary]], [[Complete Experience
+Safety Boundary]], [[Guidance Scope and Accountability Boundary]], [[Current
+Model]], `wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics; no singleton-tag or first-read-length diagnostics
+remain.
+
+## [2026-05-13] ingest | Lucid Dreaming and Five Ways Mindfulness Meditation
+Completed Gate 9 item 9. Created [[Lucid Dreaming and Five Ways Mindfulness
+Meditation]] as the lucid-dream source interface, preserving Shinzen's
+practice convention that dream events are labeled by presentation rather than
+physical origin: dream sight as sight, dream contact as Touch, dream self-talk
+as Talk, smell/taste under the ordinary Touch/Feel convention, and dream
+melting or permeability as Flow. Updated [[Sensory Grid]], [[Five Ways]],
+[[Practice Guidance Toolkit]], [[Practice Method Safety Boundary]], [[Altered
+Phenomena and Dissolution Safety Boundary]], [[Complete Experience Safety
+Boundary]], and [[Current Model]] so dream practice routes as optional
+state-continuity practice under sleep-health, altered-state, trauma,
+parasomnia, dissociation, and clinical boundaries. Pages/files touched:
+[[Lucid Dreaming and Five Ways Mindfulness Meditation]], [[Sensory Grid]],
+[[Five Ways]], [[Practice Guidance Toolkit]], [[Practice Method Safety
+Boundary]], [[Altered Phenomena and Dissolution Safety Boundary]], [[Complete
+Experience Safety Boundary]], [[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/_automation_loop_state.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` OK with expected raw-backlog,
+source-list-size, and large-domain diagnostics.
+
+## [2026-05-13] ingest | Do You Think Sex is Dirty
+Completed Gate 9 item 8. Created [[Do You Think Sex is Dirty]] as the
+sexuality and pleasure-meditation source interface, preserving Shinzen's
+distinction between sex itself and the craving/unconsciousness that obscures
+sexual pleasure, plus the advanced pleasant-Touch route where lovemaking can
+become fulfillment, bliss-void language, and Feel/Image/Talk self-dissolution
+through Flow and Gone. Updated [[Practice Guidance Toolkit]], [[Complete
+Experience]], [[Complete Experience Safety Boundary]], [[Guidance Scope and
+Accountability Boundary]], [[Total Happiness]], and [[Current Model]] so
+sexuality routes through CCE only under consent, ethics, trauma, compulsion,
+relational, sexual-health, power, legality, and clinical boundaries. Pages/
+files touched: [[Do You Think Sex is Dirty]], [[Practice Guidance Toolkit]],
+[[Complete Experience]], [[Complete Experience Safety Boundary]], [[Guidance
+Scope and Accountability Boundary]], [[Total Happiness]], [[Current Model]],
+`wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics; index opening is back under the first-read target.
+
+## [2026-05-13] ingest | Sleep Interruption & A Good Night's Rest
+Completed Gate 9 item 7. Created [[Sleep Interruption & A Good Night's
+Rest]] as the sleep-disturbance source interface, preserving Shinzen's
+good-night's-rest router: lie still so the body receives rest, maintain a
+continuous technique so consciousness rests, and avoid turning wakeful
+awareness into attainment or sleep neglect. Updated [[Practice Guidance
+Toolkit]], [[Focus on Rest]], [[Practice Method Safety Boundary]], [[Complete
+Experience Safety Boundary]], [[Guidance Scope and Accountability Boundary]],
+[[Total Happiness]], and [[Current Model]] so sleep disruption routes through
+body rest, technique simplicity, ordinary functioning, and medical/clinical
+scope boundaries. Pages/files touched: [[Sleep Interruption & A Good Night's
+Rest]], [[Practice Guidance Toolkit]], [[Focus on Rest]], [[Practice Method
+Safety Boundary]], [[Complete Experience Safety Boundary]], [[Guidance Scope
+and Accountability Boundary]], [[Total Happiness]], [[Current Model]],
+`wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics; the index opening was trimmed back under the
+first-read target.
+
+## [2026-05-13] ingest | A Mindful Birth and Zen Parenting, Part 2 of 2
+Completed Gate 9 item 6. Created [[A Mindful Birth and Zen Parenting, Part
+2 of 2]] as the Zen-parenting source interface, preserving Shinzen's
+application test: Source/transmission contact is not passive guru-zap but
+must function immediately as ordinary care. Updated [[Practice Guidance
+Toolkit]], [[Complete Experience Safety Boundary]], [[Guidance Scope and
+Accountability Boundary]], [[Total Happiness]], [[Primordial Feel]],
+[[Expansion And Contraction]], [[Shinzen's Teaching Method]], and [[Current
+Model]] so baby-as-Roshi, raw infant Feel, and dynamic-nothingness language
+route as sensory compassion and responsive caregiving under pediatric,
+postpartum, family, sleep, trauma, and clinical support boundaries. Pages/
+files touched: [[A Mindful Birth and Zen Parenting, Part 2 of 2]],
+[[Practice Guidance Toolkit]], [[Complete Experience Safety Boundary]],
+[[Guidance Scope and Accountability Boundary]], [[Total Happiness]],
+[[Primordial Feel]], [[Expansion And Contraction]], [[Shinzen's Teaching
+Method]], [[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics.
+
+## [2026-05-13] ingest | A Mindful Birth and Zen Parenting, Part 1 of 2
+Completed Gate 9 item 5. Created [[A Mindful Birth and Zen Parenting, Part
+1 of 2]] as the childbirth source interface, preserving Shinzen's rhythm-
+based coaching strategy: an already-trained practitioner can use contraction
+peaks as Touch expansion while Image, Talk, and emotional selfing contract
+into Rest, then relax during valleys. Updated [[Turn Toward and Turn Away]],
+[[Practice Guidance Toolkit]], [[Complete Experience Safety Boundary]],
+[[Guidance Scope and Accountability Boundary]], [[Total Happiness]],
+[[Expansion And Contraction]], and [[Current Model]] so childbirth routes as
+medical-adjacent sensory practice under obstetric care, consent, pain-relief,
+trauma, and support boundaries rather than as natural-birth ideology or
+medical advice. Pages/files touched: [[A Mindful Birth and Zen Parenting,
+Part 1 of 2]], [[Turn Toward and Turn Away]], [[Practice Guidance Toolkit]],
+[[Complete Experience Safety Boundary]], [[Guidance Scope and Accountability
+Boundary]], [[Total Happiness]], [[Expansion And Contraction]], [[Current
+Model]], `wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics.
+
+## [2026-05-13] ingest | Mindfulness, Cancer & Healing - 3 of 3
+Completed Gate 9 item 4. Created [[Mindfulness, Cancer & Healing - 3 of 3]]
+as the third cancer/healing source interface, preserving Shinzen's healthy
+focus-on branch for health crisis: unhealthy turning toward fights the
+sensory challenge, while trained mindfulness separates physical body,
+emotional body, visual thought, and auditory thought, then reduces resistance
+through concentration, sensory clarity, and equanimity. Updated
+[[Mindfulness, Cancer & Healing - 2 of 3]], [[Turn Toward and Turn Away]],
+[[Practice Guidance Toolkit]], [[Complete Experience Safety Boundary]],
+[[Guidance Scope and Accountability Boundary]], [[Total Happiness]], and
+[[Current Model]] so illness guidance now has a completed first-pass router:
+aim separation, non-suppressive focus-away, and trained focus-on without
+cure promises or instant self-instruction. Pages/files touched:
+[[Mindfulness, Cancer & Healing - 3 of 3]], [[Mindfulness, Cancer & Healing
+- 2 of 3]], [[Turn Toward and Turn Away]], [[Practice Guidance Toolkit]],
+[[Complete Experience Safety Boundary]], [[Guidance Scope and Accountability
+Boundary]], [[Total Happiness]], [[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/_automation_loop_state.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` OK with expected
+raw-backlog, source-list-size, and large-domain diagnostics.
+
+## [2026-05-13] ingest | Mindfulness, Cancer & Healing - 2 of 3
+Completed Gate 9 item 3. Created [[Mindfulness, Cancer & Healing - 2 of 3]]
+as the second cancer/healing source interface, preserving Shinzen's
+health-crisis "sensory challenge" frame and his non-suppressive focus-away
+criteria: symptoms, fear, images, and talk can remain permitted in the
+background while attention stabilizes with Rest, positive Feel/Image/Talk,
+music, or pleasant sights/sounds. Updated [[Turn Toward and Turn Away]],
+[[Practice Guidance Toolkit]], [[Complete Experience Safety Boundary]],
+[[Guidance Scope and Accountability Boundary]], [[Total Happiness]], and
+[[Current Model]] so illness guidance routes through suffering reduction,
+background permission, role clarity, and medical-care boundaries rather than
+cure promises, emotion-blame, or positivity pressure. Pages/files touched:
+[[Mindfulness, Cancer & Healing - 2 of 3]], [[Turn Toward and Turn Away]],
+[[Practice Guidance Toolkit]], [[Complete Experience Safety Boundary]],
+[[Guidance Scope and Accountability Boundary]], [[Total Happiness]],
+[[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics.
+
+## [2026-05-13] ingest | Mindfulness, Cancer & Healing - 1 of 3
+Completed Gate 9 item 2. Created [[Mindfulness, Cancer & Healing - 1 of 3]]
+as the first cancer/healing source interface, preserving Shinzen's
+medical-adjacent distinction between meditation aimed at influencing the
+objective course of healing and meditation aimed at reducing suffering in a
+health crisis. Updated [[Complete Experience Safety Boundary]], [[Practice
+Guidance Toolkit]], [[Total Happiness]], [[Guidance Scope and Accountability
+Boundary]], and [[Current Model]] so serious illness routes through aim
+separation, medical role clarity, suffering reduction, and cure/causation
+boundaries rather than meditation-as-cancer-cure or emotion-blame claims.
+Pages/files touched: [[Mindfulness, Cancer & Healing - 1 of 3]], [[Complete
+Experience Safety Boundary]], [[Practice Guidance Toolkit]], [[Total
+Happiness]], [[Guidance Scope and Accountability Boundary]], [[Current
+Model]], `wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics.
+
+## [2026-05-13] ingest | Mindfulness & Psychotherapy
+Completed Gate 9 item 1. Created [[Mindfulness & Psychotherapy]] as the
+source interface for Shinzen's applied-domain scale distinction: psychotherapy
+and mindfulness can share ideals, but psychotherapy gives the gross
+personality-and-behavior structure while mindfulness works at fine
+second-by-second sensory resolution, intensity, micro-holding, and all-self
+insight. Updated [[Guidance Scope and Accountability Boundary]], [[Practice
+Guidance Toolkit]], [[Total Happiness]], [[Complete Experience Safety
+Boundary]], and [[Current Model]] so therapy is routed as a complementary
+picture rather than a failure of practice or something mindfulness replaces.
+Also repaired stale Gate 8 item 16 bookkeeping by marking [[The Dark Night by
+St. John of the Cross (recited in Spanish & English)]] complete in the
+implementation plan; the page and owner citations already existed at session
+start. Pages/files touched: [[Mindfulness & Psychotherapy]], [[Guidance Scope
+and Accountability Boundary]], [[Practice Guidance Toolkit]], [[Total
+Happiness]], [[Complete Experience Safety Boundary]], [[Current Model]],
+`wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` OK with expected raw-backlog, source-list-size, and
+large-domain diagnostics.
+
+## [2026-05-13] ingest | Om Mani Padme Hum Meaning and Some Mindful Strategies When Chanting
+Completed Gate 8 item 15. Created [[Om Mani Padme Hum Meaning and Some
+Mindful Strategies When Chanting]] as the cleanly titled source interface for
+Shinzen's Om Mani Padme Hum chant instruction, verifying that it duplicates
+the earlier mislabeled [[Leonard Cohen's Love Itself - Part 2 of 2]] content.
+Updated [[Lineage Translation]], [[Practice Entry and Method Choice]],
+[[Nurture Positive]], [[Mysticism As Concentration]], [[Current Model]], and
+the duplicate source page so chant-practice citations route to the clean
+metadata while the old page remains a transcript-quality caution. Pages/files
+touched: [[Om Mani Padme Hum Meaning and Some Mindful Strategies When
+Chanting]], [[Leonard Cohen's Love Itself - Part 2 of 2]], [[Lineage
+Translation]], [[Practice Entry and Method Choice]], [[Nurture Positive]],
+[[Mysticism As Concentration]], [[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/_automation_loop_state.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` run after edits; see
+automation state for final result.
+
+## [2026-05-12] ingest | Is Buddhist Meditation Compatible with Other Religions
+Completed Gate 8 item 14. Created [[Is Buddhist Meditation Compatible with
+Other Religions]] as the source interface for Shinzen's compatibility rule:
+Buddhist meditation can fit other religions, nonreligion, rationalist
+humanism, skepticism, and even fundamentalist viewpoints when extracted as
+concentration, sensory clarity, equanimity, ego/suffering freedom, and
+positive behavior change rather than taken as complete Buddhist belief
+adoption. Updated [[Lineage Translation]], [[Mysticism As Concentration]],
+and [[Current Model]] so compatibility routes through non-conversion,
+partial adoption, path-deepening, and behavior criteria rather than proof
+that all religions are doctrinally the same. Pages/files touched: [[Is
+Buddhist Meditation Compatible with Other Religions]], [[Lineage
+Translation]], [[Mysticism As Concentration]], [[Current Model]],
+`wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` run after edits; see automation state for final
+result.
+
+## [2026-05-12] ingest | On Rites, Rituals, and Ceremonies
+Completed Gate 8 item 13. Created [[On Rites, Rituals, and Ceremonies]] as
+the source interface for Shinzen's general ritual rule: no required bowing,
+rites, rituals, or ceremonies at his retreats; rites have no automatic
+efficacy in themselves; and ritual becomes legitimate meditation only when it
+functions as an optional container for concentration, sensory clarity, and
+equanimity. Updated [[Lineage Translation]], [[Mysticism As Concentration]],
+[[Mastery Without Guru Inflation]], [[Guidance Scope and Accountability
+Boundary]], [[Intensity and Embodiment Safety Boundary]], and [[Current
+Model]] so chant, deity-yoga, sweat-lodge, kavanah, and Vajrayana material
+route through optional CCE function, teacher-authority deflation, consent,
+and evidence-tier boundaries rather than ritual romanticism or anti-ritual
+flattening. Pages/files touched: [[On Rites, Rituals, and Ceremonies]],
+[[Lineage Translation]], [[Mysticism As Concentration]], [[Mastery Without
+Guru Inflation]], [[Guidance Scope and Accountability Boundary]], [[Intensity
+and Embodiment Safety Boundary]], [[Current Model]], [[The Native American
+Sweat Lodge Ceremony - Part 1 of 2]], [[The Native American Sweat Lodge -
+Part 2 of 2]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` run after edits; see automation state for final
+result.
+
+## [2026-05-12] ingest | The Native American Sweat Lodge - Part 2 of 2
+Completed Gate 8 item 12. Created [[The Native American Sweat Lodge - Part
+2 of 2]] as the source interface for Shinzen's second sweat-lodge
+translation talk: the ceremony as prayer, physical cleansing,
+group-therapy-like communal disclosure, shamanic altered-state journey,
+purification through equanimity with strong physical and emotional
+sensations, and deepest flow of expansive sky, contractive earth, and
+vibrating life/breath/spirit energy. Updated [[Lineage Translation]],
+[[Mysticism As Concentration]], [[Expansion And Contraction]], [[Source And
+Polarities]], [[Guidance Scope and Accountability Boundary]], [[Intensity and
+Embodiment Safety Boundary]], and [[Current Model]] so Part 2 is preserved as
+Shinzen's bounded CCE/Flow/polarity interpretation of a Native-led ceremony,
+not as proof of Native doctrine, ceremony authorization, or heat-safety
+guidance. Pages/files touched: [[The Native American Sweat Lodge - Part 2 of
+2]], [[The Native American Sweat Lodge Ceremony - Part 1 of 2]], [[Lineage
+Translation]], [[Mysticism As Concentration]], [[Expansion And Contraction]],
+[[Source And Polarities]], [[Guidance Scope and Accountability Boundary]],
+[[Intensity and Embodiment Safety Boundary]], [[Current Model]],
+`wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` run after edits; see automation state for final
+result.
+
+## [2026-05-12] ingest | The Native American Sweat Lodge Ceremony - Part 1 of 2
+Completed Gate 8 item 11. Created [[The Native American Sweat Lodge Ceremony
+- Part 1 of 2]] as the source interface for Shinzen's first sweat-lodge
+translation talk: optional retreat-adjacent ceremony access through named
+Native leaders, ritual meaning carried by prayers, songs, shared energy,
+"grandfathers," and "breath of the grandfathers," and a strong competence
+boundary distinguishing traditionally trained Native leadership from
+incompetent non-Native imitation. Updated [[Lineage Translation]],
+[[Mysticism As Concentration]], [[Guidance Scope and Accountability
+Boundary]], [[Intensity and Embodiment Safety Boundary]], and [[Current
+Model]] so sweat lodge is preserved as relationship-based ritual adjacency,
+not a self-run Shinzen heat ordeal or generic shamanic proof. Pages/files
+touched: [[The Native American Sweat Lodge Ceremony - Part 1 of 2]],
+[[Lineage Translation]], [[Mysticism As Concentration]], [[Guidance Scope
+and Accountability Boundary]], [[Intensity and Embodiment Safety Boundary]],
+[[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` run after edits; see automation state for final
+result.
+
+## [2026-05-12] ingest | The Secret of Archetypal Deity Yoga
+Completed Gate 8 item 10. Created [[The Secret of Archetypal Deity Yoga]] as
+the source interface for Shinzen's translation of deity yoga into controlled
+Touch/Feel/Image/Talk self-construction: mantra replaces ordinary internal
+talk, deity image replaces self-image, deity feel replaces ordinary human
+feeling, and mudra or ritual touch replaces ordinary touch, so a constructed
+archetypal identity reveals ordinary self-identification as constructed
+without implying possession, insanity, or special authority. Updated
+[[Lineage Translation]], [[Nurture Positive]], [[Inner Sensory System]],
+[[Way of Human Goodness]], [[Altered Phenomena and Dissolution Safety
+Boundary]], and [[Current Model]] so deity/archetype practice routes through
+Focus on Positive and no-self insight while retaining cultural, clinical,
+and grandiosity boundaries. Pages/files touched: [[The Secret of Archetypal
+Deity Yoga]], [[Lineage Translation]], [[Nurture Positive]], [[Inner Sensory
+System]], [[Way of Human Goodness]], [[Altered Phenomena and Dissolution
+Safety Boundary]], [[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` run after edits; see automation state for final
+result.
+
+## [2026-05-12] ingest | Jhanas and Focus on Rest
+Completed Gate 8 item 9. Created [[Jhanas and Focus on Rest]] as the source
+interface for Shinzen's explicit claim that Focus on Rest is his modern
+sensory-procedural reworking of some, not all, early Buddhist
+shamatha/jhana absorption principles. Updated [[Focus on Rest]], [[Way of
+Tranquility]], [[Calming-Clarifying Balance]], [[Lineage Translation]],
+[[Mysticism As Concentration]], [[Practice Entry and Method Choice]], and
+[[Current Model]] so the six Rest flavors, pleasant-rest biofeedback, and
+beyond-tranquility-to-impermanence/emptiness/Source boundary are preserved
+without turning Focus on Rest into a complete jhana taxonomy. Pages/files
+touched: [[Jhanas and Focus on Rest]], [[Focus on Rest]], [[Way of
+Tranquility]], [[Calming-Clarifying Balance]], [[Lineage Translation]],
+[[Mysticism As Concentration]], [[Practice Entry and Method Choice]],
+[[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` run after edits; see automation state for final
+result.
+
+## [2026-05-12] ingest | Jewish Mysticism & Mindfulness Meditation
+Completed Gate 8 item 8. Created [[Jewish Mysticism & Mindfulness Meditation]]
+as the source interface for Shinzen's mapping of Jewish mystical person/soul
+language onto touch, feel, image, talk, Flow, Gone/One/Source, and shared
+Origin kinship. Updated [[Lineage Translation]], [[Mysticism As
+Concentration]], [[Source And Polarities]], [[Expansion And Contraction]],
+and [[Current Model]] so the Kabbalah comparison is preserved as Shinzen's
+practice translation while one-to-one, philological, doctrinal, and
+metaphysical claims remain bounded. Pages/files touched: [[Jewish Mysticism
+& Mindfulness Meditation]], [[Lineage Translation]], [[Mysticism As
+Concentration]], [[Source And Polarities]], [[Expansion And Contraction]],
+[[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/_automation_loop_state.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` run after edits; see
+automation state for final result.
+
+## [2026-05-12] ingest | The Dharma Name Shinzen
+Completed Gate 8 item 7. Created [[The Dharma Name Shinzen]] as the source
+interface for Shinzen's explanation of his Dharma name as both lineage
+responsibility and a truth/goodness path summary: authenticity or truth
+names wisdom and self/world transcendence, while goodness names sila,
+character improvement, and bodhisattva service. Updated [[Lineage
+Translation]], [[Way of Human Goodness]], [[Shinzen's Teaching Method]], and
+[[Current Model]] so personal name/ordination transmission is kept as
+responsibility rather than status, and so Human Goodness includes character
+and service rather than only positive affect. Pages/files touched: [[The
+Dharma Name Shinzen]], [[Lineage Translation]], [[Way of Human Goodness]],
+[[Shinzen's Teaching Method]], [[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/_automation_loop_state.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` run after edits; see
+automation state for final result.
+
+## [2026-05-12] ingest | Sasaki Roshi, the Complex Number System & the Source of Love
+Completed Gate 8 item 6. Created [[Sasaki Roshi, the Complex Number System & the Source of Love]] as the source interface for Shinzen's boundary around Sasaki Roshi's broader polarity claims: Sasaki may imply a universal grand theory of contrasting activities canceling into neutral and neutral polarizing into contrast, while Shinzen only claims the paradigm as useful moment-by-moment consciousness analysis. Updated [[Lineage Translation]], [[Expansion And Contraction]], [[Source And Polarities]], and [[Current Model]] so complex-number and quantum language remains speculative analogy while Source contact is still linked, inside Shinzen's frame, to unconditional love and service. Pages/files touched: [[Sasaki Roshi, the Complex Number System & the Source of Love]], [[Lineage Translation]], [[Expansion And Contraction]], [[Source And Polarities]], [[Current Model]], `wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`, `wiki/_automation_loop_state.md`, `wiki/log.md`. Validation: `tools\wiki_lint.cmd` run after edits; see automation state for final result.
+
+## [2026-05-12] ingest | Leonard Cohen's Love Itself - Part 2 of 2
+Completed Gate 8 item 5. Created [[Leonard Cohen's Love Itself - Part 2 of 2]] as the source interface for a queued Love Itself part-2 file whose transcript content is actually Om Mani Padme Hum chanting instruction, not Cohen/Sasaki commentary. The source adds ritual-as-formal-meditation routing: chant can be focused through pure sound, physical touch and breath, Rest, background silence, Flow, Focus on Positive deity/mantra/compassion, or labels when spacing out is strong. Updated [[Lineage Translation]], [[Nurture Positive]], [[Practice Entry and Method Choice]], and [[Current Model]] so Gate 8 now includes ritual/mantra translation and a transcript-quality caution. Pages/files touched: [[Leonard Cohen's Love Itself - Part 2 of 2]], [[Lineage Translation]], [[Nurture Positive]], [[Practice Entry and Method Choice]], [[Current Model]], `wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`, `wiki/_automation_loop_state.md`, `wiki/log.md`. Validation: `tools\wiki_lint.cmd` run after edits; see automation state for final result.
+
+## [2026-05-12] ingest | Leonard Cohen, Sasaki Roshi, & Love Itself - Part 1 of 2
+Completed Gate 8 item 4. Created [[Leonard Cohen, Sasaki Roshi, & Love Itself - Part 1 of 2]] as the source interface for Shinzen's reading of Cohen's "Love Itself" as poetic transmission of Sasaki Roshi's Zero-Expansion-Contraction cycle: blissful vibratory Flow can become attachment, nonclinging lets it flatten into Zero/Gone, ordinary self/world returns seen differently, and true love is framed as Zero rather than merely positive affect. Updated [[Lineage Translation]], [[Expansion And Contraction]], [[Source And Polarities]], and [[Current Model]] so Gate 8 now includes poetic/affective transmission alongside influence mapping, authority humility, and Burmo-Japanese procedural fusion. Pages/files touched: [[Leonard Cohen, Sasaki Roshi, & Love Itself - Part 1 of 2]], [[Lineage Translation]], [[Expansion And Contraction]], [[Source And Polarities]], [[Current Model]], `wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`, `wiki/_automation_loop_state.md`, `wiki/log.md`. Validation: `tools\wiki_lint.cmd` run after edits; see automation state for final result.
+
+## [2026-05-12] ingest | Sasaki Roshi & Burmo-Japanese Mindfulness Fusion
+Completed Gate 8 item 3. Created [[Sasaki Roshi & Burmo-Japanese Mindfulness Fusion]] as the source interface for Shinzen's concrete
+Burmo-Japanese fusion claim: Sasaki Roshi's simultaneous
+Expansion-Contraction model includes the observer in the same
+three-dimensional arising-passing volume, while Shinzen mounts that advanced
+Zen/koan paradigm inside Burmese-style noting to make it more systematic and
+available. Updated [[Lineage Translation]], [[Expansion And Contraction]],
+[[Shinzen's Teaching Method]], and [[Current Model]] so Gate 8 now includes
+functional fusion and observer-including translation alongside influence
+mapping and authority humility. Pages/files touched: [[Sasaki Roshi & Burmo-Japanese Mindfulness Fusion]], [[Lineage Translation]], [[Expansion And Contraction]], [[Shinzen's Teaching Method]], [[Current Model]],
+`wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` run after edits; see automation state for final result.
+
+## [2026-05-12] ingest | Authority, Opinions and the Buddhist Canon
+Completed Gate 8 item 2. Created [[Authority, Opinions and the Buddhist
+Canon]] as the source interface for Shinzen's authority-humility warning:
+teacher statements, including Shinzen's, are casual opinions or pointers;
+good people, ancient scripture, and long-term meditators are not automatically
+true; direct experience, logical inference, and dialogue carry the practice
+test; and Buddhist canon is useful but limited by one-way communication.
+Updated [[Lineage Translation]], [[Shinzen's Teaching Method]], [[Mastery
+Without Guru Inflation]], [[Guidance Scope and Accountability Boundary]], and
+[[Current Model]] so Gate 8 now includes teacher/canon authority limits
+alongside cross-tradition and science-language boundaries. Pages/files
+touched: [[Authority, Opinions and the Buddhist Canon]], [[Lineage
+Translation]], [[Shinzen's Teaching Method]], [[Mastery Without Guru
+Inflation]], [[Guidance Scope and Accountability Boundary]], [[Current
+Model]], `wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` run after edits; see automation state for final result.
+
+## [2026-05-12] ingest | Which Teachers Have Influenced How You Teach
+Completed Gate 8 item 1. Created [[Which Teachers Have Influenced How You
+Teach]] as the source interface for Shinzen's two-sets-of-shoulders influence
+map: Sasaki Roshi's Expansion-Contraction model, Burmese body sensation and
+modified noting, Vajrayana/Shingon visual-auditory-somatic practice, shamanic
+concentration/equanimity, and Western mathematical, empirical, skeptical,
+pragmatic rigor. Created [[Lineage Translation]] to own the Gate 8 translation
+boundary and updated [[Shinzen's Teaching Method]], [[Mysticism As
+Concentration]], [[Expansion And Contraction]], and [[Current Model]] so
+cross-tradition and science-language claims remain practice-useful but not
+proof of sameness or validation. Pages/files touched: [[Which Teachers Have
+Influenced How You Teach]], [[Lineage Translation]], [[Shinzen's Teaching
+Method]], [[Mysticism As Concentration]], [[Expansion And Contraction]],
+[[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/_automation_loop_state.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` run after edits; see
+automation state for final result.
+
+## [2026-05-12] ingest | Creating Feel Good in Emotional Body Space - 2 of 2 - A Guided Meditation
+Completed Gate 7 item 18 and closed the Gate 7 source sequence. Created
+[[Creating Feel Good in Emotional Body Space - 2 of 2 - A Guided Meditation]]
+as the source interface for Shinzen's guided create-positive-Feel practice:
+trigger pleasant body resonance if possible, use a slight
+smile as support, spread the positive Feel, let the pleasant body object feed
+concentration, and keep some awareness in positive Feel during eyes-open
+social contact. Updated [[Nurture Positive]], [[Way of Human Goodness]], and
+[[Total Happiness]] to preserve the positive-samadhi feedback loop,
+anti-forcing qualifiers, and social-portability boundary. Pages/files
+touched: [[Creating Feel Good in Emotional Body Space - 2 of 2 - A Guided Meditation]],
+[[Nurture Positive]], [[Way of Human Goodness]], [[Total Happiness]],
+`wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` run after edits; see automation state for final result.
+
+## [2026-05-12] ingest | Creating Feel Good in Emotional Body Space - 1 of 2 - Introduction
+Completed Gate 7 item 17. Created [[Creating Feel Good in Emotional Body
+Space - 1 of 2 - Introduction]] as the source interface for Shinzen's
+trigger-positive-Feel subroutine: briefly use positive Image/Talk to ring
+the emotional body, then drop the thought and attend to the pleasant body
+resonance. Updated [[Nurture Positive]], [[Way of Human Goodness]], and
+[[Total Happiness]] to preserve the trigger-versus-object distinction, the
+emotional-body bell metaphor, broad-but-not-forced attention, and the
+boundary that emotional physiotherapy and high-wattage radiation language
+should not become clinical or interpersonal-effect overclaims. Pages/files
+touched: [[Creating Feel Good in Emotional Body Space - 1 of 2 -
+Introduction]], [[Nurture Positive]], [[Way of Human Goodness]], [[Total
+Happiness]], `wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` run after edits; see automation state for final result.
+
+## [2026-05-12] ingest | Hold Positive Feel
+Completed Gate 7 item 16. Created [[Hold Positive Feel]] as the source
+interface for a caregiver-crisis testimonial: love Feel is held while
+available, memory Image re-evokes it when direct Feel fades, and loving Talk
+supports the practice under exhaustion. Updated [[Nurture Positive]], [[Way
+of Human Goodness]], [[Total Happiness]], and [[Completion Versus Bypass
+Safety Boundary]] to preserve flexible Feel/Image/Talk carrier switching and
+the boundary that the brother's recovery is not evidence of medical efficacy.
+Pages/files touched: [[Hold Positive Feel]], [[Nurture Positive]], [[Way of
+Human Goodness]], [[Total Happiness]], [[Completion Versus Bypass Safety
+Boundary]], `wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` run after edits; see automation state for final result.
+
+## [2026-05-12] ingest | The Focus on Positive Theme
+Completed Gate 7 item 15. Created [[The Focus on Positive Theme]] as the
+source interface for Shinzen's three-way routing of unusually positive inner
+content: deconstruct it as Feel/Image/Talk, hold or repeat it as formal Focus
+on Positive, or occasionally suspend formal practice for ordinary discursive
+insight work and note-taking. Updated [[Nurture Positive]], [[Way of Human
+Goodness]], [[Total Happiness]], and [[Practice Entry and Method Choice]] to
+preserve spontaneous-positive routing, the bounded permission for discursive
+insight work, and the warning that meditation should not become only
+discursive thought. Pages/files touched: [[The Focus on Positive Theme]],
+[[Nurture Positive]], [[Way of Human Goodness]], [[Total Happiness]],
+[[Practice Entry and Method Choice]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` run after edits; see automation state for final result.
+
+## [2026-05-12] ingest | Nurturing the Positive Creating Holding and Radiating Positive Subjective States
+Completed Gate 7 item 14. Created [[Nurturing the Positive Creating Holding and Radiating Positive Subjective States]] as the source interface for
+Shinzen's compact Focus on Positive definition: intentionally create, hold,
+and radiate positive Talk, Image, and Feel, with Talk usually easiest, Image
+harder but doable, and Feel harder but trainable. Updated [[Nurture
+Positive]], [[Way of Human Goodness]], and [[Total Happiness]] to preserve the
+create-hold-radiate verb chain, the Talk/Image/Feel access gradient, and the
+boundary that mantra/CBT comparisons do not turn this into clinical protocol
+or behavior verification. Pages/files touched: [[Nurturing the Positive Creating Holding and Radiating Positive Subjective States]], [[Nurture
+Positive]], [[Way of Human Goodness]], [[Total Happiness]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` run after edits; see automation state for final result.
+
+## [2026-05-12] ingest | The True Beauty of Your Soul
+Completed Gate 7 item 13. Created [[The True Beauty of Your Soul]] as the
+source interface for Shinzen's bounded soul-language: "soul" is poetic deep
+Feel/Image/Talk beneath surface Focus In, not theology, clinical psychology,
+infinite subtle-layer analysis, or settled neuroscience. Updated [[Inner
+Sensory System]], [[Source And Polarities]], [[Total Happiness]], and
+[[Current Model]] to preserve the surface-to-subtle Focus In depth model and
+Source-posture boundary. Pages/files touched: [[The True Beauty of Your
+Soul]], [[Inner Sensory System]], [[Source And Polarities]], [[Total
+Happiness]], [[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/_automation_loop_state.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` run after edits; see
+automation state for final result.
+
+## [2026-05-12] ingest | Mindfulness and Behavioural Change
+Completed Gate 7 item 12. Created [[Mindfulness and Behavioural Change]] as
+the source interface for Shinzen's behavior-change teaching: urges can be
+deconstructed into Touch, Feel, Image, and Talk, but when meditation alone
+does not change behavior, external accountability such as therapy,
+recovery-style support, sponsorship, friendship, or manageable assignments
+should be added. Updated [[Suffering Distortion Cycle]], [[Total Happiness]],
+[[Practice Guidance Toolkit]], [[Guidance Scope and Accountability Boundary]],
+and [[Current Model]] to preserve behavior-change mechanism and support
+limits. Pages/files touched: [[Mindfulness and Behavioural Change]],
+[[Suffering Distortion Cycle]], [[Total Happiness]], [[Practice Guidance
+Toolkit]], [[Guidance Scope and Accountability Boundary]], [[Current Model]],
+`wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` run after edits; see automation state for final result.
+
+## [2026-05-12] ingest | How the Endeavor of Improve Supports Transcend
+Completed Gate 7 item 11. Created [[How the Endeavor of Improve Supports
+Transcend]] as the source interface for Shinzen's short teaching that ordinary
+self/world improvement can support formal transcend practice when sitting
+feels stuck. Updated [[Surface To Source]], [[Total Happiness]], and
+[[Current Model]] to preserve the reciprocal practice-ecology rule: service,
+ethics, lifestyle, diet, exercise, reduced conflict, and the background sense
+of putting good into the world can support seeing beyond self/world. Pages/files
+touched: [[How the Endeavor of Improve Supports Transcend]], [[Surface To
+Source]], [[Total Happiness]], [[Current Model]], `wiki/index.md`,
+`wiki/_yt_ingestion_implementation_plan.md`, `wiki/_automation_loop_state.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` run after edits; see
+automation state for final result.
+
+## [2026-05-12] ingest | The Big Picture as I See It
+Completed Gate 7 item 10. Created [[The Big Picture as I See It]] as the
+source interface for Shinzen's capstone recap of the four Total Happiness
+quadrants, practice supports, and the central mystery that impersonal Source
+contact can nurture human fulfillment, behavior, and service. Updated
+[[Total Happiness]], [[Source And Polarities]], and [[Current Model]] to
+preserve the practice-rhythm support list, Source-to-human-goodness paradox,
+and the qualifier that ordinary-condition improvement is a general tendency,
+not an inevitability. Pages/files touched: [[The Big Picture as I See It]],
+[[Total Happiness]], [[Source And Polarities]], [[Current Model]],
+`wiki/index.md`, `wiki/_yt_ingestion_implementation_plan.md`,
+`wiki/_automation_loop_state.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` run after edits; see automation state for final result.
+
+## [2026-05-12] review | Backlog triage
+Started Phase 8 backlog triage from the current 77 canonical raw-source
+backlog. Added a title-level triage table to
+`wiki/_review_remediation_plan.md` that keeps Gate 7's `The Big Picture as I
+See It` as the default next source while naming safety/clinical,
+teacher/accountability, practice-dosage, altered-phenomena/Source,
+comparative-culture, and low-routing-value detour buckets. Updated the index
+dashboard with a compact triage summary. Pages/files touched:
+`wiki/_review_remediation_plan.md`, `wiki/index.md`, `wiki/log.md`.
+Validation: `tools\wiki_lint.cmd` passes; remaining diagnostics are the
+expected raw-source backlog and large-domain advisories.
+
+## [2026-05-12] refactor | Index opening compression
+Compressed the oversized `wiki/index.md` opening by replacing the detailed
+Gate 4 through Gate 7 chronology with a compact maturity-shape paragraph and
+leaving detailed chronology routed to `wiki/log.md` and
+`wiki/_yt_ingestion_implementation_plan.md`. This preserves the current model
+routes, recent shape changes, operating dashboard, and open question while
+restoring the index opening as a skim surface. Pages/files touched:
+`wiki/index.md`, `wiki/_review_remediation_plan.md`, `wiki/log.md`.
+Validation: `tools\wiki_lint.cmd` passes with no page-level or index-opening
+advisories; remaining diagnostics are the expected raw-source backlog and
+large-domain advisories.
+
+## [2026-05-12] refactor | Remaining Phase 7 page advisories cleared
+Completed the remaining page-level Phase 7 advisory cleanup. Compressed
+single-signal router or source diagnostics on [[Basic Mindfulness Life
+Architecture]], [[Calming-Clarifying Balance]],
+[[Deconstruction-Reconstruction Balance]], [[Dissolution]], [[Do Nothing]],
+[[Effort Regulation]], [[Focus on Rest - Standard (Relative Rest) and
+Advanced (Do Nothing)]], [[Forcing Spoken Labels]], [[How to do Labeling and
+Noting During Meditation, 1 of 2 Parts]], [[How to do Labeling and Noting
+During Meditation, Part 2 of 2, Zooming]], [[Intermediate Realm]], [[See Hear
+Feel Introduction - Four Okays and Required vs Allowed]], [[See Hear Feel
+Introduction - Noting Nutshell and FAQ]], [[See Hear Feel Introduction -
+Practice Organization and System Transition]], [[See Hear Feel Introduction -
+Simple and Flexible Labels]], [[Turn Towards Difficult Emotion and
+Challenging Feel-Image-Talk Eruptions - 2 of 2]], [[Why Meditate]], and
+[[Zooming]]. Added compact `Source Anchors` cards to [[Dissolution]] and
+[[Do Nothing]]. Pages/files touched: listed pages plus
+`wiki/_review_remediation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` passes with no page-level router/frontmatter
+diagnostics; remaining diagnostics are the expected raw backlog, large-domain
+advisories, and oversized index opening.
+
+## [2026-05-12] refactor | Safety-boundary router cleanup
+Continued the Phase 7 remediation pass on safety-routing question pages.
+Trimmed `best_linked_pages` to the eight strongest first-pass next loads on
+[[Guidance Scope and Accountability Boundary]], [[Altered Phenomena and
+Dissolution Safety Boundary]], [[Intensity and Embodiment Safety Boundary]],
+and [[Practice Method Safety Boundary]], while leaving broader supporting
+links in body dependency and related surfaces. Pages/files touched:
+[[Guidance Scope and Accountability Boundary]], [[Altered Phenomena and
+Dissolution Safety Boundary]], [[Intensity and Embodiment Safety Boundary]],
+[[Practice Method Safety Boundary]], `wiki/_review_remediation_plan.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` passes; all four pages no
+longer appear in the stricter `best_linked_pages` diagnostics.
+
+## [2026-05-12] refactor | Practice implementation router cleanup
+Continued the Phase 7 remediation pass on remaining practice-implementation
+owners. Compressed [[Focus Coverage Strategies]] by shortening `load_when`
+and reducing `best_linked_pages` from 10 to 8. Compressed [[Practice Cycles]]
+by reducing frontmatter raw sources from 9 to 8, reducing
+`best_linked_pages` from 10 to 8, and adding a compact `Source Anchors` card
+for stillness-motion-life, yearly support, focus-range application,
+micro-hits, challenge sequences, session setup, crisis-as-practice
+boundaries, retreat aftercare, and fun-cycle transfer evidence. Pages/files
+touched: [[Focus Coverage Strategies]], [[Practice Cycles]],
+`wiki/_review_remediation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` passes; both pages no longer appear in the stricter
+router/frontmatter diagnostics.
+
+## [2026-05-12] refactor | Complete-experience and Flow-route cleanup
+Continued the Phase 7 remediation pass on a central transformation hinge and
+its Flow-route child. Compressed [[Complete Experience]] by reducing
+frontmatter raw sources from 10 to 8 and adding a compact `Source Anchors`
+card for CCE, purification, Source-polarity, sensory-happiness,
+critical-mass, digestion, and local-growth anchors. Compressed [[Way of
+Flow]] by reducing frontmatter raw sources from 13 to 8 and adding a compact
+`Source Anchors` card for ordinary changingness, Flow/Gone boundaries,
+Expansion-Contraction, readiness/integration, and body-level advanced
+supports. Pages/files touched: [[Complete Experience]], [[Way of Flow]],
+`wiki/_review_remediation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` passes; both pages no longer appear in the stricter
+frontmatter-source diagnostics.
+
+## [2026-05-12] refactor | No-self and Source source cleanup
+Continued the Phase 7 remediation pass on two high-importance transformation
+owner pages. Compressed [[No-Self And Personality]] and [[Source And
+Polarities]] by reducing each frontmatter raw source list from 12 to 8 and
+retuning their `Source Anchors` cards so unitive comparison, monitoring,
+nondual/witness, intermediate-realm, late Expansion-Contraction, and
+return-to-life branches remain body-visible. Pages/files touched: [[No-Self
+And Personality]], [[Source And Polarities]],
+`wiki/_review_remediation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` passes; both pages no longer appear in the stricter
+frontmatter-source diagnostics.
+
+## [2026-05-12] refactor | Equanimity and Flow source cleanup
+Continued the Phase 7 remediation pass on two high-importance
+skill/mechanism owner pages. Compressed [[Equanimity]] and [[Flow]] by
+reducing each frontmatter raw source list from 12 to 8 and retuning their
+`Source Anchors` cards so beginner cues, intensity/reward-taste,
+participation, Source-facing, Rest, destabilization-adjacent, and broader
+Expansion-Contraction evidence remains body-visible. Pages/files touched:
+[[Equanimity]], [[Flow]], `wiki/_review_remediation_plan.md`, `wiki/log.md`.
+Validation: `tools\wiki_lint.cmd` passes; both pages no longer appear in the
+stricter frontmatter-source diagnostics.
+
+## [2026-05-12] refactor | Sensory clarity source cleanup
+Continued the Phase 7 remediation pass on a high-importance skill owner page.
+Compressed [[Sensory Clarity]] by shortening `load_when`, reducing
+frontmatter raw sources from 12 to 8, and tightening its existing `Source
+Anchors` card so no-self, six-consciousnesses, monitoring, image-space, and
+natural-combination evidence remains body-visible without bloating the
+router. Pages/files touched: [[Sensory Clarity]],
+`wiki/_review_remediation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` passes; [[Sensory Clarity]] no longer appears in the
+stricter router/frontmatter diagnostics.
+
+## [2026-05-12] refactor | Inner-way router cleanup
+Continued the Phase 7 remediation pass on a high-importance Way owner page.
+Compressed [[Way of Thoughts and Emotions]] by shortening `load_when` and
+reducing `best_linked_pages` from 9 to 8, while making turn-toward/turn-away
+and safety routing visible in the frontmatter. Pages/files touched: [[Way of
+Thoughts and Emotions]], `wiki/_review_remediation_plan.md`, `wiki/log.md`.
+Validation: `tools\wiki_lint.cmd` passes; [[Way of Thoughts and Emotions]] no
+longer appears in the stricter router/frontmatter diagnostics.
+
+## [2026-05-12] refactor | Physical-senses router cleanup
+Continued the Phase 7 remediation pass on a high-importance Way owner page.
+Compressed [[Way of Physical Senses]] by shortening `load_when`, reducing
+frontmatter raw sources from 12 to 8, and adding a compact `Source Anchors`
+card for the displaced Human Goodness, eye-contact/body-Flow, Strong
+Determination continuation, and dissolution-transfer evidence. Pages/files
+touched: [[Way of Physical Senses]], `wiki/_review_remediation_plan.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` passes; [[Way of Physical
+Senses]] no longer appears in the stricter router/frontmatter diagnostics.
+
+## [2026-05-12] refactor | Five Ways source cleanup
+Continued the Phase 7 remediation pass on a high-importance practice-routing
+owner page. Compressed [[Five Ways]] by reducing frontmatter raw sources from
+11 to 8, reducing `best_linked_pages` from 10 to 8, and adding a compact
+`Source Anchors` card that preserves the full-grid, session-sequencing, and
+life-architecture evidence posture outside the first-pass router. Pages/files
+touched: [[Five Ways]], `wiki/_review_remediation_plan.md`, `wiki/log.md`.
+Validation: `tools\wiki_lint.cmd` passes; [[Five Ways]] no longer appears in
+the stricter router/frontmatter diagnostics.
+
+## [2026-05-12] refactor | Reaction-recycling router cleanup
+Continued the Phase 7 remediation pass on a remaining multi-diagnostic owner
+page. Compressed [[Recycle The Reaction]] by shortening `load_when`, reducing
+`best_linked_pages` from 10 to 8, and preserving the forcing-label, noting,
+Gone, intermediate-realm, after-retreat, guidance, and safety links in the
+body routing surface. Pages/files touched: [[Recycle The Reaction]],
+`wiki/_review_remediation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` passes; [[Recycle The Reaction]] no longer appears in
+the stricter router/frontmatter diagnostics.
+
+## [2026-05-12] refactor | Mastery accountability source cleanup
+Continued the Phase 7 remediation pass on a remaining source-heavy and
+multi-diagnostic owner page. Compressed [[Mastery Without Guru Inflation]] by
+reducing frontmatter raw sources from 10 to 8, trimming `best_linked_pages`
+from 11 to 8, and adding a compact `Source Anchors` card for vector-not-
+scalar mastery, map humility, post-realization behavior work,
+senior/environmental feedback, no-self-plus-screw-ups, teacher
+qualification, feedback channels, student-results criteria, anti-dependency,
+style self-critique, and non-ownership boundaries. Pages/files touched:
+[[Mastery Without Guru Inflation]], `wiki/_review_remediation_plan.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` passes; [[Mastery Without
+Guru Inflation]] no longer appears in the stricter router/frontmatter
+diagnostics.
+
+## [2026-05-12] refactor | Operational Enlightenment source cleanup
+Continued the Phase 7 remediation pass on a remaining source-heavy and
+multi-diagnostic owner page. Compressed [[Operational Enlightenment]] by
+reducing frontmatter raw sources from 13 to 8, trimming `best_linked_pages`
+from 11 to 8, updating the source posture, and adding a compact `Source
+Anchors` card for identity non-capture, map humility, integration,
+expectation calibration, traps, stream-entry scale, DPDR/dark-night
+differentials, emptiness reconstruction, teacher qualification, feedback
+ethics, anti-dependency, and balanced-mastery boundaries. Pages/files
+touched: [[Operational Enlightenment]], `wiki/_review_remediation_plan.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` passes; [[Operational
+Enlightenment]] no longer appears in the stricter router/frontmatter
+diagnostics.
+
+## [2026-05-12] refactor | Total Happiness router cleanup
+Continued the Phase 7 remediation pass on a remaining multi-diagnostic owner
+page. Compressed [[Total Happiness]] by shortening `load_when`, reducing
+`best_linked_pages` from 9 to 8, and reducing frontmatter raw sources from 12
+to 8 while preserving the existing `Source Anchors` card for the three-job,
+five-application, four-quadrant, CCE-mechanism, dedicated oral-series,
+retreat-behavior, and Source-service evidence hierarchy. Pages/files touched:
+[[Total Happiness]], `wiki/_review_remediation_plan.md`, `wiki/log.md`.
+Validation: `tools\wiki_lint.cmd` passes; [[Total Happiness]] no longer
+appears in the stricter router/frontmatter diagnostics.
+
+## [2026-05-12] refactor | Teaching, suffering, and positive-practice source cleanup
+Continued the Phase 7 remediation pass on remaining source-heavy owner pages.
+Compressed [[Shinzen's Teaching Method]] by reducing frontmatter raw sources
+from 13 to 8, trimming `best_linked_pages` from 10 to 8, and adding a compact
+`Source Anchors` card for mission/style/path-fit, accountability,
+anti-dependency, upaya, and teaching-as-service evidence. Compressed
+[[Suffering Distortion Cycle]] by shortening `load_when`, reducing
+frontmatter raw sources from 13 to 8, and adding a compact `Source Anchors`
+card for the karma loop, CCE interruption, subtle emotion, behavior, service,
+and live Feel/Image/Talk evidence. Compressed [[Nurture Positive]] by reducing
+frontmatter raw sources from 13 to 8, trimming `best_linked_pages` from 9 to
+8, and adding a compact `Source Anchors` card for ABCISO/ABCD, void-side
+reconstruction, live positive Feel, and clinical-boundary evidence.
+Pages/files touched: [[Shinzen's Teaching Method]], [[Suffering Distortion
+Cycle]], [[Nurture Positive]], `wiki/_review_remediation_plan.md`,
+`wiki/log.md`. Validation: `tools\wiki_lint.cmd` passes; all three pages no
+longer appear in the stricter router/frontmatter diagnostics.
+
+## [2026-05-12] refactor | Transformation and SHF source cleanup
+Continued the Phase 7 remediation pass on source-heavy owner pages.
+Compressed [[Insight and Purification]] by reducing frontmatter raw sources
+from 20 to 8 and adding a compact `Source Anchors` card that preserves the
+CCE-plus-time, trickle-down, intensity, dissolution, behavior, therapy, and
+safety evidence posture. Compressed [[See Hear Feel]] by reducing
+frontmatter raw sources from 15 to the eight SHF introduction units and
+adding a compact `Source Anchors` card for oral implementation refinements.
+Pages/files touched: [[Insight and Purification]], [[See Hear Feel]],
+`wiki/_review_remediation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` passes; both pages no longer appear in the stricter
+frontmatter-source diagnostics.
+
+## [2026-05-12] refactor | Concentration and polarity source cleanup
+Continued the Phase 7 remediation pass on source-heavy owner pages. Compressed
+[[Concentration Power]] by reducing frontmatter raw sources from 15 to 8 and
+adding a compact `Source Anchors` card while leaving its already-valid
+`load_when` and `best_linked_pages` intact. Compressed [[Expansion And
+Contraction]] by reducing frontmatter raw sources from 21 to 8 and adding a
+compact `Source Anchors` card that preserves the manual, book, four-part
+polarity series, and safety routing posture. Pages/files touched:
+[[Concentration Power]], [[Expansion And Contraction]],
+`wiki/_review_remediation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` passes; both pages no longer appear in the stricter
+frontmatter-source diagnostics.
+
+## [2026-05-12] refactor | Rest and impermanence router cleanup
+Continued the Phase 7 remediation pass with two remaining multi-diagnostic
+owner pages. Compressed [[Focus on Rest]] by shortening `load_when`, reducing
+`best_linked_pages` from 9 to 8, reducing frontmatter raw sources from 11 to
+8, and adding a compact `Source Anchors` card. Compressed [[Impermanence]] by
+shortening `load_when`, reducing `best_linked_pages` from 9 to 8, reducing
+frontmatter raw sources from 11 to 8, and adding a compact `Source Anchors`
+card. Pages/files touched: [[Focus on Rest]], [[Impermanence]],
+`wiki/_review_remediation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` passes; both pages no longer appear in the stricter
+router/frontmatter diagnostics.
+
+## [2026-05-12] refactor | Gone router cleanup
+Continued `wiki/_review_remediation_plan.md` with the first multi-diagnostic
+owner follow-up. Compressed [[Gone]] by shortening `load_when`, reducing
+`best_linked_pages` from 10 to 8, reducing frontmatter raw sources from 12 to
+8, adding a compact `Source Anchors` card, and updating the remediation plan's
+next-step note. Pages/files touched: [[Gone]],
+`wiki/_review_remediation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` passes; [[Gone]] no longer appears in the stricter
+router/frontmatter diagnostics, while the remaining diagnostics are the
+expected raw source backlog, other Phase 7 advisory debt, large-domain
+advisories, and the oversized index-opening warning.
+
+## [2026-05-12] refactor | Owner-page frontmatter cleanup
+Continued `wiki/_review_remediation_plan.md` by cleaning the high-importance
+owner pages named in the current next step. Compressed frontmatter raw anchors
+and added compact `Source Anchors` cards for [[Mindfulness Skill Triad]] 22 ->
+8, [[Noting]] 21 -> 8, and [[Inner Sensory System]] 20 -> 8; also shortened
+[[Inner Sensory System]] `load_when` and reduced its `best_linked_pages` from
+11 to 8 while adding first-tier safety/accountability routing. Pages/files
+touched: [[Mindfulness Skill Triad]], [[Noting]], [[Inner Sensory System]],
+`wiki/_review_remediation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` passes with those three pages removed from the stricter
+router/frontmatter diagnostics; remaining diagnostics are the expected raw
+source backlog, other Phase 7 advisory debt, large-domain advisories, and the
+oversized index-opening warning.
+
+## [2026-05-12] refactor | Safety hub link trim
+Trimmed [[Complete Experience Safety Boundary]] under the stricter Phase 7
+`best_linked_pages` advisory by reducing its first-tier next-load list from 9
+to 8 and updating the page date. The red/yellow/green safety matrix and
+routing body were left unchanged. Pages/files touched: [[Complete Experience
+Safety Boundary]], `wiki/_review_remediation_plan.md`, `wiki/log.md`.
+Validation: `tools\wiki_lint.cmd` passes; the safety hub no longer appears in
+the stricter best-link diagnostics.
+
+## [2026-05-12] refactor | Practice Guidance router cleanup
+Used the stricter Phase 7 diagnostics to clean [[Practice Guidance Toolkit]].
+Reduced `best_linked_pages` from 9 to 8, reduced frontmatter raw sources from
+10 to 8, and kept the existing source-anchor surface focused on Big Picture
+guidance, real-time coaching, Noting FAQ context, Walls/Windows, the
+turn-toward/turn-away fork, valid focus-away criteria, emotional Feel
+subdivision, and accountability support. Pages/files touched: [[Practice
+Guidance Toolkit]], `wiki/_review_remediation_plan.md`, `wiki/log.md`.
+Validation: `tools\wiki_lint.cmd` passes; the page no longer appears in the
+stricter router/frontmatter diagnostics.
+
+## [2026-05-12] refactor | Turn Toward router cleanup
+Used the stricter Phase 7 diagnostics to clean [[Turn Toward and Turn Away]].
+Compressed `load_when` below the 320-character target, reduced
+`best_linked_pages` from 10 to 8, reduced frontmatter raw sources from 12 to 8,
+and added a compact `Source Anchors` card for physical discomfort, valid
+turn-away criteria, emotional/agitation routing, Flow-branch adjustment, and
+vulnerable letting-go states. Pages/files touched: [[Turn Toward and Turn
+Away]], `wiki/_review_remediation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` passes; the page no longer appears in the stricter
+router/frontmatter diagnostics.
+
+## [2026-05-12] refactor | Sensory Grid router cleanup
+Used the stricter Phase 7 diagnostics to clean [[Sensory Grid]]. Compressed
+`load_when` below the 320-character target, reduced `best_linked_pages` from
+12 to 8, reduced frontmatter raw sources from 23 to 8, and added a compact
+`Source Anchors` card for the older Basic Mindfulness grid, later SHF
+labels/ranges/Space theme, focus coverage strategies, and Buddhist-
+consciousness translation. Pages/files touched: [[Sensory Grid]],
+`wiki/_review_remediation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` passes; the page no longer appears in the stricter
+router/frontmatter diagnostics.
+
+## [2026-05-12] refactor | Basic Mindfulness router cleanup
+Used the stricter Phase 7 diagnostics to clean [[Basic Mindfulness Practice
+Architecture]] as the first high-leverage router pass after the lint safeguard
+change. Compressed `load_when` below the 320-character target, reduced
+`best_linked_pages` from 11 to 8, reduced frontmatter raw sources from 16 to 8,
+and added a compact `Source Anchors` card for CCE, grid, expanded focus ranges,
+full-grid/technique cycle, Big Picture guidance, SHF transition, and formal
+session setup. Pages/files touched: [[Basic Mindfulness Practice
+Architecture]], `wiki/_review_remediation_plan.md`, `wiki/log.md`.
+Validation: `tools\wiki_lint.cmd` passes; the page no longer appears in the
+stricter router/frontmatter diagnostics.
+
+## [2026-05-12] lint | Phase 7 advisory safeguards
+Started Phase 7 of `wiki/_review_remediation_plan.md` by tightening
+`tools/wiki_lint.py` advisory thresholds: `load_when` now warns above 320
+characters and strongly above the old high threshold, `best_linked_pages`
+warns above 8 and strongly above the old high threshold, non-source `sources`
+warn above 8 and strongly above the old high threshold, and the index opening
+through `Open Questions` now warns above a 12k-character first-read budget.
+The stale `Integration target` detector was deferred because the current
+source-page template intentionally includes both target and completed notes,
+so a naive check would flag normal pages. Pages/files touched:
+`tools/wiki_lint.py`, `wiki/_review_remediation_plan.md`, `wiki/log.md`.
+Validation: `tools\wiki_lint.cmd` passes with 212 compiled pages and 225
+canonical raw sources checked; diagnostics now intentionally surface stricter
+frontmatter/router debt, the 77-source backlog, large-domain advisories, and
+the oversized index-opening warning.
+
+## [2026-05-12] refactor | Phase 6 frontmatter compression complete
+Completed Phase 6 of `wiki/_review_remediation_plan.md` for the six
+lint-flagged owner pages. Added compact `Source Anchors` cards and compressed
+non-source frontmatter raw anchors as follows: [[Source And Polarities]] 37 ->
+12, [[Total Happiness]] 26 -> 12, [[Sensory Clarity]] 27 -> 12,
+[[Equanimity]] 25 -> 12, [[Flow]] 25 -> 12, and [[No-Self And Personality]]
+26 -> 12. This removes the oversized-frontmatter-source advisory class while
+leaving detailed evidence in body citations and `Related` sections. Pages/files
+touched: [[Sensory Clarity]], [[Equanimity]], [[Flow]], [[No-Self And
+Personality]], `wiki/_review_remediation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` passes with 212 compiled pages and 225 canonical raw
+sources checked; diagnostics retain the expected 77-source backlog and
+large-domain advisories.
+
+## [2026-05-12] refactor | Total Happiness frontmatter compression
+Continued Phase 6 of `wiki/_review_remediation_plan.md` by compressing
+[[Total Happiness]] frontmatter from 26 raw source paths to 12 principal
+anchors and adding a compact `Source Anchors` body card for the aim-structure,
+CCE-mechanism, behavior-test, retreat, and dedicated five-part Total
+Happiness evidence hierarchy. The broader service, ox-herding, bodhicitta,
+and accountability sources remain cited in the body and `Related` section
+without making the frontmatter a full evidence map. Pages/files touched:
+[[Total Happiness]], `wiki/_review_remediation_plan.md`, `wiki/log.md`.
+Validation: `tools\wiki_lint.cmd` passes with 212 compiled pages and 225
+canonical raw sources checked; diagnostics now retain the expected 77-source
+backlog, four oversized frontmatter-source advisories, and large-domain
+advisories.
+
+## [2026-05-12] refactor | Source frontmatter compression
+Started Phase 6 of `wiki/_review_remediation_plan.md` by compressing
+[[Source And Polarities]] frontmatter from 37 raw source paths to 12 principal
+anchors and adding a compact `Source Anchors` body card for the evidence
+hierarchy. This keeps the page routeable for Source, Zero, Gone,
+Expansion-Contraction, nonduality, and service questions without making the
+frontmatter serve as the full evidence map. Pages/files touched: [[Source And
+Polarities]], `wiki/_review_remediation_plan.md`, `wiki/log.md`. Validation:
+`tools\wiki_lint.cmd` passes with 212 compiled pages and 225 canonical raw
+sources checked; diagnostics now retain the expected 77-source backlog, five
+oversized frontmatter-source advisories, and large-domain advisories.
+
+## [2026-05-12] review | Router simulation and safety visibility
+Ran the first remediation router simulation and recorded it in
+`wiki/_review_remediation_plan.md`. The simulation showed that the owner pages
+already carry strong guidance and safety posture once loaded, but the first
+index screen needed a more explicit live-report override. Added a compact
+rule to `wiki/index.md` and mirrored it in `wiki/_operations.md`: concrete
+practitioner reports route through [[Practice Guidance Toolkit]], while
+medical/clinical risk, void distress, harm risk, coercive teacher pressure,
+practice worsening, or insight without behavior improvement route through
+[[Complete Experience Safety Boundary]] before technique optimization, with
+[[Guidance Scope and Accountability Boundary]] as the teacher/conduct second
+load. Also added the first red/yellow/green routing matrix to [[Complete
+Experience Safety Boundary]] so future agents can distinguish normal practice
+guidance, caution-zone routing, and red-flag scope limits before optimizing
+technique. Pages/files touched: `wiki/_review_remediation_plan.md`,
+`wiki/index.md`, `wiki/_operations.md`, [[Complete Experience Safety
+Boundary]], `wiki/log.md`. Validation: `tools\wiki_lint.cmd` passes with 212
+compiled pages and 225 canonical raw sources checked; diagnostics retain the
+expected 77-source backlog, six oversized frontmatter-source advisories, and
+large-domain advisories.
+
 ## [2026-05-12] review | GPT audit remediation plan
 Created `wiki/_review_remediation_plan.md` from the external GPT pro review
 at `gpt-pro-review/GPT review output/shinzen_wiki_agent_memory_audit.md`.
@@ -3345,35 +8785,4 @@ Moved page-routing cues from body `Key Points` into frontmatter fields:
 `load_when` and `best_linked_pages`. Updated the agent contract, workflow
 manual, templates, lint enforcement, and all current compiled pages. Pages
 touched: [[Science of Enlightenment Chapter 2 - The Most Fundamental Skill]],
-[[Science of Enlightenment Chapter 4 - Calming and Clarifying]],
-[[Concentration Power]], [[Mindfulness Skill Triad]], [[Sensory Clarity]],
-[[Equanimity]], [[Calming-Clarifying Balance]], [[Focus on Rest]],
-[[Inner Sensory System]], [[Complete Experience]],
-[[Suffering Distortion Cycle]], [[Complete Experience Safety Boundary]],
-`AGENTS.md`, `wiki/_operations.md`, `wiki/_templates.md`,
-`tools/wiki_lint.py`. Validation: `tools\wiki_lint.cmd` showed no
-frontmatter-routing or link-resolution errors; remaining lint errors are the
-known 316 uncompiled staged raw sources.
-
-## [2026-05-06] ingest | Science of Enlightenment chapter 4
-Compiled
-`raw/Shinzen Sources/science-of-enlightenment/04-calming-and-clarifying.md`
-into one source page and five routing pages. Pages touched: [[Science of Enlightenment Chapter 4 - Calming and Clarifying]], [[Sensory Clarity]], [[Equanimity]], [[Calming-Clarifying Balance]], [[Focus on Rest]], [[Inner Sensory System]], [[Concentration Power]], [[Mindfulness Skill Triad]], [[Complete Experience]], [[Suffering Distortion Cycle]], [[Complete Experience Safety Boundary]], `wiki/index.md`.
-Assumptions: chapter 3 remains uncompiled, so chapter 4's traditional Buddha
-narrative and cross-cultural setup remain source-attributed rather than
-integrated as established history; the inherited previous compiler model was
-used only for orientation. Validation: `tools\wiki_lint.cmd` reported 316
-raw-coverage errors from the still-uncompiled staged corpus, with the target
-chapter now covered by exactly one source page and no new structural errors
-surfaced.
-
-## [2026-05-06] ingest | Science of Enlightenment chapter 2
-Compiled the deliberate first source,
-`raw/Shinzen Sources/science-of-enlightenment/02-the-most-fundamental-skill.md`,
-into a source page and five routing pages. Pages touched: [[Science of Enlightenment Chapter 2 - The Most Fundamental Skill]], [[Concentration Power]], [[Mindfulness Skill Triad]], [[Complete Experience]], [[Suffering Distortion Cycle]], [[Complete Experience Safety Boundary]], `wiki/index.md`.
-Assumptions: the previous compiler current model was used only for bootstrap
-orientation, not as evidence; the rest of the raw corpus remains staged for
-the user's deliberate ingest sequence. Validation: `tools\wiki_lint.cmd`
-reported 317 raw-coverage errors from the still-uncompiled staged corpus and
-0 non-raw/page-structure errors on a filtered rerun; the target source is now
-covered by exactly one source page.
+[[Science of Enlightenmen

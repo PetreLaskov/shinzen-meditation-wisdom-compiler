@@ -9,8 +9,8 @@ tags: []
 aliases: ["\"Do Nothing\" Meditation (YouTube)", "Do Nothing Meditation YouTube", "cZ6cdIaUZCA"]
 sources: ["raw/Shinzen Sources/yt transcripts/Do Nothing Meditation ~ Shinzen Young_cZ6cdIaUZCA.md"]
 load_when: "Source-level evidence is needed for Shinzen's oral Do Nothing instructions, attention-control intention, choice-confusion as a practice cue, racy versus spacey technique switching, automatic CCE momentum, or the anti-effort subtleties of non-effort practice."
-best_linked_pages: ["[[Do Nothing]]", "[[Way of Tranquility]]", "[[Noting]]", "[[Practice Guidance Toolkit]]", "[[Shinzen's Teaching Method]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-07
+best_linked_pages: ["[[Do Nothing]]", "[[Way of Tranquility]]", "[[Noting]]", "[[Practice Guidance Toolkit]]", "[[Shinzen's Teaching Method]]", "[[Practice Method Safety Boundary]]"]
+updated: 2026-05-16
 ---
 
 This 15m1s YouTube transcript is direct instruction on Shinzen's Do Nothing technique. Its durable value is a precision pilot: a two-sentence non-effort instruction needs careful boundaries around time, intention, choice, monitoring, automatic skill momentum, and when to switch techniques.
@@ -74,7 +74,7 @@ The talk wants the practitioner to trust momentary release of control without ma
 - **Changed**: Updates [[Practice Guidance Toolkit]] by making "I do not know what to do" a possible practice-selection datum rather than only a guidance problem.
 - **Challenged**: Pressures any reading of Do Nothing as effortless passivity, continuous choiceless monitoring, sleepiness-as-success, or superior nondual practice.
 - **Transmission note**: Preserve "with time," "place of choice," "if Noting makes you racy, try Do Nothing; if Do Nothing makes you spacey, try Noting," "meditating you," and the distinction between dropping intention and getting rid of experience.
-- **Integration target**: Create this source page; update [[Do Nothing]], [[Shinzen's Teaching Method]], [[Practice Guidance Toolkit]], [[Complete Experience Safety Boundary]], [[Current Model]], semantic Gate 0 links, `wiki/index.md`, and `wiki/log.md`.
+- **Integration target**: Create this source page; update [[Do Nothing]], [[Shinzen's Teaching Method]], [[Practice Guidance Toolkit]], [[Practice Method Safety Boundary]], [[Current Model]], semantic Gate 0 links, `wiki/index.md`, and `wiki/log.md`.
 
 ## Weakest Claims
 - The attention-control "circuit" is a useful practice model in the talk, but no neuroscience evidence is supplied.
@@ -108,7 +108,7 @@ The talk wants the practitioner to trust momentary release of control without ma
 - **Pages created**: [[Do Nothing Meditation]]
 - **Pages updated**: [[Do Nothing]], [[Shinzen's Teaching Method]], [[Practice Guidance Toolkit]], [[Complete Experience Safety Boundary]], [[Current Model]], [[My Primary Mission - Deep Broad and Subtle Formulation]], [[What Are Your Specialties as a Teacher]], [[Three Reasons Why Shinzen Young Is a Lousy Teacher]], `wiki/index.md`, `wiki/log.md`
 - **Teaching-transmission pages affected**: [[Shinzen's Teaching Method]], [[Practice Guidance Toolkit]]
-- **Contradictions opened**: No new question; [[Complete Experience Safety Boundary]] absorbs the spacey/agitating Do Nothing and non-effort safety frontier.
+- **Contradictions opened**: No new question; [[Practice Method Safety Boundary]] now carries the spacey/agitating Do Nothing and non-effort safety frontier.
 - **Confidence changes**: Raises confidence in the live oral details of Do Nothing and in Gate 0's precision-before-simplification reading rule; does not raise confidence in neuroscience, clinical, or cross-tradition claims.
 - **Low-signal material excluded**: Encoding artifacts, repeated phrasing, and decorative cross-tradition name lists are compressed unless they affect practice routing.
 
@@ -118,5 +118,5 @@ The talk wants the practitioner to trust momentary release of control without ma
 - [[Noting]] - the talk gives the racy/spacey switch rule between Noting and Do Nothing.
 - [[Practice Guidance Toolkit]] - choice confusion and technique switching become guidance data.
 - [[Shinzen's Teaching Method]] - the talk demonstrates why simple oral instructions need precise, careful formulation.
-- [[Complete Experience Safety Boundary]] - the talk sharpens Do Nothing safety questions around spaciness, agitation, dissociation, and stopping.
+- [[Practice Method Safety Boundary]] - the talk sharpens Do Nothing safety questions around spaciness, agitation, dissociation, and stopping.
 - [[My Primary Mission - Deep Broad and Subtle Formulation]] - this practice pilot concretely shows why Shinzen's subtle formulation may protect technique fidelity.

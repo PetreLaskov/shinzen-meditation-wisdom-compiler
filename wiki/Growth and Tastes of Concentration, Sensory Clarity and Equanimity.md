@@ -10,10 +10,15 @@ aliases: ["Growth and Tastes of Concentration, Sensory Clarity and Equanimity (Y
 sources: ["raw/Shinzen Sources/yt transcripts/Growth and Tastes of Concentration, Sensory Clarity and Equanimity ~ Shinzen Young_ED0pXThS_nc.md"]
 load_when: "Source-level evidence is needed for Shinzen's oral account of CCE growth, reward tastes, critical mass, clarity as unmixing/resolution/subtle detection/speed, or practice becoming instant in life."
 best_linked_pages: ["[[Mindfulness Skill Triad]]", "[[Sensory Clarity]]", "[[Complete Experience]]", "[[Concentration Power]]", "[[Equanimity]]", "[[No-Self And Personality]]", "[[Practice Cycles]]"]
-updated: 2026-05-08
+updated: 2026-05-14
 ---
 
 This eleven-minute Shinzen Young YouTube talk answers how the three mindfulness factors grow and how they are tasted. Its durable value is a compact oral map of CCE development: each skill has local peaks and valleys, long-term hockey-stick growth, distinct intrinsic reward, and possible critical mass where a particular experience completes as it arises.
+
+[[The Hockey Stick Metaphor and Exponential Growth on the Spiritual Path]]
+now supplies the cleaner source for the hockey-stick branch: the long-term
+growth curve can become self-reinforcing when the taste of purification is
+tangible, especially through equanimity.
 
 ## Source Snapshot
 - **Path**: `raw/Shinzen Sources/yt transcripts/Growth and Tastes of Concentration, Sensory Clarity and Equanimity ~ Shinzen Young_ED0pXThS_nc.md`
@@ -107,5 +112,6 @@ The source is strong evidence for Shinzen's internal teaching model and oral idi
 - [[Complete Experience]] - source for local critical mass where experience completes as it arises.
 - [[Concentration Power]] - source for concentration's in-the-zone taste.
 - [[Equanimity]] - source for equanimity's release and future-fulfillment taste.
+- [[The Hockey Stick Metaphor and Exponential Growth on the Spiritual Path]] - cleaner source for nonlinear growth and purification taste as positive feedback.
 - [[No-Self And Personality]] - clarity reaching critical mass can make self-as-thing evaporate.
 - [[Practice Cycles]] - reward tastes support the fun cycle and long-term growth arc.

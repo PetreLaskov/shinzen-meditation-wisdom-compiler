@@ -7,10 +7,10 @@ importance: 10
 confidence: probable
 tags: []
 aliases: [Basic Mindfulness, Basic Mindfulness system, Shinzen practice manual, manualized practice architecture, Unified Mindfulness architecture]
-sources: [raw/Shinzen Sources/see-hear-feel-introduction/08-practice-organization-and-system-transition.md, raw/Shinzen Sources/see-hear-feel-introduction/04-starting-focus-ranges.md, raw/Shinzen Sources/five-ways/00-introduction.md, raw/Shinzen Sources/five-ways/01-way-of-thoughts-and-emotions.md, raw/Shinzen Sources/five-ways/02-way-of-physical-senses.md, raw/Shinzen Sources/five-ways/03-way-of-tranquility.md, raw/Shinzen Sources/five-ways/04-way-of-flow.md, raw/Shinzen Sources/five-ways/05-way-of-human-goodness.md, raw/Shinzen Sources/five-ways/06-five-ways-in-a-nutshell.md, raw/Shinzen Sources/five-ways/07-science-of-sensory-experience.md, raw/Shinzen Sources/five-ways/08-five-more-ways.md, raw/Shinzen Sources/five-ways/09-full-grid.md, raw/Shinzen Sources/five-ways/10-beauty.md, raw/Shinzen Sources/five-ways/11-life.md, raw/Shinzen Sources/five-ways/12-big-picture.md, "raw/Shinzen Sources/yt transcripts/Three Ways to Set Up Your Basic Mindfulness Session ~ Shinzen Young_2y13blvPkv0.md"]
-load_when: "A task needs the top-level map of Shinzen's Basic Mindfulness manual or its later Unified Mindfulness/See Hear Feel interface, including CCE, Five Ways, Sensory Grid, flexible labeling, focus options, Noting, Do Nothing, Nurture Positive, Rest, Flow, Gone, one-technique or sequence or looping-and-branching session setup, life practice, guidance, total happiness, old/new terminology, or service."
-best_linked_pages: ["[[See Hear Feel]]", "[[Basic Mindfulness Life Architecture]]", "[[Five Ways]]", "[[Sensory Grid]]", "[[Mindfulness Skill Triad]]", "[[Noting]]", "[[Do Nothing]]", "[[Nurture Positive]]", "[[Total Happiness]]", "[[Practice Guidance Toolkit]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-07
+sources: [raw/Shinzen Sources/see-hear-feel-introduction/08-practice-organization-and-system-transition.md, raw/Shinzen Sources/see-hear-feel-introduction/04-starting-focus-ranges.md, raw/Shinzen Sources/five-ways/00-introduction.md, raw/Shinzen Sources/five-ways/07-science-of-sensory-experience.md, raw/Shinzen Sources/five-ways/08-five-more-ways.md, raw/Shinzen Sources/five-ways/09-full-grid.md, raw/Shinzen Sources/five-ways/12-big-picture.md, "raw/Shinzen Sources/yt transcripts/Three Ways to Set Up Your Basic Mindfulness Session ~ Shinzen Young_2y13blvPkv0.md"]
+load_when: "Top-level map of Basic Mindfulness or Unified Mindfulness practice architecture: CCE, Five Ways, Sensory Grid, SHF, Noting, Do Nothing, Nurture Positive, Rest/Flow/Gone, session setup, life-practice outcome tests, guidance, and safety routing."
+best_linked_pages: ["[[See Hear Feel]]", "[[Five Ways]]", "[[Sensory Grid]]", "[[Mindfulness Skill Triad]]", "[[Noting]]", "[[Do Nothing]]", "[[Nurture Positive]]", "[[Complete Experience Safety Boundary]]"]
+updated: 2026-05-29
 ---
 
 Basic Mindfulness is the practice-manual layer of Shinzen's system. It turns mindful awareness into a modular training environment: choose a skill emphasis, choose a sensory route, choose a technique, apply it in stillness, motion, and life, then evaluate whether practice reduces suffering, increases fulfillment, deepens self-knowledge, improves behavior, or supports love and service. The later See Hear Feel interface simplifies that architecture without replacing its core grid, skills, or techniques.
@@ -18,17 +18,31 @@ Basic Mindfulness is the practice-manual layer of Shinzen's system. It turns min
 ## Key Points
 - **Core claim**: The manual is organized by CCE, the Five Ways, the Sensory Grid, expanded focus options, three techniques, practice cycles, guidance, and total happiness; later SHF hides much of that grid under flexible labels.
 - **Why this matters**: It gives future agents a router rather than a technique list; practice can move by cell, column, row, all experience, SHF range, Gone, non-effort, positive reconstruction, life venue, Wall/Window, or service aim.
-- **Key tensions**: The architecture is elegant and large; chapters 8-12 preserve optionality and guidance, but selection, clinical boundaries, teacher competence, and behavior verification remain under-specified.
+- **Key tensions**: The architecture is elegant and large; chapters 8-12 and [[Working Smarter]] preserve optionality and one-technique sufficiency, but selection, overwhelm, clinical boundaries, teacher competence, and behavior verification remain under-specified.
 - **Source posture**: Strong as Shinzen's own practice architecture; outcome, Source, death-preparation, science, and interpersonal-radiation claims remain source-attributed.
+
+## Source Anchors
+- [[Basic Mindfulness Introduction]], [[Basic Mindfulness Chapter 7 - A Science of Sensory Experience]], [[Basic Mindfulness Chapter 8 - Five More Ways]], and [[Basic Mindfulness Chapter 9 - The Full Grid]] anchor CCE, the grid, expanded focus ranges, Gone, and the three-technique architecture.
+- [[Basic Mindfulness Chapter 12 - The Big Picture]] anchors final guidance, Wall/Window strategy, stillness/motion/life venues, and safety-relevant choice points.
+- [[Visual Presentation of Mindfulness and the Spiritual Path Part 2]]
+  anchors the oral Big Picture chart as a storage-and-retrieval interface
+  organized by basic, detailed, deep, and broad information.
+- [[Organizing Your Practice]] anchors the selected-source oral package that embeds the grid inside daily and yearly cycles, trigger practice, motion challenges, retreat or equivalent, teacher contact, and one-method/sequence/loop session setup.
+- [[See Hear Feel Introduction - Starting Focus Ranges]] and [[See Hear Feel Introduction - Practice Organization and System Transition]] anchor the later SHF interface and old/new compatibility rule.
+- [[Three Ways to Set Up Your Basic Mindfulness Session]] anchors one-technique, sequence, and loop-and-branch formal-session setup; the individual Five Ways and life-architecture chapters remain cited in the body.
+- [[Working Smarter]] anchors the accessibility side of modularity: the menu exposes possibilities so a practitioner can find one good technique, not so every beginner has to learn the whole system.
+- [[Digging Holes]] anchors the method-strategy side of modularity: one route
+  can be taken deeply, while broad use of the menu can also function as
+  backhoe-like field clearing rather than shallow sampling.
 
 ## Architecture
 The manual's first invariant is the [[Mindfulness Skill Triad]]. Mindful awareness is concentration, sensory clarity, and equanimity working together ([[Basic Mindfulness Introduction]] S2-S3). This is the training target underneath every focus option.
 
-The second invariant is modularity. The introduction says practitioners do not need to try every option if one or two work ([[Basic Mindfulness Introduction]] S1). Chapter 9 confirms the same principle for techniques: [[Noting]], [[Do Nothing]], and [[Nurture Positive]] may be learned in any order, need not all be learned, and can be practiced as a cycle if all three are learned ([[Basic Mindfulness Chapter 9 - The Full Grid]] S5). The session-setup talk gives this modularity a practical format: use one technique, make a Five Ways workout sequence, or branch dynamically through the method menu ([[Three Ways to Set Up Your Basic Mindfulness Session]] S1-S7).
+The second invariant is modularity. The introduction says practitioners do not need to try every option if one or two work ([[Basic Mindfulness Introduction]] S1). Chapter 9 confirms the same principle for techniques: [[Noting]], [[Do Nothing]], and [[Nurture Positive]] may be learned in any order, need not all be learned, and can be practiced as a cycle if all three are learned ([[Basic Mindfulness Chapter 9 - The Full Grid]] S5). The session-setup talk gives this modularity a practical format: use one technique, make a Five Ways workout sequence, or branch dynamically through the method menu ([[Three Ways to Set Up Your Basic Mindfulness Session]] S1-S7). [[Working Smarter]] adds the beginner-overwhelm rule: the range of approaches is exposure to possibilities, and one good technique is enough if it works (S5-S6). [[Digging Holes]] adds the non-pejorative broad-menu rule: one deep hole is valid for some people, but broad practice can also clear the field level by level like a backhoe rather than merely dig many shallow holes (S4-S7). [[Organizing Your Practice]] places the same menu inside the larger implementation frame of daily formal stillness and motion, practice-in-life micro-hits, trigger practice, motion challenges, retreat or equivalent, and teacher contact (S1-S11).
 
 The third invariant is sensory grammar. Chapter 7 makes the [[Sensory Grid]] explicit as See/Hear/Feel crossed with In/Out/Rest/Flow, using descriptive language for discussion and short labels for practice ([[Basic Mindfulness Chapter 7 - A Science of Sensory Experience]] S3, S8). Chapter 8 then extends the grid beyond columns to rows, all-experience noting, and [[Gone]] ([[Basic Mindfulness Chapter 8 - Five More Ways]] S2-S5).
 
-The fourth invariant is application. Chapter 10 makes the grid memorable through symbols and a mnemonic sequence ([[Basic Mindfulness Chapter 10 - Beauty]] S2-S5). Chapter 11 links sensory experience to actions, situations, practice cycles, fun, and [[Total Happiness]] ([[Basic Mindfulness Chapter 11 - Life]] S1-S8). Chapter 12 turns the full system into a Big Picture guidance map with Walls, Windows, turn-toward and turn-away strategies, behavior commitments, and stillness/motion/life venues ([[Basic Mindfulness Chapter 12 - The Big Picture]] S9-S13).
+The fourth invariant is application. Chapter 10 makes the grid memorable through symbols and a mnemonic sequence ([[Basic Mindfulness Chapter 10 - Beauty]] S2-S5). Chapter 11 links sensory experience to actions, situations, practice cycles, fun, and [[Total Happiness]] ([[Basic Mindfulness Chapter 11 - Life]] S1-S8). Chapter 12 turns the full system into a Big Picture guidance map with Walls, Windows, turn-toward and turn-away strategies, behavior commitments, and stillness/motion/life venues ([[Basic Mindfulness Chapter 12 - The Big Picture]] S9-S13). [[Visual Presentation of Mindfulness and the Spiritual Path Part 2]] gives the oral chart-tour version of that architecture: basic questions, detailed CCE/Total Happiness/practice-board information, deep practice polarities, and broad nature/mathematics analogies are placed in one mandala-like map (S1-S5).
 
 The fifth invariant is interface evolution. SHF Unit 08 says the pre-2015 system, formerly Basic Mindfulness, used a complex grid of noting techniques, while the newer Unified Mindfulness system integrates most noting techniques into the simpler [[See Hear Feel]] approach. The grid remains present, somewhat extended, and hidden under the simplifying paradigm of flexible labeling ([[See Hear Feel Introduction - Practice Organization and System Transition]] S7-S8).
 
@@ -68,6 +82,11 @@ The final chapters make the outcome logic explicit as [[Total Happiness]]. Surfa
 ## Boundaries
 Basic Mindfulness should not be flattened into Noting. Noting is central, but the full architecture also includes Do Nothing and Nurture Positive, and chapter 9 explicitly allows technique optionality and cycling.
 
+It should also not be taught as a requirement to learn the whole menu before
+beginning. [[Working Smarter]] frames the Five Ways and related techniques as
+an option field for finding what works; one good technique can be enough when
+the larger architecture overwhelms or is unnecessary.
+
 It also should not be flattened into the older grid or the newer SHF triangle alone. The old grid is precise and still valid; SHF is more compact and easier to start; both are interface choices inside a larger CCE architecture.
 
 The architecture should also not be treated as a complete safety map. Chapter 8 introduces a major new safety marker: intense Goneness, Emptiness, and No-Self may produce fear, loss, confusion, and disorientation, and may require Noting, Nurture Positive, Flow, and intensive support ([[Basic Mindfulness Chapter 8 - Five More Ways]] S9). That belongs in [[Complete Experience Safety Boundary]].
@@ -100,11 +119,18 @@ For advanced practitioners, the manual's value is not the novelty of every label
 - [[Total Happiness]] - the manual's final aim structure.
 - [[Practice Cycles]] - daily, yearly, and fun implementation layer.
 - [[Three Ways to Set Up Your Basic Mindfulness Session]] - oral source for formal-session setup modes inside the Basic Mindfulness menu.
+- [[Working Smarter]] - selected source for the one-good-technique and gradual-vocabulary accessibility rule.
+- [[Digging Holes]] - selected source for one-route depth and broad
+  backhoe-like field clearing as compatible uses of the Basic Mindfulness
+  menu.
+- [[Organizing Your Practice]] - selected oral source for the grid as an implemented daily/yearly practice architecture.
 - [[Practice Guidance Toolkit]] - strategy and helping layer from the Big Picture chapter.
 - [[Gone]] - dedicated vanishing practice added by chapter 8.
 - [[Complete Experience Safety Boundary]] - tracks risks the architecture does not fully operationalize.
 - [[Basic Mindfulness Introduction]] - source for the top-level architecture and outcome test.
 - [[Basic Mindfulness Chapter 9 - The Full Grid]] - source for the full-grid and technique-cycle consolidation.
 - [[Basic Mindfulness Chapter 12 - The Big Picture]] - source for final application, guidance, and visual-sutra consolidation.
+- [[Visual Presentation of Mindfulness and the Spiritual Path Part 2]] -
+  oral source for the Big Picture mandala as system storage and retrieval.
 - [[See Hear Feel Introduction - Starting Focus Ranges]] - source for the later Unified Mindfulness starter interface using Focus on Everything, See, Hear, and Feel.
 - [[See Hear Feel Introduction - Practice Organization and System Transition]] - source for old/new system compatibility, flexible labeling as the transition mechanism, simplified Nurture Positive, optional Gone, and unchanged Do Nothing.

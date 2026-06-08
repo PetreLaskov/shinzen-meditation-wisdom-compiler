@@ -9,8 +9,8 @@ tags: []
 aliases: [Basic Mindfulness chapter 8, Five More Ways chapter, Chapter 8 Five More Ways]
 sources: [raw/Shinzen Sources/five-ways/08-five-more-ways.md]
 load_when: "A question needs source-level evidence for Focus on See, Focus on Hear, Focus on Feel, Focus on Everything, Just Note Gone, the definition of Gone, micro-endings, Gone rewards, figure-ground reversal, or dark-night interventions."
-best_linked_pages: ["[[Gone]]", "[[Sensory Grid]]", "[[Noting]]", "[[Complete Experience Safety Boundary]]", "[[Flow]]", "[[Nurture Positive]]"]
-updated: 2026-05-06
+best_linked_pages: ["[[Gone]]", "[[Sensory Grid]]", "[[Noting]]", "[[Altered Phenomena and Dissolution Safety Boundary]]", "[[Flow]]", "[[Nurture Positive]]"]
+updated: 2026-05-16
 ---
 
 Chapter 8 of the Basic Mindfulness manual adds five focus options to the grid. Its central contribution is the dedicated practice of Just Note Gone, which turns noticed vanishings into an impermanence, relief, Source, death, service, and safety frontier.
@@ -52,7 +52,7 @@ The source's strongest safety contribution is that it explicitly names negative 
 - **Changed**: Creates [[Gone]] as a durable concept because the chapter gives definition, practice, mechanism, rewards, and safety boundaries.
 - **Challenged**: Challenges any purely optimistic impermanence model by adding dark-night reactions and intensive-support needs.
 - **No material change**: Does not remove the first five Ways; it extends their focus-option logic.
-- **Integration target**: [[Sensory Grid]], [[Noting]], [[Flow]], [[Nurture Positive]], [[Complete Experience Safety Boundary]], and [[Basic Mindfulness Practice Architecture]] should integrate Gone and row/global focus options.
+- **Integration target**: [[Sensory Grid]], [[Noting]], [[Flow]], [[Nurture Positive]], [[Altered Phenomena and Dissolution Safety Boundary]], and [[Basic Mindfulness Practice Architecture]] should integrate Gone and row/global focus options.
 
 ## Weakest Claims
 - The waterboarding/extreme-duress scenario is not a sufficient guide for trauma, torture, medical crisis, or emergency response.
@@ -77,7 +77,7 @@ The source's strongest safety contribution is that it explicitly names negative 
 ## Integration Notes
 - **Pages created**: [[Gone]]
 - **Pages updated**: [[Sensory Grid]], [[Noting]], [[Basic Mindfulness Practice Architecture]], [[Flow]], [[Nurture Positive]], [[Complete Experience Safety Boundary]], `wiki/index.md`.
-- **Contradictions opened**: No standalone question; dark-night and dissociation issues route to [[Complete Experience Safety Boundary]].
+- **Contradictions opened**: No standalone question; dark-night and dissociation issues now route to [[Altered Phenomena and Dissolution Safety Boundary]].
 - **Confidence changes**: Gone moves from cross-cutting event marker to high-importance practice/transformation concept; Source and death claims remain source-attributed.
 - **Low-signal material excluded**: Poetic epigraph, repeated chart labels, and some cross-cultural asides are compressed.
 
@@ -87,4 +87,4 @@ The source's strongest safety contribution is that it explicitly names negative 
 - [[Noting]] - all five new options are Noting variants except where terminology overlaps with Do Nothing.
 - [[Flow]] - Flow is one of the recommended dark-night interventions and a complement to Gone.
 - [[Nurture Positive]] - positive reconstruction is one intervention for emptiness/no-self distress.
-- [[Complete Experience Safety Boundary]] - dark-night reactions and extreme-duress examples sharpen the safety frontier.
+- [[Altered Phenomena and Dissolution Safety Boundary]] - dark-night reactions and extreme-duress examples sharpen the unusual-state safety frontier.

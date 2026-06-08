@@ -8,9 +8,9 @@ confidence: established
 tags: []
 aliases: ["How to do Labeling and Noting During Meditation Part 2", "How to do Labeling and Noting During Meditation, Part 2 of 2, Zooming (YouTube)", "Labeling and Noting Part 2", "KGcpzuHgrQk"]
 sources: ["raw/Shinzen Sources/yt transcripts/How to do Labeling and Noting During Meditation, Part 2 of 2, Zooming ~ Shinzen Young_KGcpzuHgrQk.md"]
-load_when: "Source-level evidence is needed for Shinzen's zooming option, spatial direction during the focus phase, zooming in, zooming out, simultaneous zooming in and out, local intensity versus subtle body-wide spread, resistance to spread, raindrop-ripple purification analogy, overwhelm during zooming, or the claim that zooming is optional and not the default."
-best_linked_pages: ["[[Zooming]]", "[[Noting]]", "[[Practice Guidance Toolkit]]", "[[Practice Entry and Method Choice]]", "[[See Hear Feel]]", "[[Focus Coverage Strategies]]", "[[Insight and Purification]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-07
+load_when: "Source-level evidence for zooming as the spatial-scope option inside Noting: default non-control, zoom in/out, simultaneous local-global attention, local intensity plus subtle body-wide spread, resistance to spread, raindrop-ripple purification analogy, optionality, and overwhelm/support boundaries."
+best_linked_pages: ["[[Zooming]]", "[[Noting]]", "[[Practice Guidance Toolkit]]", "[[Practice Entry and Method Choice]]", "[[See Hear Feel]]", "[[Focus Coverage Strategies]]", "[[Insight and Purification]]", "[[Practice Method Safety Boundary]]"]
+updated: 2026-05-16
 ---
 
 This 11m01s YouTube transcript is the second part of Shinzen's oral instruction on the apparatus of Noting. It fills in the spatial-direction option named in Part 1 by defining zooming in, zooming out, and simultaneous local-global zooming, especially for intense body sensation.
@@ -69,7 +69,7 @@ The more speculative layer is the causal and energetic explanation. Shinzen says
 - **Changed**: Updates [[Practice Guidance Toolkit]] and [[Practice Entry and Method Choice]] so Noting-option tuning now includes zooming in, zooming out, and simultaneous local-global zooming, not only labels, pacing, repetition, and Gone.
 - **Changed**: Sharpens [[Focus Coverage Strategies]] by distinguishing broad coverage of a selected field from the specific zooming option applied after an event has been acknowledged.
 - **Confirmed**: Strengthens [[See Hear Feel]] by giving an oral source for the zooming option previously defined compactly in the SHF Noting mini-manual.
-- **Challenged**: Pressures [[Complete Experience Safety Boundary]] because local-global zooming is presented as useful for intense body sensation while explicitly able to produce overwhelm and loss-of-control impressions.
+- **Challenged**: Pressures [[Practice Method Safety Boundary]] because local-global zooming is presented as useful for intense body sensation while explicitly able to produce overwhelm and loss-of-control impressions.
 - **Transmission note**: Preserve "default is not to control," zoom in, zoom out, zoom in and out at the same time, "grease the rails," splash/ripple/radiate/release, and "if you never use this, that's fine."
 - **Integration target**: Create this source page and [[Zooming]]; update owner pages, `wiki/index.md`, and `wiki/log.md`.
 
@@ -103,7 +103,7 @@ The more speculative layer is the causal and energetic explanation. Shinzen says
 - **Pages created**: [[How to do Labeling and Noting During Meditation, Part 2 of 2, Zooming]], [[Zooming]]
 - **Pages updated**: [[How to do Labeling and Noting During Meditation, 1 of 2 Parts]], [[Noting]], [[Practice Entry and Method Choice]], [[Practice Guidance Toolkit]], [[See Hear Feel]], [[Focus Coverage Strategies]], [[Insight and Purification]], [[Complete Experience Safety Boundary]], `wiki/index.md`, `wiki/log.md`
 - **Teaching-transmission pages affected**: [[Practice Guidance Toolkit]]
-- **Contradictions opened**: No new standalone question; [[Complete Experience Safety Boundary]] absorbs zooming intensity, overwhelm, loss-of-control, and somatic support criteria.
+- **Contradictions opened**: No new standalone question; [[Practice Method Safety Boundary]] now carries zooming intensity, overwhelm, loss-of-control, and somatic support criteria.
 - **Confidence changes**: Raises confidence that zooming is a stable Shinzen Noting option; does not raise confidence in the subtle-spread explanation, irreversible purification claim, or safety sufficiency for intense somatic practice.
 - **Low-signal material excluded**: The detailed physics analogy is compressed because its durable function is the release metaphor, not physics instruction.
 
@@ -116,4 +116,4 @@ The more speculative layer is the causal and energetic explanation. Shinzen says
 - [[See Hear Feel]] - later SHF zooming definitions gain an oral mechanics source.
 - [[Focus Coverage Strategies]] - zooming changes scope inside a selected event or field and overlaps with broad coverage without being identical to it.
 - [[Insight and Purification]] - the talk supplies an oral purification image for spread, release, and the taste of purification.
-- [[Complete Experience Safety Boundary]] - intense body sensation, overwhelm, loss-of-control impressions, shaking, and purification claims need support criteria.
+- [[Practice Method Safety Boundary]] - intense body sensation, overwhelm, loss-of-control impressions, shaking, and purification claims need support criteria for zooming.

@@ -8,9 +8,9 @@ confidence: established
 tags: []
 aliases: [SHF Unit 07, Noting in a Nutshell, SHF Noting FAQ, Noting FAQ]
 sources: [raw/Shinzen Sources/see-hear-feel-introduction/07-noting-nutshell-and-faq.md]
-load_when: "Source-level evidence is needed for Noting in a nutshell, five labeling modes, label escalation when spaced out or caught up, label timing, emphasis, re-noting, note til gone, zooming, contact stance, focus stance, explicit Gone, Noting FAQ answers, mental chatter routing, background equanimity, or internal image versus talk distinction."
+load_when: "Source-level evidence for Noting in a nutshell: five labeling modes, escalation when spaced out or caught up, timing, emphasis, re-noting, note-til-Gone, zooming, contact/focus stance, explicit Gone, mental chatter, background equanimity, and image-vs-talk distinctions."
 best_linked_pages: ["[[Noting]]", "[[Gone]]", "[[Practice Guidance Toolkit]]", "[[Equanimity]]", "[[Inner Sensory System]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-07
+updated: 2026-05-12
 ---
 
 This unit covers pages 60-67 of Shinzen Young's *See Hear Feel: An Introduction*, using a mechanical Markdown extraction from the source PDF. It compresses the SHF Noting procedure into a mini-manual and then answers common beginner and coaching questions.

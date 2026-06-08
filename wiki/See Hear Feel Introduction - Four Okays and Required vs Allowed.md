@@ -8,9 +8,9 @@ confidence: established
 tags: []
 aliases: [SHF Unit 05, See Hear Feel four okays, SHF required vs allowed, Four Okays of noting, minimum correct SHF practice]
 sources: [raw/Shinzen Sources/see-hear-feel-introduction/05-four-okays-and-required-vs-allowed.md]
-load_when: "Source-level evidence is needed for the Four Okays of noting, minimum correct SHF practice, required versus allowed distinctions, guessing labels, late noting, averaging rapid events, repeated objects, passive contact confusions, physical relaxation as Feel Rest, focus stance, optional intensification, differentiation and integration, or spontaneous equanimity training."
+load_when: "Source-level evidence for the Four Okays, minimum correct SHF practice, required vs allowed criteria, guessing/late/averaged/repeated notes, passive-contact confusions, physical relaxation as Feel Rest, focus stance, optional CCE intensification, differentiation/integration, or spontaneous equanimity."
 best_linked_pages: ["[[Noting]]", "[[Equanimity]]", "[[Complete Experience Safety Boundary]]", "[[Mindfulness Skill Triad]]", "[[Sensory Clarity]]", "[[Nurture Positive]]"]
-updated: 2026-05-07
+updated: 2026-05-12
 ---
 
 This unit covers pages 42-51 of Shinzen Young's *See Hear Feel: An Introduction*, using a mechanical Markdown extraction from the source PDF. It teaches practitioners how little is required for valid SHF practice, how common self-doubts should be recycled as inner sensory activation, and how optional intensification can strengthen concentration, clarity, and equanimity without becoming the baseline demand.

@@ -7,10 +7,10 @@ importance: 9
 confidence: speculative
 tags: []
 aliases: [DPDR, depersonalization-derealization, depersonalization derealization, pit of the void, enlightenment's evil twin]
-sources: ["raw/Shinzen Sources/yt transcripts/edited/Enlightenment, DPDR & Falling Into the Pit of the Void ~ Shinzen Young_9zIKQCwDXsA.md", "raw/Shinzen Sources/yt transcripts/edited/Classic Dark Night or Clinical Issues ~ Shinzen Young_BQ5B70ac_9M.md", "raw/Shinzen Sources/yt transcripts/Advanced FAQs Regarding Emptiness ~ Shinzen Young_812I4KYLMF8.md", "raw/Shinzen Sources/science-of-enlightenment/09-the-power-of-gone.md"]
+sources: ["raw/Shinzen Sources/yt transcripts/edited/Enlightenment, DPDR & Falling Into the Pit of the Void ~ Shinzen Young_9zIKQCwDXsA.md", "raw/Shinzen Sources/yt transcripts/edited/Classic Dark Night or Clinical Issues ~ Shinzen Young_BQ5B70ac_9M.md", "raw/Shinzen Sources/yt transcripts/Advanced FAQs Regarding Emptiness ~ Shinzen Young_812I4KYLMF8.md", "raw/Shinzen Sources/science-of-enlightenment/09-the-power-of-gone.md", "raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/How we Evolve & Integrate (including the Dark Night ) ~ Shinzen Young_bqA74RpHzzo.md"]
 load_when: "Load when no-self, emptiness, derealization, depersonalization, nihilistic void, dark-night distress, depression, anxiety, medication openness, or pit-of-the-void risk must be distinguished from liberating enlightenment."
-best_linked_pages: ["[[Enlightenment DPDR and Falling Into the Pit of the Void]]", "[[Classic Dark Night or Clinical Issues]]", "[[Operational Enlightenment]]", "[[Nurture Positive]]", "[[Altered Phenomena and Dissolution Safety Boundary]]", "[[Guidance Scope and Accountability Boundary]]"]
-updated: 2026-05-09
+best_linked_pages: ["[[Enlightenment DPDR and Falling Into the Pit of the Void]]", "[[Classic Dark Night or Clinical Issues]]", "[[How We Evolve and Integrate]]", "[[Operational Enlightenment]]", "[[Nurture Positive]]", "[[Altered Phenomena and Dissolution Safety Boundary]]", "[[Guidance Scope and Accountability Boundary]]"]
+updated: 2026-05-18
 ---
 
 **Question:** How should future agents distinguish Shinzen's liberating no-self/emptiness from depersonalization-derealization distress or "falling into the pit of the void"?
@@ -18,7 +18,7 @@ updated: 2026-05-09
 **Why it matters:** Gate 6A can now discuss enlightenment only if it keeps clinical and functional valence visible. No-self and world-insubstantiality are not enough by themselves to infer realization.
 
 ## Key Points
-- **Core claim**: Shinzen treats DPDR as enlightenment's evil twin and dark-night-like distress as often mixed with ordinary depression or anxiety: emptiness content alone cannot classify liberation, practice-only dark night, or clinical need ([[Enlightenment DPDR and Falling Into the Pit of the Void]] S1-S3; [[Classic Dark Night or Clinical Issues]] S1-S7).
+- **Core claim**: Shinzen treats DPDR as enlightenment's evil twin and dark-night-like distress as often mixed with ordinary depression or anxiety; the newer integration talk adds a spectrum from easy void integration through flatline to rare DPDR-like severity. Emptiness content alone cannot classify liberation, practice-only dark night, or clinical need ([[Enlightenment DPDR and Falling Into the Pit of the Void]] S1-S3; [[Classic Dark Night or Clinical Issues]] S1-S7; [[How We Evolve and Integrate]] S6-S8).
 - **Why this matters**: Practice guidance must classify void-side experience by function, valence, support context, clarity, clinical signs, and response to intervention, not by emptiness vocabulary alone.
 - **Key tensions**: Shinzen says meditation-linked movement toward the pit of the void is very rare under competent guidance, yet he also says perennial dark-night presentations usually are not purely practice-based; the wrong response can frighten, dismiss, over-spiritualize, or under-treat practitioners.
 - **Source posture**: Strong as Shinzen's teaching differential; speculative and incomplete as clinical guidance. Current medical diagnosis and treatment claims require outside clinical sources, not this wiki.
@@ -48,7 +48,17 @@ disorientation is empty, and intentionally create a new positive self through
 consistent positive Feel/Image/Talk ([[Advanced FAQs Regarding Emptiness]]
 S1-S5).
 
-This matches older compiled material. [[Gone]] and [[Science of Enlightenment Chapter 9 - The Power of Gone]] already route frightening Goneness, emptiness, and no-self through accentuating subtle positive aspects of the void, deconstructing negative reactions, reconstructing positive affect/behavior/cognition, and adding sustained support when needed. The new source makes DPDR the explicit clinical neighbor for that pattern.
+[[How We Evolve and Integrate]] broadens the same void-side differential into
+an integration spectrum. Shinzen says many practitioners immediately find
+emptiness liberating, some need to cultivate a taste for its tranquility,
+boundarylessness, subtle pleasant vibration, or Expansion-Contraction, some
+enter a flatline where old agitation is gone but motivation and "bounce" are
+thin, and the rare deep end resembles DPDR or dark-night distress. The source
+also narrows dark night to difficulty integrating emptiness or nothingness,
+not every difficult meditation experience ([[How We Evolve and Integrate]]
+S6-S9).
+
+This matches older compiled material. [[Gone]] and [[Science of Enlightenment Chapter 9 - The Power of Gone]] already route frightening Goneness, emptiness, and no-self through accentuating subtle positive aspects of the void, deconstructing negative reactions, reconstructing positive affect/behavior/cognition, and adding sustained support when needed. The DPDR talk makes depersonalization-derealization the explicit clinical neighbor for that pattern.
 
 ## Competing Hypotheses
 - **Same content, different integration**: The nothingness may be phenomenologically similar, but CCE, support, positive reconstruction, and meaning-function integration determine whether it liberates or disables. This fits Shinzen's uncertainty and practice route but is not proven.
@@ -62,11 +72,14 @@ For Shinzen-system reasoning, ask:
 
 - Is the experience empowering, fulfilling, connected, and functional, or nihilistic, frightening, dysfunctional, and meaning-stripping?
 - Is the practitioner able to distinguish the void, the reaction to the void, and positive inner sensory construction?
+- Is this report ordinary meditation difficulty, a flatline/taste-training problem around emptiness, or severe DPDR-like distress with lost functioning or nihilistic valence?
+- Does the void have any accessible positive impact, such as tranquility, expanded identity, subtle pleasant vibration, or effortless Expansion-Contraction, or is positive reconstruction and support needed first?
 - Is the distress clearly practice-only, or might ordinary depression, anxiety, trauma, biochemical factors, medication/substance effects, or other clinical conditions be involved?
 - Is the guide competent for void-side distress, and willing to refer or collaborate when clinical signs exceed meditation scope?
 - Is the practitioner resisting clinical care because they believe medication would merely cover over practice material, and is that belief making the load unmanageable?
 - Does positive reconstruction increase behavior, care, and ordinary functioning, or does it become forced optimism?
 - Is the person losing humanity, edge, or motivation in a way that requires positive self-reconstruction rather than more emptiness-only practice?
+- Is no-self being used to explain away failed learning, mistreatment, or loss of ordinary accountability?
 - Are no-self, emptiness, Source, or enlightenment terms being used to avoid clinical assessment, grounding, or support?
 
 ## Evidence Needed
@@ -81,6 +94,7 @@ For Shinzen-system reasoning, ask:
 - [[Enlightenment DPDR and Falling Into the Pit of the Void]] - source for the evil-twin differential and two practice interventions.
 - [[Classic Dark Night or Clinical Issues]] - source for the dark-night versus depression/anxiety differential, referral posture, and medication-openness boundary.
 - [[Advanced FAQs Regarding Emptiness]] - source for the compact two-part response to advanced-student pit-of-emptiness distress.
+- [[How We Evolve and Integrate]] - source for the void-integration spectrum, flatline stage, positive-void accentuation, and no-self conduct accountability.
 - [[Operational Enlightenment]] - needs this page before classifying no-self/emptiness as liberation.
 - [[No-Self And Personality]] - supplies the no-thing-self model and personality boundary.
 - [[Nurture Positive]] - supplies the positive Feel/Image/Talk reconstruction method.

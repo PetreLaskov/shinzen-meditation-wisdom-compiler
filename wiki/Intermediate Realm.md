@@ -9,8 +9,8 @@ tags: []
 aliases: [realm of power, realm of blockage, intermediate layer, intermediate realm of consciousness, makyo, power phenomena, spiritual materialism, Plumb Line, freak-out, diversion]
 sources: [raw/Shinzen Sources/science-of-enlightenment/07-the-realm-of-power.md, "raw/Shinzen Sources/yt transcripts/Kriyas & Complete Experiences ~ Shinzen Young_e9AHh9MvgyQ.md", "raw/Shinzen Sources/yt transcripts/Kriyas & the Cloud of Unknowing ~ Shinzen Young_aTaDZqB_RY8.md", "raw/Shinzen Sources/yt transcripts/Six Common Traps on the Path to Enlightenment ~ Shinzen Young_i288Lnb7NOk.md"]
 load_when: "A question involves visions, entities, spirits, powers, out-of-body impressions, past lives, bright light, bliss, heat, energy, shaking, hypersensitivity, hallucination-like meditation experiences, makyo, spiritual materialism, freak-out, diversion, or whether unusual meditation experiences indicate progress."
-best_linked_pages: ["[[Science of Enlightenment Chapter 7 - The Realm of Power]]", "[[Kriyas]]", "[[Kriyas & the Cloud of Unknowing]]", "[[Mindfulness Skill Triad]]", "[[Sensory Clarity]]", "[[Equanimity]]", "[[Flow]]", "[[Source And Polarities]]", "[[Dissolution]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-08
+best_linked_pages: ["[[Science of Enlightenment Chapter 7 - The Realm of Power]]", "[[Kriyas]]", "[[Sensory Clarity]]", "[[Equanimity]]", "[[Flow]]", "[[Source And Polarities]]", "[[Dissolution]]", "[[Complete Experience Safety Boundary]]"]
+updated: 2026-05-14
 ---
 
 The intermediate realm is Shinzen's name for the depth zone between ordinary surface consciousness and Source. It can present as blockage, frightening imagery, bliss, energy, entities, psychic-seeming powers, or nothing unusual at all; the durable practice rule is to meet whatever appears with concentration, sensory clarity, and equanimity.
@@ -60,6 +60,15 @@ The traps talk states the same test in path-direction language: altered
 phenomena can become a right-angle trajectory away from Source if they are
 explored as special content rather than deconstructed as ordinary sensory
 events ([[Six Common Traps on the Path to Enlightenment]] S4-S5).
+
+[[Ordinary Consciousness is the Way - Part 2 Mindful Awareness and Varieties
+of Flow]] gives a concise version of the same routing move for spirit-like
+mental images. Shinzen says a message may be honored, but the liberation
+preference is to release preoccupation with the "spirits" and focus on the
+movement of the medium, the Flow that makes the image seem alive. The talk
+therefore supports a content-versus-medium hierarchy without settling the
+objective status of entities ([[Ordinary Consciousness is the Way - Part 2
+Mindful Awareness and Varieties of Flow]] S3).
 
 The chapter names three extreme vectors:
 
@@ -114,6 +123,7 @@ These checks keep the realm of power usable without letting it become a shortcut
 - [[Kriyas & Complete Experiences]] - source for kriyas as optional, purification-adjacent spontaneous movements.
 - [[Kriyas & the Cloud of Unknowing]] - source for cross-traditional status-inflation cautions around spontaneous movement.
 - [[Six Common Traps on the Path to Enlightenment]] - source for realms-of-power diversion as a good-place trap.
+- [[Ordinary Consciousness is the Way - Part 2 Mindful Awareness and Varieties of Flow]] - source for the message-versus-medium route through spirit-like imagery.
 - [[Mindfulness Skill Triad]] - CCE is the vehicle through the intermediate realm.
 - [[Sensory Clarity]] - altered phenomena are decomposed into sensory components and impermanence.
 - [[Equanimity]] - spiritual maturity depends on nonpreference around fear, bliss, powers, and status.

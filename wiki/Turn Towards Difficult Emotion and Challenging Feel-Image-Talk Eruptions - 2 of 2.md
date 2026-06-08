@@ -8,9 +8,9 @@ confidence: established
 tags: []
 aliases: ["Turn Towards Difficult Emotion and Challenging Feel-Image-Talk Eruptions - 2 of 2 (YouTube)", "TILyiv8UsSU", "Difficult Emotion and Feel-Image-Talk Eruptions 2"]
 sources: ["raw/Shinzen Sources/yt transcripts/Turn Towards Difficult Emotion and Challenging Feel-Image-Talk Eruptions - 2 of 2 ~ Shinzen Young_TILyiv8UsSU.md"]
-load_when: "A task asks how Shinzen subdivides difficult emotional Feel, emotion flavors, subtle-is-significant practice, radial sweeping, sector-by-sector body emotion, complete Feel, taste of purification with rage, grief, shame, embarrassment, or humiliation, or the difference between feelings that motivate/direct and feelings that drive/distort."
+load_when: "Source-level evidence for subdividing difficult emotional Feel by flavor, location, and radial sector; subtle-is-significant practice; complete Feel; taste of purification with rage, grief, shame, embarrassment, or humiliation; and feelings that motivate/direct versus drive/distort."
 best_linked_pages: ["[[Practice Guidance Toolkit]]", "[[Way of Thoughts and Emotions]]", "[[Inner Sensory System]]", "[[Complete Experience]]", "[[Suffering Distortion Cycle]]", "[[Complete Experience Safety Boundary]]", "[[Turn Towards Difficult Emotion and Challenging Feel-Image-Talk Eruptions - 1 of 2]]"]
-updated: 2026-05-07
+updated: 2026-05-12
 ---
 
 This 9-minute YouTube transcript is the second part of Shinzen's difficult-emotion instruction sequence. Its durable contribution is a finer "divide until workable" procedure: analyze emotional Feel into flavors, then locations and radial sectors, until a practitioner can penetrate and reintegrate the whole constellation.

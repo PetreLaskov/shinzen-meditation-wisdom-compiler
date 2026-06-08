@@ -9,8 +9,8 @@ tags: []
 aliases: [Basic Mindfulness chapter 3, The Way of Tranquility chapter, Chapter 3 Way of Tranquility]
 sources: [raw/Shinzen Sources/five-ways/03-way-of-tranquility.md]
 load_when: "A question needs source-level evidence for See Rest, Hear Rest, Feel Rest, Focus on Rest, Do Nothing, Relative Rest, Absolute Rest, rest as yuganaddha, or tranquility as a Basic Mindfulness Way."
-best_linked_pages: ["[[Way of Tranquility]]", "[[Focus on Rest]]", "[[Do Nothing]]", "[[Calming-Clarifying Balance]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-06
+best_linked_pages: ["[[Way of Tranquility]]", "[[Focus on Rest]]", "[[Do Nothing]]", "[[Calming-Clarifying Balance]]", "[[Practice Method Safety Boundary]]"]
+updated: 2026-05-16
 ---
 
 Chapter 3 of the Basic Mindfulness manual gives the tranquility route: cultivate restful sensory experience through Noting, or drop the intention to direct attention through Do Nothing.
@@ -56,7 +56,7 @@ Its broader interpretive claims need caution. The chapter mentions alpha waves, 
 - **Changed**: Creates [[Way of Tranquility]] and [[Do Nothing]] as durable pages, and updates [[Sensory Grid]] so Rest becomes a fully developed practice column rather than a fallback label.
 - **Challenged**: Pressures the wiki not to treat tranquility as either inferior relaxation or final absorption; the chapter insists on rest plus clarity plus nonpreference.
 - **No material change**: Cross-tradition labels, alpha-wave comments, and Source language remain source-attributed.
-- **Integration target**: [[Complete Experience Safety Boundary]] should absorb the spacey/racy routing rule, Do Nothing's dissociation/confusion tension, and the absence of clinical stop criteria.
+- **Integration target**: [[Practice Method Safety Boundary]] carries the spacey/racy routing rule, Do Nothing's dissociation/confusion tension, and the absence of clinical stop criteria.
 
 ## Weakest Claims
 - The alpha-wave claim is asserted without evidence in this file and should not become a neuroscience conclusion.
@@ -82,7 +82,7 @@ Its broader interpretive claims need caution. The chapter mentions alpha waves, 
 ## Integration Notes
 - **Pages created**: [[Way of Tranquility]], [[Do Nothing]]
 - **Pages updated**: [[Focus on Rest]], [[Basic Mindfulness Practice Architecture]], [[Five Ways]], [[Noting]], [[Sensory Grid]], [[Concentration Power]], [[Sensory Clarity]], [[Equanimity]], [[Calming-Clarifying Balance]], [[Complete Experience Safety Boundary]], `wiki/index.md`
-- **Contradictions opened**: No standalone question; [[Complete Experience Safety Boundary]] absorbs Do Nothing safety, spacey/racy routing, and relaxation-versus-shutdown concerns.
+- **Contradictions opened**: No standalone question; Do Nothing safety, spacey/racy routing, and relaxation-versus-shutdown concerns now route first to [[Practice Method Safety Boundary]].
 - **Confidence changes**: Rest becomes established as a manualized practice route in the current wiki, not only a calming example from earlier book chapters.
 - **Low-signal material excluded**: Decorative chart layout and repeated box content are compressed except where they clarify focus options and inclusive/exclusive noting.
 
@@ -92,4 +92,4 @@ Its broader interpretive claims need caution. The chapter mentions alpha waves, 
 - [[Do Nothing]] - the Absolute Rest technique defined here.
 - [[Calming-Clarifying Balance]] - this chapter's yuganaddha account updates the balance model.
 - [[Sensory Grid]] - Rest labels become a full column of practice options.
-- [[Complete Experience Safety Boundary]] - Do Nothing and rest practice raise safety and bypass questions.
+- [[Practice Method Safety Boundary]] - Do Nothing and rest practice raise method-fit, spacey/racy, shutdown, and stopping questions.

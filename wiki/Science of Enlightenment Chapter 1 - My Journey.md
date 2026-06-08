@@ -100,3 +100,5 @@ The ethics section is unusually important. Shinzen preserves gratitude for Sasak
 - [[Complete Experience Safety Boundary]] - the chapter adds teacher ethics, spontaneous-awakening, and intense-practice support pressure.
 - [[Total Happiness]] - the chapter links meditation to behavior, relationships, service, and truth/goodness.
 - [[What Are Your Specialties as a Teacher]] - the YouTube Q&A gives an oral teaching-method version of the chapter's "taking the mist out of mysticism" claim.
+- [[The Science of Enlightenment Audio Series]] - short provenance source for the oral, student-audience, heavily edited Sounds True source family behind the Science of Enlightenment project.
+- [[Shinzen Young - The Science of Enlightenment (Book Trailer)]] - public book-trailer source that compresses the chapter's science-minded precision, Zen encounter, and condition-independent happiness frame.

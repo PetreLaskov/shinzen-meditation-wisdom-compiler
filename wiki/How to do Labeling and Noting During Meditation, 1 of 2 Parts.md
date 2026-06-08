@@ -9,8 +9,8 @@ tags: []
 aliases: ["How to do Labeling and Noting During Meditation Part 1", "How to do Labeling and Noting During Meditation, 1 of 2 Parts (YouTube)", "Labeling and Noting Part 1", "StBTuX0tqU8"]
 sources: ["raw/Shinzen Sources/yt transcripts/How to do Labeling and Noting During Meditation, 1 of 2 Parts ~ Shinzen Young_StBTuX0tqU8.md"]
 load_when: "Source-level evidence is needed for Shinzen's acknowledge-focus rhythm, no-label versus mental or spoken labeling, strong spoken labels, equanimity voice, label pacing, averaging rapid events, natural breath entrainment, repeated notes, repeat-until-Gone, or Noting-option troubleshooting."
-best_linked_pages: ["[[Noting]]", "[[Forcing Spoken Labels]]", "[[Practice Guidance Toolkit]]", "[[Practice Entry and Method Choice]]", "[[See Hear Feel]]", "[[Mindfulness Skill Triad]]", "[[Equanimity]]", "[[Gone]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-07
+best_linked_pages: ["[[Noting]]", "[[Forcing Spoken Labels]]", "[[Practice Guidance Toolkit]]", "[[Practice Entry and Method Choice]]", "[[See Hear Feel]]", "[[Equanimity]]", "[[Gone]]", "[[Complete Experience Safety Boundary]]"]
+updated: 2026-05-12
 ---
 
 This 10m45s YouTube transcript is compact oral instruction on the apparatus of Noting. Shinzen frames Noting as a rhythm of acknowledging and focusing, then shows how labels, voice tone, pacing, repetition, and Gone options can be adjusted when concentration, sensory clarity, or equanimity are weak.

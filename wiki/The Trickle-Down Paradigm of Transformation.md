@@ -6,11 +6,11 @@ domain: [sources, primary]
 importance: 8
 confidence: established
 tags: []
-aliases: ["The Trickle-Down Paradigm of Transformation (YouTube)", "FdkODyvYxRg"]
+aliases: ["The Trickle-Down Paradigm of Transformation (YouTube)", "FdkODyvYxRg", "How Shinzen Broke Through an Addiction (duplicate excerpt)", "_N7A5kAESTQ"]
 sources: ["raw/Shinzen Sources/yt transcripts/edited/The Trickle-Down Paradigm of Transformation ~ Shinzen Young_FdkODyvYxRg.md"]
 load_when: "Use when source-level evidence is needed for Shinzen's trickle-down purification model, unconscious subconscious rewiring, retreat aftereffects, catharsis versus integration, or behavior change without conscious decision."
 best_linked_pages: ["[[Insight and Purification]]", "[[Complete Experience]]", "[[Suffering Distortion Cycle]]", "[[Total Happiness]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-07
+updated: 2026-05-29
 ---
 
 This edited YouTube transcript is a short Shinzen Young teaching talk on how mindfulness practice may transform subconscious patterns without explicit memory retrieval. Its durable contribution is the evidence posture: the process may be hidden during practice, but later durable perception and behavior changes are used to infer that integration occurred.
@@ -22,6 +22,7 @@ This edited YouTube transcript is a short Shinzen Young teaching talk on how min
 - **Format**: Lightly edited YouTube transcript from kome.ai output.
 - **Reliability**: Primary evidence for Shinzen's oral teaching, autobiographical retreat example, and subconscious-transformation frame; the underlying subconscious-rewiring claim is inferential and not independently validated here.
 - **Scope**: Contrasts conscious catharsis with mostly unconscious purification, gives one autobiographical behavior-change example, and argues that later durable effects make the hidden-process hypothesis reasonable; it does not give a general empirical proof, retreat protocol, or clinical criteria.
+- **Duplicate excerpt note**: `raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/How Shinzen Broke Through an Addiction__N7A5kAESTQ.md` is a quality-B ShinzenVideos excerpt of the same marijuana/body-sweeping autobiographical case. It adds a useful adjacent caveat that no-boundary experience does not guarantee bad-habit resolution, but not a distinct source-page delta.
 
 ## Teaching Register
 The register is explanatory instruction with an autobiographical example and an epistemic challenge. Shinzen first names the familiar psychotherapy-like case of charged memories arising and being accepted, then pivots to the less visible purification he thinks does most of the work.
@@ -66,7 +67,7 @@ The talk wants practitioners to stop overvaluing dramatic catharsis and stop und
 - **Changed**: Sharpens [[Suffering Distortion Cycle]] and [[Total Happiness]] by making effortless behavior change after retreat a central example of purification's life output.
 - **Challenged**: Pressures the wiki not to equate a productive sit or retreat with good phenomenology during the practice itself.
 - **Transmission note**: The "flashlight on the surface" and "bottom of the lake" image is a reusable teaching analogy for surface CCE affecting deeper patterns.
-- **Integration target**: Update purification, complete experience, behavior-distortion, safety, index, and log. No new derived page is warranted because [[Insight and Purification]] already owns trickle-down purification.
+- **Integration target**: Update purification, complete experience, behavior-distortion, safety, index, and log. No new derived page is warranted because [[Insight and Purification]] already owns trickle-down purification. The later ShinzenVideos excerpt is best treated as duplicate-upgrade evidence rather than a second source interface.
 
 ## Weakest Claims
 - The subconscious-rewiring explanation is inferential; the talk does not independently prove that the proposed circuits communicate or rewire as described.
@@ -77,6 +78,7 @@ The talk wants practitioners to stop overvaluing dramatic catharsis and stop und
 - No criteria are given for when a retreat's discomfort, sleepiness, judgment, or turmoil is within a workable range versus a sign to stop, modify, or seek support.
 - The talk does not distinguish beneficial unconscious change from avoidance, repression, dissociation, placebo, social context, or ordinary life reappraisal.
 - It does not say when psychotherapy, recovery support, medical care, or ethical/accountability work is more appropriate than waiting for trickle-down effects.
+- The ShinzenVideos excerpt explicitly says no-boundary experience does not guarantee that bad habits go away; the excerpt does not define which realization, retreat, or support conditions make behavior change more or less likely.
 
 ## Contradictions/Tensions
 - The talk lowers dependence on conscious catharsis while still beginning from a catharsis frame; both modes must be preserved rather than collapsed.
@@ -94,6 +96,7 @@ The talk wants practitioners to stop overvaluing dramatic catharsis and stop und
 - **Teaching-transmission pages affected**: none directly.
 - **Contradictions opened**: none; [[Complete Experience Safety Boundary]] absorbs the bad-retreat, hidden-process, and support-boundary risks.
 - **Confidence changes**: No confidence enum changes; the talk strengthens existing probable owner models and remains established as Shinzen's own teaching.
+- **Duplicate-upgrade decision**: The 2026-05-29 audit of `_N7A5kAESTQ` reclassified it as duplicate excerpt coverage of this source page. Its extra no-boundary caveat reinforces the existing behavior-change/support boundary but did not warrant a new source page, owner-page update, synthesis, thesis, question, or [[Current Model]] update.
 - **Low-signal material excluded**: The electromagnetic-field analogy is preserved as an evidence-posture move, not expanded into a science-comparison page.
 
 ## Related

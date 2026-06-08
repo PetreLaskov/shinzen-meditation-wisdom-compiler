@@ -9,8 +9,8 @@ tags: []
 aliases: [Basic Mindfulness life practice, life architecture, Shinzen life practice, applied Basic Mindfulness]
 sources: [raw/Shinzen Sources/five-ways/10-beauty.md, raw/Shinzen Sources/five-ways/11-life.md, raw/Shinzen Sources/five-ways/12-big-picture.md, "raw/Shinzen Sources/yt transcripts/Intermediate FAQ Practice In Daily Life Micro-Hits & Challenge Sequences ~ Shinzen Young_wSq9vKkLu4s.md", "raw/Shinzen Sources/yt transcripts/Maximizing Psycho-Spiritual Growth with an Algorithmic Approach (Windows & Walls) ~ Shinzen Young_5t3mHTtKfWk.md"]
 load_when: "A task asks how Basic Mindfulness applies to ordinary life, actions, situations, service, guidance, total happiness, daily practice, micro-hits, challenge sequences, life catastrophe as practice intensity, retreat/check-in cycles, fun, or the Big Picture diagram."
-best_linked_pages: ["[[Basic Mindfulness Practice Architecture]]", "[[Total Happiness]]", "[[Practice Cycles]]", "[[Practice Guidance Toolkit]]", "[[Intermediate FAQ Practice In Daily Life Micro-Hits & Challenge Sequences]]", "[[Maximizing Psycho-Spiritual Growth with an Algorithmic Approach (Windows & Walls)]]", "[[Suffering Distortion Cycle]]", "[[Source And Polarities]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-07
+best_linked_pages: ["[[Basic Mindfulness Practice Architecture]]", "[[Total Happiness]]", "[[Practice Cycles]]", "[[Practice Guidance Toolkit]]", "[[Intermediate FAQ Practice In Daily Life Micro-Hits & Challenge Sequences]]", "[[Maximizing Psycho-Spiritual Growth with an Algorithmic Approach (Windows & Walls)]]", "[[Suffering Distortion Cycle]]", "[[Complete Experience Safety Boundary]]"]
+updated: 2026-05-29
 ---
 
 Basic Mindfulness does not end with the Sensory Grid. Chapters 10-12 turn the grid into a life map: experience is classified, practice is cycled through life, guidance chooses strategies, and the aim is happiness for self and others.
@@ -31,6 +31,13 @@ Chapter 11 extends the map to the human condition. Life has a sensory aspect and
 - objective situation.
 
 The chapter's life claim is that mindfulness changes sensory experience, which can change behavior, which can influence situations ([[Basic Mindfulness Chapter 11 - Life]] S2). This is the manual's applied version of [[Suffering Distortion Cycle]].
+
+[[Chart of Human Happiness]] gives the oral helping version of the same
+loop. Shinzen says his chart helps him organize a plan by considering a
+person's sensory challenges, behavior changes, objective situation, and
+possible mindfulness focus options together; he also adds that behavior
+change may require objective accountability structures beyond mindful
+awareness alone (S1, S5).
 
 Chapter 12 adds hidden connectivity and Source. The Basic View includes inner connectivity, interpreted as subconscious association; outer connectivity, interpreted as the causal network of the real world; and Source as Zero, Expansion, and Contraction ([[Basic Mindfulness Chapter 12 - The Big Picture]] S3). These widen the model, but the practical life architecture does not require treating Source or cosmology as established.
 
@@ -64,6 +71,11 @@ The Windows/Walls talk adds the most intense ordinary-life case so far. Shinzen 
 ## Big-Picture Layer
 The Big Picture is also a symbolic and interpretive object. Shinzen presents it as a visual sutra, artwork, conversation piece, and cross-cultural map ([[Basic Mindfulness Chapter 12 - The Big Picture]] S1-S2). That is important for understanding the manual's ambition: the system is meant to be remembered, displayed, taught, and used as a conversation bridge.
 
+[[Visual Presentation of Mindfulness and the Spiritual Path Part 2]] gives
+the live chart-tour version: the diagram stores basic, detailed, deep, and
+broad information and is explicitly described as mandala-like, a cosmogram,
+psychogram, hodogram, and idiogram (S1-S5).
+
 The Source and science material needs a different posture. Chapter 12 organizes practice, life, nature, mathematics, and future science through polar forces, especially Expansion and Contraction, but explicitly leaves the significance of science-spirituality parallels uncertain ([[Basic Mindfulness Chapter 12 - The Big Picture]] S14-S15).
 
 ## Boundaries
@@ -82,6 +94,10 @@ Finally, the symbolic design should not be over-read. Chapter 10's beauty and ch
 - [[Practice Guidance Toolkit]] - the chapter 12 helping and strategy-selection layer.
 - [[Intermediate FAQ Practice In Daily Life Micro-Hits & Challenge Sequences]] - oral source that sharpens daily-life transfer through micro-hits and graduated challenge sequences.
 - [[Maximizing Psycho-Spiritual Growth with an Algorithmic Approach (Windows & Walls)]] - oral source that frames severe life events as possible practice intensives when facilitator-guided through the algorithm.
+- [[Chart of Human Happiness]] - oral chart source for sensory, behavior,
+  situation, and accountability dimensions of helping.
+- [[Visual Presentation of Mindfulness and the Spiritual Path Part 2]] -
+  oral chart source for the Big Picture as a storage-and-retrieval mandala.
 - [[Suffering Distortion Cycle]] - the behavioral loop that makes sensory practice socially relevant.
 - [[Source And Polarities]] - the speculative deep frame that chapter 12 uses to hold practice, life, nature, and mathematics together.
 - [[Complete Experience Safety Boundary]] - the open frontier for guidance, support, clinical scope, and behavior verification.

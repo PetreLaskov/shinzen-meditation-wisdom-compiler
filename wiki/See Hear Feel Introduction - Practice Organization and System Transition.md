@@ -8,9 +8,9 @@ confidence: established
 tags: []
 aliases: [SHF Unit 08, See Hear Feel practice organization, SHF system transition, Basic Mindfulness to Unified Mindfulness transition, old Basic Mindfulness new Unified Mindfulness]
 sources: [raw/Shinzen Sources/see-hear-feel-introduction/08-practice-organization-and-system-transition.md]
-load_when: "Source-level evidence is needed for SHF practice rhythm, An Outline of Practice summary, stillness/motion/life minimums, micro-hits, background practice, yearly retreat or coach check-in, duration training, trigger practice, motion challenge sequences, focus-method choice principles, old Basic Mindfulness versus new Unified Mindfulness, flexible labeling as the transition mechanism, simplified Nurture Positive themes, old terminology, optional Gone, or Do Nothing continuity."
-best_linked_pages: ["[[Practice Cycles]]", "[[See Hear Feel]]", "[[Basic Mindfulness Practice Architecture]]", "[[Practice Guidance Toolkit]]", "[[Nurture Positive]]", "[[Sensory Grid]]", "[[Noting]]", "[[Gone]]", "[[Do Nothing]]"]
-updated: 2026-05-07
+load_when: "Source-level evidence for SHF practice organization: stillness/motion/life rhythm, micro-hits, background practice, yearly retreat or coach check-in, accelerators, focus-method choice, old Basic Mindfulness vs new SHF terminology, flexible labels, simplified Nurture Positive, optional Gone, or Do Nothing continuity."
+best_linked_pages: ["[[Practice Cycles]]", "[[See Hear Feel]]", "[[Basic Mindfulness Practice Architecture]]", "[[Nurture Positive]]", "[[Sensory Grid]]", "[[Noting]]", "[[Gone]]", "[[Do Nothing]]"]
+updated: 2026-05-12
 ---
 
 This unit covers pages 68-74 of Shinzen Young's *See Hear Feel: An Introduction*, using a mechanical Markdown extraction from the source PDF. It closes the article by summarizing practice organization and then explaining how the newer Unified Mindfulness interface preserves, simplifies, and extends the older Basic Mindfulness grid.

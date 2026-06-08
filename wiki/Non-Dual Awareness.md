@@ -10,7 +10,7 @@ aliases: ["Non-Dual Awareness (YouTube)", mwOccTTAcVw]
 sources: ["raw/Shinzen Sources/yt transcripts/edited/Non-Dual Awareness ~ Shinzen Young_mwOccTTAcVw.md"]
 load_when: "Source-level evidence is needed for Shinzen's preferred meaning of non-dual awareness, just seeing/hearing, seed and seedless samadhi, Zero-polarization cycling, or Source and ordinary life as nonseparate."
 best_linked_pages: ["[[No-Self And Personality]]", "[[Source And Polarities]]", "[[Gone]]", "[[Expansion And Contraction]]", "[[Operational Enlightenment]]", "[[Altered Phenomena and Dissolution Safety Boundary]]"]
-updated: 2026-05-09
+updated: 2026-05-19
 ---
 
 This edited YouTube transcript is a short advanced map talk. Shinzen treats "non-dual awareness" as an ambiguous phrase, then narrows his own preferred usage to stable daily-life participation in the cycle where Zero polarizes into self/world and returns to Zero.
@@ -100,6 +100,10 @@ The talk is a terminology intervention inside Shinzen's advanced teaching map. I
 - [[No-Self And Personality]] - owns the Feel/Image/Talk observer-reaction and true-self/no-self boundary.
 - [[Source And Polarities]] - owns Zero, polarization, Source, and the afterglow/metaphysics boundary.
 - [[Gone]] - supplies the vanishing route into Zero used by the deeper non-dual description.
+- [[Teaching Turn Back Practice]] - companion source for a Turn Back route toward eyes-open unfixation and ordinary-life nonduality.
+- [[There's No Need to Leave Samadhi]] - companion source for action arising
+  from samadhi and for inner-system reactivation as a daily-life no-self
+  integration point.
 - [[Expansion And Contraction]] - supplies the polarity model for self/world regeneration.
 - [[Operational Enlightenment]] - keeps non-duality from implying perfection, final map authority, or ethical completion.
 - [[Altered Phenomena and Dissolution Safety Boundary]] - routes non-dual and Source claims through no-self, DPDR, dissociation, and overclaim cautions.

@@ -1,22 +1,28 @@
 ---
 type: concept
-thesis: "Self-inquiry in Shinzen's system is a powerful but fit-dependent way to turn awareness back toward its source, symmetrical with Gone practice because it follows arisings back while Gone follows passings back."
+thesis: "Self-inquiry in Shinzen's system is a powerful but fit-dependent way to turn awareness back toward its source, symmetrical with Gone practice because it follows arisings back while Gone follows passings back, and Turn Back teaching must route the fixed witness rather than glorify it."
 status: working
 domain: [practice, transformation]
 importance: 8
 confidence: probable
 tags: []
-aliases: [Self-Enquiry, self enquiry, self inquiry, self-enquiry, self-inquiry, Who am I]
-sources: ["raw/Shinzen Sources/yt transcripts/edited/Self-Enquiry & Mindfulness Meditation ~ Shinzen Young_pHUajtPXPDw.md", "raw/Shinzen Sources/yt transcripts/edited/The Absolute Witness ~ Shinzen Young_drLxJSpeb8c.md", raw/Shinzen Sources/science-of-enlightenment/08-the-real-no-self.md, raw/Shinzen Sources/five-ways/08-five-more-ways.md]
+aliases: [Self-Enquiry, self enquiry, self inquiry, self-enquiry, self-inquiry, Who am I, Turn Back, Turn Back practice, UM Self-Inquiry]
+sources: ["raw/Shinzen Sources/yt transcripts/edited/Self-Enquiry & Mindfulness Meditation ~ Shinzen Young_pHUajtPXPDw.md", "raw/Shinzen Sources/yt transcripts/edited/The Absolute Witness ~ Shinzen Young_drLxJSpeb8c.md", "raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/Teaching Turn Back (or UM's Self-Inquiry) Practice ~ SHINZEN YOUNG_W05zS1VTQb4.md", raw/Shinzen Sources/science-of-enlightenment/08-the-real-no-self.md, raw/Shinzen Sources/five-ways/08-five-more-ways.md]
 load_when: "A question asks how Shinzen relates self-inquiry or self-enquiry to mindfulness, Gone, no-self, Source, turning awareness back on itself, or choosing between direct inquiry and sensory mindfulness."
-best_linked_pages: ["[[Self-Enquiry and Mindfulness Meditation]]", "[[The Absolute Witness]]", "[[Gone]]", "[[No-Self And Personality]]", "[[Source And Polarities]]", "[[Practice Entry and Method Choice]]"]
-updated: 2026-05-09
+best_linked_pages: ["[[Self-Enquiry and Mindfulness Meditation]]", "[[Teaching Turn Back Practice]]", "[[The Absolute Witness]]", "[[Gone]]", "[[No-Self And Personality]]", "[[Source And Polarities]]", "[[Practice Entry and Method Choice]]"]
+updated: 2026-05-19
 ---
 
 Self-inquiry is Shinzen's bridge term for practices that ask who or what is experiencing, thinking, or aware. In his translation, its deep symmetry with mindfulness is that self-inquiry looks back from an arising toward its origin, while Gone practice watches a passing return to the same Source-facing boundary.
 
+The newer Turn Back source sharpens the teaching sequence. A guide should
+distinguish the technique from the experiences it may produce, normalize
+confusion and false verbal answers, and then help the practitioner keep
+turning back from a spatially fixed witness rather than treating that calm
+observer as the goal.
+
 ## Key Points
-- **Core claim**: Shinzen treats self-inquiry as a powerful arising-side route to Source/no-self territory, but not as a universal best method.
+- **Core claim**: Shinzen treats self-inquiry as a powerful arising-side route to Source/no-self territory, but not as a universal best method or as a verbal-answer puzzle.
 - **Why this matters**: It prevents future agents from isolating self-inquiry from mindfulness or flattening it into ordinary discursive questioning; the practice issue is whether awareness is turned back on itself in a way that strengthens concentration, clarity, and equanimity.
 - **Key tensions**: The Source equivalence is Shinzen's contemplative interpretation, not established metaphysics, and self-inquiry can become self-referential rumination if it lacks CCE, guidance, or fit.
 - **Source posture**: Probable as Shinzen's own method-translation frame; limited as comparative religion and as safety guidance.
@@ -39,6 +45,15 @@ witness. The absolute side appears when the subtle Feel/Image/Talk that
 creates the witness itself vanishes into contentless cessation or Zero
 ([[The Absolute Witness]] S2-S7).
 
+[[Teaching Turn Back Practice]] adds the coach-facing sequence for that
+danger. Shinzen says a teacher should separate the Turn Back technique's
+focus range and instruction set from the experiences a student may have while
+doing it. Common experiences include initial confusion, false learning that
+looks for a clever verbal answer, and then a back-here witness that has
+equanimity but remains fixated in space. The next move is to turn back to and
+from that observer until awareness is unfixated in space while the eyes are
+open and ordinary life continues ([[Teaching Turn Back Practice]] S2-S5).
+
 ## Boundaries
 Self-inquiry is not automatically better than mindfulness. Shinzen explicitly says it works very well for some people but not necessarily for everyone ([[Self-Enquiry and Mindfulness Meditation]] S6). Method choice should therefore route through fit, current CCE, support, and life effects rather than tradition prestige.
 
@@ -51,12 +66,14 @@ For practice routing, self-inquiry and Gone can be treated as complementary door
 
 - Use self-inquiry when the question "Who or what is experiencing?" naturally gathers attention, clarity, and non-grasping.
 - Use Gone when the arising-side question becomes too abstract, but ordinary sensory endings are available.
+- In Turn Back guidance, treat confusion, false verbal answers, and the fixed witness as likely process states rather than proof that the student is failing or succeeding.
 - In either case, the route is only Shinzen-compatible when it increases concentration, sensory clarity, and equanimity rather than tightening the observer.
 
 This concept will likely need revision after the queued selflessness talks. For now it remains intentionally small: it anchors the inquiry-Gone-witness bridge without creating a generic Advaita, Zen, or comparative-religion page.
 
 ## Related
 - [[Self-Enquiry and Mindfulness Meditation]] - source for the explicit self-enquiry/mindfulness symmetry.
+- [[Teaching Turn Back Practice]] - source for the Turn Back teaching sequence and fixed-witness troubleshooting.
 - [[The Absolute Witness]] - source for the relative-witness versus absolute-witness distinction.
 - [[Gone]] - owns the passing-side route through ordinary vanishings.
 - [[No-Self And Personality]] - owns Shinzen's broader self-enquiry, true-self, and no-self interpretation.

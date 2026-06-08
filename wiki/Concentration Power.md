@@ -7,10 +7,10 @@ importance: 9
 confidence: probable
 tags: []
 aliases: [baseline concentration, concentration ability, focus power, relevance-based focus, concentration machine, depth and breadth of concentration]
-sources: [raw/Shinzen Sources/science-of-enlightenment/03-mysticism-in-world-culture.md, raw/Shinzen Sources/science-of-enlightenment/02-the-most-fundamental-skill.md, raw/Shinzen Sources/science-of-enlightenment/04-calming-and-clarifying.md, raw/Shinzen Sources/five-ways/00-introduction.md, raw/Shinzen Sources/five-ways/02-way-of-physical-senses.md, raw/Shinzen Sources/five-ways/03-way-of-tranquility.md, raw/Shinzen Sources/five-ways/04-way-of-flow.md, raw/Shinzen Sources/five-ways/05-way-of-human-goodness.md, raw/Shinzen Sources/five-ways/11-life.md, raw/Shinzen Sources/five-ways/12-big-picture.md, "raw/Shinzen Sources/yt transcripts/edited/Five Basic Assumptions in Mindfulness Practice ~ Shinzen Young_s1QWEk9c0D4.md", "raw/Shinzen Sources/yt transcripts/edited/Depth & Breadth of Concentration - Part 1 of 3 ~ Shinzen Young_lq1IL_DnC98.md", "raw/Shinzen Sources/yt transcripts/edited/Depth & Breadth of Concentration - Part 2 of 3 ~ Shinzen Young_E-jZE9jDfKQ.md", "raw/Shinzen Sources/yt transcripts/edited/Depth & Breadth of Concentration - Part 3 of 3 ~ Shinzen Young_-AoNrGM0MBY.md", "raw/Shinzen Sources/yt transcripts/Growth and Tastes of Concentration, Sensory Clarity and Equanimity ~ Shinzen Young_ED0pXThS_nc.md"]
+sources: [raw/Shinzen Sources/science-of-enlightenment/02-the-most-fundamental-skill.md, raw/Shinzen Sources/science-of-enlightenment/03-mysticism-in-world-culture.md, raw/Shinzen Sources/science-of-enlightenment/04-calming-and-clarifying.md, raw/Shinzen Sources/five-ways/00-introduction.md, raw/Shinzen Sources/five-ways/12-big-picture.md, "raw/Shinzen Sources/yt transcripts/edited/Depth & Breadth of Concentration - Part 1 of 3 ~ Shinzen Young_lq1IL_DnC98.md", "raw/Shinzen Sources/yt transcripts/edited/Depth & Breadth of Concentration - Part 2 of 3 ~ Shinzen Young_E-jZE9jDfKQ.md", "raw/Shinzen Sources/yt transcripts/edited/Depth & Breadth of Concentration - Part 3 of 3 ~ Shinzen Young_-AoNrGM0MBY.md"]
 load_when: "A question turns on focus, samadhi, mysticism, noting, daily-life practice, meditative depth and breadth, rest concentration, concentration reward, automaticity, boredom, or Shinzen's distinction between focus capacity and being a constant concentration machine."
 best_linked_pages: ["[[Mindfulness Skill Triad]]", "[[Depth and Breadth of Concentration - Part 1 of 3]]", "[[Depth and Breadth of Concentration - Part 2 of 3]]", "[[Depth and Breadth of Concentration - Part 3 of 3]]", "[[Mysticism As Concentration]]", "[[Effort Regulation]]", "[[Noting]]", "[[Focus on Rest]]"]
-updated: 2026-05-08
+updated: 2026-05-19
 ---
 
 Concentration power is the trainable ability to focus on what is relevant when needed. Shinzen treats it as the shared feature of legitimate meditation systems and the first skill each Basic Mindfulness focus option is meant to strengthen.
@@ -20,6 +20,16 @@ Concentration power is the trainable ability to focus on what is relevant when n
 - **Why this matters**: This makes meditation portable into study, sport, work, relationship, boredom, pain, pleasure, and service rather than confining it to a posture.
 - **Key tensions**: Concentration is not only narrow sustained attention, and returning to relevance should not become aversive suppression of non-target material; calm concentration can also stagnate if sensory clarity does not mature.
 - **Source posture**: Strong as a primary account of Shinzen's teaching architecture; weaker as proof that concentration transfers universally or that absorptive states transform suffering by themselves.
+
+## Source Anchors
+- [[Science of Enlightenment Chapter 2 - The Most Fundamental Skill]], [[Science of Enlightenment Chapter 3 - Mysticism in World Culture]], and [[Science of Enlightenment Chapter 4 - Calming and Clarifying]] anchor baseline concentration, samadhi/mysticism framing, and the concentration-calm feedback loop.
+- [[Basic Mindfulness Introduction]] and [[Basic Mindfulness Chapter 12 - The Big Picture]] anchor the manual definition of concentration as staying with what is relevant and the final broad/narrow, effort/non-effort comparison.
+- The three [[Depth and Breadth of Concentration - Part 1 of 3|Depth and Breadth]] talks anchor gradual transfer, relevance-based focus, non-suppressive concentration, automaticity, renewed effort under challenge, and modern upaya.
+- [[Can Ordinary Experience Count as Meditation]] anchors the beginner-facing boundary: art, sport, running, singing, or other activity is meditation only when it raises baseline daily-life focus, not merely when performance enters the zone.
+- [[Shinzen, the Mindful Math Geek]] anchors an adult-learning transfer case:
+  concentration becomes staying power when repeated contact with difficult
+  material would otherwise collapse into giving up.
+- Physical-senses, tranquility, Flow, Nurture Positive, Life, Five Basic Assumptions, and CCE-growth sources remain cited in the body where they qualify object choice, fun-cycle reward, no-concentration-machine pressure, and concentration's taste.
 
 ## Model
 Chapter 2 defines meditation by its effect on baseline concentration in daily life: a practice counts as meditation when it significantly raises a person's base-level focus ([[Science of Enlightenment Chapter 2 - The Most Fundamental Skill]] S1). Concentration is therefore not merely a state achieved while trying hard. It is a trained trait-like capacity, compared to a strengthened muscle, that becomes available across ordinary activities.
@@ -38,6 +48,23 @@ taste to positive psychology flow-state research. This supports the fun-cycle
 role of concentration taste, but the scientific documentation claim should
 remain source-attributed ([[Growth and Tastes of Concentration, Sensory
 Clarity and Equanimity]] S3).
+
+[[Can Ordinary Experience Count as Meditation]] adds the short public test
+for art and sport. Piano, martial arts, dancing, running, singing, or athletic
+performance may become de facto meditation, but only when the concentration
+trained inside the activity carries over into ordinary life and raises the
+person's baseline focus month after month. Shinzen explicitly says entering
+the zone during performance is not enough; without carryover, the activity can
+be impressive concentration without being meditation in his technical sense
+([[Can Ordinary Experience Count as Meditation]] S1-S6).
+
+[[Shinzen, the Mindful Math Geek]] gives a different transfer case. Shinzen
+says concentration let him keep returning to math material that he previously
+would have abandoned after repeated failed readings. The source does not prove
+a general education outcome, but it sharpens the practice handle:
+concentration can function as staying power for hard learning when paired
+with sensory deconstruction of self-doubt and ordinary performance checks
+([[Shinzen, the Mindful Math Geek]] S3-S6).
 
 [[Depth and Breadth of Concentration - Part 2 of 3]] gives the cleanest oral definition: concentration power is the ability to attend to what one considers relevant, in time. Relevance is contextual and may differ by person and situation. Shinzen explicitly excludes the assumption that concentration always means narrowing attention. Breath sensations are contractive samadhi; simultaneous positive image, talk, and emotional feeling can be expansive samadhi; driving can become a broad outward concentration field when road, car, sight, sound, and touch remain the relevant sensory link ([[Depth and Breadth of Concentration - Part 2 of 3]] S3-S5).
 
@@ -89,6 +116,12 @@ Chapter 3 makes concentration broadly human and cross-cultural, but it also sets
 
 The cross-cultural claims should not be overpromoted. Chapter 3 is strong evidence for Shinzen's translation strategy, not independent proof that all traditions, arts, sports, or shamanic ordeals are equivalent enlightenment paths.
 
+The ordinary-activity claim has the same boundary. Art, sport, or skilled work
+should not be treated as a substitute for formal practice unless it shows the
+carryover Shinzen names: baseline concentration in daily life rises when the
+person is not deliberately trying to focus ([[Can Ordinary Experience Count as
+Meditation]] S2-S5).
+
 The physiological and health benefits discussed in the chapter should not be loaded into this page as established outcomes. They are source claims and need independent evidence before becoming durable health conclusions.
 
 ## Implications
@@ -112,6 +145,8 @@ The model also explains why Shinzen can call concentration the most fundamental 
 - [[Depth and Breadth of Concentration - Part 2 of 3]] - oral source for relevance-based concentration, contractive and expansive samadhi, and non-suppressive focus.
 - [[Depth and Breadth of Concentration - Part 3 of 3]] - oral source for effort becoming automatic, renewed effort under sensory challenge, life-wide breadth, and modern upaya instead of brute force.
 - [[Growth and Tastes of Concentration, Sensory Clarity and Equanimity]] - oral source for concentration's in-the-zone taste and CCE growth arc.
+- [[Can Ordinary Experience Count as Meditation]] - short Q&A source for the activity-as-meditation carryover test.
+- [[Shinzen, the Mindful Math Geek]] - autobiographical source for concentration as staying power in adult learning, checked by actual problem solving.
 - [[Five Basic Assumptions in Mindfulness Practice]] - source for concentration as available relevance-based capacity rather than constant high focus.
 - [[Mysticism As Concentration]] - chapter 3's cross-cultural frame for samadhi and high-concentration spirituality.
 - [[Basic Mindfulness Practice Architecture]] - manual-level use of concentration across many focus options.

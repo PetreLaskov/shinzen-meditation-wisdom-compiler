@@ -14,6 +14,7 @@ from __future__ import annotations
 from collections import Counter, defaultdict
 from dataclasses import dataclass
 from datetime import date, datetime
+from functools import lru_cache
 from pathlib import Path
 import re
 import sys
@@ -23,6 +24,10 @@ ROOT = Path(__file__).resolve().parents[1]
 WIKI = ROOT / "wiki"
 RAW = ROOT / "raw"
 INDEX = WIKI / "index.md"
+REGISTRATION_CATALOGS = (
+    WIKI / "_page_catalog.md",
+    WIKI / "_sources_catalog.md",
+)
 
 SYSTEM_PAGE_NAMES = {"index.md", "log.md"}
 REQUIRED_FIELDS = {
@@ -93,17 +98,30 @@ SKIPPED_YOUTUBE_VIDEO_IDS = {
     "tOYiHaXtwzY",  # Om Mani Padme Hum chant
     "zA1APGkoupM",  # Spanish-only recitation
 }
+YOUTUBE_SELECTION_CATALOGS = (
+    WIKI / "_yt_shinzenvideos_selection_report.md",
+)
+YOUTUBE_SELECTION_BACKLOG_EXEMPT_STATUSES = {
+    "skip-manifest-only",
+}
 YOUTUBE_ID_RE = re.compile(r"_([-A-Za-z0-9_]{11})\.md$")
+SELECTION_STATUS_HEADING_RE = re.compile(
+    r"(?m)^### "
+    r"(ingest-now|series-candidate|audit-needed|upgrade-existing|"
+    r"practice-wisdom-backlog|defer-query-driven|skip-manifest-only)\b"
+)
+SELECTION_STATUS_ID_RE = re.compile(r"`([-A-Za-z0-9_]{11})`")
 
 # Frontmatter is the first-pass routing layer, not the page's full evidence
-# map. These are advisory thresholds; the tighter target remains in the wiki
-# operations/templates docs, while lint flags pages that have clearly drifted.
-LOAD_WHEN_WARNING_CHARS = 500
+# map. These are advisory thresholds, not hard invariants.
+LOAD_WHEN_STRONG_WARNING_CHARS = 500
 LOAD_WHEN_TARGET_CHARS = 320
-BEST_LINKS_WARNING_COUNT = 12
+BEST_LINKS_STRONG_WARNING_COUNT = 12
 BEST_LINKS_TARGET_COUNT = 8
-NON_SOURCE_SOURCES_WARNING_COUNT = 24
+NON_SOURCE_SOURCES_STRONG_WARNING_COUNT = 24
+NON_SOURCE_SOURCES_TARGET_COUNT = 8
 ALIASES_WARNING_COUNT = 16
+INDEX_OPENING_TARGET_CHARS = 12000
 
 
 @dataclass
@@ -232,6 +250,29 @@ def youtube_video_id(relative: Path) -> str | None:
     return match.group(1) if match else None
 
 
+@lru_cache(maxsize=1)
+def selection_backlog_exempt_video_ids() -> set[str]:
+    """Video IDs selected out of active raw-backlog warnings."""
+
+    exempt: set[str] = set()
+    for catalog in YOUTUBE_SELECTION_CATALOGS:
+        if not catalog.exists():
+            continue
+
+        text = catalog.read_text(encoding="utf-8")
+        headings = list(SELECTION_STATUS_HEADING_RE.finditer(text))
+        for index, heading in enumerate(headings):
+            status = heading.group(1)
+            if status not in YOUTUBE_SELECTION_BACKLOG_EXEMPT_STATUSES:
+                continue
+
+            end = headings[index + 1].start() if index + 1 < len(headings) else len(text)
+            block = text[heading.end() : end]
+            exempt.update(SELECTION_STATUS_ID_RE.findall(block))
+
+    return exempt
+
+
 def youtube_transcript_priority(relative: Path) -> int:
     parts = relative.parts
     if "retranscribed" in parts:
@@ -265,7 +306,9 @@ def is_raw_support_file(path: Path) -> bool:
         return True
 
     video_id = youtube_video_id(relative)
-    return video_id in SKIPPED_YOUTUBE_VIDEO_IDS
+    return video_id in SKIPPED_YOUTUBE_VIDEO_IDS or (
+        video_id is not None and video_id in selection_backlog_exempt_video_ids()
+    )
 
 
 def iter_markdown() -> list[Path]:
@@ -465,15 +508,33 @@ def check_best_linked_pages(
                 )
 
 
-def check_index_registration(pages: list[Page], errors: list[str]) -> None:
+def registration_surfaces() -> list[Path]:
+    surfaces = [INDEX]
+    surfaces.extend(path for path in REGISTRATION_CATALOGS if path.exists())
+    return surfaces
+
+
+def check_page_registration(pages: list[Page], errors: list[str]) -> None:
     if not INDEX.exists():
         errors.append("wiki/index.md is missing")
         return
 
-    index_targets = {target.lower() for target in extract_link_targets(INDEX.read_text(encoding="utf-8"))}
+    registration_targets: set[str] = set()
+    for path in registration_surfaces():
+        registration_targets.update(
+            target.lower() for target in extract_link_targets(path.read_text(encoding="utf-8"))
+        )
+
+    surfaces = ", ".join(rel(path) for path in registration_surfaces())
     for page in pages:
-        if page.key.lower() not in index_targets and page.path.stem.lower() not in index_targets:
-            errors.append(f"{page.label}: compiled page is missing from wiki/index.md")
+        if (
+            page.key.lower() not in registration_targets
+            and page.path.stem.lower() not in registration_targets
+        ):
+            errors.append(
+                f"{page.label}: compiled page is missing from registration "
+                f"surfaces ({surfaces})"
+            )
 
 
 def check_raw_source_coverage(
@@ -582,23 +643,38 @@ def collect_warnings(pages: list[Page], inbound: Counter[Path], warnings: list[s
         if thesis and len(thesis.split()) <= 3:
             warnings.append(f"{page.label}: thesis looks like a label, not a claim")
 
-        if len(load_when) > LOAD_WHEN_WARNING_CHARS:
+        if len(load_when) > LOAD_WHEN_STRONG_WARNING_CHARS:
+            warnings.append(
+                f"{page.label}: load_when is {len(load_when)} chars; strongly "
+                f"target <= {LOAD_WHEN_TARGET_CHARS} for first-pass routing"
+            )
+        elif len(load_when) > LOAD_WHEN_TARGET_CHARS:
             warnings.append(
                 f"{page.label}: load_when is {len(load_when)} chars; "
                 f"target <= {LOAD_WHEN_TARGET_CHARS} for first-pass routing"
             )
 
-        if len(best_links) > BEST_LINKS_WARNING_COUNT:
+        if len(best_links) > BEST_LINKS_STRONG_WARNING_COUNT:
+            warnings.append(
+                f"{page.label}: best_linked_pages has {len(best_links)} links; "
+                f"strongly target <= {BEST_LINKS_TARGET_COUNT} strongest next loads"
+            )
+        elif len(best_links) > BEST_LINKS_TARGET_COUNT:
             warnings.append(
                 f"{page.label}: best_linked_pages has {len(best_links)} links; "
                 f"target <= {BEST_LINKS_TARGET_COUNT} strongest next loads"
             )
 
-        if page_type != "source" and len(sources) > NON_SOURCE_SOURCES_WARNING_COUNT:
+        if page_type != "source" and len(sources) > NON_SOURCE_SOURCES_STRONG_WARNING_COUNT:
             warnings.append(
                 f"{page.label}: sources has {len(sources)} raw paths; "
-                "frontmatter should keep only principal raw anchors and leave "
-                "the full evidence map to body citations or Dependencies"
+                f"strongly target <= {NON_SOURCE_SOURCES_TARGET_COUNT}; "
+                "frontmatter should keep only principal raw anchors"
+            )
+        elif page_type != "source" and len(sources) > NON_SOURCE_SOURCES_TARGET_COUNT:
+            warnings.append(
+                f"{page.label}: sources has {len(sources)} raw paths; "
+                f"target <= {NON_SOURCE_SOURCES_TARGET_COUNT} principal raw anchors"
             )
 
         if len(aliases) > ALIASES_WARNING_COUNT:
@@ -645,6 +721,26 @@ def collect_warnings(pages: list[Page], inbound: Counter[Path], warnings: list[s
             warnings.append(f"domain '{domain}' has {count} pages; consider synthesis or sub-indexing")
 
 
+def check_index_opening_budget(warnings: list[str]) -> None:
+    if not INDEX.exists():
+        return
+
+    text = INDEX.read_text(encoding="utf-8")
+    marker = re.search(r"(?m)^## Open Questions\b", text)
+    if marker:
+        opening = text[: marker.start()]
+        label = "opening through Open Questions"
+    else:
+        opening = text
+        label = "opening"
+
+    if len(opening) > INDEX_OPENING_TARGET_CHARS:
+        warnings.append(
+            f"{rel(INDEX)}: {label} is {len(opening)} chars; "
+            f"target <= {INDEX_OPENING_TARGET_CHARS} for first-read routing"
+        )
+
+
 def load_pages(errors: list[str]) -> list[Page]:
     pages: list[Page] = []
 
@@ -677,10 +773,11 @@ def main() -> int:
     target_map = build_target_map(markdown_paths, pages) if markdown_paths else {}
     inbound = check_links(markdown_paths, target_map, errors) if markdown_paths else Counter()
     check_best_linked_pages(pages, target_map, errors, warnings)
-    check_index_registration(pages, errors)
+    check_page_registration(pages, errors)
     check_raw_source_coverage(pages, errors, warnings)
     check_source_dates(pages, errors)
     collect_warnings(pages, inbound, warnings)
+    check_index_opening_budget(warnings)
 
     if errors:
         print(f"Wiki lint found {len(errors)} invariant error(s):")

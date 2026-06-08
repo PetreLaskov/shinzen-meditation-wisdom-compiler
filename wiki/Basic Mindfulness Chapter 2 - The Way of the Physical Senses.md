@@ -9,8 +9,8 @@ tags: []
 aliases: [Basic Mindfulness chapter 2, The Way of the Physical Senses chapter, Chapter 2 Way of the Physical Senses]
 sources: [raw/Shinzen Sources/five-ways/02-way-of-physical-senses.md]
 load_when: "A question needs source-level evidence for See Out, Hear Out, Feel Out, Focus Out, external grounding, physical body sensation, physical pain as Feel Out, or the difference between outward focus as distraction and as a path."
-best_linked_pages: ["[[Way of Physical Senses]]", "[[Sensory Grid]]", "[[Noting]]", "[[Concentration Power]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-06
+best_linked_pages: ["[[Way of Physical Senses]]", "[[Sensory Grid]]", "[[Noting]]", "[[Concentration Power]]", "[[Intensity and Embodiment Safety Boundary]]"]
+updated: 2026-05-16
 ---
 
 Chapter 2 of the Basic Mindfulness manual gives the outward practice route: Noting physical sights, physical sounds, and physical body sensations as a sustained way to anchor in present-moment sensory experience.
@@ -54,7 +54,7 @@ This chapter is especially important for safety because it places pain, illness,
 - **Changed**: Creates [[Way of Physical Senses]] and strengthens [[Sensory Grid]] by adding See Out, Hear Out, Feel Out, Focus Out, and outer Rest/Gone usage.
 - **Challenged**: Pressures the wiki not to equate outward grounding with avoidance; the same movement can be distraction or a full Path depending on CCE and sustained training.
 - **No material change**: Zen and psychotherapy comparisons remain source-attributed.
-- **Integration target**: [[Complete Experience Safety Boundary]] should include Feel Out's medical-adjacent object list and the absence of triage rules.
+- **Integration target**: [[Intensity and Embodiment Safety Boundary]] carries Feel Out's medical-adjacent object list and the absence of triage rules.
 
 ## Weakest Claims
 - The claim of permanent baseline increase is central to the Path distinction but not evidenced in this file.
@@ -78,7 +78,7 @@ This chapter is especially important for safety because it places pain, illness,
 ## Integration Notes
 - **Pages created**: [[Way of Physical Senses]]
 - **Pages updated**: [[Sensory Grid]], [[Noting]], [[Concentration Power]], [[Sensory Clarity]], [[Equanimity]], [[Complete Experience Safety Boundary]], `wiki/index.md`
-- **Contradictions opened**: No new standalone question; medical-adjacent Feel Out safety routes to [[Complete Experience Safety Boundary]].
+- **Contradictions opened**: No new standalone question; medical-adjacent Feel Out safety now routes to [[Intensity and Embodiment Safety Boundary]].
 - **Confidence changes**: External sensory noting becomes a central practice route rather than a side application of concentration.
 - **Low-signal material excluded**: Repeated layout boxes and chapter-transition text are omitted except where they clarify drill-down/back-up structure.
 
@@ -87,4 +87,4 @@ This chapter is especially important for safety because it places pain, illness,
 - [[Sensory Grid]] - the label map for Out, Rest, and Gone.
 - [[Noting]] - the technique used by all four focus options.
 - [[Concentration Power]] - outward focus trains staying with relevant physical experience.
-- [[Complete Experience Safety Boundary]] - Feel Out includes pain and illness sensations without full triage criteria.
+- [[Intensity and Embodiment Safety Boundary]] - Feel Out includes pain and illness sensations without full triage criteria.

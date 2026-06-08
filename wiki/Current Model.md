@@ -1,6 +1,6 @@
 ---
 type: synthesis
-thesis: "Shinzen's system is best modeled as sensory completion with an interface evolution: CCE trains attention, the older Sensory Grid and newer See Hear Feel route experience, complete experience plus time drives insight and purification, deeper impermanence and self models route through Flow, Gone, self-inquiry, no-self, no-place-to-stand decentering, ox-herding path maps, humility-to-vanishing, Zero, surrender to impermanence, and healthy personality/service re-arising, operational enlightenment stays map-humble, scale-sensitive, anti-perfection, feedback-accountable, anti-dependent, and clinical-differential-aware, and life/service outcomes test the model."
+thesis: "Shinzen's system is best modeled as sensory completion with interface evolution: CCE trains practice through older grid and newer SHF routes, while operational enlightenment remains map-humble, safety-aware, behavior-accountable, and service-tested."
 status: working
 domain: [practice, transformation, safety, service]
 importance: 10
@@ -8,18 +8,51 @@ confidence: probable
 tags: []
 aliases: [current model, Shinzen current model, system model, Shinzen system model, state vector]
 sources: []
-load_when: "Read after wiki/index.md when a task needs the current best whole-system model of Shinzen's practice architecture, newer See Hear Feel interface, transformation mechanism, operational-enlightenment posture, safety stance, teaching-transmission stance, service aim, or evidence tiers."
-best_linked_pages: ["[[Basic Mindfulness Practice Architecture]]", "[[See Hear Feel]]", "[[Mindfulness Skill Triad]]", "[[Complete Experience]]", "[[Operational Enlightenment]]", "[[Source And Polarities]]", "[[Total Happiness]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-09
+load_when: "Read after wiki/index.md when a task needs the current best whole-system model, especially practice architecture, transformation mechanism, operational enlightenment, safety, teaching, lineage translation, service, or evidence tiers."
+best_linked_pages: ["[[Basic Mindfulness Practice Architecture]]", "[[See Hear Feel]]", "[[Mindfulness Skill Triad]]", "[[Complete Experience]]", "[[Operational Enlightenment]]", "[[Source And Polarities]]", "[[Total Happiness]]", "[[Lineage Translation]]"]
+updated: 2026-05-31
 ---
 
-This is the wiki's current whole-system synthesis after the compiled Basic Mindfulness manual, *The Science of Enlightenment* chapter arc, and See Hear Feel introduction. Its Shinzen claims depend on the compiled source pages and owner pages named below; staged transcripts and uncompiled raw files may later revise it, but they do not ground this page.
+This is the wiki's current whole-system synthesis after the compiled Basic Mindfulness manual, *The Science of Enlightenment* chapter arc, See Hear Feel introduction, completed YouTube Gates 0-10, the retreat-stream sequence, and the selected `@ShinzenVideos` phase through deferred-review closeout. Its Shinzen claims depend on the compiled source pages and owner pages named below; remaining query-driven, series-candidate, audit-needed, skipped, or duplicate transcripts do not ground this page unless later ingested.
+
+## Current Model Card
+- **One-sentence model**: Shinzen's system is best modeled as sensory completion with interface evolution: concentration, sensory clarity, and equanimity train sensory events to become complete over time, while the older Sensory Grid and newer See Hear Feel interface route practice toward insight, purification, no-self, impermanence, Source-boundary language, behavior change, and service.
+- **Routing rules**:
+  - Start live guidance from [[Practice Guidance Toolkit]], and route red flags through [[Complete Experience Safety Boundary]] before optimizing technique.
+  - Treat CCE as the skill engine; labels, grids, focus ranges, and techniques are pragmatic handles, not final ontology.
+  - Choose methods by live fit: Noting clarifies, Do Nothing releases attention-control, Rest stabilizes, Nurture Positive reconstructs, Flow/Gone/Space routes impermanence, and strategy may simplify to one deep route or broaden into backhoe-like field clearing.
+  - Read complete experience as CCE plus time plus reduced suffering, learning, behavior, or service, not as intensity, duration, pain tolerance, visions, or status.
+  - Route no-self, witness, void, Gone, dissolution, and Source language through operational and safety boundaries before treating them as liberation evidence.
+  - Treat enlightenment as identity non-capture plus map humility plus ongoing integration, behavior feedback, anti-dependency, and service, not as perfection or authority.
+  - Treat teaching language as practice technology under feedback: technical vocabulary, simple instructions, mystical words, and public correction all need function, listener-effect, incentive, and accountability checks.
+  - Route science analogy, AI, ultrasound, neurotechnology, physics, mathematics, and time-space language through [[Source Science And Analogy Boundary]] before treating them as proof; route lineage, ritual, mantra, and religious compatibility through bounded translation unless stronger evidence appears.
+- **Confidence tiers**:
+  - **Established as Shinzen's stated system**: CCE, the Sensory Grid, See Hear Feel, Noting, Do Nothing, Nurture Positive, Five Ways, Gone, Four Okays, guidance, and Total Happiness.
+  - **Probable as compiled synthesis**: sensory completion with interface evolution is the best compression of practice architecture, transformation mechanism, no-self, impermanence, behavior, and service.
+  - **Source-attributed and safety-sensitive**: Flow/Gone as deep transformation routes, no-self and Source/Zero language, bhanga, primordial Feel, operational enlightenment, altered phenomena, and teacher/guidance claims.
+  - **Speculative outside Shinzen's frame**: objective Source metaphysics, powers, entities, future enlightenment technology, neuroscience or behaviorist proof, mathematics/physics analogies, universal comparative mysticism, and clinical/developmental interpretations.
+- **Safety and evidence frontiers**: the model is weakest where a practice report needs dosage, stop criteria, grounding, trauma/clinical referral, medical boundaries, teacher accountability, behavior verification, power ethics, altered-phenomena differentials, or evidence that service and conduct are improving.
+- **What would change the model**: stronger Shinzen-specific source evidence for safety criteria, stopping and referral rules, teacher competence, behavior change, and service outcomes would sharpen the model; clinical or case evidence around DPDR, dark night, sleep, illness, sexuality, birth, substances, and retreat aftershock would change routing confidence; reliable evidence for or against Source, powers, AI/ultrasound, mathematics, or cross-tradition identity would move those claims between speculative, contested, and usable tiers.
+- **Next loads**:
+  - **Practice architecture**: [[Basic Mindfulness Practice Architecture]], [[See Hear Feel]], [[Practice Entry and Method Choice]], [[Mindfulness Skill Triad]].
+  - **Transformation**: [[Complete Experience]], [[Insight and Purification]], [[Impermanence Flow Gone And Source]], [[No-Self And Personality]].
+  - **Safety**: [[Complete Experience Safety Boundary]], [[DPDR and the Pit of the Void]], [[Guidance Scope and Accountability Boundary]].
+  - **Service and life test**: [[Total Happiness]], [[Teaching A Path]], [[Bodhicitta and the Way of Service]], [[Basic Mindfulness Life Architecture]].
+  - **Lineage and teaching**: [[Lineage Translation]], [[Shinzen's Teaching Method]], [[Mastery Without Guru Inflation]].
+  - **Source, polarity, and speculation**: [[Source And Polarities]], [[Source Science And Analogy Boundary]], [[Expansion And Contraction]], [[Gone]], [[Operational Enlightenment]].
 
 ## Key Points
 - **Core claim**: Shinzen's system is a sensory-completion model with two major interfaces: the older Basic Mindfulness grid and the newer See Hear Feel compression both train CCE, route sensory experience, support complete experience over time, and culminate in enlightenment language that must remain operational and map-humble.
 - **Why this matters**: Future reasoning can route by source tier, practice interface, skill, focus range, technique, teaching move, life context, risk, and service outcome instead of reloading every source.
 - **Key tensions**: SHF simplifies without eliminating hidden grid complexity; safety, dosage, clinical boundaries, coach competence, behavior verification, power ethics, Source overclaim, and future-science or mathematics claims remain under-specified.
-- **Source posture**: Strong as Shinzen's own practice, teaching, and transformation architecture; probable as the wiki's synthesis of his system; speculative when used as metaphysics, empirical science, clinical guidance, power ontology, or universal comparative religion.
+- **Source posture**: Strong as Shinzen's own practice, teaching, and transformation architecture; probable as the wiki's synthesis of his system; speculative when used as metaphysics, empirical science, clinical guidance, power ontology, or universal comparative religion. Shinzen's own reality talk explicitly confines his high confidence to sensory experience and treats objective reality behind experience as conjectural.
+
+## Phase Closeout Delta - 2026-05-19
+- **Status**: The retreat-stream and selected `@ShinzenVideos` phase do not change the core model. They do warrant this compact delta because they sharpen applied transmission, method strategy, service routing, and state-to-function integration.
+- **Teaching language**: Precision now includes a feedback loop between intended meaning, actual wording, and listener effect; mystical or "woo woo" language is neither automatically profound nor automatically fraudulent; and Shinzen's technical vocabulary should be paced as working-smarter upaya, with one workable technique allowed when the menu overwhelms ([[Say What You Mean]] S1-S6; [[The Use of Woo Woo Words by Enlightened Masters]] S1-S5; [[Working Smarter]] S1-S7).
+- **Method strategy**: The system should not force a false choice between one-route depth and broad practice. One focus route can be taken deeply if the rest of experience is metabolized through it, while broad practice can be backhoe-like field clearing when it remains fun, interesting, productive, and safety-checked ([[Digging Holes]] S4-S7).
+- **Samadhi to function**: Life-practice routing now has a sharper state-transition handle: needed doing may arise from samadhi, and fear, disorientation, or inner-system reactivation can reveal self forming from no-self; this remains bounded by ordinary task safety and clinical differentials ([[There's No Need to Leave Samadhi]] S3-S6).
+- **Service**: Service is more concrete but not more self-certifying. News-triggered rage, terror, grief, shame, and helplessness can be Focus In material so emotion motivates and directs action rather than driving and distorting it; Source contact should return as ordinary approachable helpfulness; and love has several routes, including purification, compassion from one's own suffering, Focus Out merging, and shared Source, none of which replaces ordinary strategy, consent, feedback, or skill ([[How Meditation Can Bring an Enlightened Perspective to the 6 O'Clock News]] S1-S8; [[How a Positive Human Being Emerges from the Source]] S1-S6; [[Where Does Love Come In]] S2-S8).
 
 ## Landscape
 - **Skill engine** ([[Mindfulness Skill Triad]], [[Concentration Power]], [[Sensory Clarity]], [[Equanimity]]) - mindfulness is not mere calm or presentness; it is concentration, clarity, and equanimity working together, with complete sensory experience defined through that triad ([[Basic Mindfulness Introduction]] S2-S3; [[Science of Enlightenment Chapter 2 - The Most Fundamental Skill]] S3, S8).
@@ -28,9 +61,10 @@ This is the wiki's current whole-system synthesis after the compiled Basic Mindf
 - **Technique regulation** ([[Noting]], [[Do Nothing]], [[Nurture Positive]]) - Shinzen's system adjusts object precision, effort, and construction: acknowledge and focus, drop noticed voluntary attention-control, or deliberately cultivate wholesome image-talk-body patterns ([[Basic Mindfulness Introduction]] S8-S9; [[Basic Mindfulness Chapter 3 - The Way of Tranquility]] S8-S10; [[Do Nothing Meditation]] S2-S7; [[Basic Mindfulness Chapter 5 - The Way of Human Goodness]] S10-S12).
 - **Transformation hinge** ([[Complete Experience]], [[Insight and Purification]], [[Suffering Distortion Cycle]]) - concentration, clarity, equanimity, and time are said to turn ordinary sensory experience into insight, purification, reduced suffering, fulfillment, and less distorted behavior; Gate 3 sharpens this as a practice-diagnostic model where intensity matters only when CCE, learning, support, and behavior improve ([[Science of Enlightenment Chapter 5 - Insight and Purification]] S7-S14; [[Zero and One - Part 3 Strong Determination Challenges, Benefits, and Tasting Purification]] S3-S7).
 - **Deep impermanence routes** ([[Impermanence]], [[Flow]], [[Gone]], [[Dissolution]]) - ordinary change becomes trainable as movement, force, vanishing, figure-ground reversal, and sometimes optional or destabilizing surface-to-Source dissolution, which may be absent, blissful, purgatorial, or mixed ([[Science of Enlightenment Chapter 6 - The Many Faces of Impermanence]] S6-S19; [[Science of Enlightenment Chapter 9 - The Power of Gone]] S5-S14; [[Science of Enlightenment Chapter 10 - Return to the Source]] S16-S19; [[Dissolution (Bhanga), and T.S. Eliot]] S2-S5).
-- **Gate 4 synthesis** ([[Impermanence Flow Gone And Source]], [[Expansion And Contraction]], [[Surface To Source]]) - the completed Gate 4 sequence compresses the deep route as ordinary change becoming Flow, abrupt diminishment becoming Gone, stable pressure becoming simultaneous Expansion-Contraction, Source known only through afterglow, and service/improvement testing transcendence.
-- **Self, Source, and enlightenment** ([[No-Self And Personality]], [[Self-Inquiry]], [[Source And Polarities]], [[Operational Enlightenment]], [[DPDR and the Pit of the Void]]) - self is modeled as inner activity that can congeal, clarify into waves, stop into Zero, and re-arise as healthy personality, humility, and service; self-inquiry and Gone are linked as arising-side and passing-side Source routes; relative witness is useful equanimity but still subtle Feel/Image/Talk; absolute witness is routed to contentless cessation/Zero; no-place-to-stand practice refuses fixed center or home base when CCE is adequate; ox-herding now supplies a staged path map from conditional-happiness seeking through first no-self/kensho, taming, surrender to impermanence, repose, empty substance, ordinary appearance, and marketplace service; Source/Zero remains afterglow-bound rather than direct-object metaphysics; Gate 6B distinguishes non-dual awareness as simple no-observer object contact, formless subject-object disappearance, or habitual Zero-polarization-Zero daily-life cycling, and adds comparative no-self vocabulary where annihilation of self/world somethingness is paired with doingness, Source stabilization, goodness, compassion, and service; and operational enlightenment starts as identity non-capture plus provisional-map humility plus lifelong post-realization integration plus expectation calibration around bliss, perfection, communicability, non-ownership, good-place traps, stream-entry-scale world-healing claims that do not imply clean conduct, a DPDR differential where similar emptiness can disable rather than liberate, a dark-night clinical-referral boundary where depression/anxiety may be mixed in, a pit-of-emptiness regimen that pairs emptying the reaction with rebuilding positive Feel/Image/Talk, a teacher-qualification boundary where liberation signs do not replace behavior and student-results checks, a feedback-loop ethics boundary where uneven development requires channels for correction, and an anti-dependency boundary where teacher contact should produce independent peers rather than dependents ([[Science of Enlightenment Chapter 8 - The Real No Self]] S1-S18; [[Self-Enquiry and Mindfulness Meditation]] S1-S6; [[The Absolute Witness]] S2-S7; [[No Place to Stand]] S1-S7; [[Enlightenment and the Ten Zen Ox Herding Pictures]] S1-S5; [[Zen Ox-Herding Pics - Part 2 of 3]] S1-S5; [[A Deeper Freedom Experiences of Selflessness]] S1-S5; [[Humility to the Vanishing Point No Self Around the World]] S1-S5; [[Science of Enlightenment Chapter 10 - Return to the Source]] S12-S15; [[Non-Dual Awareness]] S1-S5; [[What Is Enlightenment]] S1-S4; [[Enlightenment Maps and Models]] S1-S5; [[After Enlightenment What Is Left What Is The Point]] S1-S6; [[Enlightenment Downsides]] S1-S6; [[Six Common Traps on the Path to Enlightenment]] S1-S9; [[Classical Enlightenment Healing the World and Screw-ups]] S1-S8; [[Enlightenment DPDR and Falling Into the Pit of the Void]] S1-S6; [[Classic Dark Night or Clinical Issues]] S1-S7; [[Advanced FAQs Regarding Emptiness]] S1-S5; [[Meditation Teacher's Qualifications and Liberation Experiences]] S1-S5; [[Spiritual Teachers' Behaviour Feedback and Ethics]] S2-S6; [[Teacher's or Student's Issues Impeding Spiritual Progress]] S1-S6).
-- **Life and transmission test** ([[Basic Mindfulness Life Architecture]], [[Total Happiness]], [[Teaching A Path]], [[Practice Guidance Toolkit]]) - practice is accountable to surface and deep happiness for self and others, behavior commitments, stillness-motion-life practice, context-sensitive guidance, teaching-as-service levels, and service rather than private state attainment alone ([[Basic Mindfulness Chapter 11 - Life]] S1-S9; [[Total Happiness - 5 of 5 - The Activity of Teaching]] S1-S5; [[Basic Mindfulness Chapter 12 - The Big Picture]] S9-S13; [[See Hear Feel Introduction - Noting Nutshell and FAQ]] S13; [[Science of Enlightenment Chapter 10 - Return to the Source]] S20).
+- **Deep impermanence synthesis** ([[Impermanence Flow Gone And Source]], [[Expansion And Contraction]], [[Surface To Source]]) - the deep-change route moves from ordinary Flow and Gone into Expansion-Contraction and Source-afterglow language, with service and improvement as tests rather than metaphysical proof.
+- **Self, Source, and enlightenment** ([[No-Self And Personality]], [[Self-Inquiry]], [[Source And Polarities]], [[Operational Enlightenment]], [[DPDR and the Pit of the Void]]) - load this cluster when selfing, witness, no-place-to-stand, ox-herding, Source/Zero, non-dual awareness, no-self distress, or enlightenment claims appear. The stable rule is operational humility: no-self and Source language require behavior, feedback, clinical-differential, anti-dependency, and service checks before they count as liberation evidence.
+- **Life and transmission test** ([[Basic Mindfulness Life Architecture]], [[Total Happiness]], [[Teaching A Path]], [[Practice Guidance Toolkit]]) - practice is accountable to surface and deep happiness for self and others, practice rhythm, behavior commitments, stillness-motion-life practice, context-sensitive guidance, teaching-as-service levels, and service rather than private state attainment alone ([[Basic Mindfulness Chapter 11 - Life]] S1-S9; [[Total Happiness - 5 of 5 - The Activity of Teaching]] S1-S5; [[The Big Picture as I See It]] S1-S7; [[Basic Mindfulness Chapter 12 - The Big Picture]] S9-S13; [[See Hear Feel Introduction - Noting Nutshell and FAQ]] S13; [[Science of Enlightenment Chapter 10 - Return to the Source]] S20).
+- **Lineage translation and authority humility** ([[Lineage Translation]], [[Shinzen's Teaching Method]], [[Mastery Without Guru Inflation]]) - Shinzen borrows functionally across Zen, vipassana, jhana/shamatha, Vajrayana/Shingon, Jewish and Christian mysticism, ritual/mantra, archetype practice, Native ceremonial adjacency, and science-flavored analysis. Treat these as practice-useful translations and influence claims, not as proof of doctrinal sameness, receiving-tradition authority, scientific validation, teacher finality, ritual efficacy, or cultural authorization.
 
 ## Through-Line
 The system begins with a pragmatic attention claim. Meditation strengthens baseline concentration, but Shinzen's mindfulness requires two further skills: sensory clarity and equanimity ([[Science of Enlightenment Chapter 2 - The Most Fundamental Skill]] S3). The manual makes the same triad its root definition of mindful awareness, then adds a practice success test: practice should reduce suffering, increase fulfillment, deepen self-knowledge, change behavior, or cultivate love and service in a reasonable time frame ([[Basic Mindfulness Introduction]] S2-S5).
@@ -40,6 +74,70 @@ The Sensory Grid turns that skill claim into a routing grammar. Experience can b
 The completed SHF introduction shifts the current interface without replacing the older model. The later system makes Focus on See, Hear, Feel, and Everything the standard beginner entry; interprets labels by focus range; allows exclusive or inclusive emphasis; normalizes missed, guessed, late, averaged, and repeated notes; and treats label strength, re-noting, zooming, stance, and explicit Gone as adjustable supports ([[See Hear Feel Introduction - Starting Focus Ranges]] S1-S5; [[See Hear Feel Introduction - Simple and Flexible Labels]] S4-S8; [[See Hear Feel Introduction - Four Okays and Required vs Allowed]] S1-S11; [[See Hear Feel Introduction - Noting Nutshell and FAQ]] S3-S8). Unit 08 gives the compatibility rule: the old grid remains valid and upwardly compatible, while the newer Unified Mindfulness interface hides and extends it through flexible labeling ([[See Hear Feel Introduction - Practice Organization and System Transition]] S7-S10).
 
 The transformation claim is CCE over time. Chapter 5 states the local theorem: concentration plus sensory clarity plus equanimity plus time yields insight plus purification ([[Science of Enlightenment Chapter 5 - Insight and Purification]] S10). The mechanism is not that meditation creates special content, but that ordinary sensory events become complete enough to lose compulsive binding. Thought, fear, pleasure, pain, self, and behavior are all routed through trackable components, and "trackable implies tractable" is the operating logic ([[Science of Enlightenment Chapter 5 - Insight and Purification]] S3-S8).
+
+Gate 9 item 17 adds a compact formal-practice mechanism: daily sits and
+retreats simplify the environment so the body-level mind can immediately
+learn the contrast between fighting sensation as suffering and
+noninterference as fulfillment. Shinzen frames this with "reptilian brain"
+and Skinnerian conditioning language, but the model delta is practice-
+mechanical rather than scientific proof: the trained behavior is equanimity
+([[The Reptilian Brain, Skinnerian Training & the Experience of God]]
+S1-S4).
+
+Gate 10 item 3 adds a compact long-haul motivation mechanism. [[The Hockey Stick Metaphor
+and Exponential Growth on the Spiritual Path]] says practice growth may be
+hockey-stick-like for many but not all practitioners; the useful mechanism is
+that the taste of purification can become a positive feedback loop when
+present CCE, especially equanimity, is tangibly sensed as reducing future
+suffering and clearing past pain ([[The Hockey Stick Metaphor and
+Exponential Growth on the Spiritual Path]] S1-S6).
+
+Gate 10 item 2, compiled from the low-quality root transcript because no
+better retranscription exists, adds a time-specific but lower-confidence
+Source branch. [[Advanced Meditators Experience of Time]] contrasts
+chronological responsibility with practice-mature time experience: stronger
+CCE can make activity less sticky and less self-bound, while Shinzen briefly
+contrasts discrete prison-like relative time with continuous smooth free
+time-space. The source updates coverage rather than the system center:
+physics and neuroscience analogies remain speculative and transcript-fragile
+([[Advanced Meditators Experience of Time]] S1-S3).
+
+Gate 10 item 1, compiled from a low-quality root transcript after explicit
+approval to finish the transcript-video set, adds Shinzen's late-life
+practice-and-service arc. [[A Life of Practice and Service Shinzen Young at
+80]] confirms that his future-science project is not peripheral to his
+self-understanding: online retreats, virtual-Shinzen flowcharts, AI, and
+ultrasonic neuromodulation are presented as delivery routes for equanimity and
+responsive guidance at scale. The source also strengthens the boundary: those
+claims remain retrospective, transcript-limited, technically immature, and
+safety/ethics-incomplete, so they update evidence-tiering and service routing
+without changing current practice instructions.
+
+Gate 10 items 4-7 add concrete primitive-Feel examples. [[Primal Feel and
+the Zen Keisaku - 1 of 2]] says Shinzen's conceptual knowledge that the
+keisaku was safe did not remove a body-level terror exposed when Image/Talk
+quieted; his practice move was to train that primitive fear directly until
+it became Flow, merger, and cathartic bliss. [[Primal Feel and the Zen
+Keisaku - 2 of 2]] adds Soryu's companion pattern: meditation pride collapses
+into noticed distraction and insecurity, resistance to pain and threat makes
+pain worse, and nonresistance turns into Flow and uplift. Together, the
+keisaku sources strengthen safety boundaries because Shinzen reports
+fear/craving risk and Soryu explicitly warns against heroic keisaku
+mythology. [[Working Through the Primal Feel Strata]] then generalizes the
+primitive-Feel model beyond the stick: emotional-body practice can trend
+toward less problematic discomfort and more fulfilling pleasure while local
+Feel becomes unpredictable, disproportionate, and stranger as deeper strata
+are exposed. [[Reparenting Our Freaked Out Infant - Noting All Vanishings &
+Gone in Pure Feeling]] adds the live Gone-side router: when vanishings become
+global and agitating, Shinzen checks correlation and sensory channel, locates
+the agitation as pure Feel, includes Feel vanishings in the Gone practice,
+and explicitly allows sitting or napping because ego-death-like work should
+come in manageable doses. The practice handle is to recycle reactions and
+include Feel vanishings only under safety checks for pacing, destabilization,
+function, behavior, and support ([[Primal Feel and the Zen Keisaku - 1 of
+2]] S2-S6; [[Primal Feel and the Zen Keisaku - 2 of 2]] S1-S7; [[Working
+Through the Primal Feel Strata]] S2-S7; [[Reparenting Our Freaked Out Infant
+- Noting All Vanishings & Gone in Pure Feeling]] S1-S7).
 
 Gate 3 turns that theorem into a sharper diagnostic. Complete experience is not inferred from extraordinary content, long sits, pain level, spontaneous movement, retreat aftershock, or bhanga. The better signs are critical-mass CCE from beginning to end, sensory circuits learning not to fight themselves, suffering dropping while sensory detail remains available, positive behavior or perception changing over time, and appropriate support when intensity exceeds the current practice frame ([[Zero and One - Part 1 of 4 Complete Experiences]] S5; [[Zero and One - Part 3 Strong Determination Challenges, Benefits, and Tasting Purification]] S3-S7; [[The Trickle-Down Paradigm of Transformation]] S6-S7; [[Kriyas & Complete Experiences]] S3-S9; [[Experiences of the Dissolution (Bhanga) Process - 2 of 3]] S2-S4).
 
@@ -146,19 +244,246 @@ surface well-being and deep happiness for oneself and others; the dedicated
 Total Happiness close now defines teaching as fostering others'
 extraordinary happiness through subtle presence, coherent description,
 explicit instruction, competence around awakening edges, rare path discovery,
-and supporting teachers. Guidance includes rapport, strategy selection,
-behavior commitments, focus methods, method-choice principles, and follow-up
-([[Basic Mindfulness Chapter 11 - Life]] S7-S9; [[Total Happiness - 5 of 5 -
-The Activity of Teaching]] S1-S5; [[Basic Mindfulness Chapter 12 - The Big
-Picture]] S10-S13; [[See Hear Feel Introduction - Practice Organization and
-System Transition]] S4-S6). If insight, Source, no-self, Flow, or SHF fluency
-do not improve behavior, responsiveness, support, teaching competence, or
-service, that is a model warning rather than a secondary detail.
+and supporting teachers. The Big Picture capstone adds the practice-support
+container: concepts, one good technique, daily self-practice, periodic
+retreat practice, and time raise baseline mindful awareness toward those
+four quadrants. It also names the central mystery that contact with
+impersonal Source can deepen human fulfillment and refine behavior, while
+qualifying ordinary-condition improvement as a general tendency rather than
+an inevitability. Gate 7 item 11 adds the reciprocal support rule: service,
+ethics, lifestyle, diet, exercise, reduced conflict, and other self/world
+improvements can help formal transcend practice start moving when it feels
+stuck. Gate 7 item 12 adds the behavior-change escalation rule: urges can be
+deconstructed into Touch, Feel, Image, and Talk, but if that does not change
+behavior, external accountability such as therapy, recovery support,
+sponsorship, friendship, or manageable assignments should be added. Gate 9
+item 1 adds the scale version of that boundary: psychotherapy gives the
+gross personality-and-behavior structure, while mindfulness gives fine
+second-by-second sensory resolution, micro-holdings, and all-self insight;
+the two pictures complement rather than replace each other
+([[Mindfulness & Psychotherapy]] S4-S8). Gate 9 item 2 adds the medical-
+adjacent version: in cancer or health crisis, meditation can be aimed at
+objective healing, suffering reduction, or both, but Shinzen's go-to
+recommendation is suffering reduction and he does not validate emotion-
+causes-cancer claims ([[Mindfulness, Cancer & Healing - 1 of 3]] S3-S10).
+Gate 9 item 3 operationalizes that default as sensory-challenge practice:
+physical symptoms, emotional distress, negative Image, and negative Talk can
+be met first through non-suppressive focus-away into Rest, positive
+Feel/Image/Talk, music, or pleasant sights/sounds while the challenge remains
+permitted in the background ([[Mindfulness, Cancer & Healing - 2 of 3]]
+S5-S9). Gate 9 item 4 completes the complementary focus-on branch: direct
+contact with illness distress should not mean vague fighting; it becomes
+healthy when trained mindfulness separates physical body, emotional body,
+visual thought, and auditory thought, then uses concentration, sensory
+clarity, and equanimity to reduce resistance to each strand
+([[Mindfulness, Cancer & Healing - 3 of 3]] S1-S9).
+Gate 9 item 5 extends the applied layer to childbirth: for an already-trained
+practitioner, contraction peaks can become rhythmic Touch expansion while
+Image, Talk, and emotional selfing contract into Rest, with valleys used for
+bodily relaxation; this is a sensory coaching strategy, not obstetric
+guidance or natural-birth pressure ([[A Mindful Birth and Zen Parenting, Part
+1 of 2]] S1-S9).
+Gate 9 item 6 completes the pair's parenting half: post-birth practice is
+immediate function, where the baby can be treated as Roshi-like dynamic
+nothingness contacted through sight, sound, and touch, and raw infant-like
+Feel can increase compassion, but pediatric care, postpartum support, sleep,
+family help, developmental claims, and clinical concerns remain outside
+meditation-teacher authority ([[A Mindful Birth and Zen Parenting, Part 2 of
+2]] S1-S9).
+Gate 9 item 7 adds the sleep-rest branch: when practice or insomnia-like
+difficulty interrupts sleep, Shinzen recommends keeping the body lying still
+so it rests, maintaining a continuous technique so consciousness rests, and
+reframing the demand for sleep into a good night's rest; this normalizes some
+practice-linked wakefulness without making sleep loss an attainment marker or
+replacing medical, psychiatric, medication, pain, trauma, or sleep-disorder
+support ([[Sleep Interruption & A Good Night's Rest]] S1-S8).
+Gate 9 item 8 adds the sexuality/pleasure branch: Shinzen distinguishes sex
+itself from craving and unconsciousness that obscure it, then says lovemaking
+can become pleasure meditation when CCE momentum carries into intense
+pleasant Touch without tightening around arising or grasping at passing; at
+the self-side, pleasant Touch plus the partner's sight and sound may let the
+Feel/Image/Talk self dissolve into Flow and Gone. This is an advanced
+complete-experience reading, not sexual ethics, tantra authorization, partner
+guidance, sex therapy, or permission to bypass consent, trauma, compulsion,
+relationship, power, legality, sexual-health, or clinical boundaries ([[Do
+You Think Sex is Dirty]] S1-S9).
+Gate 9 item 9 adds the lucid-dream branch: when dream lucidity is already
+present, Shinzen says to apply the same waking-life Five Ways and sensory
+labels by presentation, so external-seeming dream sight is sight, dream
+contact is Touch, dream self-talk is Talk, smell/taste remain under the
+ordinary Touch/Feel convention, and dream melting or permeability can be
+Flow. This strengthens the grid as a practice interface rather than a
+physical-origin ontology, while leaving lucid-dream induction, nightmares,
+sleep disruption, trauma, parasomnia, dissociation, mania/psychosis risk,
+and clinical boundaries outside the talk ([[Lucid Dreaming and Five Ways
+Mindfulness Meditation]] S2-S8).
+Gate 9 item 10 adds the tea/coffee branch: Shinzen treats stimulants as
+conditionally compatible with meditation when they do not make the
+practitioner jangled, because meditation includes a clarity-alertness
+component as well as tranquility. This strengthens the calm-plus-clear model
+without making caffeine a method, dose recommendation, health claim, or
+workaround for sleep, medical, medication, recovery, anxiety, or functional
+concerns ([[Tea, Coffee and Meditation]] S2-S4).
+Gate 9 item 11 adds the newcomer-orientation branch: Shinzen introduces the
+channel's approach as CCE skill cultivation that can make ordinary experience
+extraordinary, with spiritual maturity defined as both seeing beyond
+self/world and improving self/world. The same source gives the public
+hardware/software translation rule and a science-friendly sensory-tracking
+analogy, while leaving practice instructions, safety criteria, religious
+conflict, science validation, and competent-instruction standards outside the
+short welcome talk ([[Shinzen Young's Welcome to New Viewers]] S1-S6).
+Gate 9 items 13 and 14 add Science of Enlightenment source posture rather
+than new technique. [[The Science of Enlightenment Audio Series]] says the
+audio/book lineage began as extemporaneous student-audience oral teaching
+later shaped by substantial editing, while [[Shinzen Young - The Science of
+Enlightenment (Book Trailer)]] gives the public mission compression:
+precise accessible language, nature's windows, science-informed practice
+optimism, and hoped-for East-West human benefit. Both sources should be used
+to calibrate the source family and teaching posture, not to infer a new
+practice method or scientific validation ([[The Science of Enlightenment
+Audio Series]] S1-S5; [[Shinzen Young - The Science of Enlightenment (Book
+Trailer)]] S1-S7).
+Gate 9 item 15 adds the explicit reality/sensory-experience boundary:
+Shinzen says he usually avoids talking about objective reality because he
+does not know what, if anything, lies behind sensory experience, while he has
+high confidence in teaching sensory experience, selfing through
+Feel/Image/Talk reactions to Touch/Sight/Sound, suffering as pain multiplied
+by resistance, and CCE making ordinary sensory events extraordinary. His
+everything-at-once or causal-nexus idea is preserved only as conjecture
+([[Reality & Sensory Experience]] S1-S5).
+Gate 7 item 13 bounds soul-language as poetic deep
+Feel/Image/Talk: surface Focus In
+may reveal subtler image, talk, and emotional-body strata, but these should
+not be reified as theology, psychology, infinite layers, or settled
+neuroscience. Guidance includes rapport, strategy selection, behavior
+commitments, focus methods, method-choice principles, and follow-up ([[Basic
+Mindfulness Chapter 11 - Life]] S7-S9; [[Total Happiness - 5 of 5 - The
+Activity of Teaching]] S1-S5; [[The Big Picture as I See It]] S1-S7; [[Basic
+Mindfulness Chapter 12 - The Big Picture]] S10-S13; [[See Hear Feel
+Introduction - Practice Organization and System Transition]] S4-S6; [[How the
+Endeavor of Improve Supports Transcend]] S1-S5; [[Mindfulness and Behavioural
+Change]] S2-S7; [[The True Beauty of Your Soul]] S1-S5; [[Mindfulness & Psychotherapy]] S4-S8; [[Mindfulness, Cancer & Healing - 1 of 3]] S3-S10; [[Mindfulness, Cancer & Healing - 2 of 3]] S5-S9; [[Mindfulness, Cancer & Healing - 3 of 3]] S1-S10; [[A Mindful Birth and Zen Parenting, Part 1 of 2]] S1-S9; [[A Mindful Birth and Zen Parenting, Part 2 of 2]] S1-S9; [[Sleep Interruption & A Good Night's Rest]] S1-S8; [[Do You Think Sex is Dirty]] S1-S9; [[Lucid Dreaming and Five Ways Mindfulness Meditation]] S2-S8). If
+insight, Source, no-self, Flow, or SHF fluency do not improve behavior,
+responsiveness, support, teaching competence, or service, that is a model
+warning rather than a secondary detail.
+
+Gate 8 begins by clarifying where Shinzen says the system comes from and how
+much authority those sources should carry. [[Which Teachers Have Influenced
+How You Teach]] frames the method as standing on two sets of shoulders:
+contemplative/shamanic practice inheritance and Western mathematical,
+empirical, rigorous, skeptical, pragmatic science. [[Authority, Opinions and
+the Buddhist Canon]] then prevents that inheritance from becoming authority
+inflation: teacher statements, even Shinzen's, are casual opinions or
+pointers, and canon is useful but limited by the lack of dialogue with the
+original teachers ([[Authority, Opinions and the Buddhist Canon]] S1-S8).
+[[Sasaki Roshi & Burmo-Japanese Mindfulness Fusion]] then shows the concrete
+procedural translation mechanism: Sasaki's koan-route, observer-including
+Expansion-Contraction model is mounted inside Burmese-style noting and broken
+into manageable steps ([[Sasaki Roshi & Burmo-Japanese Mindfulness Fusion]]
+S3-S8). [[Leonard Cohen, Sasaki Roshi, & Love Itself - Part 1 of 2]] adds a
+poetic and affective translation channel: Cohen's song is read as Sasaki's
+Zero-Expansion-Contraction cycle, with blissful Flow released into Gone,
+ordinary-life return, and true love as Zero ([[Leonard Cohen, Sasaki Roshi, &
+Love Itself - Part 1 of 2]] S1-S7). [[Lineage Translation]] now owns that
+layer. [[The Dark Night by St. John of the Cross (recited in Spanish &
+English)]] adds the Christian poetic-recitation version: Shinzen reads St.
+John's poem as a direct description of oneness with spiritual Source in which
+self and world as things disappear while sensory richness, fulfillment,
+vacuity, timelessness, spacelessness, and transparency are tasted together
+([[The Dark Night by St. John of the Cross (recited in Spanish & English)]]
+S2-S7). [[Om Mani Padme Hum Meaning and Some Mindful Strategies When Chanting]]
+adds the chant-practice lesson: Shinzen turns chant into formal meditation by
+choosing a focus route through sound, body, Rest, silence, Flow, Focus on
+Positive, or labels when spacing out requires support ([[Om Mani Padme Hum
+Meaning and Some Mindful Strategies When Chanting]] S5-S8). The older
+[[Leonard Cohen's Love Itself - Part 2 of 2]] page preserves the duplicate
+content under misleading metadata. Future comparative material should
+therefore be read as functional translation into Shinzen's practice grammar
+rather than as generic perennial proof, lineage authorization, literary proof,
+teacher finality, scriptural finality, scientific validation, or unverified
+raw-file metadata. [[Sasaki Roshi, the Complex Number System & the Source of Love]]
+then adds the tightest evidence-tier caveat for Sasaki's broadest claims:
+Shinzen says Sasaki may be implying a universal contrast-neutralization
+theory, while Shinzen only claims the paradigm as useful moment-by-moment
+consciousness analysis; complex-number and quantum material remain analogy,
+but Source contact is still linked in Shinzen's frame to unconditional love
+and service ([[Sasaki Roshi, the Complex Number System & the Source of Love]]
+S1-S7).
+[[The Dharma Name Shinzen]] adds a personal-lineage version of the same Gate
+8 boundary. Shinzen's Dharma name carries teacher and temple-founder
+inheritance, but its practice meaning is directional rather than
+status-based: truth or authenticity names wisdom and self/world
+transcendence, while goodness names sila, character improvement, and
+bodhisattva service ([[The Dharma Name Shinzen]] S1-S8). This strengthens the
+system's truth-plus-goodness axis and keeps lineage naming accountable to
+ordinary conduct and service.
+
+[[Jewish Mysticism & Mindfulness Meditation]] adds a Jewish mystical
+translation of the same sensory-to-Source route. Shinzen maps body-mind self
+to touch, feel, image, and talk, then maps impersonal Flow and Gone/One/Source
+onto Kabbalistic person/soul language. The practice implication is continuity
+of Zero, polarization, self/world arising, and reabsorption during ordinary
+activity, plus shared-Origin kinship. The boundary is that this supports
+Shinzen's translation method, not independent Kabbalah scholarship or proof
+that traditions are doctrinally identical ([[Jewish Mysticism & Mindfulness
+Meditation]] S1-S8).
+
+[[Jhanas and Focus on Rest]] adds an early Buddhist absorption translation
+that loops back into the core practice architecture. Shinzen explicitly says
+Focus on Rest is his reworking of some principles from shamatha/jhana,
+translated into modern vocabulary and procedure through Relaxation, Light,
+Silence, Peace, Blank, and Quiet. The practice role is concentration
+feedback through pleasant rest, but the boundary is equally important:
+tranquil states must be made sensory enough to see impermanence and
+emptiness, then penetrated toward cessation/Source rather than treated as
+final pleasant states ([[Jhanas and Focus on Rest]] S1-S9).
+
+[[The Secret of Archetypal Deity Yoga]] adds the explicit deity-yoga
+translation behind the earlier Vajrayana/Shingon influence. Shinzen says the
+non-insane, non-possessive way to "become a deity" is to replace ordinary
+Talk, Image, Feel, and Touch with mantra, deity image, deity feel, and mudra
+or ritual touch while knowing the identity is constructed. The system-level
+point is that Focus on Positive can include archetypal identity construction
+when it reveals ordinary self-identification as arbitrary and sensory-built,
+not when it inflates the practitioner into special authority or metaphysical
+certainty ([[The Secret of Archetypal Deity Yoga]] S3-S8).
+
+[[On Rites, Rituals, and Ceremonies]] adds the general ritual rule that now
+frames chant, deity yoga, and sweat lodge. Shinzen says retreatants do not
+have to bow or participate in ceremonies, and that rites are not effective in
+themselves; they become legitimate meditation only when used as simplified,
+repetitive, symbolic containers for concentration, sensory clarity, and
+equanimity ([[On Rites, Rituals, and Ceremonies]] S1-S9).
+
+[[Is Buddhist Meditation Compatible with Other Religions]] adds the direct
+religious-compatibility rule. Shinzen says Buddhist meditation can be
+compatible with Christianity, Islam, Judaism, rationalist humanism,
+skepticism, nonbelief, and even more fundamentalist religious viewpoints
+when its core is defined as concentration power, sensory clarity,
+equanimity, freedom from ego and suffering, and freedom from behavior
+distorted by suffering. The boundary is equally important: Buddhist beliefs
+such as reincarnation and gods need not be compatible with every religion or
+adopted wholesale, so the source supports partial practice adoption and
+path-deepening rather than doctrinal merger ([[Is Buddhist Meditation
+Compatible with Other Religions]] S1-S9).
+
+The two sweat-lodge sources add a different kind of Gate 8 translation.
+[[The Native American Sweat Lodge Ceremony - Part 1 of 2]] places the
+ceremony as optional retreat-adjacent ritual access through named Native
+leaders, praises its prayers, songs, shared energy, and "grandfathers" model,
+and ties safety to traditional Native training rather than generic heat
+ordeal or non-Native imitation ([[The Native American Sweat Lodge Ceremony -
+Part 1 of 2]] S1-S8). [[The Native American Sweat Lodge - Part 2 of 2]] then
+translates the ceremony into Shinzen's own model: communal support,
+group-disclosure, altered-state journey, strong physical and emotional
+sensation purified through equanimity, "all my relations," and the flow of
+expansive sky, contractive earth, and vibrating life/breath/spirit energy
+([[The Native American Sweat Lodge - Part 2 of 2]] S2-S9).
 
 ## Practice Routing
 Future practice reasoning should usually route in this order:
 
-- **Source tier**: Is the task asking for Shinzen's instruction, the wiki's synthesis, a clinical/scientific claim, a metaphysical claim, or a comparative-tradition claim?
+- **Source tier**: Is the task asking for Shinzen's instruction, the wiki's synthesis, a teacher opinion, a canon/scripture claim, a clinical/scientific claim, a metaphysical claim, or a comparative-tradition claim?
 - **Interface**: Is the better entry the older Basic Mindfulness grid, the newer SHF focus-range interface, Do Nothing, Nurture Positive, Gone, or a guidance/life-practice frame?
 - **Skill**: Is the live need concentration, sensory clarity, equanimity, or balance among them?
 - **Object scope**: Is the useful focus a grid cell, column, row, all experience, SHF range, specialized range, Space, Flow, Gone, Do Nothing, or Nurture Positive?
@@ -176,12 +501,13 @@ This routing keeps Shinzen's system modular without turning it into a menu of di
 - **Established as Shinzen's stated system**: CCE as mindful awareness; the older Sensory Grid; the newer SHF focus-range and flexible-label interface; Noting, Do Nothing, and Nurture Positive; the Five Ways; Gone as noticed vanishing; Four Okays; and the total-happiness/guidance architecture are directly supported by compiled primary source pages.
 - **Probable as the wiki's current synthesis**: The best whole-system model is sensory completion with interface evolution: CCE plus sensory routing leads to complete experience, which over time supports insight, purification, impermanence, no-self, behavior change, and service.
 - **Source-attributed and safety-sensitive**: Flow as purifier/guide/unifier, Gone as indirect Source contact, no-self as fluid personality, Space as perfection/Stillpoint, operational enlightenment as identity non-capture, altered phenomena as upaya, bhanga, primordial Feel, free-shifting during high activation, retreat equivalence, coach competence, and spontaneous service are important inside Shinzen's frame but require careful boundaries.
-- **Speculative or contested outside the frame**: Source/Zero as objective metaphysics, powers/entities/past lives, science-spirituality parallels, future enlightenment technology, broad neuroscience claims, mathematics-based inner-experience modeling, universal comparative mysticism, and clinical or developmental interpretations are not established by the compiled sources. Gate 6A item 2 strengthens Shinzen's own caution that current enlightenment maps are not final.
+- **Speculative or contested outside the frame**: Source/Zero as objective metaphysics, powers/entities/past lives, science-spirituality parallels, future enlightenment technology, ultrasound-assisted equanimity, AI or virtual-teacher guidance, broad neuroscience or behaviorist-conditioning claims, mathematics-based inner-experience modeling, time-space physics analogies, universal comparative mysticism, and clinical or developmental interpretations are not established by the compiled sources. Gate 6A item 2 strengthens Shinzen's own caution that current enlightenment maps are not final, Gate 9 item 15 strengthens the boundary by showing Shinzen himself declines confidence about objective reality behind sensory experience, the 80th-year retrospective strengthens the need to separate Shinzen's technology hopes from evidence of readiness, and the advanced-time dialogue strengthens the need to separate subjective time-space idiolect from validated physics.
 
 ## Tensions And Frontiers
 - [[See Hear Feel]] - SHF is now the current compact interface, but its simplicity depends on hidden focus-range structure; ambiguity returns when the active range, label mode, or old/new terminology is unclear.
+- [[Lineage Translation]] - Gate 8 is now the main compression for the influence map, authority/canon boundary, Burmo-Japanese fusion mechanism, ritual/mantra routing, poetic transmission through Cohen and St. John, Dharma-name responsibility, Jewish-mysticism mapping, jhana/Rest translation, deity/archetype construction, general ritual-as-CCE optionality, Buddhist meditation as CCE-plus-behavior compatibility rather than conversion, and sweat lodge as optional ritual adjacency plus Shinzen's bounded communal-purification and Expansion-Contraction interpretation, but later sources still need to test cultural specificity and cross-traditional proof boundaries.
 - [[Complete Experience Safety Boundary]] - the central open question: how to distinguish complete experience from suppression, dissociation, indifference, medical neglect, self-erasure, energy fixation, unsupported dissolution, Source overclaim, or positivity bypass.
-- [[Practice Guidance Toolkit]] - guidance is one of the system's strongest applied layers, but scope of practice, consent, trauma routing, medical referral, coach or teacher competence, and behavior verification are not operationalized.
+- [[Practice Guidance Toolkit]] - guidance is one of the system's strongest applied layers, but scope of practice, consent, trauma routing, medical referral, illness and cure-claim routing, psychotherapy collaboration, coach or teacher competence, and behavior verification are not operationalized.
 - [[Intermediate Realm]] - altered power phenomena are routed as sensory practice material, not proof or status, but clinical differentials and power-service ethics remain open.
 - [[Source And Polarities]] - the polarity model is central and useful, yet chapter 10's afterglow boundary and explicit science caution prevent direct-object or objective-reality overclaim.
 - [[Operational Enlightenment]] - early Gate 6A evidence now combines identity non-capture, map humility, post-realization integration, anti-projection/creditless-influence boundaries, good-place trap diagnosis, stream-entry-scale world-healing calibration, a DPDR/pit-of-the-void differential, dark-night clinical-referral posture, emptiness-reconstruction regimen, teacher-qualification boundary, feedback-loop ethics, and anti-dependency, while formal teacher-conduct standards remain underdeveloped.
@@ -192,6 +518,7 @@ This routing keeps Shinzen's system modular without turning it into a menu of di
 - Current clinical evidence and Shinzen-specific case criteria for DPDR, pit-of-the-void distress, dark night, depression, anxiety, medication/substance effects, and meditation-linked derealization would sharpen the new Gate 6A differential.
 - Behavioral or practice-case evidence showing reliable links between CCE, complete experience, purification, behavior change, and service would raise confidence in the transformation claims.
 - Evidence that Source, powers, future neuroscience, mathematics-based inner-experience models, or cross-tradition parallels are more than Shinzen's interpretive frame would raise those tiers; counterexamples or harms from those frames would lower them.
+- Stronger evidence about how Shinzen handles lineage authority, Dharma names, Buddhist canon, receiving-tradition conflict, ritual optionality, deity/archetype practice, jhana/shamatha equivalence, cultural specificity, and dialogue limits would sharpen the new Gate 8 translation layer.
 - Later Shinzen lecture ingests may revise live routing details for Gone, Flow, expansion-contraction, total happiness, service, dark-night support, teacher ethics, and teaching register. They should preserve practice handles and update owner pages before this synthesis is revised again.
 
 ## Dependencies
@@ -222,13 +549,46 @@ This routing keeps Shinzen's system modular without turning it into a menu of di
 - [[Total Happiness]] - aim structure and service test.
 - [[Teaching A Path]] - Total Happiness close for teaching as subtle presence, coherent description, explicit instruction, competence-sensitive awakening-edge support, path discovery, and support for teachers.
 - [[Practice Guidance Toolkit]] - applied teaching, method-choice, behavior-commitment, and follow-up layer.
+- [[Mindfulness & Psychotherapy]] - Gate 9 source for Shinzen's scale-based complementarity between psychotherapy's gross personality/behavior picture and mindfulness's fine-grained sensory transformation picture.
+- [[Mindfulness, Cancer & Healing - 1 of 3]] - Gate 9 source for separating objective-healing meditation from suffering-reduction meditation in cancer and health crisis.
+- [[Mindfulness, Cancer & Healing - 2 of 3]] - Gate 9 source for sensory challenge framing and non-suppressive focus-away in cancer and health crisis.
+- [[Mindfulness, Cancer & Healing - 3 of 3]] - Gate 9 source for healthy focus-on practice through sensory separation and resistance reduction in cancer and health crisis.
+- [[A Mindful Birth and Zen Parenting, Part 1 of 2]] - Gate 9 source for childbirth contraction-rhythm practice and its obstetric-scope boundary.
+- [[A Mindful Birth and Zen Parenting, Part 2 of 2]] - Gate 9 source for Zen parenting as immediate function, baby-as-Roshi sensory contact, and raw infant-Feel compassion with pediatric/postpartum boundaries.
+- [[Sleep Interruption & A Good Night's Rest]] - Gate 9 source for body-rest plus continuous-technique practice under sleep-health boundaries.
+- [[Do You Think Sex is Dirty]] - Gate 9 source for sexuality as pleasure meditation and self-dissolution under consent, ethics, relational, sexual-health, trauma, compulsion, and clinical boundaries.
+- [[Lucid Dreaming and Five Ways Mindfulness Meditation]] - Gate 9 source for dream-state continuity of waking labels under sleep and altered-state boundaries.
+- [[Tea, Coffee and Meditation]] - Gate 9 source for tea/coffee as conditional alert-clarity support under stimulant, sleep, medical, and functioning boundaries.
+- [[Shinzen Young's Welcome to New Viewers]] - Gate 9 source for the public entry compression of CCE, transcend-plus-improve maturity, hardware/software portability, and science-friendly sensory tracking.
+- [[The Science of Enlightenment Audio Series]] - Gate 9 source for Science of Enlightenment audio/book provenance as extemporaneous oral teaching shaped by substantial editing.
+- [[Shinzen Young - The Science of Enlightenment (Book Trailer)]] - Gate 9 source for the public Science of Enlightenment mission statement: precise language, nature's windows, science-informed optimism, and calibrated world-benefit aspiration.
+- [[Consciously Decoupling, Dropping Out & Eadem Mutata Resurgo]] - Gate 9 source for sudden Rest as a decoupling cue during active-object practice and for deep dropout language under sleepiness, dullness, and Source-overclaim boundaries.
 - [[Turn Toward and Turn Away]] - Gate 2 owner page for the direct-contact, background-equanimity, Flow, Rest, positive-Feel, and support-selection fork.
 - [[Complete Experience Safety Boundary]] - active frontier that governs how far to reason from the model.
+- [[Lineage Translation]] - Gate 8 synthesis for functional borrowing, contemporary scientific-style formulation, and cross-tradition boundaries.
+- [[Which Teachers Have Influenced How You Teach]] - first Gate 8 source for Shinzen's two-sets-of-shoulders influence map.
+- [[Sasaki Roshi & Burmo-Japanese Mindfulness Fusion]] - Gate 8 source for mounting Sasaki's observer-including Expansion-Contraction model inside Burmese-style noting.
+- [[Leonard Cohen, Sasaki Roshi, & Love Itself - Part 1 of 2]] - Gate 8 source for poetic/affective translation of Sasaki's Zero cycle, blissful Flow release, and true love as Zero.
+- [[The Dark Night by St. John of the Cross (recited in Spanish & English)]] - Gate 8 source for Christian mystical poetry as rich-yet-vacuous Source transmission.
+- [[Om Mani Padme Hum Meaning and Some Mindful Strategies When Chanting]] - Gate 8 source for chant-as-formal-meditation routing under clean metadata.
+- [[Leonard Cohen's Love Itself - Part 2 of 2]] - Gate 8 source for the duplicate chant content under a misleading Love Itself title.
+- [[Sasaki Roshi, the Complex Number System & the Source of Love]] - Gate 8 source for Shinzen's caveat around Sasaki's grand-theory claims, complex-number analogy, and Source-to-love-to-service frame.
+- [[The Dharma Name Shinzen]] - Gate 8 source for Shinzen's Dharma-name lineage responsibility and truth/goodness path summary.
+- [[Jewish Mysticism & Mindfulness Meditation]] - Gate 8 source for mapping Jewish mystical person/soul language onto touch/feel/image/talk, Flow, Gone, and shared Zero.
+- [[Jhanas and Focus on Rest]] - Gate 8 source for Focus on Rest as Shinzen's partial modern reworking of shamatha/jhana.
+- [[The Secret of Archetypal Deity Yoga]] - Gate 8 source for deity yoga as controlled Touch/Feel/Image/Talk identity construction inside Focus on Positive.
+- [[On Rites, Rituals, and Ceremonies]] - Gate 8 source for optional ritual and bowing boundaries plus ritual as CCE vehicle rather than automatic efficacy.
+- [[Is Buddhist Meditation Compatible with Other Religions]] - Gate 8 source for Buddhist meditation as compatible with other religions, secular skepticism, and nonbelief when extracted as CCE plus behavior change rather than full Buddhist belief adoption.
+- [[The Native American Sweat Lodge - Part 2 of 2]] - Gate 8 source for Shinzen's interpretation of sweat lodge as communal purification, sensation-with-equanimity, "all my relations," and Expansion-Contraction nature-flow.
+- [[The Native American Sweat Lodge Ceremony - Part 1 of 2]] - Gate 8 source for Native American sweat lodge as optional retreat-adjacent ritual access under trained Native leadership and heat/ritual safety boundaries.
+- [[Authority, Opinions and the Buddhist Canon]] - Gate 8 source for casual-opinion humility, canon limits, and direct-experience/logical-inference/dialogue boundaries.
+- [[A Life of Practice and Service Shinzen Young at 80]] - Gate 10 retrospective source for practice commitment, interactive algorithmic guidance, online delivery, ultrasound/AI hopes, and upaya-as-gateway under transcript-quality limits.
 
 ## Related
 - [[Basic Mindfulness Life Architecture]] - life, action, situation, cycles, guidance, and service layer.
 - [[See Hear Feel Introduction - Practice Organization and System Transition]] - clearest source for old/new compatibility and current SHF practice organization.
 - [[See Hear Feel Introduction - Noting Nutshell and FAQ]] - clearest source for SHF Noting options and context-sensitive coaching.
+- [[Source Science And Analogy Boundary]] - evidence-tier boundary for science, mathematics, AI, ultrasound, physics, and time-space claims.
 - [[Intermediate Realm]] - altered phenomena and power/blockage route.
 - [[Dissolution]] - surface-to-Source destabilization and bhanga model.
 - [[Primordial Feel]] - speculative Gone-triggered body-emotion frontier.

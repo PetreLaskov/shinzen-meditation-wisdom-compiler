@@ -1,0 +1,29 @@
+# FOR BEGINNERS - Playlist Manifest
+
+**Channel:** https://www.youtube.com/@ShinzenVideos
+**Playlist ID:** PLpWI1yEIe1nEVcqC0RLgPPXgftPBibq4n
+**Playlist URL:** https://www.youtube.com/playlist?list=PLpWI1yEIe1nEVcqC0RLgPPXgftPBibq4n
+**Scrape date:** 2026-05-18
+**Reported video count:** 14
+**Enumerated rows:** 14
+**Owner/uploader:** Shinzen Videos
+
+Playlist categories preserve YouTube organization only; they are not
+treated as Shinzen's own teaching taxonomy.
+
+| # | Video ID | Title | Length | Status | Quality | Source | Raw path | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | `u_6-NY2yA_k` | How do I know which kind of meditation is best for me? ~ Shinzen Young | 7:27 | written | B | youtube auto captions | `raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/How do I know which kind of meditation is best for me ~ Shinzen Young_u_6-NY2yA_k.md` | Transcript is already present in the ShinzenVideos raw output; no duplicate was written on rerun. |
+| 2 | `1J9LQbImU1c` | Shinzen Young describes Mindfulness Meditation - as only he can. | 9:06 | written | B | youtube auto captions | `raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/Shinzen Young describes Mindfulness Meditation - as only he can_1J9LQbImU1c.md` | Transcript is already present in the ShinzenVideos raw output; no duplicate was written on rerun. |
+| 3 | `24QhO2GcCvQ` | How is Shinzen's teaching distinctive?  Mathematics & "Taking the Mist out of Mysticism." | 8:32 | written | B | youtube auto captions | `raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/How is Shinzen's teaching distinctive Mathematics & Taking the Mist out of Mysticism_24QhO2GcCvQ.md` | Transcript is already present in the ShinzenVideos raw output; no duplicate was written on rerun. |
+| 4 | `vBP54XrKC-Q` | Shinzen describes all "5 Ways" before Guiding Steph ~ Shinzen Young | 4:25 | written | B | youtube auto captions | `raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/Shinzen describes all 5 Ways before Guiding Steph ~ Shinzen Young_vBP54XrKC-Q.md` | Transcript is already present in the ShinzenVideos raw output; no duplicate was written on rerun. |
+| 5 | `tEsxY7DI06g` | Shinzen Guides Steph in "Focus Out" (Sight, Sound, Touch)~ Shinzen Young | 7:20 | written | B | youtube auto captions | `raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/Shinzen Guides Steph in Focus Out (Sight, Sound, Touch)~ Shinzen Young_tEsxY7DI06g.md` | Transcript is already present in the ShinzenVideos raw output; no duplicate was written on rerun. |
+| 6 | `MPxZYN-Z2-I` | "Focus on Rest" as one of the "5 Ways" ~ Shinzen Young | 6:36 | written | B | youtube auto captions | `raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/Focus on Rest as one of the 5 Ways ~ Shinzen Young_MPxZYN-Z2-I.md` | Transcript is already present in the ShinzenVideos raw output; no duplicate was written on rerun. |
+| 7 | `v9OP1YS7e-c` | What if you have no concentration?  What are the benefits of concentration? ~ Shinzen Young | 7:32 | written | B | youtube auto captions | `raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/What if you have no concentration What are the benefits of concentration ~ Shinzen Young_v9OP1YS7e-c.md` | Transcript is already present in the ShinzenVideos raw output; no duplicate was written on rerun. |
+| 8 | `1p4jWtnrJAo` | Can ordinary experience count as meditation? ~ Shinzen Young | 5:59 | written | B | youtube auto captions | `raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/Can ordinary experience count as meditation ~ Shinzen Young_1p4jWtnrJAo.md` | Transcript is already present in the ShinzenVideos raw output; no duplicate was written on rerun. |
+| 9 | `VAIF9V7Qee4` | How "Focus on Positive" is a Mindfulness Practice ~ Shinzen Young | 7:39 | written | B | youtube auto captions | `raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/How Focus on Positive is a Mindfulness Practice ~ Shinzen Young_VAIF9V7Qee4.md` | Transcript is already present in the ShinzenVideos raw output; no duplicate was written on rerun. |
+| 10 | `qocJp_jInHI` | What is Equanimity? ~ Shinzen Young | 4:55 | written | A | youtube captions | `raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/What is Equanimity ~ Shinzen Young_qocJp_jInHI.md` | Transcript is already present in the ShinzenVideos raw output; no duplicate was written on rerun. |
+| 11 | `PV8neHohagk` | Advanced and Specialized meditation on the phone.  How phone retreats work.  ~ Shinzen Young | 4:49 | written | C | faster-whisper (tiny.en, CPU int8, VAD) | `raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/Advanced and Specialized meditation on the phone. How phone retreats work. ~ Shinzen Young_PV8neHohagk.md` | Transcript is already present in the ShinzenVideos raw output; no duplicate was written on rerun. |
+| 12 | `cz9W-UdjXOE` | Info on how to study with Shinzen Young | 0:50 | written | B | youtube auto captions | `raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/Info on how to study with Shinzen Young_cz9W-UdjXOE.md` | Transcript is already present in the ShinzenVideos raw output; no duplicate was written on rerun. |
+| 13 | `77DrSnpVf2M` | Practical Game Plan of Shinzens Techniques & Strategies ~Shinzen Young | 2:11 | written | B | youtube auto captions | `raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/Practical Game Plan of Shinzens Techniques & Strategies ~Shinzen Young_77DrSnpVf2M.md` | Transcript is already present in the ShinzenVideos raw output; no duplicate was written on rerun. |
+| 14 | `kFhGAdxx5To` | UPIAH - Skillful Means or Outreach  ~Shinzen Young | 20:32 | written | B | youtube auto captions | `raw/Shinzen Sources/yt transcripts/ShinzenVideos/videos/UPIAH - Skillful Means or Outreach ~Shinzen Young_kFhGAdxx5To.md` | Transcript is already present in the ShinzenVideos raw output; no duplicate was written on rerun. |

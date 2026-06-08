@@ -9,8 +9,8 @@ tags: []
 aliases: [Basic Mindfulness chapter 5, The Way of Human Goodness chapter, Chapter 5 Way of Human Goodness]
 sources: [raw/Shinzen Sources/five-ways/05-way-of-human-goodness.md]
 load_when: "A question needs source-level evidence for Nurture Positive, the Way of Human Goodness, reconstruction after no-self deconstruction, positive affect, positive behavior, positive cognition, positive ideals, positive situations, or radiating positive body feeling."
-best_linked_pages: ["[[Way of Human Goodness]]", "[[Nurture Positive]]", "[[Deconstruction-Reconstruction Balance]]", "[[Inner Sensory System]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-06
+best_linked_pages: ["[[Way of Human Goodness]]", "[[Nurture Positive]]", "[[Deconstruction-Reconstruction Balance]]", "[[Inner Sensory System]]", "[[Completion Versus Bypass Safety Boundary]]"]
+updated: 2026-05-16
 ---
 
 Chapter 5 of the Basic Mindfulness manual gives the reconstructive route: actively cultivate personal goodness through mental image, mental talk, and emotional body sensation so deconstruction into Source is balanced by a wholesome human self.
@@ -54,7 +54,7 @@ The chapter's broader claims require careful source posture. "Personal Goodness,
 - **Changed**: Creates [[Way of Human Goodness]], [[Nurture Positive]], and [[Deconstruction-Reconstruction Balance]] as durable pages because the chapter adds a major technique and a balancing thesis.
 - **Challenged**: Pressures any no-self-heavy interpretation of Shinzen's system by making personal goodness and behavioral cultivation structurally central.
 - **No material change**: Claims about radiating service and the world responding differently remain source-attributed.
-- **Integration target**: [[Complete Experience Safety Boundary]] should include positivity bypass, ethical-behavior verification, and the difference between constructive cultivation and avoidance.
+- **Integration target**: [[Completion Versus Bypass Safety Boundary]] carries positivity bypass, ethical-behavior verification, and the difference between constructive cultivation and avoidance.
 
 ## Weakest Claims
 - The claim that radiated positive feeling subtly blesses everything and changes how the world relates to the practitioner is not evidenced in this file.
@@ -79,7 +79,7 @@ The chapter's broader claims require careful source posture. "Personal Goodness,
 ## Integration Notes
 - **Pages created**: [[Way of Human Goodness]], [[Nurture Positive]], [[Deconstruction-Reconstruction Balance]]
 - **Pages updated**: [[Basic Mindfulness Practice Architecture]], [[Five Ways]], [[Inner Sensory System]], [[Suffering Distortion Cycle]], [[Complete Experience]], [[Complete Experience Safety Boundary]], `wiki/index.md`
-- **Contradictions opened**: No standalone question; positivity-bypass and behavior-verification issues route to [[Complete Experience Safety Boundary]].
+- **Contradictions opened**: No standalone question; positivity-bypass and behavior-verification issues now route to [[Completion Versus Bypass Safety Boundary]].
 - **Confidence changes**: Human Goodness becomes established as the manual's reconstructive balancing Way; interpersonal radiation claims remain source-attributed.
 - **Low-signal material excluded**: Chart formatting and icon explanations are compressed into the theme/system distinction and choose-check-choose-hold procedure.
 
@@ -89,4 +89,4 @@ The chapter's broader claims require careful source posture. "Personal Goodness,
 - [[Deconstruction-Reconstruction Balance]] - the chapter's central balancing thesis.
 - [[Inner Sensory System]] - Nurture Positive uses mental image, mental talk, and emotional body sensation.
 - [[Suffering Distortion Cycle]] - Positive Behavior and service give behavioral stakes.
-- [[Complete Experience Safety Boundary]] - tracks positivity bypass and constructive-cultivation risks.
+- [[Completion Versus Bypass Safety Boundary]] - tracks positivity bypass and constructive-cultivation risks.

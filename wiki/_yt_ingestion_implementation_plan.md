@@ -26,11 +26,144 @@ The gate question is:
 
 ## Current Position
 
-As of 2026-05-12 review, the YouTube plan is midway through Gate 7. Gates 3,
-4, 5, 6A, and 6B have completed their source sequences or synthesis
-checkpoints; Gate 7 items 1-9 are complete. The next queued source is:
+As of the 2026-05-15 ingest, the YouTube plan has completed Gate 8, Gate 9,
+and the seven planned Gate 10 items. Gates 3, 4, 5, 6A, 6B, 7, and 8 have
+completed their source sequences or synthesis checkpoints. Gate 10 items 1
+and 2 are complete from available low-quality root `tiny.en` transcripts
+because the user explicitly approved finishing the transcript-video set before
+stopping; their source pages mark transcript-quality limitations. Gate 10 item
+3 is complete from a usable retranscribed `medium.en` source, and items 4-7
+are complete from root `kome.ai` transcripts. After
+Gate 10's quality-passing sequence, post-Gate-10 backlog triage completed the
+standalone teacher-selection source `How do I find a good meditation teacher`
+because teacher/coach competence remains active epistemic debt, then completed
+`A Psycho-Spiritual Workout Routine` because practice sequencing and dosage
+remain active epistemic debt, then completed `Strengthening a Weak Ego
+Structure Through Mindfulness` because clinical-adjacent ego strength,
+boundary loss, and no-self differentials remain active safety debt, then
+completed `Recycle the Reaction - Beginner, Intermediate, & Advanced
+Examples` because practice-caused reactions remain central to routing
+ordinary-state rebound, no-self fear, relational aversion, and void flatness,
+then completed `The Five Ways - A Contemporary Toolkit for Classical
+Enlightenment` because an edited uncovered source compactly sharpens the
+core Five Ways practice interface and secularization move, then completed
+`Five Aspects of the Five Ways - 1 of 4` because it follows that interface
+with adjustable sequence/standalone/branching and sensory-challenge routing,
+then completed `Five Aspects of the Five Ways - 2 of 4` because it adds the
+reworking-not-identity boundary and binary-contrast research-affordance
+frame, then completed `Five Aspects of the Five Ways - 3 of 4` because it
+translates aggregate analysis into Feel/Image/Talk, habit-groove,
+Expansion-Contraction, and consciousness-release practice handles, then
+completed `Five Aspects of the Five Ways - 4 of 4` because it closes the
+sequence by mapping the Ways as self-strategies: Focus In deconstruction,
+Focus Out work-world merging, Restful self/world attenuation, and Positive
+reconstruction after Change, then completed `Ordinary Consciousness is the
+Way - Part 1` because an edited canonical transcript gives a low-drama Flow
+handle: constant-seeming discomfort may reveal intensity ripples and
+shape-shifts when observed carefully and patiently, then completed `Ordinary
+Consciousness is the Way - Part 2` because the edited canonical transcript
+extends ordinary Flow/Gone routing into visual Rest and images, internal
+talk, whole-body sensation, pressure as force, and spirit-like imagery routed
+through medium Flow rather than message fixation, then completed `Ordinary
+Consciousness is the Way - Part 3` because the edited canonical transcript
+reframes scattered/fixated ordinary mind as Expansion-Contraction, adds music
+and eye-shift Gone handles, preserves bhanga as optional, and links Flow/Gone
+to purification and inside/outside unification, then completed `Equanimity
+Intentional, Noticing Dropping Deeper, and Second-Order Equanimity` because
+the short root transcript sharpens intentional equanimity supports,
+spontaneous-drop learning, positive conditioning, and equanimity with
+non-equanimity as a low-capacity fallback, then completed `How Shinzen Uses
+the Term Spaciousness` because the short dialogue gives the missing rationale
+for Space as an independent SHF dimension rather than merely Rest, Flow,
+Expansion-Contraction, formless jhana, Tibetan space language, or Sasaki
+Source terminology, then completed `Don't Know Mind: Not Needing to Have
+Answers & the Wisdom Function` because it gives the missing Feel/Image/Talk
+mechanism for answer-hunger and bounds wisdom function as ordinary knowing
+after answer-compulsion relaxes, then completed `Peter Marks on the Origins
+of Body-Image-Talk (BIT)` because it gives attribution and teaching-interface
+calibration for the primitive Feel/Image/Talk layer, preserving Peter Marks's
+origin role, Shinzen's system-building role, and BIFIT as a learner-facing
+scaffold rather than a replacement taxonomy, then completed `Enlightenment;
+Simultaneous Expansion & Contraction; Sahej Samadhi; Non-Dual Awareness`
+because it adds a compact vastness/thinness marker for daily-life
+Space/Expansion-Contraction nonduality, then completed `Simultaneous Zooming
+In & Out During Positive & Restful States` because it broadens local-global
+zooming from difficult sensations into positive and Rest support practice,
+then completed `Vipassana & Mindfulness` because it clarifies Shinzen's local
+terminology bridge: vipassana as seeing separately, seeing through, and
+seeing into true nature, with mindfulness/vipassana synonymy treated as
+practice usage rather than historical identity, then completed `The One True
+Love of Touch, Sight, & Sound` because it adds a compact ordinary-task Focus
+Out branch where Touch/Sight/Sound expand during work while unnecessary
+Feel/Image/Talk reaction contracts under task-safety boundaries, then
+completed `A Life of Practice and Service: Shinzen Young at 80` from the
+low-quality root transcript because the user approved finishing the transcript
+set and the source adds a durable late-life service-delivery arc: online
+retreats, virtual-Shinzen flowcharts, AI, ultrasound, and upaya as gateways
+for equanimity training, with technology claims kept speculative, then
+completed `Advanced Meditators Experience of Time` from the low-quality root
+transcript because no better version exists and the source adds a bounded
+time-experience branch: stronger CCE can make activity less sticky while
+Shinzen's discrete-prison-time versus continuous-smooth-spacetime idiom
+remains speculative and transcript-fragile, then completed `Lofty, Homey and
+Quirky Wisdom Voices` because the short remaining canonical root transcript
+adds a compact wisdom-function expression handle: wise Talk can arise as
+"thinking without thinking" while still appearing through sensory and
+cultural forms that require discernment, then completed `The Happy Wanderer`
+because the short remaining canonical root transcript adds a conditional
+pleasant-interest wandering-mind branch: wandering can become conscious
+Focus on Positive, including as a Do Nothing alternation, when the positive
+driver is clearly detected, then completed `Retreat Farewell - May 2009`
+because the short remaining canonical root transcript adds a retreat-
+continuity handle: all-day retreat momentum can become daily-life plateaus
+when backed by practice rhythm, support ecology, and post-retreat service,
+then completed `Retreat Welcome, April 2009` because the short remaining
+canonical root transcript adds the entry-side retreat frame: concepts,
+techniques, and core skills are learned for Total Happiness dependent and
+independent of conditions, for self and others, then completed `Practicing
+Noting Mix #2` because the retranscribed outtake source adds a low-signal but
+useful positive-practice boundary: social positive emotion may immediately
+expose fear or sadness that can be noticed and quantized rather than
+explained, then completed `Practicing Noting Mix #1` because it was the final
+substantive canonical transcript-video ID after excluding the plan-skipped
+duplicate welcome transcript; the source page marks it as outtake coverage and
+teaching-style caution, not Noting instruction. At this point the substantive
+YouTube transcript-video set is complete at 190/190 when the skipped duplicate
+welcome transcript is excluded, or 190/191 under raw lint video-ID counting
+before that duplicate exclusion.
 
-`raw/Shinzen Sources/yt transcripts/The Big Picture as I See It ~ Shinzen Young_DJkvNfDHbks.md`
+`raw/Shinzen Sources/yt transcripts/A Life of Practice and Service Shinzen Young at 80_YghW4NNTxAo.md`
+`raw/Shinzen Sources/yt transcripts/retranscribed/The Hockey Stick Metaphor and Exponential Growth on the Spiritual Path ~ Shinzen Young_-pRA9QHVzVg.md`
+`raw/Shinzen Sources/yt transcripts/Shinzen Young ~ Primal Feel and the Zen Keisaku - 1 of 2_LjzEeSSL4o0.md`
+`raw/Shinzen Sources/yt transcripts/Shinzen Young and Soryu ~ Primal Feel and the Zen Keisaku - 2 of 2_99h8CpIK8pQ.md`
+`raw/Shinzen Sources/yt transcripts/Working Through the Primal Feel Strata ~ Shinzen Young_zvcGvR_gnBE.md`
+`raw/Shinzen Sources/yt transcripts/Reparenting Our Freaked Out Infant - Noting All Vanishings & Gone in Pure Feeling ~ Shinzen Young_Cg-h_MSijDo.md`
+`raw/Shinzen Sources/yt transcripts/How do I find a good meditation teacher ~ Shinzen Young_0mHTf9maqoM.md`
+`raw/Shinzen Sources/yt transcripts/A Psycho-Spiritual Workout Routine - Ordinary, Restful, Flow and Positive States ~ Shinzen Young_6RRHTbOAhDg.md`
+`raw/Shinzen Sources/yt transcripts/Strengthening a Weak Ego Structure Through Mindfulness ~ Shinzen Young_3gv05sLZQBU.md`
+`raw/Shinzen Sources/yt transcripts/edited/Recycle the Reaction - Beginner, Intermediate, & Advanced Examples ~ Shinzen Young_AyRaFN3TKYM.md`
+`raw/Shinzen Sources/yt transcripts/edited/The Five Ways - A Contemporary Toolkit for Classical Enlightenment ~ Shinzen Young_2SE5O9tjqMo.md`
+`raw/Shinzen Sources/yt transcripts/edited/Five Aspects of the Five Ways - 1 of 4 ~ Shinzen Young_7MZ_drkd9Mg.md`
+`raw/Shinzen Sources/yt transcripts/edited/Five Aspects of the Five Ways - 2 of 4 ~ Shinzen Young_62wZtKuWHS4.md`
+`raw/Shinzen Sources/yt transcripts/edited/Five Aspects of the Five Ways - 3 of 4 ~ Shinzen Young_er9rbiqY9pE.md`
+`raw/Shinzen Sources/yt transcripts/edited/Five Aspects of the Five Ways - 4 of 4 ~ Shinzen Young_1xffPC2d_tU.md`
+`raw/Shinzen Sources/yt transcripts/edited/Ordinary Consciousness is the Way - Part 1 Mindful Awareness & Varieties of Flow ~ Shinzen Young_LoSAkuNJWQ8.md`
+`raw/Shinzen Sources/yt transcripts/edited/Ordinary Consciousness is the Way - Part 2 Mindful Awareness & Varieties of Flow ~ Shinzen Young_Hd0pYyf61Vw.md`
+`raw/Shinzen Sources/yt transcripts/edited/Ordinary Consciousness is the Way - Part 3 Mindful Awareness & Varieties of Flow ~ Shinzen Young_wURSgVVUAjE.md`
+`raw/Shinzen Sources/yt transcripts/Equanimity Intentional, Noticing Dropping Deeper, and Second-Order Equanimity ~ Shinzen Young_fsnvgsEYqkw.md`
+`raw/Shinzen Sources/yt transcripts/How Shinzen Uses the Term Spaciousness ~ Shinzen Young and Har-Prakash Khalsa_T0aqdzceUnk.md`
+`raw/Shinzen Sources/yt transcripts/Don't Know Mind Not Needing to Have Answers & the Wisdom Function ~ Shinzen Young_vI4seVg0xjk.md`
+`raw/Shinzen Sources/yt transcripts/Peter Marks on the Origins of Body-Image-Talk (BIT) ~ Shinzen Young_y_Crcg-A0f0.md`
+`raw/Shinzen Sources/yt transcripts/Enlightenment; Simultaneous Expansion & Contraction; Sahej Samadhi; Non-Dual Awareness ~ Shinzen_IefgNewLWus.md`
+`raw/Shinzen Sources/yt transcripts/Simultaneous Zooming In & Out During Positive & Restful States ~ Shinzen Young_GgsOeMfOcEI.md`
+`raw/Shinzen Sources/yt transcripts/Vipassana & Mindfulness ~ Shinzen Young_FuRbQsQxDRk.md`
+`raw/Shinzen Sources/yt transcripts/The One True Love of Touch, Sight, & Sound ~ Shinzen Young_9YgJrjqmrsE.md`
+`raw/Shinzen Sources/yt transcripts/Lofty, Homey and Quirky Wisdom Voices ~ Shinzen Young_RTD4ql1ULNs.md`
+`raw/Shinzen Sources/yt transcripts/The Happy Wanderer ~ Shinzen Young & Har-Prakash Khalsa_GCtjOgXsOuo.md`
+`raw/Shinzen Sources/yt transcripts/Retreat Farewell - May 2009 ~ Shinzen Young_gePpRekS5gA.md`
+`raw/Shinzen Sources/yt transcripts/Retreat Welcome, April 2009 ~ Shinzen Young_pJuXISe-o7o.md`
+`raw/Shinzen Sources/yt transcripts/retranscribed/Practicing Noting Mix #2 (Bloopers & Out-takes #2) ~ Shinzen Young_JWFy4sOwDtE.md`
+`raw/Shinzen Sources/yt transcripts/Practicing Noting Mix #1 (Bloopers & Out-takes #1) ~ Shinzen Young_usFL7YstLnY.md`
 
 Current load targets:
 
@@ -41,9 +174,61 @@ Current load targets:
   boundary pages.
 - Gate 6B is compressed by [[Ten Ox-Herding Pictures]], [[Self-Inquiry]],
   [[No-Self And Personality]], and [[Source And Polarities]].
-- Gate 7 currently routes through [[Total Happiness]], [[Teaching A Path]],
-  [[Bodhicitta and the Way of Service]], [[Way of Human Goodness]], and
-  [[Deconstruction-Reconstruction Balance]].
+- Gate 7 is compressed by [[Total Happiness]], [[Teaching A Path]],
+  [[Bodhicitta and the Way of Service]], [[Way of Human Goodness]],
+  [[Deconstruction-Reconstruction Balance]], and [[Source And Polarities]].
+- Gate 8 is compressed by [[Lineage Translation]], with
+  [[Mysticism As Concentration]], [[Expansion And Contraction]],
+  [[Shinzen's Teaching Method]], and [[Mastery Without Guru Inflation]] as
+  major owners.
+- Gate 9 is compressed by [[Guidance Scope and Accountability Boundary]],
+  [[Practice Guidance Toolkit]], [[Total Happiness]], [[Source And
+  Polarities]], [[Equanimity]], [[Insight and Purification]], [[Practice
+  Cycles]], and [[Complete Experience Safety Boundary]].
+- Gate 10 is currently compressed by [[Primordial Feel]], [[Intensity and
+  Embodiment Safety Boundary]], [[Altered Phenomena and Dissolution Safety
+  Boundary]], [[Practice Cycles]], [[Insight and Purification]], and
+  [[Current Model]], [[Shinzen's Teaching Method]], [[Teaching A Path]],
+  [[Lineage Translation]], and [[Science of Enlightenment Chapter 11 - My
+  Happiest Thought]].
+- Post-Gate-10 triage is compressed by [[Teaching A Path]], [[Guidance Scope
+  and Accountability Boundary]], [[Shinzen's Teaching Method]], [[Mastery
+  Without Guru Inflation]], [[Practice Guidance Toolkit]], [[Practice
+  Cycles]], [[Practice Entry and Method Choice]], [[No-Self And
+  Personality]], [[Deconstruction-Reconstruction Balance]], [[Recycle The
+  Reaction]], [[Altered Phenomena and Dissolution Safety Boundary]], [[Five
+  Ways]], [[Lineage Translation]], [[Turn Toward and Turn Away]], and
+  [[Sensory Grid]], plus [[Flow]], [[Way of Flow]], and [[Impermanence]] for
+  ordinary intensity-ripple, shape-shift, visual Rest/Image, talk-space
+  Gone, pressure-force, altered-image medium Flow, ordinary
+  scattering/fixation as Expansion-Contraction, music and eye-shift Gone, and
+  Flow-based inside/outside unification handles, [[Spaciousness]] for stable
+  Space, Space-with-Flow, and Space-with-Expansion-Contraction routing, plus
+  [[Equanimity]] for
+  intentional body/talk supports, spontaneous-drop positive conditioning, and
+  second-order equanimity with non-equanimity, and [[Total Happiness]] plus
+  [[Way of Thoughts and Emotions]] for answer-hunger as Feel/Image/Talk
+  material and wisdom function as non-compulsive knowing, plus [[Inner
+  Sensory System]], [[Shinzen's Teaching Method]], and [[Sensory Grid]] for
+  Body-Image-Talk attribution and BIFIT as a local scaffold, plus
+  [[Spaciousness]], [[Expansion And Contraction]], [[Source And Polarities]],
+  and [[Operational Enlightenment]] for the vastness/thinness branch that
+  Shinzen equates with sahaja samadhi and true nondual awareness while
+  preserving safety and behavior boundaries, plus [[Zooming]], [[Focus on
+  Rest]], [[Nurture Positive]], and [[Practice Guidance Toolkit]] for
+  simultaneous local-global zooming as positive-state amplification and
+  exhalation-linked whole-body Rest, plus [[Mindfulness Definitions]],
+  [[Mindfulness Skill Triad]], [[Sensory Clarity]], and [[Lineage
+  Translation]] for vipassana as separate-through-insight and for
+  Shinzen's local mindfulness/vipassana synonymy boundary, plus [[Way of
+  Physical Senses]], [[Five Ways]], [[Lineage Translation]], and [[Source And
+  Polarities]] for ordinary-task Focus Out where Touch/Sight/Sound expand and
+  reactive Feel/Image/Talk contracts, plus [[Total Happiness]] and [[Don't
+  Know Mind Not Needing to Have Answers and the Wisdom Function]] for wisdom
+  voice as spontaneous Image/Talk expression rather than authority, plus
+  [[Nurture Positive]], [[Do Nothing]], [[Practice Entry and Method Choice]],
+  and [[Practice Guidance Toolkit]] for pleasant-interest wandering mind as a
+  conditional positive-focus branch and Do Nothing alternation.
 
 Do not expand this section into per-item chronology. Completed item detail
 belongs in `wiki/log.md`, source pages, and owner pages. For normal startup,
@@ -361,15 +546,15 @@ Sequence:
 7. Complete 2026-05-09: `raw/Shinzen Sources/yt transcripts/The Final Stage and Service ~ Shinzen Young_b2anxOUgl1A.md`
 8. Complete 2026-05-09: `raw/Shinzen Sources/yt transcripts/Becoming a High-Wattage Broadcaster of Human Positivity ~ Shinzen Young_-KFJYzPYDfA.md`
 9. Complete 2026-05-09: `raw/Shinzen Sources/yt transcripts/A Mindfulness Path Arising Between Empowering Contrasts ~ Shinzen Young_ncGiwqCZ7rg.md`
-10. `raw/Shinzen Sources/yt transcripts/The Big Picture as I See It ~ Shinzen Young_DJkvNfDHbks.md`
-11. `raw/Shinzen Sources/yt transcripts/How the Endeavor of Improve Supports Transcend ~ Shinzen Young_G9f9BjcE3lo.md`
-12. `raw/Shinzen Sources/yt transcripts/Mindfulness and Behavioural Change ~ Shinzen Young_bGy2PdVzNMU.md`
-13. `raw/Shinzen Sources/yt transcripts/The True Beauty of Your Soul ~ Shinzen Young_K50i1AYPl7w.md`
-14. `raw/Shinzen Sources/yt transcripts/Nurturing the Positive Creating, Holding and Radiating Positive Subjective States ~ Shinzen Young_IzRq0iRibv0.md`
-15. `raw/Shinzen Sources/yt transcripts/The Focus on Positive Theme ~ Shinzen Young_88au4ZberSI.md`
-16. `raw/Shinzen Sources/yt transcripts/retranscribed/Hold Positive Feel_JNZRKbFlsaY.md`
-17. `raw/Shinzen Sources/yt transcripts/Creating Feel Good in Emotional Body Space - 1 of 2 - Introduction ~ Shinzen Young_abRaPYjb6mA.md`
-18. `raw/Shinzen Sources/yt transcripts/Creating Feel Good in Emotional Body Space - 2 of 2 - A Guided Meditation ~ Shinzen Young_u41_dSjKGtA.md`
+10. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/The Big Picture as I See It ~ Shinzen Young_DJkvNfDHbks.md`
+11. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/How the Endeavor of Improve Supports Transcend ~ Shinzen Young_G9f9BjcE3lo.md`
+12. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/Mindfulness and Behavioural Change ~ Shinzen Young_bGy2PdVzNMU.md`
+13. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/The True Beauty of Your Soul ~ Shinzen Young_K50i1AYPl7w.md`
+14. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/Nurturing the Positive Creating, Holding and Radiating Positive Subjective States ~ Shinzen Young_IzRq0iRibv0.md`
+15. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/The Focus on Positive Theme ~ Shinzen Young_88au4ZberSI.md`
+16. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/retranscribed/Hold Positive Feel_JNZRKbFlsaY.md`
+17. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/Creating Feel Good in Emotional Body Space - 1 of 2 - Introduction ~ Shinzen Young_abRaPYjb6mA.md`
+18. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/Creating Feel Good in Emotional Body Space - 2 of 2 - A Guided Meditation ~ Shinzen Young_u41_dSjKGtA.md`
 
 Gate synthesis:
 
@@ -391,22 +576,22 @@ comparative material become the wiki's center.
 
 Sequence:
 
-1. `raw/Shinzen Sources/yt transcripts/Which teachers have influenced how you teach ~ Shinzen Young_WoUJPcWBgXk.md`
-2. `raw/Shinzen Sources/yt transcripts/Authority, Opinions and the Buddhist Canon ~ Shinzen Young_CfEFSRNHL5s.md`
-3. `raw/Shinzen Sources/yt transcripts/edited/Sasaki Roshi & Burmo-Japanese Mindfulness Fusion ~ Shinzen Young_-pMyY6Abi4g.md`
-4. `raw/Shinzen Sources/yt transcripts/edited/Leonard Cohen, Sasaki Roshi, & Love Itself - Part 1 of 2 ~ Shinzen Young_eSv5ELuujjs.md`
-5. `raw/Shinzen Sources/yt transcripts/edited/Leonard Cohen's Love Itself - Part 2 of 2 ~ Shinzen Young_p3MgjpMbADA.md`
-6. `raw/Shinzen Sources/yt transcripts/edited/Sasaki Roshi, the Complex Number System & the Source of Love ~ Shinzen Young_hvFOe_JmSCw.md`
-7. `raw/Shinzen Sources/yt transcripts/The Dharma Name Shinzen ~ Shinzen Young_ri2daqYL7mU.md`
-8. `raw/Shinzen Sources/yt transcripts/Jewish Mysticism & Mindfulness Meditation ~ Shinzen Young_ZfNdNA580yk.md`
-9. `raw/Shinzen Sources/yt transcripts/Jhanas and Focus on Rest ~ Shinzen Young_A-72haqjl4o.md`
-10. `raw/Shinzen Sources/yt transcripts/The Secret of Archetypal Deity Yoga ~ Shinzen Young_6WtPrOE1JSk.md`
-11. `raw/Shinzen Sources/yt transcripts/The Native American Sweat Lodge Ceremony - Part 1 of 2 ~ Shinzen Young_n4u-5BSZH64.md`
-12. `raw/Shinzen Sources/yt transcripts/The Native American Sweat Lodge - Part 2 of 2 ~ Shinzen Young_by7veja2WHc.md`
-13. `raw/Shinzen Sources/yt transcripts/On Rites, Rituals, and Ceremonies ~ Shinzen Young_u9pgbO-N5QQ.md`
-14. `raw/Shinzen Sources/yt transcripts/Is Buddhist meditation compatible with other religions ~ Shinzen Young_5lbFes1HMz8.md`
-15. `raw/Shinzen Sources/yt transcripts/Om Mani Padme Hum Meaning and Some Mindful Strategies When Chanting ~ Shinzen Young_VpG3HaCFPbo.md`
-16. `raw/Shinzen Sources/yt transcripts/The Dark Night by St. John of the Cross (recited in Spanish & English) ~ Shinzen Young_PcRDzOBWkPc.md`
+1. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/Which teachers have influenced how you teach ~ Shinzen Young_WoUJPcWBgXk.md`
+2. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/Authority, Opinions and the Buddhist Canon ~ Shinzen Young_CfEFSRNHL5s.md`
+3. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/edited/Sasaki Roshi & Burmo-Japanese Mindfulness Fusion ~ Shinzen Young_-pMyY6Abi4g.md`
+4. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/edited/Leonard Cohen, Sasaki Roshi, & Love Itself - Part 1 of 2 ~ Shinzen Young_eSv5ELuujjs.md`
+5. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/edited/Leonard Cohen's Love Itself - Part 2 of 2 ~ Shinzen Young_p3MgjpMbADA.md`
+6. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/edited/Sasaki Roshi, the Complex Number System & the Source of Love ~ Shinzen Young_hvFOe_JmSCw.md`
+7. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/The Dharma Name Shinzen ~ Shinzen Young_ri2daqYL7mU.md`
+8. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/Jewish Mysticism & Mindfulness Meditation ~ Shinzen Young_ZfNdNA580yk.md`
+9. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/Jhanas and Focus on Rest ~ Shinzen Young_A-72haqjl4o.md`
+10. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/The Secret of Archetypal Deity Yoga ~ Shinzen Young_6WtPrOE1JSk.md`
+11. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/The Native American Sweat Lodge Ceremony - Part 1 of 2 ~ Shinzen Young_n4u-5BSZH64.md`
+12. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/The Native American Sweat Lodge - Part 2 of 2 ~ Shinzen Young_by7veja2WHc.md`
+13. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/On Rites, Rituals, and Ceremonies ~ Shinzen Young_u9pgbO-N5QQ.md`
+14. Complete 2026-05-12: `raw/Shinzen Sources/yt transcripts/Is Buddhist meditation compatible with other religions ~ Shinzen Young_5lbFes1HMz8.md`
+15. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/Om Mani Padme Hum Meaning and Some Mindful Strategies When Chanting ~ Shinzen Young_VpG3HaCFPbo.md` (verified as duplicate content of item 5's mislabeled chant-practice transcript; created the cleanly titled source page and kept item 5 as metadata caution)
+16. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/The Dark Night by St. John of the Cross (recited in Spanish & English) ~ Shinzen Young_PcRDzOBWkPc.md`
 
 Gate synthesis:
 
@@ -428,23 +613,23 @@ guidance from clinical, relational, medical, and life-domain advice.
 
 Sequence:
 
-1. `raw/Shinzen Sources/yt transcripts/Mindfulness & Psychotherapy ~ Shinzen Young_ghBxjliqIPY.md`
-2. `raw/Shinzen Sources/yt transcripts/retranscribed/Mindfulness, Cancer & Healing - 1 of 3 ~ Sat Dharam Kaur, N.D. Interviews Shinzen Young_bYwSAR8BF9Y.md`
-3. `raw/Shinzen Sources/yt transcripts/retranscribed/Mindfulness, Cancer & Healing - 2 of 3 ~ Sat Dharam Kaur, N.D. Interviews Shinzen Young_jxFyyTOIyTA.md`
-4. `raw/Shinzen Sources/yt transcripts/Mindfulness, Cancer & Healing - 3 of 3 ~ Sat Dharam Kaur, N.D. Interviews Shinzen Young_5MRz7VapI5w.md`
-5. `raw/Shinzen Sources/yt transcripts/A Mindful Birth and Zen Parenting, Part 1 of 2 ~ Shinzen Young_2gpdWdoCqVo.md`
-6. `raw/Shinzen Sources/yt transcripts/A Mindful Birth and Zen Parenting, Part 2 of 2 ~ Shinzen Young_mUGigTkD20g.md`
-7. `raw/Shinzen Sources/yt transcripts/Sleep Interruption & A Good Night's Rest ~ Shinzen Young_DUQFw2jNf7s.md`
-8. `raw/Shinzen Sources/yt transcripts/Do You Think Sex is Dirty ~ Shinzen Young_drzPr3PsVJ4.md`
-9. `raw/Shinzen Sources/yt transcripts/Lucid Dreaming and Five Ways Mindfulness Meditation ~ Shinzen Young_GwctdxAn9v4.md`
-10. `raw/Shinzen Sources/yt transcripts/Tea, Coffee and Meditation ~ Shinzen Young__ZudmkA4iEM.md`
-11. `raw/Shinzen Sources/yt transcripts/retranscribed/Shinzen Young's Welcome to New Viewers_100q5smtZIw.md`
-12. `raw/Shinzen Sources/yt transcripts/Shinzen Young's Welcome to New Viewers_Pvk99BRxlPw.md`
-13. `raw/Shinzen Sources/yt transcripts/The Science of Enlightenment Audio Series ~ Shinzen Young_Nk1VPN5lugw.md`
-14. `raw/Shinzen Sources/yt transcripts/Shinzen Young - The Science of Enlightenment (Book Trailer)_iEjUb2b4RMM.md`
-15. `raw/Shinzen Sources/yt transcripts/Reality & Sensory Experience ~ Shinzen Young_qbNHTDE1iYg.md`
-16. `raw/Shinzen Sources/yt transcripts/Consciously Decoupling, Dropping Out & Eadem Mutata Resurgo ~ Shinzen Young_Wr7ghLGmm3U.md`
-17. `raw/Shinzen Sources/yt transcripts/The Reptilian Brain, Skinnerian Training & the Experience of God ~ Shinzen Young_KlpXGXZ_dT0.md`
+1. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/Mindfulness & Psychotherapy ~ Shinzen Young_ghBxjliqIPY.md`
+2. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/retranscribed/Mindfulness, Cancer & Healing - 1 of 3 ~ Sat Dharam Kaur, N.D. Interviews Shinzen Young_bYwSAR8BF9Y.md`
+3. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/retranscribed/Mindfulness, Cancer & Healing - 2 of 3 ~ Sat Dharam Kaur, N.D. Interviews Shinzen Young_jxFyyTOIyTA.md`
+4. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/Mindfulness, Cancer & Healing - 3 of 3 ~ Sat Dharam Kaur, N.D. Interviews Shinzen Young_5MRz7VapI5w.md`
+5. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/A Mindful Birth and Zen Parenting, Part 1 of 2 ~ Shinzen Young_2gpdWdoCqVo.md`
+6. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/A Mindful Birth and Zen Parenting, Part 2 of 2 ~ Shinzen Young_mUGigTkD20g.md`
+7. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/Sleep Interruption & A Good Night's Rest ~ Shinzen Young_DUQFw2jNf7s.md`
+8. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/Do You Think Sex is Dirty ~ Shinzen Young_drzPr3PsVJ4.md`
+9. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/Lucid Dreaming and Five Ways Mindfulness Meditation ~ Shinzen Young_GwctdxAn9v4.md`
+10. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/Tea, Coffee and Meditation ~ Shinzen Young__ZudmkA4iEM.md`
+11. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/retranscribed/Shinzen Young's Welcome to New Viewers_100q5smtZIw.md`
+12. Skipped 2026-05-13 as non-substantive duplicate of item 11: `raw/Shinzen Sources/yt transcripts/Shinzen Young's Welcome to New Viewers_Pvk99BRxlPw.md`
+13. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/The Science of Enlightenment Audio Series ~ Shinzen Young_Nk1VPN5lugw.md`
+14. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/Shinzen Young - The Science of Enlightenment (Book Trailer)_iEjUb2b4RMM.md`
+15. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/Reality & Sensory Experience ~ Shinzen Young_qbNHTDE1iYg.md`
+16. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/Consciously Decoupling, Dropping Out & Eadem Mutata Resurgo ~ Shinzen Young_Wr7ghLGmm3U.md`
+17. Complete 2026-05-13: `raw/Shinzen Sources/yt transcripts/The Reptilian Brain, Skinnerian Training & the Experience of God ~ Shinzen Young_KlpXGXZ_dT0.md`
 
 Gate synthesis:
 
@@ -465,13 +650,15 @@ transcript quality and attribution are sufficient.
 
 Sequence after quality gate passes:
 
-1. `raw/Shinzen Sources/yt transcripts/A Life of Practice and Service Shinzen Young at 80_YghW4NNTxAo.md`
-2. `raw/Shinzen Sources/yt transcripts/Advanced Meditators Experience of Time ~ Shinzen Young, Har-Prakash Khalsa, Todd Mertz_ouKeo7_TEAE.md`
-3. `raw/Shinzen Sources/yt transcripts/retranscribed/The Hockey Stick Metaphor and Exponential Growth on the Spiritual Path ~ Shinzen Young_-pRA9QHVzVg.md`
-4. `raw/Shinzen Sources/yt transcripts/Shinzen Young ~ Primal Feel and the Zen Keisaku - 1 of 2_LjzEeSSL4o0.md`
-5. `raw/Shinzen Sources/yt transcripts/Shinzen Young and Soryu ~ Primal Feel and the Zen Keisaku - 2 of 2_99h8CpIK8pQ.md`
-6. `raw/Shinzen Sources/yt transcripts/Working Through the Primal Feel Strata ~ Shinzen Young_zvcGvR_gnBE.md`
-7. `raw/Shinzen Sources/yt transcripts/Reparenting Our Freaked Out Infant - Noting All Vanishings & Gone in Pure Feeling ~ Shinzen Young_Cg-h_MSijDo.md`
+1. Complete 2026-05-14 from low-quality root transcript with explicit
+   transcript-limitation note: `raw/Shinzen Sources/yt transcripts/A Life of Practice and Service Shinzen Young at 80_YghW4NNTxAo.md`
+2. Complete 2026-05-14 from low-quality root transcript with explicit
+   transcript-limitation note: `raw/Shinzen Sources/yt transcripts/Advanced Meditators Experience of Time ~ Shinzen Young, Har-Prakash Khalsa, Todd Mertz_ouKeo7_TEAE.md`
+3. Complete 2026-05-14: `raw/Shinzen Sources/yt transcripts/retranscribed/The Hockey Stick Metaphor and Exponential Growth on the Spiritual Path ~ Shinzen Young_-pRA9QHVzVg.md`
+4. Complete 2026-05-14: `raw/Shinzen Sources/yt transcripts/Shinzen Young ~ Primal Feel and the Zen Keisaku - 1 of 2_LjzEeSSL4o0.md`
+5. Complete 2026-05-14: `raw/Shinzen Sources/yt transcripts/Shinzen Young and Soryu ~ Primal Feel and the Zen Keisaku - 2 of 2_99h8CpIK8pQ.md`
+6. Complete 2026-05-14: `raw/Shinzen Sources/yt transcripts/Working Through the Primal Feel Strata ~ Shinzen Young_zvcGvR_gnBE.md`
+7. Complete 2026-05-14: `raw/Shinzen Sources/yt transcripts/Reparenting Our Freaked Out Infant - Noting All Vanishings & Gone in Pure Feeling ~ Shinzen Young_Cg-h_MSijDo.md`
 
 Gate synthesis:
 
@@ -485,11 +672,13 @@ Gate synthesis:
 
 Quality notes:
 
-- For item 1, prefer a future `retranscribed/` version if it appears. The
-  current retranscription manifest previously marked it as running, so verify
-  before ingest.
-- For item 2, extract Shinzen claims carefully because it is a dialogue with
-  other speakers.
+- For item 1, a future `retranscribed/` version would still be better for
+  auditing details, but the source has been compiled from the root
+  `faster-whisper (tiny.en, int8, CPU)` transcript after explicit user
+  acceptance for completing the transcript-video set.
+- For item 2, the low-quality root transcript was used after explicit user
+  acceptance for completing the transcript-video set; cite the source page's
+  limitations before using its time-space or science-analogy claims.
 - For item 3, the retranscribed path is canonical because it exists.
 
 ## Defer Or Skip Unless User Redirects

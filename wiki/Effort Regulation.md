@@ -1,6 +1,6 @@
 ---
 type: concept
-thesis: "Effort regulation in Shinzen's system balances bear-down techniques such as Noting with ease-up practice such as Do Nothing, using racy/spacey effects, the ability to do the opposite mode, clarity momentum, and concentration automaticity as diagnostics."
+thesis: "Effort regulation in Shinzen's system balances bear-down techniques such as Noting with ease-up practice such as Do Nothing, using racy/spacey effects, the ability to do the opposite mode, clarity momentum, concentration automaticity, and local alertness corrections as diagnostics."
 status: working
 domain: [practice, safety]
 importance: 8
@@ -8,9 +8,9 @@ confidence: probable
 tags: []
 aliases: [bear down, ease up, bearing down, easing up, not get one-sided, efforting, non-effort, no-effort practice, high efforting, no goal approach, cross-capacity test, clarity momentum, parts and wholes, minimum effort, global awareness, automatic concentration]
 sources: ["raw/Shinzen Sources/yt transcripts/Bear Down or Ease Up in Meditation ~ Shinzen Young_dfDTAqlZ7dc.md", "raw/Shinzen Sources/yt transcripts/Parts & Wholes, Efforting & Do-Nothing A Certain Momentum ~ Shinzen Young_VFsVc-mMn7s.md", "raw/Shinzen Sources/yt transcripts/Do Nothing Meditation ~ Shinzen Young_cZ6cdIaUZCA.md", "raw/Shinzen Sources/yt transcripts/A.D.D. & the Do Nothing Technique ~ Shinzen Young_YNV6Y_JlhoA.md", raw/Shinzen Sources/five-ways/03-way-of-tranquility.md, "raw/Shinzen Sources/yt transcripts/edited/Depth & Breadth of Concentration - Part 2 of 3 ~ Shinzen Young_E-jZE9jDfKQ.md", "raw/Shinzen Sources/yt transcripts/edited/Depth & Breadth of Concentration - Part 3 of 3 ~ Shinzen Young_-AoNrGM0MBY.md", "raw/Shinzen Sources/yt transcripts/A Mindfulness Path Arising Between Empowering Contrasts ~ Shinzen Young_ncGiwqCZ7rg.md"]
-load_when: "Load for questions about bearing down versus easing up, racy Noting, spacey Do Nothing, no-goal aversion, ADD sole-method use, whole-field clarity with minimum effort, or concentration becoming automatic."
-best_linked_pages: ["[[Bear Down or Ease Up in Meditation]]", "[[Parts & Wholes, Efforting & Do-Nothing A Certain Momentum]]", "[[Depth and Breadth of Concentration - Part 2 of 3]]", "[[Depth and Breadth of Concentration - Part 3 of 3]]", "[[Noting]]", "[[Do Nothing]]", "[[Practice Entry and Method Choice]]", "[[Practice Guidance Toolkit]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-08
+load_when: "Load for questions about bearing down versus easing up, racy Noting, spacey Do Nothing, sinking or sleepiness effort, no-goal aversion, ADD sole-method use, whole-field clarity with minimum effort, or concentration becoming automatic."
+best_linked_pages: ["[[Bear Down or Ease Up in Meditation]]", "[[Parts & Wholes, Efforting & Do-Nothing A Certain Momentum]]", "[[Depth and Breadth of Concentration - Part 2 of 3]]", "[[Depth and Breadth of Concentration - Part 3 of 3]]", "[[Noting]]", "[[Do Nothing]]", "[[Practice Entry and Method Choice]]", "[[Complete Experience Safety Boundary]]"]
+updated: 2026-05-19
 ---
 
 Effort regulation is Shinzen's routing layer for when practice should bear down and when it should ease up. It does not resolve the paradox by choosing one side; it keeps effort and non-effort mutually corrective.
@@ -53,6 +53,14 @@ This in-between mode matters because it prevents a false choice. Broad awareness
 
 [[Depth and Breadth of Concentration - Part 3 of 3]] adds the developmental correction to that warning. Initial concentration often does require effortful return, but Shinzen says it can become automatic and no longer effortful; the same practitioner may still need to effort again when facing sensory challenges. Effort regulation therefore includes timing: too little effort early may fail to train focus, while assuming effort must remain heroic forever can turn concentration into a Sisyphean identity ([[Depth and Breadth of Concentration - Part 3 of 3]] S1-S3).
 
+[[Penetrating Sleepiness]] adds a local alertness-effort case. In ordinary
+sitting sleepiness, Shinzen repeatedly corrects the body by straightening the
+spine and opening the eyes, but he also asks the practitioner to enjoy the
+pleasant restful waves and equanimize discomfort. Effort regulation here is
+not "push through" versus "let go"; it is active support for wakefulness
+paired with noninterference toward the sensory event of sleepiness
+([[Penetrating Sleepiness]] S2-S4).
+
 ## Boundaries
 Effort regulation is not a permission to force. Strong labels, active focus, retreat effort, or systematic Noting can expose useful material, but they can also become strain, shame, compulsion, social exposure, teacher pressure, or dysregulation when support and stop criteria are missing.
 
@@ -68,6 +76,12 @@ The ADD routing adds an adjacent boundary. If non-effort remains the only workab
 
 The cross-capacity test should not be used as a status ranking. It is a balance check. Beginners, destabilized practitioners, and people with shame or trauma around effort may need gentler sequencing, guidance, grounding, or outside support before either side is workable.
 
+Sleepiness effort has its own limit. Repeatedly straightening posture and
+opening the eyes can support clarity, but the source does not define when
+fatigue, unsafe lurching, blackouts, medical symptoms, medication or substance
+effects, or sleep deprivation should end the sit or route to ordinary care
+([[Penetrating Sleepiness]] S3-S5).
+
 ## Implications
 Practice routing should ask about effort before only changing objects or labels. A practitioner may need:
 
@@ -77,6 +91,7 @@ Practice routing should ask about effort before only changing objects or labels.
 - stronger labels, clearer range, or systematic inventory if ease has become vagueness;
 - patience with initial effort when return-to-object is still being learned;
 - less heroic striving when concentration is beginning to become automatic;
+- posture and eyes-open alertness when ordinary sitting sleepiness needs correction, paired with enjoyment and equanimity rather than aversion;
 - teacher or outside support if racy, spacey, driven, avoidant, or shame-based patterns are not workable.
 
 The concept also gives later Gate 1 ingests a stable target. Talks on efforting, momentum, ADD, Do Nothing, and Relative Rest should update this page when they add criteria for how effort self-regulates over time.
@@ -87,6 +102,7 @@ The concept also gives later Gate 1 ingests a stable target. Talks on efforting,
 - [[Parts & Wholes, Efforting & Do-Nothing A Certain Momentum]] - source talk that adds the parts-to-whole clarity-momentum diagnostic.
 - [[Depth and Breadth of Concentration - Part 2 of 3]] - source talk that adds the non-suppression boundary for relevance-based concentration.
 - [[Depth and Breadth of Concentration - Part 3 of 3]] - source talk that adds initial effort, possible automaticity, renewed effort under sensory challenge, and anti-brute-force calibration.
+- [[Penetrating Sleepiness]] - source talk that adds repeated posture and eyes-open alertness correction paired with enjoying and equanimizing sleepiness.
 - [[A.D.D. & the Do Nothing Technique]] - source talk that adds the ADD single-method and later systematic-technique capacity marker.
 - [[Noting]] - main bear-down technique named in the talk.
 - [[Do Nothing]] - main ease-up technique named in the talk.

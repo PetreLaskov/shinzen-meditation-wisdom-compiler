@@ -10,7 +10,7 @@ aliases: ["The Absolute Witness (YouTube)", drLxJSpeb8c, absolute witness, true 
 sources: ["raw/Shinzen Sources/yt transcripts/edited/The Absolute Witness ~ Shinzen Young_drLxJSpeb8c.md"]
 load_when: "Source-level evidence is needed for Shinzen's distinction between relative witness, observer identity, subtle Feel/Image/Talk, absolute witness, nirodha, Zero, cessation, or Gone as the route from watcher to Source."
 best_linked_pages: ["[[No-Self And Personality]]", "[[Source And Polarities]]", "[[Gone]]", "[[Self-Inquiry]]", "[[Non-Dual Awareness]]", "[[Six Common Traps on the Path to Enlightenment]]"]
-updated: 2026-05-09
+updated: 2026-05-19
 ---
 
 This edited YouTube transcript is a short advanced terminology clarification. Shinzen distinguishes the ordinary detached witness from what he would call the absolute witness: contentless cessation, Zero, or the place where the subtle Feel/Image/Talk that creates an observer disappears.
@@ -103,5 +103,6 @@ The talk is Shinzen's internal translation of witness vocabulary into his existi
 - [[Source And Polarities]] - owns Zero, nirodha, Source, and the afterglow/metaphysics boundary.
 - [[Gone]] - supplies the detected-vanishing route into the absolute-witness side of the model.
 - [[Self-Inquiry]] - the witness distinction refines how turning awareness back can either strengthen or dissolve an observer.
+- [[Teaching Turn Back Practice]] - companion source that turns fixed-witness deconstruction into a Turn Back teaching sequence.
 - [[Non-Dual Awareness]] - adjacent Gate 6B source for the no-observer, formless, and habitual Zero-cycling meanings of non-duality.
 - [[Six Common Traps on the Path to Enlightenment]] - earlier source for observer identity as a good-place trap.

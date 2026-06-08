@@ -9,8 +9,8 @@ tags: []
 aliases: [Basic Mindfulness chapter 4, The Way of Flow chapter, Chapter 4 Way of Flow]
 sources: [raw/Shinzen Sources/five-ways/04-way-of-flow.md]
 load_when: "A question needs source-level evidence for Flow, See Flow, Hear Flow, Feel Flow, Focus on Flow, Expansion-Contraction, impermanence as energy, flow catharsis, flow integration, Flow versus Gone, or energy/nonduality warnings."
-best_linked_pages: ["[[Way of Flow]]", "[[Flow]]", "[[Expansion And Contraction]]", "[[Gone]]", "[[Sensory Grid]]", "[[Complete Experience]]"]
-updated: 2026-05-06
+best_linked_pages: ["[[Way of Flow]]", "[[Flow]]", "[[Expansion And Contraction]]", "[[Gone]]", "[[Sensory Grid]]", "[[Complete Experience]]", "[[Altered Phenomena and Dissolution Safety Boundary]]"]
+updated: 2026-05-16
 ---
 
 Chapter 4 of the Basic Mindfulness manual gives the Flow route: emphasize movement, change, energy, and force inside sensory events, while preserving the insight that Flow is ordinary experience met with extraordinary awareness.
@@ -56,7 +56,7 @@ The chapter's most ambitious claims should stay source-attributed. Flow as Spiri
 - **Changed**: Creates [[Way of Flow]], [[Flow]], and [[Expansion And Contraction]] as durable pages because the chapter carries both practice instructions and a broad transformation mechanism.
 - **Challenged**: Pressures the wiki to treat energy experiences as ordinary sensory experience under CCE, not as proof of a separate spiritual realm or as a practice endpoint.
 - **No material change**: Cross-cultural, cosmological, and Spirit-language parallels remain source-attributed.
-- **Integration target**: [[Complete Experience Safety Boundary]] should track Flow-chasing, energy fixation, kundalini-style activation, and the risk of treating obsession/distraction forces as merely interesting Flow without behavioral support.
+- **Integration target**: [[Altered Phenomena and Dissolution Safety Boundary]] carries Flow-chasing, energy fixation, kundalini-style activation, and the risk of treating obsession/distraction forces as merely interesting Flow without behavioral support.
 
 ## Weakest Claims
 - The catharsis and purification descriptions are phenomenologically rich but not independently measured in this file.
@@ -82,7 +82,7 @@ The chapter's most ambitious claims should stay source-attributed. Flow as Spiri
 ## Integration Notes
 - **Pages created**: [[Way of Flow]], [[Flow]], [[Expansion And Contraction]]
 - **Pages updated**: [[Basic Mindfulness Practice Architecture]], [[Five Ways]], [[Noting]], [[Sensory Grid]], [[Sensory Clarity]], [[Complete Experience]], [[Insight and Purification]], [[Complete Experience Safety Boundary]], `wiki/index.md`
-- **Contradictions opened**: No standalone question; energy fixation and Flow-chasing route to [[Complete Experience Safety Boundary]] for now.
+- **Contradictions opened**: No standalone question; energy fixation and Flow-chasing now route to [[Altered Phenomena and Dissolution Safety Boundary]].
 - **Confidence changes**: Flow becomes established as the manual's impermanence route, while its Spirit, world-culture, and cosmology claims remain source-attributed.
 - **Low-signal material excluded**: Long visual chart formatting and decorative analogies are compressed except where they clarify nine sensory zones, force flavors, and nondual interpretation.
 
@@ -94,4 +94,4 @@ The chapter's most ambitious claims should stay source-attributed. Flow as Spiri
 - [[Sensory Grid]] - Flow extends the grid across active, restful, inner, and outer events.
 - [[Complete Experience]] - Flow is ordinary experience under deep CCE, not a separate realm.
 - [[Insight and Purification]] - Flow is framed as purifier and integrator.
-- [[Complete Experience Safety Boundary]] - Flow practice raises energy-chasing and destabilization questions.
+- [[Altered Phenomena and Dissolution Safety Boundary]] - Flow practice raises energy-chasing, unusual-state, and destabilization questions.

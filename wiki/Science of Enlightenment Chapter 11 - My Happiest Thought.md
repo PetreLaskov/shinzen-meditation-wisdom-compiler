@@ -9,8 +9,8 @@ tags: []
 aliases: [Science of Enlightenment chapter 11, Chapter 11 My Happiest Thought, My Happiest Thought]
 sources: [raw/Shinzen Sources/science-of-enlightenment/11-my-happiest-thought.md]
 load_when: "A question needs source-level evidence for Shinzen's future-science hope, technology of enlightenment, Maitreya-as-neuroscience-team idea, neurotech speculation, or claims that current brain hacks do not yet reliably accelerate classical enlightenment."
-best_linked_pages: ["[[Mindfulness Skill Triad]]", "[[No-Self And Personality]]", "[[Equanimity]]", "[[Suffering Distortion Cycle]]", "[[Source And Polarities]]", "[[Complete Experience Safety Boundary]]", "[[Total Happiness]]"]
-updated: 2026-05-06
+best_linked_pages: ["[[Shinzen's Billion Dollar Hypothesis]]", "[[Hacking Enlightenment Can Ultrasound Help You Transcend Reality]]", "[[Is Fixation THE Necessary Cause for Suffering]]", "[[Mindfulness Skill Triad]]", "[[No-Self And Personality]]", "[[Equanimity]]", "[[Complete Experience Safety Boundary]]", "[[Total Happiness]]"]
+updated: 2026-05-29
 ---
 
 Chapter 11 of Shinzen Young's 2016 *The Science of Enlightenment* closes the book with a future-facing research hope. Its durable value is to preserve Shinzen's strongest science-and-technology aspiration while keeping it separate from currently established practice mechanisms.
@@ -52,6 +52,36 @@ The later sections sketch possible research directions. Lesion cases, stroke rep
 The source is aspirational and speculative. It wants the reader to see enlightenment as a domain where future scientific innovation might matter as much as past contemplative innovation. The chapter borrows the emotional structure of scientific breakthrough narratives, especially Einstein's "happiest thought," to legitimize a research program rather than to report completed research.
 
 The strongest source value is epistemic posture. Shinzen separates current practice from future technology, says available brain hacks do not yet reliably accelerate classical enlightenment, and admits the research program may not succeed. The chapter is therefore useful for preventing both anti-science dismissal and premature neurotech hype.
+
+[[Shinzen's Billion Dollar Hypothesis]] is the most concrete channel-source
+companion to this chapter's athymhormia and neurotechnology branch. It gives
+the expected-value frame, the pathological no-self-caricature warning,
+"spiritual status examination" as an assessment wish, and the
+virtual-lesion/IRB safety boundary; it does not validate the hypothesis
+([[Shinzen's Billion Dollar Hypothesis]] S1-S9).
+
+[[A Life of Practice and Service Shinzen Young at 80]] is a later
+retrospective companion to this chapter's future-science hope. It gives a
+more concrete but lower-quality transcript snapshot of Shinzen's current
+emphasis: ultrasound neuromodulation, equanimity as the mainstreaming target,
+interactive AI or virtual-Shinzen guidance, and possible medical delivery.
+That later source does not validate the chapter's hopes; it shows that the
+research-and-delivery project remained central to Shinzen's late-life
+self-understanding while keeping the same evidence-tier and safety problems.
+
+[[Hacking Enlightenment Can Ultrasound Help You Transcend Reality]] is an
+external documentary companion. It shows how focused-ultrasound research was
+publicly framed around the posterior cingulate/default-mode network,
+beginner-access reports, and possible therapeutic applications, while also
+warning against consumer self-use, high-chasing, and unsafe commercialization
+([[Hacking Enlightenment Can Ultrasound Help You Transcend Reality]] S1-S9).
+
+[[Is Fixation THE Necessary Cause for Suffering]] is an earlier
+ShinzenVideos companion to the chapter's grasping/fixation branch. It gives
+Sasaki Roshi's fixation language, attentional blink as a possible objective
+clue, and the "necessary cause behind the necessary cause" hypothesis, while
+keeping all physiology and intervention claims speculative ([[Is Fixation THE
+Necessary Cause for Suffering]] S1-S8).
 
 The weakest material is scientific specificity. Stroke cases, athymhormia, stimulation targets, insula, trishna, viscosity, neural stickiness, and whole-brain simulation are offered as suggestive directions, not established clinical pathways. A critic would also press the ethical gap: the chapter imagines liberation technology but does not give consent, governance, abuse-prevention, inequality, clinical-risk, or behavior-change safeguards.
 
@@ -101,3 +131,12 @@ The weakest material is scientific specificity. Stroke cases, athymhormia, stimu
 - [[Source And Polarities]] - the chapter continues the book's science-and-spiritual-reality frame, though less directly than chapter 10.
 - [[Complete Experience Safety Boundary]] - neurotechnology raises safety, ethics, integration, and behavior-verification gaps.
 - [[Total Happiness]] - the chapter's democratization hope is justified by large-scale human benefit and service.
+- [[Shinzen Young - The Science of Enlightenment (Book Trailer)]] - public book-trailer source that gives a short promotional version of the chapter's science-meditation and human-benefit hope.
+- [[Shinzen's Billion Dollar Hypothesis]] - later channel source for the athymhormia, expected-value, virtual-lesion, and spiritual-status-exam version of the same research hope.
+- [[Hacking Enlightenment Can Ultrasound Help You Transcend Reality]] -
+  external documentary source for focused-ultrasound research around Shinzen,
+  with safety and consumerization warnings.
+- [[Is Fixation THE Necessary Cause for Suffering]] - earlier channel source
+  for Sasaki Roshi's fixation language, attentional blink, and the
+  deeper-physiological-cause-under-craving hypothesis.
+- [[A Life of Practice and Service Shinzen Young at 80]] - later retrospective source for ultrasound, AI guidance, and equanimity mainstreaming as still-speculative delivery hopes.

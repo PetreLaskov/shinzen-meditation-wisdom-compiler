@@ -7,10 +7,10 @@ importance: 10
 confidence: probable
 tags: []
 aliases: [Fundamental Theorem of Mindfulness, CCE plus time, purification, trickle-down purification, rheological purification]
-sources: [raw/Shinzen Sources/science-of-enlightenment/10-return-to-the-source.md, raw/Shinzen Sources/science-of-enlightenment/09-the-power-of-gone.md, raw/Shinzen Sources/science-of-enlightenment/07-the-realm-of-power.md, raw/Shinzen Sources/science-of-enlightenment/05-insight-and-purification.md, raw/Shinzen Sources/science-of-enlightenment/06-the-many-faces-of-impermanence.md, raw/Shinzen Sources/five-ways/04-way-of-flow.md, raw/Shinzen Sources/five-ways/05-way-of-human-goodness.md, "raw/Shinzen Sources/yt transcripts/How to do Labeling and Noting During Meditation, Part 2 of 2, Zooming ~ Shinzen Young_KGcpzuHgrQk.md", "raw/Shinzen Sources/yt transcripts/retranscribed/Forcing Spoken Labels ~ Shinzen Young_cRPfi_Bw1pQ.md", "raw/Shinzen Sources/yt transcripts/Turn Towards Physical Discomfort Sequence & The Taste of Purification ~ Shinzen Young_LZ0L7_lEFqk.md", "raw/Shinzen Sources/yt transcripts/Open Up and Turn Towards Challenging Letting Go States ~ Shinzen Young_oTcGmoaLyv0.md", "raw/Shinzen Sources/yt transcripts/Evoking and Working Through Challenging Material ~ Shinzen Young_dG1_nyUxj2w.md", "raw/Shinzen Sources/yt transcripts/edited/Zero and One - Part 1 of 4 Complete Experiences ~ Shinzen Young_IH-BopkX53Q.md", "raw/Shinzen Sources/yt transcripts/edited/Zero and One - Part 2 of 4 Complete Experiences Cont'd, Strong Determination Sits ~ Shinzen Young_MENPoNVg3bA.md", "raw/Shinzen Sources/yt transcripts/edited/Zero and One - Part 3 Strong Determination Challenges, Benefits, and Tasting Purification ~ Shinzen_kO-PvZWM1f0.md", "raw/Shinzen Sources/yt transcripts/edited/Zero and One - Part 4 of 4 Complete Experiences, Unifications & Integrations ~ Shinzen Young_mSEuHTXJ3SA.md", "raw/Shinzen Sources/yt transcripts/edited/The Trickle-Down Paradigm of Transformation ~ Shinzen Young_FdkODyvYxRg.md", "raw/Shinzen Sources/yt transcripts/Kriyas & Complete Experiences ~ Shinzen Young_e9AHh9MvgyQ.md", "raw/Shinzen Sources/yt transcripts/edited/Experiences of the Dissolution (Bhanga) Process ~ Shinzen Young Interactive - 1 of 3_MUryO_vJT1o.md", "raw/Shinzen Sources/yt transcripts/edited/Discrimination and Unification - Part 1 of 4 ~ Shinzen Young_yX6WZwdBWTY.md"]
+sources: [raw/Shinzen Sources/science-of-enlightenment/05-insight-and-purification.md, raw/Shinzen Sources/science-of-enlightenment/06-the-many-faces-of-impermanence.md, raw/Shinzen Sources/science-of-enlightenment/07-the-realm-of-power.md, raw/Shinzen Sources/science-of-enlightenment/09-the-power-of-gone.md, raw/Shinzen Sources/science-of-enlightenment/10-return-to-the-source.md, raw/Shinzen Sources/five-ways/04-way-of-flow.md, "raw/Shinzen Sources/yt transcripts/edited/The Trickle-Down Paradigm of Transformation ~ Shinzen Young_FdkODyvYxRg.md", "raw/Shinzen Sources/yt transcripts/edited/Zero and One - Part 3 Strong Determination Challenges, Benefits, and Tasting Purification ~ Shinzen_kO-PvZWM1f0.md"]
 load_when: "Load for questions about Shinzen's transformation mechanism: CCE plus time, insight, purification, samskaras, trickle-down change, purification taste, Flow integration, bhanga, or therapy/behavior limits."
 best_linked_pages: ["[[Mindfulness Skill Triad]]", "[[Complete Experience]]", "[[The Trickle-Down Paradigm of Transformation]]", "[[Strong Determination]]", "[[Impermanence]]", "[[Flow]]", "[[Dissolution]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-08
+updated: 2026-05-28
 ---
 
 Insight and purification name the transformation Shinzen expects from mindfulness practice over time. Chapter 5 compresses the model into a formula: concentration plus sensory clarity plus equanimity plus time yields insight plus purification.
@@ -20,6 +20,15 @@ Insight and purification name the transformation Shinzen expects from mindfulnes
 - **Why this matters**: This page turns the triad, sensory decomposition, and complete experience into one practice mechanism future agents can route through.
 - **Key tensions**: The model is internally central but mainly supported here by anecdote, phenomenological report, and analogy; it must not be treated as a complete clinical or empirical theory.
 - **Source posture**: Strong as Shinzen's own transformation model; probable as an interpretation of his system; not established as universal psychology or medical guidance.
+
+## Source Anchors
+- [[Science of Enlightenment Chapter 5 - Insight and Purification]] anchors the CCE-plus-time formula, insight/purification distinction, trickle-down, dredge-up complementarity with therapy, rheological metaphor, and behavior-improvement test.
+- [[Taking Temperature of Subconscious Processing]] anchors a concrete
+  rheological practice handle: subtle inner activation can be soaked as a
+  field when steady or routed through Gone when bursting and subsiding.
+- [[Science of Enlightenment Chapter 6 - The Many Faces of Impermanence]], [[Science of Enlightenment Chapter 7 - The Realm of Power]], [[Science of Enlightenment Chapter 9 - The Power of Gone]], and [[Science of Enlightenment Chapter 10 - Return to the Source]] anchor Flow purification, altered-phenomena upaya, Primordial Feel, Gone, bhanga, and Source-side safety pressure.
+- [[Basic Mindfulness Chapter 4 - The Way of Flow]], [[The Trickle-Down Paradigm of Transformation]], [[The Reptilian Brain, Skinnerian Training & the Experience of God]], [[The Hockey Stick Metaphor and Exponential Growth on the Spiritual Path]], [[Working Through the Primal Feel Strata]], and [[Zero and One - Part 3 Strong Determination Challenges, Benefits, and Tasting Purification]] anchor Flow as purifier/integrator, hidden subconscious rewiring, body-level feedback training, nonlinear purification-taste motivation, primal-Feel local fluctuation, and purification-taste criteria under intensity.
+- Human Goodness, Zooming, Forcing Labels, physical-discomfort, letting-go, evocation, Zero-and-One, kriya, dissolution-case, equanimity/formula, and discrimination/unification sources remain cited in the body where they qualify reconstruction, dosage, therapy scope, and safety boundaries.
 
 ## Model
 Chapter 5 states Shinzen's "Fundamental Theorem of Mindfulness": concentration plus sensory clarity plus equanimity plus time equals insight plus purification ([[Science of Enlightenment Chapter 5 - Insight and Purification]] S10). The formula depends on the [[Mindfulness Skill Triad]] but adds duration and transformation. CCE is the catalyst; ordinary life experience is the material; insight and purification are the outputs.
@@ -33,6 +42,16 @@ The chapter gives three reusable mechanisms:
 - **Trickle-down purification**: clarity and equanimity poured into present sensory experience can percolate into the subconscious, allowing reorganization without necessarily recalling specific memories ([[Science of Enlightenment Chapter 5 - Insight and Purification]] S12).
 - **Dredge-up complementarity**: psychotherapy can deliberately retrieve and work with specific complexes; Shinzen says this can complement meditation and may be needed when meditation alone is insufficient ([[Science of Enlightenment Chapter 5 - Insight and Purification]] S12).
 - **Rheological purification**: sensory circuits contain subtle internal friction or self-interference; clarity and equanimity reduce that friction, letting experience become more fluid ([[Science of Enlightenment Chapter 5 - Insight and Purification]] S13).
+
+[[Taking Temperature of Subconscious Processing]] gives the trickle-down and
+rheological claims a concrete micro-practice. Instead of recovering hidden
+content, the practitioner monitors the general activation level in image
+space, talk space, and emotional body space. Steady activation is worked by
+whole-field soaking, which Shinzen says can lessen viscosity; burst-subsiding
+activation is worked by noticing Gone and the silence after the burst
+([[Taking Temperature of Subconscious Processing]] S2-S6). This strengthens
+the content-independent purification route while leaving the unconscious and
+physics language source-attributed.
 
 [[The Trickle-Down Paradigm of Transformation]] gives the compact oral
 version of the first mechanism and sharpens its evidence posture. Shinzen
@@ -53,6 +72,24 @@ are fully observable. The practice instruction is not to interpret the
 movement as proof, but to complete the subtle driver when possible and the
 surface movement when that is all that can be known ([[Kriyas & Complete
 Experiences]] S6-S9).
+
+[[The Reptilian Brain, Skinnerian Training & the Experience of God]] gives a
+different compact mechanism for the same below-discursive learning. Shinzen
+says talk can reach the surface subconscious, images can reach a deeper
+level, and body sensations can reach the deepest level; formal practice then
+creates immediate feedback where fighting body-sensation flow is suffering
+and stopping the fight is fulfillment. This supports purification as body-
+level relearning, while leaving the "reptilian brain" and Skinnerian model
+source-attributed ([[The Reptilian Brain, Skinnerian Training & the
+Experience of God]] S1-S4).
+
+[[The Hockey Stick Metaphor and Exponential Growth on the Spiritual Path]]
+adds the motivational-growth consequence of the same taste. Once a
+practitioner can tangibly sense that present CCE is reducing future suffering
+and clearing past pain, Shinzen says practice can enter a positive feedback
+loop: the purification taste encourages more equanimity, and that equanimity
+supports further growth ([[The Hockey Stick Metaphor and Exponential Growth
+on the Spiritual Path]] S3-S6).
 
 Completeness is the phenomenological bridge. The more an event is met with CCE, the more complete it becomes. Complete experiences purify consciousness, and purification makes complete experience easier; the two processes mutually reinforce each other ([[Science of Enlightenment Chapter 5 - Insight and Purification]] S14).
 
@@ -91,7 +128,23 @@ The Flow chapter gives purification a more energetic expression. Flow is describ
 
 Chapter 6 deepens that energetic expression into the taste of purification. Shinzen says impermanence may first be trivial, then harsh and jagged, and eventually smooth and blissful as CCE matures. The same pain that feels like grinding can also be tasted as liberating work when resistance softens ([[Science of Enlightenment Chapter 6 - The Many Faces of Impermanence]] S7-S8, S11). The chapter also gives a dosage caution from inside the model: start with small itches, aches, and ordinary events; heavy-duty austerity is not necessary for enlightenment ([[Science of Enlightenment Chapter 6 - The Many Faces of Impermanence]] S13).
 
+[[Ordinary Consciousness is the Way - Part 3 Mindful Awareness and Varieties
+of Flow]] gives the same model a short oral phrasing. Flow/Gone can be harsh,
+but often becomes soothing because it feels as if the substance of being is
+being worked on, with poison and pain being worked out. It also unifies by
+letting larger pieces of sensory experience become one Flow field, including
+external sight/sound and internal image/talk ([[Ordinary Consciousness is the
+Way - Part 3 Mindful Awareness and Varieties of Flow]] S6-S7).
+
 The Part 2 zooming talk gives that taste a small-scale practice image. Shinzen says simultaneous local-global [[Zooming]] can help subtle body-wide spread occur without resistance, eventually producing a splash-ripple-radiate-release rhythm and the taste that a quantum of potential suffering has been released ([[How to do Labeling and Noting During Meditation, Part 2 of 2, Zooming]] S6-S8). This sharpens the phenomenology of purification without proving the underlying claim.
+
+[[How Intense Emotions Can Be No Problem]] gives the same purification frame
+for emotional Feel flavors. Shinzen says fear, grief, shame, anger,
+impatience, or disgust can distill into a body-wide Essence, then become
+liquid-like, shimmering, gaseous, and spacious. That supports a Shinzen-
+internal sequence from congealed emotional compulsion to Flow and
+spaciousness, but it should remain source-attributed rather than treated as a
+clinical mechanism ([[How Intense Emotions Can Be No Problem]] S1-S8).
 
 [[Turn Towards Physical Discomfort Sequence & The Taste of Purification]]
 gives the same taste a fuller physical-discomfort sequence. Shinzen starts
@@ -163,6 +216,16 @@ The Human Goodness chapter gives purification a constructive complement. The fir
 
 Science of Enlightenment chapter 9 adds a Gone-side purification claim. Repeated vanishing may expose [[Primordial Feel]], a chaotic body-emotion layer Shinzen interprets as infant-like and purgatorial. The proposed route is to know and love that body emotion until it completes and resolves back through expansion, contraction, and Gone ([[Science of Enlightenment Chapter 9 - The Power of Gone]] S15-S18). This belongs to the purification model as a source-attributed possibility, not as verified developmental or trauma theory.
 
+[[Working Through the Primal Feel Strata]] adds a crucial local-trend
+qualification. Shinzen says emotional-body work can produce definite
+long-term improvement - discomfort becomes less problematic and pleasant
+emotion more fulfilling - while local somatic emotionality becomes chaotic,
+disproportionate, or stranger as deeper primitive strata are exposed. The
+purification reading therefore cannot be inferred from local smoothness; it
+must be checked by whether reactions are being recycled into CCE and whether
+function, behavior, and support remain intact ([[Working Through the Primal
+Feel Strata]] S2-S7).
+
 Science of Enlightenment chapter 10 adds [[Dissolution]] or bhanga as a broader Source-side purification stage. Some practitioners experience blissful vibratory Flow, some experience harsh chaos and disorientation, and some never pass through dramatic bhanga. The awkward intermediate zone is when the old turn-away coping pattern is being shed while the new turn-toward capacity is not yet stable ([[Science of Enlightenment Chapter 10 - Return to the Source]] S16-S19). This belongs to the purification model as safety-relevant practice territory, not as a universal developmental map.
 
 [[Experiences of the Dissolution (Bhanga) Process - 1 of 3]] makes the
@@ -181,6 +244,24 @@ Purification is not proof that a practitioner's interpretation of a sensation is
 Meditation is not presented here as a replacement for all psychological or ethical work. Shinzen explicitly names competent mental health professionals, 12-step programs, openness to social feedback, and explicit ethical guidelines as sometimes required supports ([[Science of Enlightenment Chapter 5 - Insight and Purification]] S12). That admission belongs near the center of the model, not in a footnote.
 
 The rheological model should be read as a phenomenological mechanism metaphor unless later evidence grounds it more concretely. It can help explain Shinzen's claims about congealment, flow, and thingness, but it is not yet a measured engineering account of consciousness.
+
+The temperature talk sharpens and limits that metaphor. Terms such as
+temperature, scalar field, entropy, and viscosity make subtle practice
+tangible, but they do not establish literal state variables of consciousness
+or prove that meditation has resolved hidden psychological material
+([[Taking Temperature of Subconscious Processing]] S1-S6).
+
+The Skinnerian model should be held at the same evidence tier. It is useful
+for explaining immediate feedback and learning, but it is not a complete
+neuroscience, psychology, retreat-safety rule, or proof that conditioning
+alone explains spiritual experience ([[The Reptilian Brain, Skinnerian
+Training & the Experience of God]] S2-S5).
+
+The hockey-stick model has the same calibration. It is a practice-
+encouragement and phenomenological feedback claim, not a measured growth law,
+timeline promise, or guarantee that purification taste will appear for every
+practitioner ([[The Hockey Stick Metaphor and Exponential Growth on the
+Spiritual Path]] S1-S6).
 
 The chapter also uses Source, grace, theosis, Buddha-nature, and pure consciousness language. Those frames clarify Shinzen's cross-tradition translation strategy; they should not be promoted into established metaphysics from this chapter alone.
 
@@ -266,6 +347,13 @@ Safety routing should become more explicit as the wiki matures. The chapter's st
 
 Chapter 9 intensifies this boundary. Its dissolution section gives internal interventions and support needs, but it does not specify when primordial Feel, terror, paralysis, hopelessness, or body-emotion agitation should be handled through grounding, stopping, therapy, medical care, or crisis support rather than continued meditation ([[Science of Enlightenment Chapter 9 - The Power of Gone]] S13-S18).
 
+The strata talk intensifies the same boundary from the emotional-body side.
+Its reassurance that strange primitive Feel can be a progress sign should not
+be treated as a stop-rule substitute or clinical differential. Panic,
+dissociation, rage behavior, trauma activation, medical factors, or function
+loss still route through safety and support before purification language
+([[Working Through the Primal Feel Strata]] S4-S7).
+
 Chapter 10 intensifies it again by saying surface-to-Source practice can be destabilizing and depends on individual factors, while not defining competent-instructor criteria or clinical differentials for bhanga ([[Science of Enlightenment Chapter 10 - Return to the Source]] S16-S19).
 
 The first interactive dissolution case intensifies the same boundary from
@@ -281,10 +369,17 @@ Chapter 7 adds an even wider altered-phenomena caution. It includes waking visio
 - [[Mindfulness Skill Triad]] - supplies the CCE input side of the theorem.
 - [[Complete Experience]] - names the degree to which an event has been met mindfully.
 - [[Discrimination and Unification - Part 1 of 4]] - source for the digestion metaphor and Flow as karma-digester/purifier.
+- [[The Reptilian Brain, Skinnerian Training & the Experience of God]] - source for body-level subconscious feedback training as an operant-conditioning analogy.
+- [[The Hockey Stick Metaphor and Exponential Growth on the Spiritual Path]] - source for purification taste as the positive-feedback breakpoint in long-term growth.
+- [[How Intense Emotions Can Be No Problem]] - source for emotional Essence loosening through Flow into spacious completion.
+- [[Working Through the Primal Feel Strata]] - source for long-term purification trends coexisting with chaotic local emotional-body fluctuations.
 - [[Equanimity and the Taste of Purification - Part 1 of 2]] - source for the anti-ascetic purification rule and the pleasant/unpleasant/neutral valence spread.
 - [[Equanimity and the Taste of Purification - Part 2 of 2]] - source for pleasant absorptions as purification material and for harm/wipeout limits on uncomfortable practice.
 - [[Purification and Fulfilment Four Formulas]] - source for the four-equation compression of suffering, purification, frustration, and fulfillment through resistance or equanimity.
 - [[The Trickle-Down Paradigm of Transformation]] - source for unconscious purification, catharsis versus integration, and later behavior/perception change as evidence posture.
+- [[Taking Temperature of Subconscious Processing]] - source for subtle
+  subconscious activation as a content-independent field practice that can
+  lower viscosity through soaking or route bursts through Gone.
 - [[Kriyas]] - owner concept for spontaneous movements as a purification-adjacent practice object.
 - [[Kriyas & Complete Experiences]] - source for the sankhara-groove explanation of kriyas and the subtle-driver/surface-movement completion rule.
 - [[Experiences of the Dissolution (Bhanga) Process - 1 of 3]] - source for a severe bhanga case interpreted as purification through sensory questioning and harsh Flow.

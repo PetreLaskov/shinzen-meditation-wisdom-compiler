@@ -9,8 +9,8 @@ tags: []
 aliases: ["The Final Stage and Service (YouTube)", b2anxOUgl1A]
 sources: ["raw/Shinzen Sources/yt transcripts/The Final Stage and Service ~ Shinzen Young_b2anxOUgl1A.md"]
 load_when: "Load when source-level evidence is needed for Shinzen's final-stage ordinary-life nonduality, continuous prayer/presence language, six-direction Source imagery, shared Zero, or service as care for larger identity."
-best_linked_pages: ["[[Source And Polarities]]", "[[Total Happiness]]", "[[Bodhicitta and the Way of Service]]", "[[Non-Dual Awareness]]", "[[Expansion And Contraction]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-09
+best_linked_pages: ["[[Source And Service Boundary]]", "[[Source And Polarities]]", "[[Total Happiness]]", "[[Bodhicitta and the Way of Service]]", "[[Non-Dual Awareness]]", "[[Complete Experience Safety Boundary]]"]
+updated: 2026-05-16
 ---
 
 This short Shinzen Young YouTube talk is a service teaching and cross-traditional translation of the "final stage." It presents ordinary sensory life as continuous self/world/Source nonseparation, then says shared contact with Zero naturally becomes care for one's larger identity.
@@ -97,7 +97,8 @@ The talk wants the listener to re-understand "final stage" as ordinary-life sens
 - **Low-signal material excluded**: Uncertain term spellings, song syllables, and detailed comparative-historical claims were not promoted.
 
 ## Related
-- [[Source And Polarities]] - owner page for Source, Zero, Expansion-Contraction, afterglow boundaries, and comparative translation caution.
+- [[Source And Service Boundary]] - owner for shared-Zero service, larger-identity care, and accountability limits.
+- [[Source And Polarities]] - parent hub for Source, Zero, Expansion-Contraction, afterglow boundaries, and comparative translation caution.
 - [[Total Happiness]] - service is the life-test branch of the aim structure.
 - [[Bodhicitta and the Way of Service]] - the talk adds a shared-Zero service rationale to the empty-service polarity.
 - [[Non-Dual Awareness]] - confirms mature nonduality as ordinary-life self/world/Source nonseparation rather than philosophy.

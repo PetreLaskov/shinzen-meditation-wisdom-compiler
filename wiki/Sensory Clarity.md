@@ -7,10 +7,10 @@ importance: 10
 confidence: probable
 tags: []
 aliases: [clarifying, vipassana, internal microscope, sensory clarification, high resolution, untangling]
-sources: [raw/Shinzen Sources/see-hear-feel-introduction/03-simple-and-flexible-labels.md, raw/Shinzen Sources/science-of-enlightenment/02-the-most-fundamental-skill.md, raw/Shinzen Sources/science-of-enlightenment/04-calming-and-clarifying.md, raw/Shinzen Sources/science-of-enlightenment/05-insight-and-purification.md, raw/Shinzen Sources/science-of-enlightenment/07-the-realm-of-power.md, raw/Shinzen Sources/science-of-enlightenment/08-the-real-no-self.md, raw/Shinzen Sources/five-ways/00-introduction.md, raw/Shinzen Sources/five-ways/01-way-of-thoughts-and-emotions.md, raw/Shinzen Sources/five-ways/02-way-of-physical-senses.md, raw/Shinzen Sources/five-ways/03-way-of-tranquility.md, raw/Shinzen Sources/five-ways/04-way-of-flow.md, raw/Shinzen Sources/five-ways/05-way-of-human-goodness.md, raw/Shinzen Sources/five-ways/07-science-of-sensory-experience.md, raw/Shinzen Sources/five-ways/08-five-more-ways.md, raw/Shinzen Sources/five-ways/12-big-picture.md, "raw/Shinzen Sources/yt transcripts/Untangling Sensory Experience Leads to Flow, Unifications, and Dynamic Doing ~ Shinzen Young_g0v70wPcs0c.md", "raw/Shinzen Sources/yt transcripts/edited/6 Buddhist Consciousnesses & the 12 Sensory States ~ Shinzen Young_PDUvTid4hxk.md", "raw/Shinzen Sources/yt transcripts/Mindfulness & the Categories of Sensory Experience ~ Shinzen Young_Skl5LE7Uucg.md", "raw/Shinzen Sources/yt transcripts/edited/Discrimination and Unification - Part 1 of 4 ~ Shinzen Young_yX6WZwdBWTY.md", "raw/Shinzen Sources/yt transcripts/edited/Discrimination and Unification - Part 4 of 4 ~ Shinzen Young_IAudwp77vf8.md", "raw/Shinzen Sources/yt transcripts/Growth and Tastes of Concentration, Sensory Clarity and Equanimity ~ Shinzen Young_ED0pXThS_nc.md", "raw/Shinzen Sources/yt transcripts/Sensory Clarity - 1 of 2 - No Self As Thing ~ Shinzen Young_1ZKgyqdiAKI.md", "raw/Shinzen Sources/yt transcripts/Sensory Clarity - 2 of 2 - No Self As Thing ~ Shinzen Young_MB96tQi_08s.md", "raw/Shinzen Sources/yt transcripts/Sensory Clarity Insight Through Monitoring Ordinary and Restful States ~ Shinzen Young_PNetIhxFinw.md", "raw/Shinzen Sources/yt transcripts/Sensory Clarity Untangle and Be Free ~ Shinzen Young_1gXoGMrGH34.md", "raw/Shinzen Sources/yt transcripts/Natural Sensory Space Combinations ~ Shinzen Young_ON9nSWAaiWM.md", "raw/Shinzen Sources/yt transcripts/retranscribed/Working with Images and Image Space ~ Shinzen Young_g7BXI0odxP4.md"]
-load_when: "A question involves vipassana, noting, deconstruction, no-self, altered phenomena, hallucination-like visions, emotional analysis, sensory classification, rest differentiation, flow discrimination, Gone detection, co-occurring modalities, flexible labels by focus range, positive-theme systems, insight, self-experience, or the clarifying member of CCE."
+sources: [raw/Shinzen Sources/see-hear-feel-introduction/03-simple-and-flexible-labels.md, raw/Shinzen Sources/science-of-enlightenment/04-calming-and-clarifying.md, raw/Shinzen Sources/science-of-enlightenment/05-insight-and-purification.md, raw/Shinzen Sources/science-of-enlightenment/08-the-real-no-self.md, raw/Shinzen Sources/five-ways/07-science-of-sensory-experience.md, "raw/Shinzen Sources/yt transcripts/Growth and Tastes of Concentration, Sensory Clarity and Equanimity ~ Shinzen Young_ED0pXThS_nc.md", "raw/Shinzen Sources/yt transcripts/Sensory Clarity Untangle and Be Free ~ Shinzen Young_1gXoGMrGH34.md", "raw/Shinzen Sources/yt transcripts/Vipassana & Mindfulness ~ Shinzen Young_FuRbQsQxDRk.md"]
+load_when: "Questions about Shinzen's clarifying skill: vipassana, sensory classification, noting, deconstruction, emotional analysis, rest/Flow/Gone discrimination, co-occurring modalities, flexible focus ranges, altered phenomena, no-self, self-experience, or whether concentration/equanimity lacks enough resolution."
 best_linked_pages: ["[[Mindfulness Skill Triad]]", "[[Sensory Grid]]", "[[Noting]]", "[[No-Self And Personality]]", "[[Intermediate Realm]]", "[[Gone]]", "[[Inner Sensory System]]", "[[Insight and Purification]]"]
-updated: 2026-05-09
+updated: 2026-05-19
 ---
 
 Sensory clarity is the skill of knowing what sensory components are present, how they differ, how subtle they are, and how they interact. The manual describes it as brightness, high resolution, and untangling; chapter 5 compresses the practical point as trackable implies tractable.
@@ -21,6 +21,21 @@ Sensory clarity is the skill of knowing what sensory components are present, how
 - **Key tensions**: The skill can initially agitate and feel analytical; subconscious, purification, Flow, and constructive-goodness claims remain source interpretations rather than independently established psychology.
 - **Source posture**: Strong as Shinzen's own operational account of the skill; weaker as historical proof that this was the Buddha's unique discovery.
 
+## Source Anchors
+- [[Science of Enlightenment Chapter 4 - Calming and Clarifying]] and [[Science of Enlightenment Chapter 5 - Insight and Purification]] anchor clarity as untangling, discrimination, detection, and trackable/tractable sensory analysis.
+- [[See Hear Feel Introduction - Simple and Flexible Labels]] and [[Basic Mindfulness Chapter 7 - A Science of Sensory Experience]] anchor the SHF/grid interface and flexible labeling ranges.
+- [[Growth and Tastes of Concentration, Sensory Clarity and Equanimity]], [[Sensory Clarity Untangle and Be Free]], and [[Vipassana and Mindfulness]] anchor clarity's taste, resolution, analysis, untangling applications, and vipassana as seeing separately plus seeing through.
+- [[Taking Temperature of Subconscious Processing]] anchors a subtle
+  detection branch: clarity can monitor background activation as a field and
+  distinguish steady activation from burst-subsiding activation.
+- [[Watching Subconscious Processing]] anchors the subtlest branch of the
+  same detection task: a directional pull toward an inner sensory space can
+  be detected before explicit content or obvious flow appears.
+- [[Science of Enlightenment Chapter 7 - The Realm of Power]] and [[Science of Enlightenment Chapter 8 - The Real No Self]] anchor altered-phenomena and self-construction routing; the six-consciousnesses, no-self-resolution, monitoring, image-space, and natural-combination talks extend those branches in the body.
+- [[Reality & Sensory Experience]] anchors the epistemic posture for
+  sensory clarity: Shinzen claims confidence in sensory experience as a
+  practice science, not in objective reality behind experience.
+
 ## Model
 Chapter 2 names sensory clarity as one of the three skills required for complete sensory experience, but does not define it in detail ([[Science of Enlightenment Chapter 2 - The Most Fundamental Skill]] S3, S8). The Basic Mindfulness introduction gives the manual definition: clarity keeps track of what is actually being experienced in the moment and is characterized by brightness, high resolution, and untangling ([[Basic Mindfulness Introduction]] S3). Chapter 4 then supplies the working metaphor: sensory clarity is an internal microscope that analyzes complex experience into components and tracks their interactions ([[Science of Enlightenment Chapter 4 - Calming and Clarifying]] S5).
 
@@ -29,6 +44,15 @@ The skill has three linked moves in this source:
 - **Seeing apart**: break experience into distinguishable sensory components.
 - **Tracking interaction**: notice how components combine, intensify, weaken, disappear, and reappear.
 - **Seeing through**: soak awareness into events deeply enough that their solidity changes; the chapter frames this as seeing particles as waves, which should remain source-attributed.
+
+[[Vipassana and Mindfulness]] gives the same two clarity moves in explicit
+vipassana language. Shinzen says "seeing separately" means separating basic
+sensory strands such as touch, sight, sound, Feel, Image, and Talk, including
+finer flavors within those strands. "Seeing through" means focusing on one
+strand so awareness soaks into it and its apparent solidity softens or
+dissolves into empty-vibrant character ([[Vipassana and Mindfulness]]
+S1-S4). That makes vipassana a clarity practice only when discrimination is
+joined to sustained penetrating attention.
 
 [[Growth and Tastes of Concentration, Sensory Clarity and Equanimity]]
 expands the skill into four growth dimensions. First, clarity has an
@@ -57,6 +81,13 @@ The [[Way of Flow]] applies clarity to impermanence. It asks whether movement, c
 
 Chapter 7 makes sensory classification itself an explicit clarity practice. Shinzen presents the [[Sensory Grid]] as a 12-cell table of sensory atoms and gives operational conventions for ambiguous cases, including smell/taste as Feel Out and emotional body sensation as a detected body component of present emotion ([[Basic Mindfulness Chapter 7 - A Science of Sensory Experience]] S3-S7).
 
+[[Reality & Sensory Experience]] gives the sensory-science claim its
+boundary. Shinzen says he can teach sensory experience in a true, deep,
+useful, and broad way, but he does not claim to know what sensory experience
+ultimately reveals about external reality. This keeps clarity's science
+language tied to practice discrimination rather than ontology ([[Reality &
+Sensory Experience]] S1-S5).
+
 [[6 Buddhist Consciousnesses and the 12 Sensory States]] adds the short oral rationale for why classification improves clarity. Thought becomes observable when it is made qualitatively tangible as auditory Talk or visual Image and spatially tangible through talk space and image space; emotion becomes observable when its body component is detected as Feel, including subtle wispy Feel that may distort perception and behavior ([[6 Buddhist Consciousnesses and the 12 Sensory States]] S2-S3).
 
 [[Mindfulness and the Categories of Sensory Experience]] adds a contrast-based clarity rationale. Shinzen says the Basic States were designed so meditators can notice how sensory systems interrelate, such as external sound expanding while self-talk goes away, and so researchers could compare deliberately contrasted experiential states ([[Mindfulness and the Categories of Sensory Experience]] S1-S2). For practice, clarity here means not only naming a category but seeing what changes when its paired contrast appears, disappears, or relaxes.
@@ -66,6 +97,21 @@ The SHF introduction adds a simpler but still clarity-dependent interface. See, 
 Chapter 8 adds a detection skill that is easy to miss: [[Gone]]. Practitioners tend to notice when events start more than when they end, so Just Note Gone trains clarity around the moment of vanishing or sudden drop-off. Shinzen says familiarity with Goneness plus concentration and equanimity can turn micro-endings into relief ([[Basic Mindfulness Chapter 8 - Five More Ways]] S5-S6).
 
 Chapter 5 sharpens clarity into two facets: discrimination, the ability to separate components, and detection, the ability to notice subtle activity ([[Science of Enlightenment Chapter 5 - Insight and Purification]] S5). It also adds a practical sensory grammar. Body and mind can be tracked by how much is present, what quality it has, where it occurs, when it occurs, how components interact, and how fast they change ([[Science of Enlightenment Chapter 5 - Insight and Purification]] S6).
+
+[[Taking Temperature of Subconscious Processing]] gives that detection skill
+a subtle-field version. Once explicit Image, Talk, or emotional Feel quiets,
+clarity can track whether background activation in image space, talk space,
+or emotional body space is steady, bursting, subsiding, or absent. Shinzen's
+route depends on that pattern: soak steady fields broadly, and use Gone for
+bursts that subside ([[Taking Temperature of Subconscious Processing]]
+S2-S5).
+
+[[Watching Subconscious Processing]] pushes detection one notch subtler. If
+Focus In is not All Rest but no explicit Image, Talk, Feel, or vibratory flow
+is available, clarity may consist only in detecting which inner space is
+tugging attention. The claim is modest when kept practice-bounded: the tug
+identifies where activation is beginning, not what the hidden content means
+([[Watching Subconscious Processing]] S1-S7).
 
 [[Discrimination and Unification - Part 1 of 4]] gives discrimination its
 digestive rationale. Shinzen compares experience to food: nutritive value can
@@ -190,6 +236,17 @@ divided attention.
 
 Chapter 5 does not make sensory clarity a replacement for psychological exploration. Shinzen contrasts meditation's trickle-down purification with psychotherapy's dredge-up model and says they can be complementary ([[Science of Enlightenment Chapter 5 - Insight and Purification]] S12). Clarity tracks present sensory components; it does not always resolve biographical, relational, or clinical material by itself.
 
+The temperature metaphor adds a related overreach risk. Tracking a subtle
+activation field is a clarity practice, not literal measurement of the
+subconscious, proof of hidden-memory access, or scientific validation through
+thermodynamic vocabulary ([[Taking Temperature of Subconscious Processing]]
+S1-S6).
+
+The tug handle adds a vagueness risk. Directional pull can be a valid
+detection object, but clarity is lost if the practitioner invents a tug,
+interprets it as known content, or treats subtle non-rest as clinical
+evidence ([[Watching Subconscious Processing]] S5-S7).
+
 The image-space talk adds a trauma-adjacent caution. Detecting replacement of
 present ambience by memory imagery may be "insightful and liberating" inside
 Shinzen's practice frame, but the source does not define clinical flashback,
@@ -204,6 +261,11 @@ The concept only needs the practice claim: Shinzen treats systematic sensory
 clarification as the core of vipassana and as experiential analysis rather
 than conceptual rumination.
 
+The vipassana terminology talk has the same boundary. It can support
+Shinzen's own "see separately, see through, see into" practice reading, but
+not independent Pali, Sanskrit, Greek, Latin, or Indo-European scholarship
+([[Vipassana and Mindfulness]] S1-S8).
+
 Natural-combination flexibility should not collapse into "anything goes."
 The transcript's pragmatic "it worked" criterion is useful only when tested
 against the larger mindfulness aims: clearer contact, less compulsion, more
@@ -216,6 +278,7 @@ This page also explains why Shinzen's system repeatedly reduces apparently compl
 
 ## Related
 - [[Mindfulness Skill Triad]] - clarity is one of the three core mindfulness skills.
+- [[Vipassana and Mindfulness]] - source for seeing separately and seeing through as Shinzen's compact vipassana formula.
 - [[Sensory Grid]] - manual label grammar that operationalizes clarity.
 - [[Noting]] - technique that acknowledges and focuses on sensory events.
 - [[No-Self And Personality]] - chapter 8's application of clarity to I-am-ness.
@@ -236,6 +299,12 @@ This page also explains why Shinzen's system repeatedly reduces apparently compl
 - [[Discrimination and Unification - Part 1 of 4]] - source for sensory breakdown as digestion that makes unification possible.
 - [[Discrimination and Unification - Part 4 of 4]] - source for healthy discrimination as an empowering contrast with oneness.
 - [[Growth and Tastes of Concentration, Sensory Clarity and Equanimity]] - source for clarity as unmixing, resolution, subtle detection, and speed of detection.
+- [[Taking Temperature of Subconscious Processing]] - source for subtle-field
+  activation tracking, steady-versus-bursting discrimination, whole-field
+  soaking, and Gone routing.
+- [[Watching Subconscious Processing]] - source for the inner-space tug as a
+  pre-content detection cue inside Focus In.
+- [[Reality & Sensory Experience]] - source for Shinzen's boundary around sensory-experience science versus objective-reality conjecture.
 - [[Sensory Clarity - 1 of 2 - No Self As Thing]] - source for no-self as direct Feel/Image/Talk resolution.
 - [[Sensory Clarity - 2 of 2 - No Self As Thing]] - source for resolution as separating fallen-together percepts and then penetrating strands into Flow.
 - [[Sensory Clarity Insight Through Monitoring Ordinary and Restful States]] - source for monitoring reactive/proactive/inactive Feel-Image-Talk and six Rest events.

@@ -8,9 +8,9 @@ confidence: established
 tags: []
 aliases: [SHF Unit 03, See Hear Feel simple labels, See Hear Feel flexible labels, exclusive emphasis, inclusive emphasis]
 sources: [raw/Shinzen Sources/see-hear-feel-introduction/03-simple-and-flexible-labels.md]
-load_when: "Source-level evidence is needed for SHF's See/Hear/Feel triangle, simple modality labels, smell and taste under Feel, exclusive versus inclusive emphasis, See Hear/See Feel/Hear Feel/All labels, flexible labels by focus range, label objections, dropping labels, or switching from noting to Do Nothing or Nurture Positive."
+load_when: "Source-level evidence for SHF's See/Hear/Feel triangle, simple modality labels, smell/taste under Feel, exclusive vs inclusive emphasis, See-Hear/See-Feel/Hear-Feel/All labels, flexible labels by focus range, label objections, dropping labels, or switching to Do Nothing or Nurture Positive."
 best_linked_pages: ["[[Noting]]", "[[Sensory Grid]]", "[[Sensory Clarity]]", "[[Do Nothing]]", "[[Nurture Positive]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-07
+updated: 2026-05-12
 ---
 
 This unit covers pages 24-35 of Shinzen Young's *See Hear Feel: An Introduction*, using a mechanical Markdown extraction from the source PDF. It teaches SHF's compact modality labels, how to handle simultaneous modalities, why label meanings depend on the active focus range, and when labels or noting itself may be dropped.

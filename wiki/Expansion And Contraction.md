@@ -7,10 +7,10 @@ importance: 9
 confidence: probable
 tags: []
 aliases: [Expansion-Contraction, Expansion Contraction, Both, expansion contraction practice]
-sources: [raw/Shinzen Sources/science-of-enlightenment/10-return-to-the-source.md, raw/Shinzen Sources/science-of-enlightenment/09-the-power-of-gone.md, raw/Shinzen Sources/science-of-enlightenment/06-the-many-faces-of-impermanence.md, raw/Shinzen Sources/five-ways/04-way-of-flow.md, raw/Shinzen Sources/five-ways/08-five-more-ways.md, raw/Shinzen Sources/five-ways/11-life.md, raw/Shinzen Sources/five-ways/12-big-picture.md, "raw/Shinzen Sources/yt transcripts/edited/Zero and One - Part 1 of 4 Complete Experiences ~ Shinzen Young_IH-BopkX53Q.md", "raw/Shinzen Sources/yt transcripts/edited/Born Between Expansion and Contraction Responding to the Needs of Your Larger Identity ~ Shinzen_b2ZTR9mhBWk.md", "raw/Shinzen Sources/yt transcripts/edited/Expansion and Contraction - Part 1 Kenotic Christianity and Shuniya ~ Shinzen Young_M28c-8VfVjQ.md", "raw/Shinzen Sources/yt transcripts/edited/Expansion and Contraction - Part 2 Zen Metaphors and Three Tastes ~ Shinzen Young_DbKlB-0eORs.md", "raw/Shinzen Sources/yt transcripts/edited/Expansion and Contraction - Part 3 Surrendering to Life & Death, Nirvana ~ Shinzen Young_DTPWNtGgp6A.md", "raw/Shinzen Sources/yt transcripts/edited/Expansion and Contraction - Part 4 Heaven, Hell, Integration & 3 Tastes of Freedom ~ Shinzen Young_Hsgj-5yCLGU.md", "raw/Shinzen Sources/yt transcripts/edited/Expansion, Contraction and the Breath Cycle ~ Shinzen Young_z9LgdG3O94Y.md", "raw/Shinzen Sources/yt transcripts/edited/The Theme of Expansive and Contractive Flow ~ Shinzen Young_wWtZMYi0wnM.md", "raw/Shinzen Sources/yt transcripts/Paradigms of Change Impermanence, Flow, Expansion & Contraction, Arising & Passing ~ Shinzen Young_uco6mSHmwJA.md", "raw/Shinzen Sources/yt transcripts/Mindfulness Momentum, Arising and Passing to Simultaneous Expansion and Contraction ~ Shinzen Young_LlglNS_rg5g.md", "raw/Shinzen Sources/yt transcripts/The Three-Dimensional Shape of Simultaneous Expansion and Contraction ~ Shinzen Young_rzwkB4QWU_s.md", "raw/Shinzen Sources/yt transcripts/Fulfilling the Pythagorean Agenda ~ Shinzen Young_8TdC2vT0r48.md", "raw/Shinzen Sources/yt transcripts/edited/Discrimination and Unification - Part 2 of 4 ~ Shinzen Young_BuMSvui-6Kc.md", "raw/Shinzen Sources/yt transcripts/edited/Discrimination and Unification - Part 3 of 4 ~ Shinzen Young_g34a09qDbfU.md"]
+sources: [raw/Shinzen Sources/five-ways/04-way-of-flow.md, raw/Shinzen Sources/science-of-enlightenment/10-return-to-the-source.md, "raw/Shinzen Sources/yt transcripts/edited/Expansion and Contraction - Part 1 Kenotic Christianity and Shuniya ~ Shinzen Young_M28c-8VfVjQ.md", "raw/Shinzen Sources/yt transcripts/edited/Expansion and Contraction - Part 2 Zen Metaphors and Three Tastes ~ Shinzen Young_DbKlB-0eORs.md", "raw/Shinzen Sources/yt transcripts/edited/Expansion and Contraction - Part 3 Surrendering to Life & Death, Nirvana ~ Shinzen Young_DTPWNtGgp6A.md", "raw/Shinzen Sources/yt transcripts/edited/Expansion and Contraction - Part 4 Heaven, Hell, Integration & 3 Tastes of Freedom ~ Shinzen Young_Hsgj-5yCLGU.md", "raw/Shinzen Sources/yt transcripts/edited/Sasaki Roshi & Burmo-Japanese Mindfulness Fusion ~ Shinzen Young_-pMyY6Abi4g.md", "raw/Shinzen Sources/yt transcripts/edited/Sasaki Roshi, the Complex Number System & the Source of Love ~ Shinzen Young_hvFOe_JmSCw.md"]
 load_when: "A question involves Expansion, Contraction, Both, force patterns, inward or outward pressure, scattering or gripping, unrelaxable tension, observer trap, deep expansion-contraction, breath or smile as flow, polarity in Shinzen's Flow practice, Source/Zero, bhanga, primordial Feel, or Flow as a dark-night intervention."
 best_linked_pages: ["[[Flow]]", "[[Impermanence]]", "[[Source And Polarities]]", "[[Gone]]", "[[Dissolution]]", "[[Primordial Feel]]", "[[Sensory Grid]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-08
+updated: 2026-05-31
 ---
 
 Expansion and Contraction are the manual's deepest Flow labels in this chapter. They classify change by force-pattern rather than by sensory modality.
@@ -20,6 +20,44 @@ Expansion and Contraction are the manual's deepest Flow labels in this chapter. 
 - **Why this matters**: It lets Flow practice move beneath modality labels toward a polarity model that later Source and nonduality material will likely reuse.
 - **Key tensions**: Later manual chapters reuse the labels for Source, life, nature, and mathematics, but the wiki should keep the practice definition separate from metaphysical or scientific overclaim.
 - **Source posture**: Strong for the Basic Mindfulness labels and instructions; speculative for cosmology and deep Source interpretation.
+
+## Source Anchors
+- [[Basic Mindfulness Chapter 4 - The Way of Flow]], [[Science of Enlightenment Chapter 6 - The Many Faces of Impermanence]], [[Science of Enlightenment Chapter 9 - The Power of Gone]], and [[Science of Enlightenment Chapter 10 - Return to the Source]] anchor the manual labels, Flow/Gone relation, Source/Zero bridge, observer-trap use, and bhanga boundary.
+- The four [[Expansion and Contraction - Part 1 Kenotic Christianity and Shuniya|Expansion and Contraction]] talks anchor the polarity-series treatment: Zero/One analogies, Zen metaphors, surrender to life/death, three tastes, heaven/hell bhanga, integration, and safety-sensitive dramatic imagery.
+- [[Which Teachers Have Influenced How You Teach]], [[Sasaki Roshi & Burmo-Japanese Mindfulness Fusion]], [[Leonard Cohen, Sasaki Roshi, & Love Itself - Part 1 of 2]], and [[Sasaki Roshi, the Complex Number System & the Source of Love]] confirm the lineage-transmission side: Shinzen explicitly names Sasaki Roshi's Expansion-Contraction paradigm as one of the strongest influences on his own model of consciousness, explains how it solves the watcher-over-here problem in flat rising-passing language, reads Cohen's "Love Itself" as poetic transmission of the same Zero-polarity cycle, and distinguishes his modest consciousness-analysis claim from Sasaki's possible universal theory.
+- [[Jewish Mysticism & Mindfulness Meditation]] adds a Jewish mystical
+  translation: expanding, contracting, and vibrating Flow is the impersonal
+  doing that churns physical, emotional, and mental body-mind self into
+  existence before returning through Gone.
+- [[The Native American Sweat Lodge - Part 2 of 2]] adds a Native-ceremony
+  translation in Shinzen's voice: expansive sky, contractive earth, and the
+  vibrating energy between them are read as the deepest layer of the sweat
+  lodge experience.
+- [[A Mindful Birth and Zen Parenting, Part 1 of 2]] adds an applied birth
+  example: contraction peaks can be treated as physical Touch expanding while
+  Image, Talk, and emotional selfing contract into Rest, with valleys
+  supporting bodily relaxation.
+- [[A Mindful Birth and Zen Parenting, Part 2 of 2]] adds the parenting
+  continuation: the baby is treated as dynamic nothingness where expansion,
+  contraction, and Zero can be contacted through touch, sight, and sound.
+- Basic Mindfulness Life/Big Picture, Zero and One, breath-cycle, expansive-contractive Flow, paradigms, mindfulness-momentum, three-dimensional-shape, Pythagorean, [[Three Dances of Self and World]], and discrimination/unification sources remain cited in the body for extensions and qualifications.
+- Safety-relevant uses route through [[Dissolution]], [[Primordial Feel]], and [[Complete Experience Safety Boundary]] rather than treating pressure, bhanga, or surrender language as self-sufficient guidance.
+- [[Guided Meditation of Expansion and Contraction]] adds the retreat-stream
+  pilot scaffold: ordinary increase/decrease, pressure,
+  scattering/gripping, and centering/decentering are used as surface
+  detections that may point toward deep Expansion-Contraction, but the deep
+  version remains possible rather than required.
+- [[Four Ways Forward - June Shinzen Retreat]] adds the long-retreat
+  implementation: broad-practice flooding can be simplified or reinterpreted
+  as expansion/decentering contraction, and Zoom Beyond body, auditory, and
+  visual spaces can expose expansion, dropouts, and Gone.
+- [[Shinzen Young Retreat at the Monastic Academy 05.27.2017]] adds the
+  yes/no/both/rest retreat implementation: arising, passing, simultaneous
+  arising-passing, and relative or absolute rest are explored across visual,
+  auditory, somatic, and all-sensory domains.
+- [[Density that is Unifying and Liberating]] adds a compact correction:
+  contracted Flow may feel dense and still be pleasant, unifying, and
+  liberating when contraction is surrendered rather than resisted.
 
 ## Model
 Expansion-Contraction is a version of Focus on Flow that analyzes movement into basic force directions. The standard labels are Expansion, Contraction, Both, and Gone ([[Basic Mindfulness Chapter 4 - The Way of Flow]] S6-S7).
@@ -38,6 +76,15 @@ Chapter 9 links Expansion-Contraction directly to Gone. In that chapter's broad 
 
 Chapter 10 makes Expansion-Contraction the central bridge from ordinary experience to [[Source And Polarities]]. It says each sensory or motor event is born from simultaneous Expansion-Contraction and that [[Gone]] occurs when those polar forces mutually cease or cancel into Zero ([[Science of Enlightenment Chapter 10 - Return to the Source]] S4, S12-S13). It also clarifies that arising and passing should not be simplistically equated with Expansion and Contraction: each arising already entails both ([[Science of Enlightenment Chapter 10 - Return to the Source]] S4).
 
+[[Shinzen Young Retreat at the Monastic Academy 05.27.2017]] gives a
+practice-friendly way to approach that non-simple relation. The early exercise
+lets practitioners separately detect beginnings and endings as yes and no,
+then expands to both and rest; continuous arisings can turn into a sense of
+space spreading, and continuous passings into space collapsing ([[Shinzen
+Young Retreat at the Monastic Academy 05.27.2017]] S6-S10). This is a
+training scaffold for polarity perception, not a contradiction of the deeper
+chapter-10 claim that mature arising already includes both forces.
+
 [[Born Between Expansion and Contraction]] gives the oral Gate 4 version of
 that same bridge. Shinzen starts from passing-as-arising: as an event arises,
 its space is spreading; because passing is already salient, that same space
@@ -54,6 +101,25 @@ abrupt disappearance is [[Gone]] and every other increase, decrease, spread,
 collapse, speeding, slowing, affirmation, or negation is [[Flow]]
 ([[Expansion and Contraction - Part 1 Kenotic Christianity and Shuniya]]
 S1-S2).
+
+[[Which Teachers Have Influenced How You Teach]] supplies the explicit
+influence claim behind this series. Shinzen says Sasaki Roshi's paradigm is a
+major influence on him and describes it as a reworking of early Buddhist
+impermanence into a larger model for consciousness based on Expansion and
+Contraction ([[Which Teachers Have Influenced How You Teach]] S2-S3). This
+supports the page's routing priority while remaining Shinzen's lineage-
+translation claim rather than independent doctrinal proof.
+
+[[Sasaki Roshi & Burmo-Japanese Mindfulness Fusion]] sharpens why the
+reworking matters phenomenologically. Shinzen says sequential
+rising-passing language can leave a meditator over here watching events over
+there, whereas three-dimensional Expansion-Contraction includes the observer
+as part of the same arising and passing volume ([[Sasaki Roshi & Burmo-Japanese Mindfulness Fusion]] S3-S4). The same talk links total
+participation in simultaneous Expansion-Contraction to cancellation into
+Zero or Source and repolarization into self/world and Feel/Image/Talk plus
+touch/sight/sound ([[Sasaki Roshi & Burmo-Japanese Mindfulness Fusion]]
+S5-S6). This should be held as Shinzen's practice model, not independent
+proof of consciousness metaphysics.
 
 [[Expansion and Contraction - Part 2 Zen Metaphors and Three Tastes]]
 completes that setup with Sasaki Roshi's positive/negative polarity list. The
@@ -81,6 +147,64 @@ torn apart, the teaching route is to become life and death so the polarities
 can integrate into what transcends contrast ([[Expansion and Contraction -
 Part 4 Heaven, Hell, Integration and Three Tastes of Freedom]] S1-S5).
 
+[[Leonard Cohen, Sasaki Roshi, & Love Itself - Part 1 of 2]] adds a compact
+Sasaki-cycle retelling through Cohen's song. Zero contains all positive and
+negative, breaks into Expansion and Contraction, vibrates as space in the
+cleft, and matures into a feeling-thinking self; if that self knows its
+origin, it returns the positive and negative poles and disappears into a new
+Zero ([[Leonard Cohen, Sasaki Roshi, & Love Itself - Part 1 of 2]] S1-S3).
+The same source names Expansion and Contraction as the fundamental Flow
+flavors underlying wavy and vibratory Flow ([[Leonard Cohen, Sasaki Roshi, &
+Love Itself - Part 1 of 2]] S5).
+
+[[Sasaki Roshi, the Complex Number System & the Source of Love]] gives the
+same polarity model its clearest evidence-tier caution. Shinzen says Sasaki
+Roshi may be implying that contrast-neutralization and neutral-repolarization
+describe everything, but Shinzen only claims the paradigm is useful for
+analyzing consciousness moment by moment ([[Sasaki Roshi, the Complex Number
+System & the Source of Love]] S1-S2). The complex-number analogy then maps
+stretch/squeeze, opposed movement, and left/right turning onto neutral points
+of one, zero, and stillness; this helps image Expansion-Contraction as a
+contrast grammar, but it does not turn the practice model into mathematics or
+physics ([[Sasaki Roshi, the Complex Number System & the Source of Love]]
+S3-S4).
+
+[[Jewish Mysticism & Mindfulness Meditation]] applies the same force-pattern
+inside a Kabbalistic translation. Shinzen says close attention to sensory
+change reveals a fundamental impersonal doing that pervades physical body,
+emotional body, and mental process; he then describes an expanding,
+contracting, vibrating field that churns the body-mind self into existence
+from a cleft and returns through Gone to a One-Zero Source ([[Jewish
+Mysticism & Mindfulness Meditation]] S1-S5, S7). This strengthens
+Expansion-Contraction as a translation bridge while preserving the same
+comparative overclaim boundary.
+
+[[The Native American Sweat Lodge - Part 2 of 2]] applies the same
+force-pattern to sweat lodge. Shinzen says the ceremony's deepest level is
+experience of nature's flow through fundamental Expansion and Contraction,
+using Father Sky and Mother Earth, pipe bowl and stem, earth and tree, and
+life/breath/spirit energy as his bridge language ([[The Native American Sweat
+Lodge - Part 2 of 2]] S4-S6). This supports Expansion-Contraction as a
+cross-tradition translation lens, not as proof that Native ceremony teaches
+Shinzen's model in identical terms.
+
+[[A Mindful Birth and Zen Parenting, Part 1 of 2]] gives a concrete applied
+rhythm. In labor, Shinzen says early mild contractions can establish a rhythm:
+at the peak, physical Touch expands while Image, Talk, and emotional selfing
+may contract into blank, quiet, and peace; in the valley, the body relaxes
+([[A Mindful Birth and Zen Parenting, Part 1 of 2]] S4-S7). His cosmic womb
+and God-language should be kept as contemplative transmission around
+Expansion-Contraction, not medical, theological, or universal childbirth
+evidence ([[A Mindful Birth and Zen Parenting, Part 1 of 2]] S8-S9).
+
+[[A Mindful Birth and Zen Parenting, Part 2 of 2]] extends that applied frame
+from labor rhythm to parenting contact. Shinzen says the baby is the parent's
+little Roshi, still linked to Source, and that expansion, contraction, and
+Zero can be seen in the baby through touch, sight, and sound ([[A Mindful
+Birth and Zen Parenting, Part 2 of 2]] S4-S5). This is useful as a sensory
+and service metaphor, not developmental science or authority granted to the
+child.
+
 [[Expansion, Contraction and the Breath Cycle]] gives the most concrete Gate
 4 practice example so far. Breath can be read volumetrically, with in-breath
 as expansion and out-breath as collapse; it can also be read force-wise, with
@@ -96,6 +220,25 @@ or inward force. Intensity can rise or fall, vibration can speed up or slow
 down, pressure can push outward or pull inward, and attention can scatter in
 many directions or grip one object ([[The Theme of Expansive and Contractive
 Flow]] S1-S4).
+
+[[Ordinary Consciousness is the Way - Part 3 Mindful Awareness and Varieties
+of Flow]] gives the same attention example a Zen-ordinary-mind frame.
+Shinzen says ordinary mind scatters, obsesses, or does both at once; the
+practice translation is that scattering is nature expanding and fixation is
+nature contracting. This is a routing handle, not permission to ignore
+behaviorally harmful distraction, rumination, or compulsion
+([[Ordinary Consciousness is the Way - Part 3 Mindful Awareness and Varieties
+of Flow]] S1-S2).
+
+[[Enlightenment Simultaneous Expansion and Contraction Sahej Samadhi
+Non-Dual Awareness]] gives the most compressed spaciousness version. Shinzen
+says spatial expansion usually thins out simultaneously, producing a
+simultaneous Expansion-Contraction flavor: vastness all around and thinness
+throughout. When that pattern pervades all inner and outer See/Hear/Feel in
+ordinary life, he equates it with sahaja samadhi and true nondual awareness
+([[Enlightenment Simultaneous Expansion and Contraction Sahej Samadhi
+Non-Dual Awareness]] S1-S4). This supports the advanced Space-to-polarity
+branch, but it should not be used as a standalone verification criterion.
 
 [[Discrimination and Unification - Part 2 of 4]] confirms the same abstraction
 inside a broader series argument. Many Flow flavors can be grouped as increase
@@ -191,6 +334,26 @@ Second, practitioners can test the spatial volume of any sensory event by
 noticing whether its width, depth, or height lengthens, shortens, spreads, or
 collapses ([[The Theme of Expansive and Contractive Flow]] S5).
 
+[[Guided Meditation of Expansion and Contraction]] gives the clearest guided
+detection sequence so far. It starts with ordinary increase and decrease,
+then pressure as inward, outward, or bidirectional force, then scattering and
+gripping as impersonal space-patterns, then the subtler movement from
+centering into decentering. The same source explicitly permits guessing and
+groping when the exercise remains a clarity-oriented detection practice, and
+it tells practitioners to stay with surface patterns if deep Expansion-
+Contraction is not available ([[Guided Meditation of Expansion and
+Contraction]] S1-S7).
+
+[[Four Ways Forward - June Shinzen Retreat]] gives the same logic a long
+retreat setting. During broad Note Everything, flooding and inability to
+find a center can first be treated as problems with ordinary fixes such as
+re-noting, zooming, or narrowing to one modality; when capacity allows,
+scattering may be read as expansion and decentering as contraction. Later,
+Zoom Beyond practice across body, auditory, and visual space makes expansion
+and contraction available through openness, boundary collapse, sentence
+endings, sound endings, and visual pop-outs ([[Four Ways Forward - June
+Shinzen Retreat]] S3, S12).
+
 The mindfulness-momentum talk adds a sequencing handle: do not treat
 simultaneous Expansion-Contraction as a comparison badge or immediate demand.
 Let basic CCE mature over weeks, months, and years, then if arising-passing is
@@ -214,6 +377,15 @@ pressures clashing; letting the outward force push out and the inward force
 press in can reveal interdigitating Expansion-Contraction and empty space
 rather than mere solidity ([[Paradigms of Change]] S4).
 
+[[Ordinary Consciousness is the Way - Part 2 Mindful Awareness and Varieties
+of Flow]] gives a simpler pressure diagnostic. When pressure appears, ask
+whether it is inward, outward, or bidirectional; then treat it as force Flow
+rather than as proof that the practitioner is resisting or personally doing
+something wrong. Yielding to the force may intensify it temporarily, so the
+handle needs the usual pain, medical, trauma, and destabilization boundaries
+([[Ordinary Consciousness is the Way - Part 2 Mindful Awareness and Varieties
+of Flow]] S7).
+
 The third numbered talk gives the same permission a life/death idiom. The
 instruction is not to seek danger or overwhelm; it is to give complete
 permission to whatever in present experience says yes and no, pushes outward
@@ -231,9 +403,25 @@ into liberation while still differentiating three tastes: life, death, and
 Zero ([[Expansion and Contraction - Part 4 Heaven, Hell, Integration and
 Three Tastes of Freedom]] S2-S5).
 
+The Leonard Cohen/Love Itself source makes the blissful branch more explicit.
+Shinzen describes a scintillating, misty, bubbly Flow in which body, mind, and
+external world can dissolve; because it is blissful, attachment is a danger.
+If it is not clung to, the vibrations can flatten into Zero, after which
+practice returns to self and world seen differently ([[Leonard Cohen, Sasaki
+Roshi, & Love Itself - Part 1 of 2]] S5-S6).
+
 The same chapter uses Expansion-Contraction to address the observer trap. Arising-passing language can leave a fixated observer watching events. Expansion-Contraction is more encompassing: it pulls apart the apparent center and border of the observer, making the practitioner become Flow rather than remain a separate watcher ([[Science of Enlightenment Chapter 10 - Return to the Source]] S9).
 
 For [[Dissolution]], harsh bhanga is interpreted through the same pair. Being blown away is expansion and being crushed is contraction; if those forces can be contacted with equanimity, Shinzen says they can evolve into gentler stretching and squeezing ([[Science of Enlightenment Chapter 10 - Return to the Source]] S18).
+
+[[Density that is Unifying and Liberating]] sharpens the word-level
+differential for contraction. A dense or thick presentation is not
+automatically a block: Shinzen says pleasant dense contraction can be
+contracted Flow when the contracted force is deeply surrendered to, while
+painful density points to resistance and subtle rigidity around that force
+([[Density that is Unifying and Liberating]] S1-S4). This strengthens the
+permission-to-contract branch without making density itself an attainment
+sign.
 
 ## Source And Big Picture
 Chapter 11 makes Expansion-Contraction part of the "Activity of the Source": one source or zero has two sides, Expansion and Contraction, and experience arises in the gap created by their spread and collapse ([[Basic Mindfulness Chapter 11 - Life]] S10).
@@ -260,8 +448,20 @@ The later Pythagorean-agenda talk widens the same boundary. Shinzen says
 modern number systems may have enough contrasts to model the outer and inner
 dances, including flavors of Expansion and Contraction, but the short talk
 does not provide a mathematical model or empirical validation
-([[Fulfilling the Pythagorean Agenda]] S3-S4). Treat the claim as a
-future-science hope, not as a practice instruction or proof.
+([[Fulfilling the Pythagorean Agenda]] S3-S4). [[Three Dances of Self and
+World]] then turns that aspiration into a chart: the nature dance uses
+Expansion-Contraction examples across scale, while the number dance uses
+complex-number stretch/squeeze and turning analogies (S3-S4). Treat both as
+future-science hope and transmission image, not as practice instruction or
+proof.
+
+The complex-number source sharpens that boundary. Its multiplicative,
+additive, and rotational contrasts are useful as Shinzen's oral analogy for
+neutralization and repolarization, but the source itself says only that Sasaki
+may be right and time will tell. Future agents should not present the
+complex-number frame as a completed model of consciousness, quantum theory, or
+a grand theory of everything ([[Sasaki Roshi, the Complex Number System & the
+Source of Love]] S1-S5).
 
 The three-tastes analogy should be bounded the same way. It is a teaching
 image for the simplification of tangled sensory affirmations and negations
@@ -283,6 +483,19 @@ medical care, teacher support, or stopping when frightening dissolution is
 destabilizing ([[Expansion and Contraction - Part 4 Heaven, Hell,
 Integration and Three Tastes of Freedom]] S1-S4).
 
+The Love Itself source adds a positive-state boundary. Blissful vibratory
+Flow should not be rejected, but its pleasure can become an attachment; "true
+love is Zero" should not be used to devalue ordinary love, relational repair,
+or Nurture Positive practice ([[Leonard Cohen, Sasaki Roshi, & Love Itself -
+Part 1 of 2]] S5-S7).
+
+The sweat-lodge Part 2 source adds a cultural-translation boundary. Father
+Sky, Mother Earth, pipe, earth/tree, life/breath, and yin-yang language are
+Shinzen's oral bridge into Expansion-Contraction; future agents should not
+turn them into philological proof, Native doctrinal identity, or authorization
+to reproduce ceremony ([[The Native American Sweat Lodge - Part 2 of 2]]
+S4-S6).
+
 The breath example has a different boundary. Expansion-Contraction should
 not be reduced to breath mechanics or breath control. If breath attention is
 medically or psychologically activating, this short source gives no
@@ -296,6 +509,21 @@ patterns only when concentration, clarity, and ordinary functioning are not
 being bypassed. The Both-Gone arising-passing edge is a heads-up vocabulary,
 not an experience that can be manufactured or required ([[The Theme of
 Expansive and Contractive Flow]] S4, S6-S8).
+
+The guided retreat-stream source sharpens the same nonforcing boundary.
+Guessing and groping are acceptable inside subtle detection practice, but
+they should not harden into certainty, pressure spiritualization, or a demand
+to experience deep polarity. Shinzen also acknowledges that some pressure
+should be addressed ordinarily, so force-pattern practice does not override
+medical, safety, or functional judgment ([[Guided Meditation of Expansion and
+Contraction]] S2-S7).
+
+The density source adds a specific pleasant-contraction boundary. "Good
+density" should not be used to reframe every painful compactness as progress;
+the source's distinction depends on the difference between resisted
+contraction and surrendered contraction. Its global-Gone and physiological
+trance language also needs safety calibration before it becomes guidance
+([[Density that is Unifying and Liberating]] S4-S5).
 
 The three-dimensional shape image has the same nonforcing boundary. The
 source gives concentric spheres and a gushing-gathering fountain as a spatial
@@ -312,17 +540,33 @@ Expansion and Contraction]] S1-S3).
 - [[Expansion and Contraction - Part 2 Zen Metaphors and Three Tastes]] - source for positive/negative polarity lists, momentary self born in between, simultaneous push-out/pull-in, and the three tastes of positive, negative, and Zero.
 - [[Expansion and Contraction - Part 3 Surrendering to Life and Death, Nirvana]] - source for surrendering to life/death as permission for simultaneous yes/no and push-out/pull-in through ordinary activity.
 - [[Expansion and Contraction - Part 4 Heaven, Hell, Integration and Three Tastes of Freedom]] - source for heavenly/hellish bhanga, being torn apart, life/death/Zero tastes, and Source-womb service.
+- [[Leonard Cohen, Sasaki Roshi, & Love Itself - Part 1 of 2]] - source for Sasaki's Zero-polarity cycle, fundamental Flow flavors, blissful Flow attachment, Gone return, and true love as Zero.
+- [[Sasaki Roshi, the Complex Number System & the Source of Love]] - source for Shinzen's caveat around Sasaki's broader claims and the complex-number contrast analogy.
+- [[Jewish Mysticism & Mindfulness Meditation]] - source for applying Expansion-Contraction, Flow, and Gone to a Kabbalistic person/soul translation.
+- [[The Native American Sweat Lodge - Part 2 of 2]] - source for applying Expansion-Contraction to Shinzen's interpretation of sweat lodge as expansive sky, contractive earth, and vibrating life/breath/spirit energy.
 - [[Expansion, Contraction and the Breath Cycle]] - source for breath as a representative object, volumetric versus force-wise polarity, and surface/depth role reversal.
 - [[The Theme of Expansive and Contractive Flow]] - source for ordinary increase/decrease, pressure, scattering/gripping, spatial-volume axes, and local Both-Gone sequencing.
+- [[Guided Meditation of Expansion and Contraction]] - source for the retreat-stream guided sequence from surface detection to optional deep Expansion-Contraction.
+- [[Density that is Unifying and Liberating]] - source for the bad-density
+  versus good-density distinction and pleasant contracted Flow.
+- [[Four Ways Forward - June Shinzen Retreat]] - source for flooding as
+  expansion/decentering, Zoom Beyond Space practice, and Gone/dropout
+  contractions across body, auditory, and visual spaces.
+- [[Ordinary Consciousness is the Way - Part 2 Mindful Awareness and Varieties of Flow]] - source for pressure as inward, outward, or bidirectional force Flow.
 - [[Paradigms of Change]] - source for the paradigm shift from flat arising-passing to observer-including spherical Expansion-Contraction.
 - [[Mindfulness Momentum, Arising and Passing to Simultaneous Expansion and Contraction]] - source for map-disclosure caution, CCE momentum, and participation in impermanence rather than outside observation.
 - [[The Three-Dimensional Shape of Simultaneous Expansion and Contraction]] - source for concentric-sphere and gushing-gathering fountain imagery plus the brain-anatomy caveat.
+- [[Enlightenment Simultaneous Expansion and Contraction Sahej Samadhi Non-Dual Awareness]] - source for vastness/thinness as a compressed spacious simultaneous Expansion-Contraction marker in daily life.
 - [[Zero and One - Part 1 of 4 Complete Experiences]] - source for the stretch/squeeze arithmetic analogy and large-polarization framing.
 - [[Fulfilling the Pythagorean Agenda]] - source for Shinzen's hope that broader mathematics may someday model Expansion-Contraction contrasts in inner and outer experience.
+- [[Three Dances of Self and World]] - source for the visual three-dances chart that extends Expansion-Contraction into nature and number while requiring science-analogy caution.
 - [[Discrimination and Unification - Part 2 of 4]] - source for increase/decrease as Expansion/Contraction and Zero as balance point in the discrimination-to-unification sequence.
 - [[Discrimination and Unification - Part 3 of 4]] - source for the conditional Expansion/Contraction/Both noting instruction and stable-experience branch.
 - [[Impermanence]] - broader change framework in which expansion and contraction operate.
 - [[Source And Polarities]] - owner page for Source, Zero, science, nature, and mathematics extensions.
+- [[Lineage Translation]] - owner page for Sasaki Roshi's influence as a translated practice paradigm rather than generic Zen authority.
+- [[Which Teachers Have Influenced How You Teach]] - source for the explicit Sasaki Roshi influence claim.
+- [[Sasaki Roshi & Burmo-Japanese Mindfulness Fusion]] - source for the observer-including version and Shinzen's Burmo-Japanese practice translation.
 - [[Way of Flow]] - practice route containing the Expansion-Contraction option.
 - [[Gone]] - dark-night reactions to Goneness may use Expansion-Contraction as a balancing intervention.
 - [[Dissolution]] - bhanga can be interpreted as harsh Expansion-Contraction, with safety limits.

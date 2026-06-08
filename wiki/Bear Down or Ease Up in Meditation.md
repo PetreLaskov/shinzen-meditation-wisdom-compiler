@@ -9,8 +9,8 @@ tags: []
 aliases: ["Bear Down or Ease Up in Meditation (YouTube)", "dfDTAqlZ7dc"]
 sources: ["raw/Shinzen Sources/yt transcripts/Bear Down or Ease Up in Meditation ~ Shinzen Young_dfDTAqlZ7dc.md"]
 load_when: "Source-level evidence is needed for Shinzen's bear down/ease up paradox, effort regulation, Noting versus Do Nothing balance, goal-driven practice, no-goal effort aversion, one-sidedness, or cross-testing effortful and non-effort practice."
-best_linked_pages: ["[[Effort Regulation]]", "[[Practice Entry and Method Choice]]", "[[Noting]]", "[[Do Nothing]]", "[[Practice Guidance Toolkit]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-07
+best_linked_pages: ["[[Effort Regulation]]", "[[Practice Entry and Method Choice]]", "[[Noting]]", "[[Do Nothing]]", "[[Practice Guidance Toolkit]]", "[[Practice Method Safety Boundary]]"]
+updated: 2026-05-16
 ---
 
 This 7m47s YouTube transcript is a short teaching on the paradox between bearing down and easing up in meditation. Its durable value is the diagnostic: successful effortful practice should make effort-dropping easier, and successful non-effort practice should make systematic focusing easier.
@@ -101,7 +101,7 @@ The talk wants practitioners to stop absolutizing either striving or non-strivin
 - **Pages created**: [[Bear Down or Ease Up in Meditation]], [[Effort Regulation]]
 - **Pages updated**: [[Practice Entry and Method Choice]], [[Noting]], [[Do Nothing]], [[Practice Guidance Toolkit]], [[Calming-Clarifying Balance]], [[Complete Experience Safety Boundary]], `wiki/index.md`, `wiki/log.md`
 - **Teaching-transmission pages affected**: [[Practice Guidance Toolkit]]
-- **Contradictions opened**: No new standalone question; [[Complete Experience Safety Boundary]] absorbs effort-dosage, effort phobia, racy/spacey, and one-sidedness criteria.
+- **Contradictions opened**: No new standalone question; [[Practice Method Safety Boundary]] now carries effort-dosage, effort phobia, racy/spacey, and one-sidedness criteria.
 - **Confidence changes**: Raises confidence that Shinzen treats effort and non-effort as mutually testing capacities rather than as a hierarchy; does not raise confidence in detailed switching rules or clinical safety criteria.
 - **Low-signal material excluded**: Broad historical comparison is compressed except where it clarifies effort versus non-effort.
 
@@ -112,4 +112,4 @@ The talk wants practitioners to stop absolutizing either striving or non-strivin
 - [[Do Nothing]] - the talk names Do Nothing as the ease-up and no-effort side of the pair.
 - [[Practice Guidance Toolkit]] - guidance needs to detect both driven effort and effort-phobic no-goal practice.
 - [[Calming-Clarifying Balance]] - effort balance overlaps with the calm/clarity complementarity.
-- [[Complete Experience Safety Boundary]] - the talk leaves effort dosage, dysregulation, and support criteria unresolved.
+- [[Practice Method Safety Boundary]] - the talk leaves effort dosage, dysregulation, and support criteria unresolved.

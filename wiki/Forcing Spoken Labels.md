@@ -9,8 +9,8 @@ tags: []
 aliases: ["Forcing Spoken Labels (YouTube)", "Forced Spoken Labels", "Forcing Labels", "cRPfi_Bw1pQ"]
 sources: ["raw/Shinzen Sources/yt transcripts/retranscribed/Forcing Spoken Labels ~ Shinzen Young_cRPfi_Bw1pQ.md"]
 load_when: "Source-level evidence is needed for forced spoken labels, strong spoken labels as first gear, converting invisible scatter into Feel, impatience and agitation as practice material, label-resistance shame, dumbbell vipassana concerns, or the phrase trackable becomes tractable."
-best_linked_pages: ["[[Noting]]", "[[How to do Labeling and Noting During Meditation, 1 of 2 Parts]]", "[[Practice Entry and Method Choice]]", "[[Practice Guidance Toolkit]]", "[[Mindfulness Skill Triad]]", "[[Equanimity]]", "[[Recycle The Reaction]]", "[[Insight and Purification]]", "[[Complete Experience Safety Boundary]]"]
-updated: 2026-05-07
+best_linked_pages: ["[[Noting]]", "[[How to do Labeling and Noting During Meditation, 1 of 2 Parts]]", "[[Practice Entry and Method Choice]]", "[[Practice Guidance Toolkit]]", "[[Mindfulness Skill Triad]]", "[[Equanimity]]", "[[Recycle The Reaction]]", "[[Practice Method Safety Boundary]]"]
+updated: 2026-05-16
 ---
 
 This 7m24s retranscribed YouTube talk is a retreat-style oral instruction on one strong Noting option: deliberately forcing spoken labels when attention is being scattered. Shinzen's central move is to treat the discomfort, impatience, and shame created by forced labels as newly visible practice material rather than as evidence that the technique failed.
@@ -67,7 +67,7 @@ The talk's causal language should stay inside Shinzen's practice frame. "Invisib
 - **Changed**: Updates [[Recycle The Reaction]] because resistance to forced labels, including impatience, discomfort, and shame, becomes the next practice object when workable.
 - **Confirmed**: Strengthens [[Mindfulness Skill Triad]] and [[Equanimity]] by showing labels as a way to restore CCE and reveal non-equanimity rather than as mere verbal classification.
 - **Changed**: Updates [[Insight and Purification]] with a concrete oral expression of the broader "trackable becomes tractable" logic.
-- **Challenged**: Pressures [[Complete Experience Safety Boundary]] because the talk praises discomfort and forced practice without giving full stop rules for strain, shame, trauma activation, panic, medical pain, or coercive retreat dynamics.
+- **Challenged**: Pressures [[Practice Method Safety Boundary]] because the talk praises discomfort and forced practice without giving full stop rules for strain, shame, trauma activation, panic, medical pain, or coercive retreat dynamics.
 - **Transmission note**: Preserve "invisible force of scatter," "trackable becomes tractable," "solid mouthing," "sotto voce labeling," "dumbbell vipassana," and the Rolls Royce first-gear metaphor as useful idiolect.
 - **Integration target**: Create this source page; update owner pages, `wiki/index.md`, and `wiki/log.md`.
 
@@ -101,7 +101,7 @@ The talk's causal language should stay inside Shinzen's practice frame. "Invisib
 - **Pages created**: [[Forcing Spoken Labels]]
 - **Pages updated**: [[Noting]], [[Practice Entry and Method Choice]], [[Practice Guidance Toolkit]], [[See Hear Feel]], [[Mindfulness Skill Triad]], [[Equanimity]], [[Recycle The Reaction]], [[Insight and Purification]], [[Complete Experience Safety Boundary]], [[How to do Labeling and Noting During Meditation, 1 of 2 Parts]], `wiki/index.md`, `wiki/log.md`
 - **Teaching-transmission pages affected**: [[Practice Guidance Toolkit]]
-- **Contradictions opened**: No new standalone question; [[Complete Experience Safety Boundary]] absorbs forced-label dosage, strain, shame, and coercion criteria.
+- **Contradictions opened**: No new standalone question; [[Practice Method Safety Boundary]] now carries forced-label dosage, strain, shame, and coercion criteria.
 - **Confidence changes**: Raises confidence that strong spoken labels are a standard Noting gear for steep conditions and not a remedial status marker; does not raise confidence in universal forced-label safety or dosage.
 - **Low-signal material excluded**: Retreat logistics and joking metaphors are preserved only where they clarify practice routing or shame dynamics.
 
@@ -115,4 +115,4 @@ The talk's causal language should stay inside Shinzen's practice frame. "Invisib
 - [[Equanimity]] - the discomfort and impatience created by labels become the noninterference training object.
 - [[Recycle The Reaction]] - resistance to the practice effect becomes further practice material.
 - [[Insight and Purification]] - "trackable becomes tractable" is a compact oral version of the transformation logic.
-- [[Complete Experience Safety Boundary]] - forced-label intensity needs support, dosage, and consent criteria.
+- [[Practice Method Safety Boundary]] - forced-label intensity needs support, dosage, and consent criteria.
