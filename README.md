@@ -31,7 +31,7 @@ It is built for three kinds of reader, in roughly this order of intent:
 
 | You are... | Start here |
 | --- | --- |
-| A practitioner who wants to **read it** | [`public-atlas/index.md`](public-atlas/index.md) - the path, the problem router, the glossary |
+| A practitioner who wants to **read it** | The atlas website at **[petrelaskov.xyz/shinzen](https://petrelaskov.xyz/shinzen/)** (or [`public-atlas/`](public-atlas/index.md) in this repo) - the path, the problem router, the glossary |
 | A practitioner who wants to **use it with an AI agent** | [The fastest way to get value](#the-fastest-way-to-get-value-practice--an-ai-agent) |
 | An **AI agent** asked to operate or extend this repo | [`AGENTS.md`](AGENTS.md), then [For AI agents](#for-ai-agents-operating-or-extending-the-compiler) |
 | Here to understand **what was built and why** | [What this actually is](#what-this-actually-is) and [`DESIGN.md`](DESIGN.md) |
@@ -119,7 +119,9 @@ Pick whichever fits your tools:
 - **Upload the `public-atlas/` folder** to a chat assistant that accepts files
   or projects, and tell it to use those pages as the source of truth.
 - **Paste the page(s)** the [problem router](public-atlas/index.md#start-by-problem)
-  points you to into any chat, for a one-off question.
+  points you to - copied from this repo or the [atlas
+  website](https://petrelaskov.xyz/shinzen/) - into any chat, for a one-off
+  question.
 
 For most practitioners the `public-atlas/` layer is enough. Add the `wiki/`
 layer only when you want provenance, contradictions, or the deeper model behind
@@ -150,7 +152,13 @@ Rules:
 - When the atlas does not cover something, say so instead of inventing it.
 ```
 
-### Copy-paste prompts
+### The main workflows
+
+Six recurring jobs cover most of what practitioners need. The prompts below are
+copy-paste *starting points* - scaffolds, not scripts. Once your agent has the
+rules of engagement above and the atlas in context, it is already a competent
+router, so feel free to strip these right down (see [Let the agent
+cook](#let-the-agent-cook)).
 
 **1. Route a live situation.** The flagship use. The atlas even has a page on
 how to write a report specific enough to route well
@@ -212,6 +220,43 @@ any contradictions the wiki records. Is this Shinzen's teaching, a synthesis, or
 an inference?
 ```
 
+### Let the agent cook
+
+The prompts above are training wheels. With the rules of engagement loaded and
+the atlas in context, the agent can choose the pages, the depth, and the order
+better than a fill-in-the-blank template can - and over-specifying often boxes
+it in. The skill to develop is handing it the real situation and trusting it to
+route, tier, and flag safety on its own.
+
+**Orientation is the first thing to hand off.** You do not need to know the map
+before you start; that is the agent's job:
+
+```text
+I'm new to Shinzen's system. Read the atlas and orient me - where should I
+start, given <a sentence or two about me and why I'm here>?
+```
+
+```text
+I don't even know what to ask yet. Here's roughly where I am: <a few sentences>.
+Read the atlas and tell me what I should be looking at, and what I'm probably
+missing.
+```
+
+**Then let it cook.** Minimal, plain-language prompts are often enough:
+
+- "Here's what's going on: <plain language>. Help me."
+- "Something shifted in my last sit and I can't name it. Walk with me through it."
+- "I keep bouncing between techniques and getting nowhere. Sort me out."
+- "Teach me this system the way you'd teach a sharp friend over coffee. Start
+  wherever makes sense and check I'm actually following."
+- "Push back on me: I think <X> about my practice. Is that what the atlas would
+  actually say, or am I inflating?"
+
+Name specific pages or output formats only when you want to pin the agent down.
+The rest of the time, let it work - and when it drifts off the atlas, inflates,
+or skips a boundary, say so. Catching that is itself good practice, and it makes
+the next answer better.
+
 ### What good use looks like
 
 Treat it as a **map room, not an oracle.** Bring a specific report, let it route
@@ -223,8 +268,10 @@ keep that property by not pushing it past it.
 
 ## Reading it yourself (no agent needed)
 
-The atlas is written to be read directly. Three ways in, from
-[`public-atlas/index.md`](public-atlas/index.md):
+The atlas is published as a website at
+**[petrelaskov.xyz/shinzen](https://petrelaskov.xyz/shinzen/)** - the most
+comfortable way to read it. The same pages live in
+[`public-atlas/`](public-atlas/index.md) in this repo. Three ways in:
 
 - **The path** - ten pages in order, for the living architecture:
   [The One Move](public-atlas/the-one-move.md) -> [The Three Skills](public-atlas/the-three-skills.md)
