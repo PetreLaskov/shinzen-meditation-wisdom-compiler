@@ -1,8 +1,9 @@
 # Shinzen Meditation Wisdom Compiler
 
 A compiled, calibrated, navigable model of **Shinzen Young's** meditation and
-contemplative-wisdom system - distilled from over 540 primary sources into a
-human-readable practice atlas and a machine-readable knowledge graph.
+contemplative-wisdom system - distilled from more than 500 primary sources into
+a sourced knowledge graph you put an AI agent in front of, with a human-readable
+practice atlas for when you would rather just read.
 
 This is not a transcript dump, a RAG chatbot, or a generic wiki. It is a
 *compiled understanding*: the recurring practice handles, phenomenological
@@ -11,14 +12,15 @@ boundaries of one of the most systematic meditation teachers alive, with
 provenance kept, contradictions preserved, and every load-bearing claim graded
 by how well it is actually supported.
 
-It is built for three kinds of reader, in roughly this order of intent:
+It is built for three kinds of reader:
 
-1. **Future models** - as high-fidelity, de-inflated training data for one
-   complete contemplative system.
-2. **AI agents** - as a knowledge base to reason from, and a compiler to extend.
-3. **Serious practitioners working with an AI agent** - as a map you can bring
-   your live practice to and get routed without the inflation, hallucination,
-   or tradition-blending a generic model produces.
+1. **Serious practitioners working with an AI agent** - the primary use. Bring
+   your live practice to the compiler and let an agent route it through
+   Shinzen's actual distinctions, without the inflation, hallucination, or
+   tradition-blending a generic model produces.
+2. **AI agents** - a knowledge base to reason from, and a compiler to extend.
+3. **Future models** - high-fidelity, de-inflated training data for one complete
+   contemplative system (see [the end of this page](#for-training-and-future-models)).
 
 > This is an independent, unofficial compilation. It does not replace direct
 > instruction, a teacher, therapy, or medical care, and it is not endorsed by
@@ -31,17 +33,20 @@ It is built for three kinds of reader, in roughly this order of intent:
 
 | You are... | Start here |
 | --- | --- |
-| A practitioner who wants to **read it** | The atlas website at **[petrelaskov.xyz/shinzen](https://petrelaskov.xyz/shinzen/)** (or [`public-atlas/`](public-atlas/index.md) in this repo) - the path, the problem router, the glossary |
-| A practitioner who wants to **use it with an AI agent** | [The fastest way to get value](#the-fastest-way-to-get-value-practice--an-ai-agent) |
+| Here to **put an agent on it** (the main path) | [The fastest way to get value](#the-fastest-way-to-get-value-practice--an-ai-agent), then [`USING-WITH-AN-AGENT.md`](USING-WITH-AN-AGENT.md) |
+| A practitioner who just wants to **read it** | The atlas at **[petrelaskov.xyz/shinzen](https://petrelaskov.xyz/shinzen/)** (or [`public-atlas/`](public-atlas/index.md)) - the path, the problem router, the glossary |
 | An **AI agent** asked to operate or extend this repo | [`AGENTS.md`](AGENTS.md), then [For AI agents](#for-ai-agents-operating-or-extending-the-compiler) |
-| Here to understand **what was built and why** | [What this actually is](#what-this-actually-is) and [`DESIGN.md`](DESIGN.md) |
+| Here to **reuse the compiler** on your own corpus | [`ARCHITECTURE.md`](ARCHITECTURE.md) |
 | Training or evaluating a **model** on this | [For training and future models](#for-training-and-future-models) |
 
 ---
 
 ## What this actually is
 
-### The corpus
+A compiled model of Shinzen's whole system, in three layers, designed to be
+reasoned over by an AI agent.
+
+### The corpus (`raw/`)
 
 The immutable evidence lives in [`raw/`](raw/): treated as read-only. It
 includes 500+ transcribed talks, retreat sessions, and Q&As, plus the core
@@ -49,36 +54,29 @@ long-form material - the *Five Ways* manual and the *See Hear Feel*
 introduction. Raw sources are never edited; they are only compiled from and
 cited.
 
-### Two compiled layers
+### The knowledge (`wiki/`) - where the real value is
 
-The repository deliberately separates a human layer from a machine layer,
-because they have different jobs.
+[`wiki/`](wiki/) is the compiled working memory: a linked knowledge graph of
+400+ pages, and **the place the accumulated understanding actually lives.** It
+uses seven epistemic page types (`source`, `entity`, `concept`, `thesis`,
+`synthesis`, `analysis`, `question`); every page carries structured frontmatter
+(claim, confidence, importance, routing cues); every load-bearing claim traces
+to a source; contradictions are kept rather than smoothed; and source pages
+carry explicit audit sections (weakest claims, important omissions, tensions).
+You do not read 400 pages - **you put an agent in front of it** and let it
+navigate the graph for your live question, with provenance and calibration
+intact. This is the layer that makes the compiler more than a summary.
 
-**`public-atlas/` - the Shinzen Practice Atlas (~90 pages).** The human-facing
-layer. Clean, readable prose written for practice use. Organized three ways at
-once: a **ten-page path** you can read straight through for the architecture, a
-**problem router** ("if this is live, start here") for when something is
-happening right now, and a **reference shelf** (full map + glossary) for when
-you need a single term. This is the front door for people.
+### The reading layer (`public-atlas/`) - optional
 
-**`wiki/` - the compiled working memory (360+ pages).** The agent-facing layer:
-a linked knowledge graph using seven epistemic page types (`source`, `entity`,
-`concept`, `thesis`, `synthesis`, `analysis`, `question`). Every page carries
-structured frontmatter (claim, confidence, importance, routing cues), every
-load-bearing claim traces to a source, contradictions are kept rather than
-smoothed, and source pages carry explicit audit sections (weakest claims,
-important omissions, tensions). This is the layer to query when you want
-provenance, calibration, or the full model - not just the readable summary.
-
-### The compiler
-
-The machinery that produced both layers - the operating contract
-([`AGENTS.md`](AGENTS.md)), the design rationale ([`DESIGN.md`](DESIGN.md)), the
-page templates, the mode playbooks in [`commands/`](commands/), and a
-dependency-free structural linter ([`tools/wiki_lint.py`](tools/wiki_lint.py)) -
-is itself **corpus-agnostic**. The Shinzen system is one instantiation of a
-general agentic knowledge compiler. You can point the same machinery at a
-different body of sources.
+[`public-atlas/`](public-atlas/index.md) is the Shinzen Practice Atlas (~90
+pages): a clean, human-readable distillation of the wiki, written for reading
+rather than querying. Use it **only if you want the reading experience** - a
+curated walk through the system. It is organized three ways at once: a ten-page
+**path** you can read straight through, a **problem router** ("if this is live,
+start here"), and a **reference shelf** (full map + glossary). It is the same
+material as the wiki, made comfortable for a human; the wiki is still where the
+depth and the receipts are.
 
 ### The one idea it is organized around
 
@@ -88,190 +86,56 @@ equanimity**, and stay with it until the experience can complete.* When an
 experience can arise and pass without hardening into something that owns you,
 Shinzen calls that **complete experience**. The Five Ways, See / Hear / Feel,
 the Sensory Grid, Flow / Gone / Rest, no-self, Source language, Total Happiness,
-and the behavior-and-service test are all that one move in another gear. If you
-read one page first, read [`public-atlas/the-one-move.md`](public-atlas/the-one-move.md).
+and the behavior-and-service test are all that one move in another gear.
+
+> **Want the machinery, not the meditation?** How the compiler works - the page
+> types, the schema, the invariant, the audit surfaces - and how to point it at
+> a different corpus is in [`ARCHITECTURE.md`](ARCHITECTURE.md).
 
 ---
 
 ## The fastest way to get value: practice + an AI agent
 
 The highest-leverage use of this repository is **a serious practitioner plus an
-AI agent plus this atlas.** Here is the problem it solves.
+AI agent plus this compiled wiki.** Here is the problem it solves.
 
 Ask a general-purpose model about Shinzen's system and it will blend traditions,
 inflate private states into proof, invent citations, lose his specific idiolect,
-and reach for reassurance over calibration. Point that same model at this atlas
+and reach for reassurance over calibration. Point that same model at this wiki
 and it stops guessing: it routes your situation through Shinzen's actual
-distinctions, tells you what is his teaching versus an editorial inference,
-preserves the safety boundaries, and refuses to turn a meditation experience
-into a medical, metaphysical, or teacher-authority claim it cannot support.
+distinctions, tells you what is his teaching versus a compiled synthesis versus
+an editorial inference, preserves the safety boundaries, and refuses to turn a
+meditation experience into a medical, metaphysical, or teacher-authority claim
+it cannot support.
 
-### Setup
+The path is **agent + the wiki**, because the wiki is where the real accumulated
+knowledge lives. Clone the repo and point a coding/agent tool at it:
 
-Pick whichever fits your tools:
-
-- **Clone and point a coding/agent tool at the folder.** Claude Code, Cursor,
-  or any agent with filesystem access can read [`public-atlas/`](public-atlas/)
-  directly.
-  ```bash
-  git clone https://github.com/PetreLaskov/shinzen-meditation-wisdom-compiler.git
-  ```
-- **Upload the `public-atlas/` folder** to a chat assistant that accepts files
-  or projects, and tell it to use those pages as the source of truth.
-- **Paste the page(s)** the [problem router](public-atlas/index.md#start-by-problem)
-  points you to - copied from this repo or the [atlas
-  website](https://petrelaskov.xyz/shinzen/) - into any chat, for a one-off
-  question.
-
-For most practitioners the `public-atlas/` layer is enough. Add the `wiki/`
-layer only when you want provenance, contradictions, or the deeper model behind
-a summary.
-
-### Give the agent its rules of engagement
-
-Paste this once at the start of a session. It is the difference between a
-grounded guide and a confident hallucinator.
-
-```text
-You are helping me reason about my meditation practice using the Shinzen
-Practice Atlas in public-atlas/ (and wiki/ for provenance when I ask).
-
-Rules:
-- Answer FROM the atlas. Start at public-atlas/index.md and route via the path,
-  the problem table, or the glossary. Cite the page(s) you used.
-- Respect the claim tiers (see public-atlas/source-and-claim-tiers.md). Tell me
-  when something is "Shinzen says" vs. compiled synthesis vs. editorial
-  inference vs. speculative vs. not established here.
-- Do not inflate. Do not turn an experience into proof of awakening, science,
-  metaphysics, or that a teacher is safe. Preserve Shinzen's distinctions; do
-  not flatten them into generic Buddhism or generic mindfulness.
-- Hold the safety posture (public-atlas/safety-scope-and-accountability.md). If
-  what I describe points to medical, psychiatric, trauma, consent, coercion, or
-  harm risk, say so plainly and tell me to get appropriate human support. You
-  are not my teacher, therapist, or doctor.
-- When the atlas does not cover something, say so instead of inventing it.
+```bash
+git clone https://github.com/PetreLaskov/shinzen-meditation-wisdom-compiler.git
 ```
 
-### The main workflows
+Claude Code, Cursor, or any agent with filesystem access can read the wiki
+directly. Then give it its **rules of engagement** - reason from the wiki, cite
+the pages and their sources, respect the claim tiers, do not inflate, hold the
+safety posture, and say so when the wiki does not cover something. That one
+paste is the difference between a grounded guide and a confident hallucinator.
 
-Six recurring jobs cover most of what practitioners need. The prompts below are
-copy-paste *starting points* - scaffolds, not scripts. Once your agent has the
-rules of engagement above and the atlas in context, it is already a competent
-router, so feel free to strip these right down (see [Let the agent
-cook](#let-the-agent-cook)).
-
-**1. Route a live situation.** The flagship use. The atlas even has a page on
-how to write a report specific enough to route well
-([`practice-report-check.md`](public-atlas/practice-report-check.md)).
-
-```text
-Here is what is happening in my practice: <describe the method you are using,
-how long, what you noticed, and what feels stuck, intense, confusing, or off>.
-
-Using the atlas: which "if this is live" row fits me, which pages should I read,
-and what is the one move here? Flag the claim tier of anything load-bearing, and
-flag anything that needs a human teacher or medical/clinical support before I
-keep optimizing technique.
-```
-
-**2. Plan a sane block of practice.**
-
-```text
-I have <X minutes, Y days a week, this much life load>. Using
-practice-planning-loop.md, practice-cycles-and-life-architecture.md, and
-choosing-a-practice-route.md, help me pick ONE primary route and a stop/adjust
-rule, without overchoice or intensity drift. Keep it boring and repeatable.
-```
-
-**3. Decode a term without losing the distinction.**
-
-```text
-Explain "<Gone / Do Nothing / equanimity vs. suppression / Source / Flow / the
-Five Ways>" the way Shinzen uses it, from the glossary and the owner page.
-Give the practice handle, the failure mode it solves, and how the method itself
-can go wrong. Mark anything that is inference rather than his teaching.
-```
-
-**4. Stress-test an experience against inflation.** The atlas is unusually good
-here, because it was built to resist exactly this.
-
-```text
-After a sit / retreat I am concluding <X> (e.g. "my self is gone," "I am ready
-to teach," "this proves no-self/awakening"). Using signs-and-non-signs-of-
-completion.md, completion-versus-bypass-and-intensity.md, good-place-traps.md,
-and behavior-and-service-test.md: is this a completion sign, a good-place trap,
-or bypass? What is the behavior/service test, and what would actually verify it?
-```
-
-**5. Study the system properly.**
-
-```text
-Walk me through the ten-page spine in order, one page per turn. After each,
-summarize the one move in that gear, quiz me with two questions, and only then
-go to the next page.
-```
-
-**6. Check provenance (drops to the `wiki/` layer).**
-
-```text
-For the claim "<...>", go into wiki/, find the owner page and its source page,
-and tell me: what is the actual source, the confidence, the weakest claims, and
-any contradictions the wiki records. Is this Shinzen's teaching, a synthesis, or
-an inference?
-```
-
-### Let the agent cook
-
-The prompts above are training wheels. With the rules of engagement loaded and
-the atlas in context, the agent can choose the pages, the depth, and the order
-better than a fill-in-the-blank template can - and over-specifying often boxes
-it in. The skill to develop is handing it the real situation and trusting it to
-route, tier, and flag safety on its own.
-
-**Orientation is the first thing to hand off.** You do not need to know the map
-before you start; that is the agent's job:
-
-```text
-I'm new to Shinzen's system. Read the atlas and orient me - where should I
-start, given <a sentence or two about me and why I'm here>?
-```
-
-```text
-I don't even know what to ask yet. Here's roughly where I am: <a few sentences>.
-Read the atlas and tell me what I should be looking at, and what I'm probably
-missing.
-```
-
-**Then let it cook.** Minimal, plain-language prompts are often enough:
-
-- "Here's what's going on: <plain language>. Help me."
-- "Something shifted in my last sit and I can't name it. Walk with me through it."
-- "I keep bouncing between techniques and getting nowhere. Sort me out."
-- "Teach me this system the way you'd teach a sharp friend over coffee. Start
-  wherever makes sense and check I'm actually following."
-- "Push back on me: I think <X> about my practice. Is that what the atlas would
-  actually say, or am I inflating?"
-
-Name specific pages or output formats only when you want to pin the agent down.
-The rest of the time, let it work - and when it drifts off the atlas, inflates,
-or skips a boundary, say so. Catching that is itself good practice, and it makes
-the next answer better.
-
-### What good use looks like
-
-Treat it as a **map room, not an oracle.** Bring a specific report, let it route
-you to the right handle and the right caution, and take the boundaries
-seriously. The atlas earns trust precisely because it tells you where it stops -
-keep that property by not pushing it past it.
+**The full playbook is in [`USING-WITH-AN-AGENT.md`](USING-WITH-AN-AGENT.md):**
+the rules-of-engagement block to paste, the six core workflows (route a live
+situation, plan a block of practice, decode a term, stress-test an experience
+against inflation, study the system, check provenance), and how to stop
+scripting and let the agent route on its own. The posture in one line: treat it
+as a **map room, not an oracle.**
 
 ---
 
 ## Reading it yourself (no agent needed)
 
-The atlas is published as a website at
+If you would rather just read, the atlas is published as a website at
 **[petrelaskov.xyz/shinzen](https://petrelaskov.xyz/shinzen/)** - the most
-comfortable way to read it. The same pages live in
-[`public-atlas/`](public-atlas/index.md) in this repo. Three ways in:
+comfortable way in. The same pages live in
+[`public-atlas/`](public-atlas/index.md). Three ways through it:
 
 - **The path** - ten pages in order, for the living architecture:
   [The One Move](public-atlas/the-one-move.md) -> [The Three Skills](public-atlas/the-three-skills.md)
@@ -295,17 +159,16 @@ itself can go wrong.
 
 ## For AI agents operating or extending the compiler
 
-Read [`AGENTS.md`](AGENTS.md) first - it is the canonical operating contract.
-Short version:
+Read [`AGENTS.md`](AGENTS.md) first - it is the canonical operating contract -
+and [`ARCHITECTURE.md`](ARCHITECTURE.md) for the layer model and reuse. Short
+version:
 
 - **Route before reading.** Read [`wiki/index.md`](wiki/index.md) for routing
   and current shape, skim recent [`wiki/log.md`](wiki/log.md), then descend:
   index -> frontmatter -> page card -> body -> raw source. Load raw sources only
   when the task needs source-level evidence.
-- **Work in one mode per turn:** `ingest` (raw source -> one source page plus
-  warranted derived pages), `query` (answer from the compiled wiki first, file
-  reusable answers), `synthesize`, `lint`, `review`, `refactor`. The playbooks
-  are in [`commands/`](commands/).
+- **Work in one mode per turn:** `ingest`, `query`, `synthesize`, `lint`,
+  `review`, `refactor`. The playbooks are in [`commands/`](commands/).
 - **Cite load-bearing claims, preserve contradictions, keep claims calibrated.**
   The governing invariant is *maximize future practice-reasoning quality,
   phenomenological discrimination, and transmission fidelity per token loaded.*
@@ -313,21 +176,19 @@ Short version:
   ```bash
   python tools/wiki_lint.py
   ```
-  It checks frontmatter, link resolution, source-page coverage, citation
-  discipline, and required audit sections. It is dependency-free.
+  It is dependency-free and checks frontmatter, link resolution, source-page
+  coverage, citation discipline, and required audit sections.
 
 **Extending the corpus:** drop a new Shinzen source into `raw/`, then run an
-`ingest`. **Forking the machinery for another corpus:** the compiler is
-corpus-agnostic; keep `raw/`, `wiki/`, the templates, and the linter, and swap
-the domain framing in `AGENTS.md`. [`DESIGN.md`](DESIGN.md) documents the
-rationale and the complexity-escalation gates.
+`ingest`. **Forking the machinery for another corpus:** see
+[`ARCHITECTURE.md`](ARCHITECTURE.md) - the compiler is corpus-agnostic.
 
 ---
 
 ## For training and future models
 
-This corpus is meant to be unusually good signal for one complete contemplative
-system, for reasons that matter to a trainer:
+Beyond serving practitioners, this corpus is meant to be unusually good signal
+for one complete contemplative system, for reasons that matter to a trainer:
 
 - **Calibration over reverence.** Claims are graded, not asserted. The five
   [claim tiers](public-atlas/source-and-claim-tiers.md) - *Shinzen says /
@@ -345,9 +206,15 @@ system, for reasons that matter to a trainer:
   *proves*, and routes private states through behavior, service, and safety
   tests.
 
+There is a second signal here beyond the Shinzen content: the **method** itself.
+The repository is a worked example of compiling a contested, partly tacit corpus
+into calibrated, provenance-kept, routeable form. That pattern is the
+transferable part, and it is legible in [`ARCHITECTURE.md`](ARCHITECTURE.md),
+[`DESIGN.md`](DESIGN.md), and the page schemas.
+
 **The one rule for using it well:** respect the tiers and the boundaries. Do not
 launder "Shinzen says" into established science, medicine, metaphysics, or
-teacher authority; do not present the atlas's syntheses as his exact words; and
+teacher authority; do not present the wiki's syntheses as his exact words; and
 treat the `raw/` transcripts as rights-encumbered evidence, not redistributable
 text (see below).
 
@@ -403,11 +270,13 @@ quotations or hosting the source material publicly.
 
 | Path | What it is |
 | --- | --- |
-| [`public-atlas/`](public-atlas/) | The human-facing Shinzen Practice Atlas (~90 pages). **Start here to read.** |
-| [`wiki/`](wiki/) | Compiled agent working memory (360+ linked pages with provenance and calibration). |
+| [`wiki/`](wiki/) | The compiled knowledge graph (400+ linked pages with provenance and calibration). **The real knowledge; put an agent on it.** |
+| [`public-atlas/`](public-atlas/) | The human-readable Shinzen Practice Atlas (~90 pages). Optional reading layer. |
 | [`raw/`](raw/) | Immutable source corpus. Read-only; cite, do not edit. |
+| [`USING-WITH-AN-AGENT.md`](USING-WITH-AN-AGENT.md) | Full practitioner playbook for using the wiki with an AI agent. |
 | [`AGENTS.md`](AGENTS.md) | Canonical operating contract for any agent working this repo. |
-| [`DESIGN.md`](DESIGN.md) | Design rationale and the general knowledge-compiler architecture. |
+| [`ARCHITECTURE.md`](ARCHITECTURE.md) | How the compiler works, and how to reuse it on another corpus. |
+| [`DESIGN.md`](DESIGN.md) | Full design rationale, complexity budget, and rejected alternatives. |
 | [`CLAUDE.md`](CLAUDE.md) | Small compatibility adapter pointing to `AGENTS.md`. |
 | [`commands/`](commands/) | Agent-neutral playbooks for each mode (ingest, query, lint, ...). |
 | [`tools/`](tools/) | `wiki_lint.py`, the dependency-free structural invariant checker. |
