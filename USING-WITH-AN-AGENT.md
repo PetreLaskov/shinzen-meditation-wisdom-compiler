@@ -18,7 +18,7 @@ meditation experience into a medical, metaphysical, or teacher-authority claim
 it cannot support.
 
 The knowledge lives in `wiki/` - a calibrated, sourced knowledge graph of 400+
-pages. `public-atlas/` is the same material made human-readable, for when you
+pages optimized for future agent reasoning. `public-atlas/` is the same material consolidated, made human-readable, for when you
 (or the agent) want a clean explanation rather than the full receipts.
 
 ## Setup
