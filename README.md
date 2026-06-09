@@ -1,16 +1,15 @@
 # Shinzen Meditation Wisdom Compiler
 
-A compiled, calibrated, navigable model of **Shinzen Young's** meditation and
-contemplative-wisdom system - distilled from more than 500 primary sources into
-a sourced knowledge graph you put an AI agent in front of, with a human-readable
-practice atlas for when you would rather just read.
+A calibrated, agent-readable compiler for **Shinzen Young's** meditation system:
+500+ primary sources distilled into a sourced knowledge graph you put an AI agent
+in front of, with a human-readable practice atlas for when you would rather just
+read.
 
 This is not a transcript dump, a RAG chatbot, or a generic wiki. It is a
-*compiled understanding*: the recurring practice handles, phenomenological
-distinctions, technique-routing logic, transformation mechanisms, and safety
-boundaries of one of the most systematic meditation teachers alive, with
-provenance kept, contradictions preserved, and every load-bearing claim graded
-by how well it is actually supported.
+*compiled understanding*: the practice distinctions, technique-routing logic,
+transformation mechanisms, and safety boundaries of one of the most systematic
+meditation teachers alive, with provenance kept, contradictions preserved, and
+every load-bearing claim graded by how well it is supported.
 
 It is built for three kinds of reader:
 
@@ -26,6 +25,49 @@ It is built for three kinds of reader:
 > instruction, a teacher, therapy, or medical care, and it is not endorsed by
 > Shinzen Young or Unified Mindfulness. See [Sources, attribution, and
 > rights](#sources-attribution-and-rights).
+
+---
+
+## Quickstart
+
+**Just want to read it?** The Practice Atlas is published at
+**[petrelaskov.xyz/shinzen](https://petrelaskov.xyz/shinzen/)**.
+
+**Want to use it with an agent (the main path)?** Clone the repo:
+
+```bash
+git clone https://github.com/PetreLaskov/shinzen-meditation-wisdom-compiler.git
+cd shinzen-meditation-wisdom-compiler
+```
+
+Point Claude Code, Cursor, or any filesystem-aware agent at it, paste the
+rules-of-engagement block from [`USING-WITH-AN-AGENT.md`](USING-WITH-AN-AGENT.md),
+and ask a real question:
+
+> I'm getting strong fear during practice. Route this through the Shinzen wiki:
+> cite the pages, separate what Shinzen says from compiled synthesis, flag the
+> claim tier, and keep the safety boundaries in view.
+
+That paste is the difference between a grounded guide and a confident
+hallucinator; the six core workflows are in the same file.
+
+**Other paths:** check repository structure with `python tools/wiki_lint.py`
+(dependency-free); reuse the compiler on a different corpus from
+[`ARCHITECTURE.md`](ARCHITECTURE.md); operate or extend the repo as an agent from
+[`AGENTS.md`](AGENTS.md).
+
+**In short:**
+
+- [`wiki/`](wiki/) - the agent-facing knowledge graph, and where the real
+  compiled understanding lives
+- [`public-atlas/`](public-atlas/) - the human-readable practice atlas (the site
+  linked above)
+- [`raw/`](raw/) - the source evidence (rights-encumbered; cite, do not
+  redistribute)
+- [`tools/wiki_lint.py`](tools/) - the dependency-free structural integrity check
+
+*Status: a usable substantial draft. The atlas reads cleanly now; the wiki keeps
+compiling, and the source-citation / publication policy is still settling.*
 
 ---
 
@@ -109,24 +151,13 @@ meditation experience into a medical, metaphysical, or teacher-authority claim
 it cannot support.
 
 The path is **agent + the wiki**, because the wiki is where the real accumulated
-knowledge lives. Clone the repo and point a coding/agent tool at it:
-
-```bash
-git clone https://github.com/PetreLaskov/shinzen-meditation-wisdom-compiler.git
-```
-
-Claude Code, Cursor, or any agent with filesystem access can read the wiki
-directly. Then give it its **rules of engagement** - reason from the wiki, cite
-the pages and their sources, respect the claim tiers, do not inflate, hold the
-safety posture, and say so when the wiki does not cover something. That one
-paste is the difference between a grounded guide and a confident hallucinator.
-
-**The full playbook is in [`USING-WITH-AN-AGENT.md`](USING-WITH-AN-AGENT.md):**
-the rules-of-engagement block to paste, the six core workflows (route a live
-situation, plan a block of practice, decode a term, stress-test an experience
-against inflation, study the system, check provenance), and how to stop
-scripting and let the agent route on its own. The posture in one line: treat it
-as a **map room, not an oracle.**
+knowledge lives. The [Quickstart](#quickstart) has the clone-and-paste; the full
+playbook is in [`USING-WITH-AN-AGENT.md`](USING-WITH-AN-AGENT.md): the
+rules-of-engagement block, the six core workflows (route a live situation, plan a
+block of practice, decode a term, stress-test an experience against inflation,
+study the system, check provenance), and how to stop scripting and let the agent
+route on its own. The posture in one line: treat it as a **map room, not an
+oracle.**
 
 ---
 
